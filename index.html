@@ -944,10 +944,24 @@ footer .ver{color:var(--dim);margin-left:10px}
   a{color:#000;text-decoration:none}
 
   .rs-head{
+    /* Two tracks by default (name block + headshot). Tier 3+ adds a third
+       for the QR — declaring it here unconditionally would leave an empty
+       track and its 16px gap at tiers 1-2, nudging the headshot left. */
     display:grid;grid-template-columns:1fr auto;gap:16px;align-items:end;
     padding-bottom:6px;
     border-bottom:2px solid #2c2e3d;
     margin-bottom:6px;
+  }
+  /* Header QR — only rendered at density tier 3+ (see the tier block at
+     the end of this @media print rule set). */
+  .rs-head .rs-head-qr{display:none}
+  .rs-head .rs-head-qr img{
+    width:0.72in;height:0.72in;display:block;
+  }
+  .rs-head .rs-head-qr-label{
+    text-align:center;font-family:'Montserrat',sans-serif;
+    font-size:5.5pt;letter-spacing:.16em;text-transform:uppercase;
+    color:#888;margin-top:1px;
   }
   .rs-head h1{
     font-family:'Montserrat',sans-serif;font-weight:900;
@@ -1099,6 +1113,57 @@ footer .ver{color:var(--dim);margin-left:10px}
     font-size:5.5pt;letter-spacing:.2em;text-transform:uppercase;
     color:#888;margin-top:1px;
   }
+
+  /* ============ ONE-PAGE DENSITY TIERS ============
+     build-content.py stamps rs-d1..rs-d4 onto .resume-sheet based on how
+     much content exists, so the printed resume always fits one letter
+     page. Each tier spends a specific space-saving lever. Do not add
+     content-dependent rules here — the Python estimator in
+     estimate_print_height_pt() models these exact effects, so the two
+     must stay in step. Override the tier via CMS > Site Settings >
+     Printed Resume PDF. */
+
+  /* --- Tier 1: baseline. No overrides; the rules above are tier 1. --- */
+
+  /* --- Tier 2+: tighter leading, row padding, section headings --- */
+  .rs-d2 .rs-section, .rs-d3 .rs-section, .rs-d4 .rs-section{margin-bottom:5px}
+  .rs-d2 .rs-section h2, .rs-d3 .rs-section h2, .rs-d4 .rs-section h2{
+    font-size:8.5pt;margin-bottom:2px;letter-spacing:.2em;
+  }
+  .rs-d2 .rs-table td, .rs-d3 .rs-table td, .rs-d4 .rs-table td{
+    padding:0.5px 6px 0.5px 0;
+  }
+  .rs-d2 .rs-training-list, .rs-d3 .rs-training-list, .rs-d4 .rs-training-list{
+    line-height:1.12;
+  }
+  .rs-d2 .rs-training-list div, .rs-d3 .rs-training-list div, .rs-d4 .rs-training-list div{
+    margin-bottom:1px;
+  }
+  .rs-d2 .rs-skills-list, .rs-d3 .rs-skills-list, .rs-d4 .rs-skills-list{line-height:1.18}
+  .rs-d2 .rs-stats, .rs-d3 .rs-stats, .rs-d4 .rs-stats{padding:2px 0 3px;margin-bottom:4px}
+
+  /* --- Tier 3+: drop the footer block, move the QR into the header ---
+     The footer's rizzo.cc + email are already in the header contact line,
+     so hiding it loses no information. The QR rides in the header for
+     free because that row is already 1.5in tall for the headshot. */
+  .rs-d3 .rs-foot, .rs-d4 .rs-foot{display:none}
+  .rs-d3 .rs-head, .rs-d4 .rs-head{grid-template-columns:1fr auto auto}
+  .rs-d3 .rs-head .rs-head-qr, .rs-d4 .rs-head .rs-head-qr{display:block}
+
+  /* --- Tier 4: step every font down --- */
+  .rs-d4 .rs-head h1{font-size:26pt}
+  .rs-d4 .rs-head .rs-meta{font-size:8pt}
+  .rs-d4 .rs-head .rs-headshot{width:1.05in;height:1.3in}
+  .rs-d4 .rs-head .rs-head-qr img{width:0.62in;height:0.62in}
+  .rs-d4 .rs-stats{font-size:7.5pt}
+  .rs-d4 .rs-section h2{font-size:8pt}
+  .rs-d4 .rs-table td{font-size:8pt}
+  .rs-d4 .rs-table td.d{font-size:8pt}
+  .rs-d4 .rs-table.rs-theater td.r{font-size:7.5pt}
+  .rs-d4 .rs-training-list{font-size:8pt}
+  .rs-d4 .rs-training-list strong{font-size:8pt}
+  .rs-d4 .rs-training-list em{font-size:7pt}
+  .rs-d4 .rs-skills-list{font-size:7.5pt}
 }
 </style>
 </head>
@@ -1510,7 +1575,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 </button>
 
 <!-- Print-only resume sheet (revealed by @media print) -->
-<div class="resume-sheet" aria-hidden="true">
+<div class="resume-sheet rs-d1" aria-hidden="true">
   <!-- EDIT: print-header — name + ACTOR subtitle + Email/Web/Local Hire on the printed PDF resume -->
   <div class="rs-head">
     <div>
@@ -1521,6 +1586,13 @@ footer .ver{color:var(--dim);margin-left:10px}
         <span><strong>Web:</strong>rizzo.cc</span>
         <span><strong>Local Hire:</strong>Chicago</span>
       </div>
+    </div>
+    <!-- Header QR: hidden at density tiers 1-2, revealed at tier 3+ where
+         it replaces the footer block to buy vertical room. It rides in the
+         header for free since that row is already 1.5in tall. -->
+    <div class="rs-head-qr">
+      <img src="assets/qr-rizzo-cc.svg" alt="QR code linking to rizzo.cc">
+      <div class="rs-head-qr-label">rizzo.cc</div>
     </div>
     <img class="rs-headshot" src="assets/headshots/01-main.jpg" alt="Frank Rizzo headshot">
   </div>
@@ -1633,7 +1705,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.8.0</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.8.1</span>
 </footer>
 <!-- /EDIT: footer -->
 
