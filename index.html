@@ -783,19 +783,19 @@ table.credits td.dir .venue-mark{
   margin-left:1px;vertical-align:super;line-height:0;
   letter-spacing:0;
 }
+/* Free-floating caption below the theater table (not attached to it).
+   No box, no separate background — just dim italic text so it reads as
+   a footnote, not another row. */
 .theater-footnotes{
-  list-style:none;padding:8px 18px 4px;margin:0;
-  background:var(--card-2);
-  border-top:1px solid var(--line);
-  border-radius:0 0 var(--radius) var(--radius);
+  list-style:none;padding:10px 4px 0;margin:0;
   font-family:'Source Sans 3',sans-serif;
-  font-size:11.5px;color:var(--dim);font-style:italic;
-  letter-spacing:.02em;line-height:1.45;
+  font-size:12px;color:var(--dim);font-style:italic;
+  letter-spacing:.02em;line-height:1.4;
 }
-.theater-footnotes li{padding:0}
+.theater-footnotes li{padding:2px 0}
 .theater-footnotes .m{
   color:var(--accent);font-weight:700;font-style:normal;
-  font-family:'Montserrat',sans-serif;margin-right:4px;
+  font-family:'Montserrat',sans-serif;margin-right:5px;
 }
 @media (max-width:640px){
   table.credits th:nth-child(3),table.credits td:nth-child(3){display:none}
@@ -1603,7 +1603,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.7.31</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.7.32</span>
 </footer>
 <!-- /EDIT: footer -->
 
