@@ -909,6 +909,10 @@ footer .ver{color:var(--dim);margin-left:10px}
     width:auto!important;min-width:0!important;
     transform:none!important;zoom:1!important;
     -webkit-transform:none!important;
+    /* Mobile Safari/Chrome inflate font sizes on narrow viewports. That
+       alone reflows the sheet enough to spill onto a second page. */
+    -webkit-text-size-adjust:100%!important;
+    text-size-adjust:100%!important;
   }
   body{font-family:'Source Sans 3','Source Sans Pro',Helvetica,Arial,sans-serif;font-size:9pt;line-height:1.22}
 
@@ -916,7 +920,14 @@ footer .ver{color:var(--dim);margin-left:10px}
   body > *{display:none!important}
   body > .resume-sheet{
     display:block!important;
-    width:100%!important;max-width:100%!important;
+    /* Pinned to the letter CONTENT width in absolute units (8.5in page
+       - 0.3in margins x2 = 7.9in) instead of width:100%. A percentage
+       resolves against the device viewport on mobile, so phones laid the
+       sheet out narrow, reflowed every row, and overflowed to page 2.
+       An inch value is viewport-independent, so mobile and desktop now
+       produce byte-identical layout. */
+    width:7.9in!important;max-width:7.9in!important;min-width:7.9in!important;
+    margin:0!important;
     -webkit-print-color-adjust:exact!important;
     print-color-adjust:exact!important;
     color-scheme:light!important;
@@ -925,7 +936,7 @@ footer .ver{color:var(--dim);margin-left:10px}
   /* Show the sheet */
   .resume-sheet{
     display:block;
-    width:100%;color:#000;background:#fff;
+    color:#000;background:#fff;
     -webkit-print-color-adjust:exact;
     print-color-adjust:exact;
   }
@@ -956,11 +967,14 @@ footer .ver{color:var(--dim);margin-left:10px}
   .rs-head .rs-meta strong{color:#2c2e3d;font-weight:700;margin-right:3px}
   .rs-head .rs-contact span{margin-right:10px}
   .rs-head .rs-contact strong{color:#2c2e3d;font-weight:700;margin-right:4px}
+  /* Real <img>, not a CSS background — browsers skip background images
+     when printing unless the user ticks "Background graphics", which is
+     why this used to come out as an empty gray box. */
   .rs-head .rs-headshot{
     width:1.2in;height:1.5in;
-    background:#eee center/cover no-repeat;
-    background-image:url('assets/headshot.jpg');
+    object-fit:cover;object-position:center;
     border:1px solid #2c2e3d;
+    display:block;
   }
 
   .rs-stats{
@@ -1229,7 +1243,7 @@ footer .ver{color:var(--dim);margin-left:10px}
           <a href="https://resumes.actorsaccess.com/frankrizzo" target="_blank" rel="noopener" aria-label="Actors Access" title="Actors Access">
             <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="6.5" width="19" height="11" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.5"/><text x="12" y="15" text-anchor="middle" textLength="9" lengthAdjust="spacingAndGlyphs" font-size="8" font-weight="900" fill="currentColor" font-family="Montserrat, sans-serif">AA</text></svg>
           </a>
-          <a href="mailto:frank@rizzo.cc" aria-label="Email" title="Email">
+          <a href="mailto:frank@rizzo.cc?subject=Inquiry%20via%20Rizzo.cc" aria-label="Email" title="Email">
             <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2"/><path d="m3 6.5 9 6 9-6"/></svg>
           </a>
         </div>
@@ -1480,7 +1494,7 @@ footer .ver{color:var(--dim);margin-left:10px}
     <p style="color:var(--muted);max-width:520px;margin:14px auto 0">
       For bookings, sides, or just to say hi.
     </p>
-    <a class="email" href="mailto:frank@rizzo.cc">frank@rizzo.cc</a>
+    <a class="email" href="mailto:frank@rizzo.cc?subject=Inquiry%20via%20Rizzo.cc">frank@rizzo.cc</a>
   <!-- /EDIT: contact-section -->
   </div>
 </section>
@@ -1508,7 +1522,7 @@ footer .ver{color:var(--dim);margin-left:10px}
         <span><strong>Local Hire:</strong>Chicago</span>
       </div>
     </div>
-    <div class="rs-headshot" aria-label="Frank Rizzo headshot"></div>
+    <img class="rs-headshot" src="assets/headshots/01-main.jpg" alt="Frank Rizzo headshot">
   </div>
   <!-- /EDIT: print-header -->
 
