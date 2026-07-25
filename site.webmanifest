@@ -1,0 +1,17 @@
+{
+  "name": "Rizzo.cc — Frank Rizzo, Actor",
+  "short_name": "Rizzo.cc",
+  "description": "Frank Rizzo — Chicago-based actor. Selected credits, training, headshot, contact, downloadable resume.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2c2e3d",
+  "theme_color": "#2c2e3d",
+  "lang": "en-US",
+  "icons": [
+    { "src": "/assets/icon-192.png",          "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-512.png",          "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/maskable-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

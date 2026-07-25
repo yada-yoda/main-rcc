@@ -1,0 +1,24 @@
+/* TEAM */
+
+  Actor:    Frank Rizzo
+  Site:     https://rizzo.cc/
+  Email:    frank@rizzo.cc
+  Location: Chicago, IL
+
+
+/* THANKS */
+
+  The Second City Training Center, Chicago
+  Acting Studio Chicago
+  Saint Xavier University
+  Every casting director who said "we'll be in touch" and meant it
+
+
+/* SITE */
+
+  Last update:    2026-05-01
+  Standards:      HTML5, CSS3, JSON-LD, OpenGraph
+  Components:     Source Sans 3, Montserrat (Google Fonts)
+  Print resume:   Letter portrait, single-page actor's headshot resume,
+                  with embedded QR code linking back to rizzo.cc
+  Built with:     Coffee, character work, and a B.B.A.
