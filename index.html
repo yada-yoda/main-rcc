@@ -606,7 +606,9 @@ section + section{border-top:1px solid var(--line)}
   display:grid;
   grid-template-columns:repeat(12,1fr);
   gap:20px;
-  align-items:start;
+  /* Default align-items:stretch — panels in the same row match the
+     tallest panel's height. Keeps Physical / Languages / Measurements /
+     Licensing visually aligned as a set of four equal cards. */
 }
 /* Nested vertical stack used in the right column under credits panels
    so Key Skills (short) can sit above a side-by-side Favorite Films +
@@ -1603,7 +1605,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.7.32</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.7.33</span>
 </footer>
 <!-- /EDIT: footer -->
 
