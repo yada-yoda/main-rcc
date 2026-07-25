@@ -567,10 +567,17 @@ section + section{border-top:1px solid var(--line)}
   margin-top:14px;
   color:var(--muted);
   font-size:15.5px;line-height:1.65;
-  max-width:600px;
+  max-width:72ch;
+  /* pretty avoids orphans — stops a single trailing word (e.g. the
+     second half of a film title) from dropping to its own line. */
+  text-wrap:pretty;
 }
 .profile-bio strong{color:#fff;font-weight:600}
-.profile-bio em{color:var(--accent);font-style:italic;font-weight:500}
+/* Film titles stay on one line so "Deadly Domicile" never splits. */
+.profile-bio em{
+  color:var(--accent);font-style:italic;font-weight:500;
+  white-space:nowrap;
+}
 .headshot-gallery{
   display:flex;gap:8px;margin-top:18px;flex-wrap:wrap;
 }
@@ -599,7 +606,10 @@ section + section{border-top:1px solid var(--line)}
   border-color:var(--accent);color:var(--accent);
   background:rgba(0,188,212,.06);
 }
-.socials svg{width:18px;height:18px;fill:currentColor}
+/* No blanket fill here — CSS would beat each icon's own fill="none"
+   presentation attribute and render the stroke-based glyphs solid.
+   Each icon in SOCIAL_ICONS declares its own fill/stroke. */
+.socials svg{width:18px;height:18px}
 
 /* ------- Resume panel grid ------- */
 .panels{
@@ -1187,12 +1197,14 @@ footer .ver{color:var(--dim);margin-left:10px}
 <section id="profile">
   <div class="wrap">
     <div class="profile">
+      <!-- EDIT: headshot-main — auto-generated from data/headshots.yml. Uses the FIRST entry as the default; the gallery JS swaps src on thumbnail clicks. -->
       <img class="headshot"
-           src="assets/headshot.jpg"
-           alt="Frank Rizzo, Chicago-based actor — front-facing color headshot"
+           src="assets/headshots/01-main.jpg"
+           alt="Frank Rizzo, Chicago-based actor — front-facing color headshot, blue backdrop"
            width="280" height="280"
            fetchpriority="high"
            decoding="async">
+      <!-- /EDIT: headshot-main -->
 
       <div class="profile-meta">
         <h3>Frank Rizzo</h3>
@@ -1206,28 +1218,30 @@ footer .ver{color:var(--dim);margin-left:10px}
         <!-- EDIT: socials — icon-only social links. Change the href= URLs to update where each links to. Order in this list = order on screen. -->
         <div class="socials">
           <a href="https://www.instagram.com/heyfrank/" target="_blank" rel="noopener" aria-label="Instagram" title="Instagram">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.8.1 1.2.1 1.8.2 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.2.1 1.6.1 4.8s0 3.6-.1 4.8c-.1 1.2-.2 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.2.1-1.6.1-4.8.1s-3.6 0-4.8-.1c-1.2-.1-1.8-.2-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.8c.1-1.2.2-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 2c-3.1 0-3.5 0-4.7.1-1.1.1-1.6.2-1.9.3-.5.2-.8.4-1.1.7-.3.3-.5.6-.7 1.1-.1.3-.3.8-.3 1.9-.1 1.2-.1 1.6-.1 4.7s0 3.5.1 4.7c.1 1.1.2 1.6.3 1.9.2.5.4.8.7 1.1.3.3.6.5 1.1.7.3.1.8.3 1.9.3 1.2.1 1.6.1 4.7.1s3.5 0 4.7-.1c1.1-.1 1.6-.2 1.9-.3.5-.2.8-.4 1.1-.7.3-.3.5-.6.7-1.1.1-.3.3-.8.3-1.9.1-1.2.1-1.6.1-4.7s0-3.5-.1-4.7c-.1-1.1-.2-1.6-.3-1.9-.2-.5-.4-.8-.7-1.1-.3-.3-.6-.5-1.1-.7-.3-.1-.8-.3-1.9-.3-1.2-.1-1.6-.1-4.7-.1zm0 3.2a4.6 4.6 0 1 1 0 9.2 4.6 4.6 0 0 1 0-9.2zm0 1.9a2.7 2.7 0 1 0 0 5.4 2.7 2.7 0 0 0 0-5.4zm5.9-2.2a1.1 1.1 0 1 1 0 2.2 1.1 1.1 0 0 1 0-2.2z"/></svg>
+            <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><line x1="16.9" y1="7.1" x2="17" y2="7.1"/></svg>
           </a>
           <a href="https://letterboxd.com/heyfrank/" target="_blank" rel="noopener" aria-label="Letterboxd" title="Letterboxd">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="6" cy="12" r="3.2"/><circle cx="12" cy="12" r="3.2" opacity=".6"/><circle cx="18" cy="12" r="3.2"/></svg>
+            <svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><circle cx="6" cy="12" r="3.2"/><circle cx="12" cy="12" r="3.2" opacity=".6"/><circle cx="18" cy="12" r="3.2"/></svg>
           </a>
           <a href="https://www.imdb.com/name/nm16283183/" target="_blank" rel="noopener" aria-label="IMDb" title="IMDb">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 6h20v12H2z" fill="none" stroke="currentColor" stroke-width="1.5"/><text x="12" y="15" text-anchor="middle" font-size="7" font-weight="900" fill="currentColor" font-family="Montserrat">IMDb</text></svg>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="6.5" width="19" height="11" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.5"/><text x="12" y="14.9" text-anchor="middle" textLength="14" lengthAdjust="spacingAndGlyphs" font-size="7" font-weight="900" fill="currentColor" font-family="Montserrat, sans-serif">IMDb</text></svg>
           </a>
           <a href="https://resumes.actorsaccess.com/frankrizzo" target="_blank" rel="noopener" aria-label="Actors Access" title="Actors Access">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 6h20v12H2z" fill="none" stroke="currentColor" stroke-width="1.5"/><text x="12" y="15" text-anchor="middle" font-size="8" font-weight="900" fill="currentColor" font-family="Montserrat">AA</text></svg>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="6.5" width="19" height="11" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.5"/><text x="12" y="15" text-anchor="middle" textLength="9" lengthAdjust="spacingAndGlyphs" font-size="8" font-weight="900" fill="currentColor" font-family="Montserrat, sans-serif">AA</text></svg>
           </a>
           <a href="mailto:frank@rizzo.cc" aria-label="Email" title="Email">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18v12H3z" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M3 7l9 6 9-6" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>
+            <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="2"/><path d="m3 6.5 9 6 9-6"/></svg>
           </a>
         </div>
         <!-- /EDIT: socials -->
 
-        <!-- EDIT: headshot-gallery — thumbnails (65px tall) that swap into the main headshot when clicked.
-             To add a new look: drop a JPG in assets/headshots/, then add a <button> here that points at it. -->
+        <!-- EDIT: headshot-gallery — auto-generated from data/headshots.yml. Add looks via the CMS (Headshots collection); thumbnails swap into the main headshot when clicked. -->
         <div class="headshot-gallery" aria-label="Headshot gallery">
-          <button type="button" class="active" data-src="assets/headshots/01-main.jpg" aria-label="Main headshot">
-            <img src="assets/headshots/01-main.jpg" alt="Frank Rizzo headshot 1">
+          <button type="button" class="active" data-src="assets/headshots/01-main.jpg" aria-label="Suit and tie">
+            <img src="assets/headshots/01-main.jpg" alt="Suit and tie" loading="lazy">
+          </button>
+          <button type="button" data-src="assets/headshots/09172024.jpg" aria-label="Casual quarter-zip">
+            <img src="assets/headshots/09172024.jpg" alt="Casual quarter-zip" loading="lazy">
           </button>
         </div>
         <!-- /EDIT: headshot-gallery -->
@@ -1605,7 +1619,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.7.33</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.8.0</span>
 </footer>
 <!-- /EDIT: footer -->
 
