@@ -1193,6 +1193,7 @@ footer .ver{color:var(--dim);margin-left:10px}
        Photos live in assets/slideshow/photos/. Videos (when ready) go in assets/slideshow/videos/ — see the README there for specs. -->
   <div class="hero-slides" aria-hidden="true">
     <video class="hero-slide" muted playsinline preload="metadata"><source src="assets/slideshow/videos/waiter-boys.mp4" type="video/mp4"></video>
+    <div class="hero-slide" data-expires="2026-09-28" style="background-image:url('assets/slideshow/photos/nice-shirt.jpg')"></div>
     <div class="hero-slide" style="background-image:url('assets/slideshow/photos/stage.jpg')"></div>
     <div class="hero-slide" style="background-image:url('assets/slideshow/photos/chicago.jpg')"></div>
     <div class="hero-slide" style="background-image:url('assets/slideshow/photos/recent.jpg')"></div>
@@ -1214,6 +1215,7 @@ footer .ver{color:var(--dim);margin-left:10px}
     <!-- EDIT: hero-quotes — rotating slogans, paired 1:1 with hero-slides above. Keep slide count and quote count equal. Each <span> renders as exactly 2 lines (one <br>); white-space: nowrap stops longer lines from wrapping to a 3rd line. -->
     <div class="hero-quotes" aria-hidden="true">
       <span>Play the verb,<br>not the mood.</span>
+      <span data-expires="2026-09-28"><br></span>
       <span>Separation is in<br>the preparation.</span>
       <span>Stop trying to feel.<br>Start trying to do.</span>
       <span>Prepare to be<br>unprepared.</span>
@@ -1279,7 +1281,7 @@ footer .ver{color:var(--dim);margin-left:10px}
       <!-- EDIT: headshot-main — auto-generated from data/headshots.yml. Uses the FIRST entry as the default; the gallery JS swaps src on thumbnail clicks. -->
       <img class="headshot"
            src="assets/headshots/01-main.jpg"
-           alt="Frank Rizzo, Chicago-based actor — front-facing color headshot, blue backdrop"
+           alt="Frank Rizzo, Chicago-based actor - front-facing color headshot, suit and tie, blue backdrop"
            width="280" height="280"
            fetchpriority="high"
            decoding="async">
@@ -1319,8 +1321,14 @@ footer .ver{color:var(--dim);margin-left:10px}
           <button type="button" class="active" data-src="assets/headshots/01-main.jpg" aria-label="Suit and tie">
             <img src="assets/headshots/01-main.jpg" alt="Suit and tie" loading="lazy">
           </button>
-          <button type="button" data-src="assets/headshots/09172024.jpg" aria-label="Casual quarter-zip">
-            <img src="assets/headshots/09172024.jpg" alt="Casual quarter-zip" loading="lazy">
+          <button type="button" data-src="assets/headshots/02-quarter-zip.jpg" aria-label="Casual quarter-zip">
+            <img src="assets/headshots/02-quarter-zip.jpg" alt="Casual quarter-zip" loading="lazy">
+          </button>
+          <button type="button" data-src="assets/headshots/03-glasses.jpg" aria-label="Glasses, button-up">
+            <img src="assets/headshots/03-glasses.jpg" alt="Glasses, button-up" loading="lazy">
+          </button>
+          <button type="button" data-src="assets/headshots/04-navy-polo.jpg" aria-label="Navy polo">
+            <img src="assets/headshots/04-navy-polo.jpg" alt="Navy polo" loading="lazy">
           </button>
         </div>
         <!-- /EDIT: headshot-gallery -->
@@ -1489,8 +1497,8 @@ footer .ver{color:var(--dim);margin-left:10px}
         <thead><tr><th>Title</th><th>Role</th><th>Director</th></tr></thead>
         <tbody>
           <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=El+Frío+Silencio" target="_blank" rel="noopener" title="View on IMDB">El Frío Silencio</a> <span class="sub" style="color:var(--dim)">(Feature, 2027)</span></td><td class="role">Homeowner</td><td class="dir">dir. Zach Cortino</td></tr>
-          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Waiter+Boys" target="_blank" rel="noopener" title="View on IMDB">Waiter Boys</a> <span class="sub" style="color:var(--dim)">(Short, 2025)</span></td><td class="role">Randy</td><td class="dir">dir. Skylar Kendall</td></tr>
-          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Deadly+Domicile" target="_blank" rel="noopener" title="View on IMDB">Deadly Domicile</a> <span class="sub" style="color:var(--dim)">(Short, 2024)</span></td><td class="role">Mike</td><td class="dir">dir. Skylar Kendall</td></tr>
+          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Waiter+Boys" target="_blank" rel="noopener" title="View on IMDB">Waiter Boys</a> <span class="sub" style="color:var(--dim)">(Short, 2025)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
+          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Deadly+Domicile" target="_blank" rel="noopener" title="View on IMDB">Deadly Domicile</a> <span class="sub" style="color:var(--dim)">(Short, 2024)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
         </tbody>
       </table>
     </div>
@@ -1512,6 +1520,7 @@ footer .ver{color:var(--dim);margin-left:10px}
       <table class="credits">
         <thead><tr><th>Production</th><th>Role / Sketches</th><th>Stage</th></tr></thead>
         <tbody>
+          <tr><td class="title">NICE SHIRT</td><td class="role">Ensemble/Sketch</td><td class="dir">e.t.c theatre<sup class="venue-mark">*</sup></td></tr>
           <tr><td class="title">Grad Revue II Show</td><td class="role">Ensemble</td><td class="dir">Donny's Skybox<sup class="venue-mark">*</sup></td></tr>
           <tr><td class="title">Grad Revue I Show</td><td class="role">Ensemble</td><td class="dir">Donny's Skybox<sup class="venue-mark">*</sup></td></tr>
           <tr><td class="title">Conservatory III Show</td><td class="role">Ensemble</td><td class="dir">New Judy's Beat Lounge<sup class="venue-mark">*</sup></td></tr>
@@ -1543,7 +1552,7 @@ footer .ver{color:var(--dim);margin-left:10px}
       </div>
       <!-- EDIT: reel — auto-generated from data/contact.yml. URL wins over file; both empty falls back to placeholder text. -->
       <div class="reel">
-        <span>Reel coming soon</span>
+        <video controls preload="metadata"><source src="assets/reel/frank-rizzo-reel.mp4" type="video/mp4"></video>
       </div>
       <!-- /EDIT: reel -->
     </div>
@@ -1614,8 +1623,8 @@ footer .ver{color:var(--dim);margin-left:10px}
     <h2>Film</h2>
     <table class="rs-table">
       <tr><td class="t">El Frío Silencio <em style="color:#888;font-style:normal">(Feature, 2027)</em></td><td class="r">Homeowner</td><td class="d">dir. Zach Cortino</td></tr>
-      <tr><td class="t">Waiter Boys <em style="color:#888;font-style:normal">(Short, 2025)</em></td><td class="r">Randy</td><td class="d">dir. Skylar Kendall</td></tr>
-      <tr><td class="t">Deadly Domicile <em style="color:#888;font-style:normal">(Short, 2024)</em></td><td class="r">Mike</td><td class="d">dir. Skylar Kendall</td></tr>
+      <tr><td class="t">Waiter Boys <em style="color:#888;font-style:normal">(Short, 2025)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
+      <tr><td class="t">Deadly Domicile <em style="color:#888;font-style:normal">(Short, 2024)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
     </table>
   </div>
   <!-- /EDIT: print-film-credits -->
@@ -1633,6 +1642,7 @@ footer .ver{color:var(--dim);margin-left:10px}
   <div class="rs-section">
     <h2>Theater &middot; Sketch / Improv</h2>
     <table class="rs-table rs-theater">
+      <tr><td class="t">NICE SHIRT</td><td class="r">Ensemble/Sketch</td><td class="d">e.t.c theatre<sup>*</sup></td></tr>
       <tr><td class="t">Grad Revue II Show</td><td class="r">Ensemble</td><td class="d">Donny's Skybox<sup>*</sup></td></tr>
       <tr><td class="t">Grad Revue I Show</td><td class="r">Ensemble</td><td class="d">Donny's Skybox<sup>*</sup></td></tr>
       <tr><td class="t">Conservatory III Show</td><td class="r">Ensemble</td><td class="d">New Judy's Beat Lounge<sup>*</sup></td></tr>
@@ -1705,7 +1715,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.8.1</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.9.0</span>
 </footer>
 <!-- /EDIT: footer -->
 
@@ -1789,6 +1799,30 @@ footer .ver{color:var(--dim);margin-left:10px}
   // (#heroVolume) becomes visible while a video slide is active and
   // controls that video's audio.
   (function heroRotate(){
+    // Retire any slide whose data-expires date has arrived. Slides are
+    // paired with quotes by index, so both lists are filtered together.
+    // This runs client-side so a dated slide (e.g. a show poster) drops
+    // out on schedule even if the site hasn't been rebuilt since.
+    (function retireExpiredSlides(){
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      const allSlides = Array.from(document.querySelectorAll('.hero-slide'));
+      const allQuotes = Array.from(document.querySelectorAll('.hero-quotes span'));
+      allSlides.forEach((el, i) => {
+        const raw = el.dataset.expires;
+        if (!raw) return;
+        // Parse as local midnight; `new Date("YYYY-MM-DD")` is UTC and
+        // would retire a day early for anyone west of Greenwich.
+        const parts = raw.split('-').map(Number);
+        if (parts.length !== 3 || parts.some(isNaN)) return;
+        const due = new Date(parts[0], parts[1] - 1, parts[2]);
+        if (today >= due) {
+          el.remove();
+          if (allQuotes[i]) allQuotes[i].remove();
+        }
+      });
+    })();
+
     const slides = document.querySelectorAll('.hero-slide');
     const quotes = document.querySelectorAll('.hero-quotes span');
     if (!slides.length) return;
