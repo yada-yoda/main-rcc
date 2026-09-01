@@ -822,7 +822,19 @@ table.credits td.dir .venue-mark{
   color:var(--muted);font-family:'Montserrat',sans-serif;
   letter-spacing:.3em;text-transform:uppercase;font-size:12px;
 }
-.reel iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+/* Both embed paths fill the 16:9 frame. Without the video rule the
+   element renders at its intrinsic 1920x1080, overflows the container,
+   and gets clipped by overflow:hidden - taking the native controls with
+   it. object-fit:contain letterboxes rather than crops, so a reel that
+   isn't exactly 16:9 never cuts off a face. */
+.reel iframe,
+.reel video{
+  position:absolute;inset:0;
+  width:100%;height:100%;
+  border:0;display:block;
+  object-fit:contain;
+  background:#000;
+}
 
 /* ------- Contact ------- */
 .contact{
@@ -1552,7 +1564,7 @@ footer .ver{color:var(--dim);margin-left:10px}
       </div>
       <!-- EDIT: reel — auto-generated from data/contact.yml. URL wins over file; both empty falls back to placeholder text. -->
       <div class="reel">
-        <video controls preload="metadata"><source src="assets/reel/frank-rizzo-reel.mp4" type="video/mp4"></video>
+        <video controls playsinline preload="metadata"><source src="assets/reel/frank-rizzo-reel.mp4" type="video/mp4"></video>
       </div>
       <!-- /EDIT: reel -->
     </div>
@@ -1715,7 +1727,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.9.0</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.9.1</span>
 </footer>
 <!-- /EDIT: footer -->
 
