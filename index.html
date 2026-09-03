@@ -138,13 +138,20 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&family=Poppins:wght@400;500;600&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
-<!-- EDIT: ga4 — Google Analytics tracking ID. Currently shared with book/greenline (G-DYME377V2S). Swap to a different ID to track this site separately. -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DYME377V2S"></script>
+<!-- EDIT: ga4 — Google Analytics tracking ID. Dedicated Rizzo.cc property. Add ?ga=off to the URL once on a device to stop counting it. -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-DYME377V2S', { 'anonymize_ip': true });
+(function(){
+  try{
+    var q=new URLSearchParams(location.search).get('ga');
+    if(q==='off')localStorage.setItem('ga_optout','1');
+    if(q==='on')localStorage.removeItem('ga_optout');
+    if(localStorage.getItem('ga_optout')==='1')return;
+  }catch(e){}
+  var s=document.createElement('script');s.async=true;
+  s.src='https://www.googletagmanager.com/gtag/js?id=G-PDRXYMSERS';document.head.appendChild(s);
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+  window.gtag=gtag;gtag('js',new Date());gtag('config','G-PDRXYMSERS',{anonymize_ip:true});
+})();
 </script>
 <!-- /EDIT: ga4 -->
 
@@ -1725,7 +1732,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.11.1</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.11.2</span>
 </footer>
 <!-- /EDIT: footer -->
 
