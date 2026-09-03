@@ -1515,7 +1515,7 @@ footer .ver{color:var(--dim);margin-left:10px}
         <thead><tr><th>Title</th><th>Role</th><th>Director</th></tr></thead>
         <tbody>
           <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=El+Frío+Silencio" target="_blank" rel="noopener" title="View on IMDB">El Frío Silencio</a> <span class="sub" style="color:var(--dim)">(Feature, 2027)</span></td><td class="role">Homeowner</td><td class="dir">dir. Zach Cortino</td></tr>
-          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Waiter+Boys" target="_blank" rel="noopener" title="View on IMDB">Waiter Boys</a> <span class="sub" style="color:var(--dim)">(Short, 2025)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
+          <tr><td class="title"><a href="https://waiterboys.com/" target="_blank" rel="noopener" title="Official film site">Waiter Boys</a> <span class="sub" style="color:var(--dim)">(Short, 2025)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
           <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Deadly+Domicile" target="_blank" rel="noopener" title="View on IMDB">Deadly Domicile</a> <span class="sub" style="color:var(--dim)">(Short, 2024)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
         </tbody>
       </table>
@@ -2037,6 +2037,34 @@ footer .ver{color:var(--dim);margin-left:10px}
         thumbs.forEach(t => t.classList.toggle('active', t === btn));
       });
     });
+  })();
+
+  // Credit link clicks -> GA4. Covers every linked credit title (a film's
+  // own site, an IMDB page, a show page), so any credit given a URL later
+  // is tracked without touching this code.
+  //
+  // GA4 enhanced measurement already logs these as generic `click` events,
+  // but those are awkward to isolate in reports. A named event with the
+  // credit title makes "did anyone click through to the show page" a
+  // one-line answer instead of a filtering exercise.
+  //
+  // No gtag means analytics is off (?ga=off opt-out, or a blocker), so this
+  // silently does nothing — the navigation itself is untouched either way.
+  (function trackCreditLinks(){
+    document.addEventListener('click', function(e){
+      const a = e.target.closest('table.credits td.title a[href]');
+      if (!a) return;
+      if (typeof window.gtag !== 'function') return;
+      const panel = a.closest('.tab-panel');
+      try {
+        window.gtag('event', 'credit_link_click', {
+          credit_title: (a.textContent || '').trim(),
+          credit_section: panel ? panel.id : 'unknown',
+          link_url: a.href,
+          link_domain: new URL(a.href).hostname,
+        });
+      } catch(_){ /* never let telemetry break the click */ }
+    }, {passive: true});
   })();
 
   // Year
