@@ -1,0 +1,3 @@
+
+# Never mirror the private agency tracker (see acting-private/, local only)
+agencies/
