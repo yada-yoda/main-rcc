@@ -867,6 +867,13 @@ footer{
   font-family:'Montserrat',sans-serif;
 }
 footer .ver{color:var(--dim);margin-left:10px}
+/* Visit counter, to the right of the version. tabular-nums stops the footer
+   from twitching as the digit widths change. */
+footer .hits{
+  color:var(--dim);margin-left:10px;
+  font-variant-numeric:tabular-nums;cursor:default;
+}
+footer .hits[hidden]{display:none}
 
 /* ------- Reduced motion ------- */
 /* Honor reduced-motion preference globally, BUT keep the hero slideshow +
@@ -1201,6 +1208,7 @@ footer .ver{color:var(--dim);margin-left:10px}
     <a href="#about">About</a>
     <a href="#resume">Resume</a>
     <a href="#credits">Credits</a>
+    <a href="resources">Resources</a>
     <a href="#contact">Contact</a>
   </nav>
   <!-- /EDIT: menu -->
@@ -1732,7 +1740,7 @@ footer .ver{color:var(--dim);margin-left:10px}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.11.2</span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.13.0</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 
@@ -2065,6 +2073,40 @@ footer .ver{color:var(--dim);margin-left:10px}
         });
       } catch(_){ /* never let telemetry break the click */ }
     }, {passive: true});
+  })();
+
+  // Footer visit counter, fed by hits-worker (a Cloudflare Durable Object per
+  // site). GitHub Pages can't count anything itself, hence the one small fetch.
+  //
+  // Counted once per browser session, and devices that opted out of analytics
+  // with ?ga=off are not counted either - so the number matches what GA would
+  // have recorded rather than being a separate, larger tally.
+  //
+  // Only rizzo.cc origins are allowed to increment (enforced Worker-side), so
+  // previewing on dev.rizzo.cc reads the count without inflating it. The pill
+  // stays hidden unless a real number comes back, so an outage or a blocked
+  // request leaves no broken artifact in the footer.
+  (function visitCounter(){
+    var el = document.getElementById('hits');
+    if (!el) return;
+    var counted = false, optout = false;
+    try {
+      counted = sessionStorage.getItem('hit') === '1';
+      optout  = localStorage.getItem('ga_optout') === '1';
+    } catch(e){}
+    var bump = !counted && !optout;
+    fetch('https://hits-worker.sevendwarfs.workers.dev/hit/rizzocc',
+          {method: bump ? 'POST' : 'GET'})
+      .then(function(r){ return r.ok ? r.json() : null; })
+      .then(function(d){
+        if (!d || typeof d.count !== 'number') return;
+        if (bump){ try { sessionStorage.setItem('hit','1'); } catch(e){} }
+        el.textContent = d.count.toLocaleString('en-US') +
+                         (d.count === 1 ? ' visit' : ' visits');
+        el.title = 'Visits to rizzo.cc, counted once per browser session.';
+        el.hidden = false;
+      })
+      .catch(function(){});
   })();
 
   // Year
