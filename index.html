@@ -598,6 +598,18 @@ section + section{border-top:1px solid var(--line)}
 .headshot-gallery button:hover{border-color:var(--accent);transform:translateY(-1px)}
 .headshot-gallery button.active{border-color:var(--accent);box-shadow:0 0 0 2px rgba(0,188,212,.25)}
 .headshot-gallery img{width:100%;height:100%;object-fit:cover;display:block}
+/* PDF tile at the end of the row: same footprint as a thumbnail, dashed so
+   it reads as "a file", not another look. Downloads the print-ready PDF. */
+.headshot-gallery a.pdf{
+  height:65px;width:65px;border-radius:6px;
+  border:1px dashed var(--line-2);background:rgba(255,255,255,.03);
+  display:inline-flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+  color:var(--muted);text-decoration:none;
+  font-family:'Montserrat',sans-serif;font-size:9px;font-weight:700;letter-spacing:.18em;
+  transition:border-color .15s ease, color .15s ease, transform .15s ease;
+}
+.headshot-gallery a.pdf svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.headshot-gallery a.pdf:hover{border-color:var(--accent);color:var(--accent);transform:translateY(-1px)}
 .socials{
   display:flex;gap:10px;margin-top:22px;flex-wrap:wrap;
 }
@@ -1307,8 +1319,8 @@ footer .hits[hidden]{display:none}
     <div class="profile">
       <!-- EDIT: headshot-main — auto-generated from data/headshots.yml. Uses the FIRST entry as the default; the gallery JS swaps src on thumbnail clicks. -->
       <img class="headshot"
-           src="assets/headshots/01-main.jpg"
-           alt="Frank Rizzo, Chicago-based actor - front-facing color headshot, suit and tie, blue backdrop"
+           src="assets/headshots/04-navy-polo.jpg"
+           alt="Frank Rizzo, Chicago-based actor - broad smile color headshot, navy dress shirt, white backdrop"
            width="280" height="280"
            fetchpriority="high"
            decoding="async">
@@ -1345,7 +1357,10 @@ footer .hits[hidden]{display:none}
 
         <!-- EDIT: headshot-gallery — auto-generated from data/headshots.yml. Add looks via the CMS (Headshots collection); thumbnails swap into the main headshot when clicked. -->
         <div class="headshot-gallery" aria-label="Headshot gallery">
-          <button type="button" class="active" data-src="assets/headshots/01-main.jpg" aria-label="Suit and tie">
+          <button type="button" class="active" data-src="assets/headshots/04-navy-polo.jpg" aria-label="Navy dress shirt">
+            <img src="assets/headshots/04-navy-polo.jpg" alt="Navy dress shirt" loading="lazy">
+          </button>
+          <button type="button" data-src="assets/headshots/01-main.jpg" aria-label="Suit and tie">
             <img src="assets/headshots/01-main.jpg" alt="Suit and tie" loading="lazy">
           </button>
           <button type="button" data-src="assets/headshots/02-quarter-zip.jpg" aria-label="Casual quarter-zip">
@@ -1354,9 +1369,10 @@ footer .hits[hidden]{display:none}
           <button type="button" data-src="assets/headshots/03-glasses.jpg" aria-label="Glasses, button-up">
             <img src="assets/headshots/03-glasses.jpg" alt="Glasses, button-up" loading="lazy">
           </button>
-          <button type="button" data-src="assets/headshots/04-navy-polo.jpg" aria-label="Navy polo">
-            <img src="assets/headshots/04-navy-polo.jpg" alt="Navy polo" loading="lazy">
-          </button>
+          <a class="pdf" href="assets/headshots/frank-rizzo-headshot.pdf" download title="Navy dress shirt - headshot PDF" aria-label="Download the Navy dress shirt headshot as a PDF" data-label="Navy dress shirt">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h9l5 5v15a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1z"/><path d="M14 2v6h6"/></svg>
+            <span>PDF</span>
+          </a>
         </div>
         <!-- /EDIT: headshot-gallery -->
       </div>
@@ -1453,7 +1469,7 @@ footer .hits[hidden]{display:none}
       <div class="panel">
         <h4>Key Skills</h4>
         <p>
-          Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management
+          Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management · Good sport (lost to Paul Scheer in fantasy football two years in a row)
         </p>
       </div>
       <!-- /EDIT: skills -->
@@ -1629,7 +1645,9 @@ footer .hits[hidden]{display:none}
       <img src="assets/qr-rizzo-cc.svg" alt="QR code linking to rizzo.cc">
       <div class="rs-head-qr-label">rizzo.cc</div>
     </div>
-    <img class="rs-headshot" src="assets/headshots/01-main.jpg" alt="Frank Rizzo headshot">
+    <!-- EDIT: print-headshot — auto-generated from data/headshots.yml (FIRST entry), so the PDF always carries the same photo as the main headshot on the page. -->
+    <img class="rs-headshot" src="assets/headshots/04-navy-polo.jpg" alt="Frank Rizzo headshot">
+    <!-- /EDIT: print-headshot -->
   </div>
   <!-- /EDIT: print-header -->
 
@@ -1712,7 +1730,7 @@ footer .hits[hidden]{display:none}
   <div class="rs-section">
     <h2>Special Skills</h2>
     <div class="rs-skills-list">
-      Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management
+      Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management · Good sport (lost to Paul Scheer in fantasy football two years in a row)
     </div>
   </div>
   <!-- /EDIT: print-skills -->
@@ -1740,7 +1758,7 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.14.0</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.15.0</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 
@@ -2072,6 +2090,21 @@ footer .hits[hidden]{display:none}
           link_domain: new URL(a.href).hostname,
         });
       } catch(_){ /* never let telemetry break the click */ }
+    }, {passive: true});
+  })();
+
+  // Headshot PDF downloads -> GA4, same idea: "did anyone take the headshot"
+  // should be a named event, not a click buried in enhanced measurement.
+  (function trackHeadshotDownloads(){
+    document.addEventListener('click', function(e){
+      const a = e.target.closest('.headshot-gallery a.pdf[href]');
+      if (!a || typeof window.gtag !== 'function') return;
+      try {
+        window.gtag('event', 'headshot_download', {
+          look: a.dataset.label || '',
+          file_url: a.href,
+        });
+      } catch(_){ /* never let telemetry break the download */ }
     }, {passive: true});
   })();
 
