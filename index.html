@@ -1030,6 +1030,7 @@ footer .hits[hidden]{display:none}
   }
 
   .rs-stats{
+    /* Column count is set inline by the build (one per cell); 6 is the fallback. */
     display:grid;grid-template-columns:repeat(6,1fr);gap:2px 10px;
     padding:4px 0 5px;
     border-bottom:1px solid #ccc;
@@ -1469,7 +1470,7 @@ footer .hits[hidden]{display:none}
       <div class="panel">
         <h4>Key Skills</h4>
         <p>
-          Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management · Good sport (lost to Paul Scheer in fantasy football two years in a row)
+          Vocal Range: B♭2–E4 · Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management · Good sport (lost to Paul Scheer in fantasy football two years in a row)
         </p>
       </div>
       <!-- /EDIT: skills -->
@@ -1652,7 +1653,7 @@ footer .hits[hidden]{display:none}
   <!-- /EDIT: print-header -->
 
   <!-- EDIT: print-stats — the row of physical stats below the name on the printed resume -->
-  <div class="rs-stats">
+  <div class="rs-stats" style="grid-template-columns:repeat(6,1fr)">
     <div><strong>Height</strong>6'0"</div>
     <div><strong>Eyes</strong>Blue</div>
     <div><strong>Hair</strong>Bald / Buzz / Brown</div>
@@ -1730,7 +1731,7 @@ footer .hits[hidden]{display:none}
   <div class="rs-section">
     <h2>Special Skills</h2>
     <div class="rs-skills-list">
-      Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management · Good sport (lost to Paul Scheer in fantasy football two years in a row)
+      Vocal Range: B♭2–E4 · Bike Riding · Chess · Finance · Frisbee Golf · Gaming (Video / Computer) · Guitar (General) · IT / Computer Science · Marketing · Music Industry · Music Management · Photographic Memory · Poker · Road Driving · Football · Ice Skating · Roller Skating · Running · Soccer · Track and Field (Discus / Shotput) · Weight Lifting · Yoga · Stock Market · Swimming · Tour Management · Good sport (lost to Paul Scheer in fantasy football two years in a row)
     </div>
   </div>
   <!-- /EDIT: print-skills -->
@@ -1758,7 +1759,7 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.15.0</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.15.1</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 
