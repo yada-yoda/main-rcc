@@ -879,6 +879,9 @@ footer{
   font-family:'Montserrat',sans-serif;
 }
 footer .ver{color:var(--dim);margin-left:10px}
+/* Link to another section of rizzo.cc (data/footer.yml > links). */
+footer .flink{margin-left:12px}
+footer .flink:hover{color:var(--accent-2,var(--accent));text-decoration:underline}
 /* Visit counter, to the right of the version. tabular-nums stops the footer
    from twitching as the digit widths change. */
 footer .hits{
@@ -1758,7 +1761,7 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.15.1</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.16.0</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 

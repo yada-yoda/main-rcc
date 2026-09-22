@@ -58,4 +58,8 @@ User-agent: *
 Disallow: /agencies/
 Disallow: /agencies
 
+# One sitemap per section. The root sitemap covers the acting pages and is
+# written by this repo; /blog/sitemap.xml is written by the blog's own build
+# and would not survive being merged into the root one.
 Sitemap: https://rizzo.cc/sitemap.xml
+Sitemap: https://rizzo.cc/blog/sitemap.xml

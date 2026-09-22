@@ -247,6 +247,9 @@ footer{
   text-align:center;
 }
 footer .ver{display:inline-block;margin-left:8px;border:1px solid var(--line);border-radius:4px;padding:1px 6px;font-size:11px}
+/* Link to another section of rizzo.cc (data/footer.yml > links). */
+footer .flink{margin-left:12px}
+footer .flink:hover{text-decoration:underline}
 /* Visit counter chip, matching .ver. tabular-nums keeps the width steady. */
 footer .hits{
   display:inline-block;margin-left:6px;border:1px solid var(--line);
@@ -472,7 +475,7 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/footer.yml. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.15.1</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.16.0</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 
