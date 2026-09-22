@@ -1,0 +1,32 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.section }} on {{ site.domain }}</title>
+    <link>{{ '/' | absUrl }}</link>
+    <atom:link href="{{ '/feed.xml' | absUrl }}" rel="self" type="application/rss+xml" />
+    <description>{{ site.description }}</description>
+    <language>{{ site.language }}</language>
+    {%- if collections.posts.length %}
+    <lastBuildDate>{{ collections.posts[0].date | rssDate }}</lastBuildDate>
+    {%- endif %}
+    {%- for post in collections.posts %}
+    <item>
+      <title>{{ post.data.title | escape }}</title>
+      <link>{{ post.url | absUrl }}</link>
+      <guid isPermaLink="true">{{ post.url | absUrl }}</guid>
+      <pubDate>{{ post.date | rssDate }}</pubDate>
+      {%- if post.data.description %}
+      <description>{{ post.data.description | escape }}</description>
+      {%- endif %}
+      {%- for tag in post.data.tags %}{% if tag != "post" %}
+      <category>{{ tag | escape }}</category>
+      {%- endif %}{% endfor %}
+      <content:encoded><![CDATA[{{ post.templateContent | safe }}]]></content:encoded>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

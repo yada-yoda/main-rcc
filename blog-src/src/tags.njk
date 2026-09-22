@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+title: Tags
+description: Every subject covered on the rizzo.cc blog.
+permalink: /tags/
+showSide: false
+---
+<div class="list">
+  <h1>Tags</h1>
+  {%- if collections.tagList.length %}
+  <p class="dek">Pick a subject to see only those posts.</p>
+  <p class="chips wide">
+    {%- for tag in collections.tagList %}
+    <a class="chip" href="{{ ['/tags/', tag.name | tagSlug, '/'] | join | href }}" title="{{ tag.count }} post{% if tag.count != 1 %}s{% endif %} tagged {{ tag.name }}">{{ tag.name }}<span class="n">{{ tag.count }}</span></a>
+    {%- endfor %}
+  </p>
+  {%- else %}
+  <p class="dek">No tags yet. They appear here as soon as the first post is published.</p>
+  {%- endif %}
+  <p><a class="back" href="{{ '/' | href }}" title="Back to the post list">All posts</a></p>
+</div>

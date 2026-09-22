@@ -1,0 +1,57 @@
+---
+layout: layouts/base.njk
+title: Posts
+isHome: true
+showSide: true
+---
+<div class="list">
+  {%- for post in collections.posts %}
+  <article class="post">
+    <p class="meta">
+      <span>{{ post.date | shortDate }}</span>
+      <span>{{ post.data.readingTime }} min read</span>
+      {%- if post.data.draft %}<span class="draft-flag" title="Not published: only visible in a local preview">Draft</span>{% endif %}
+    </p>
+    <h2><a href="{{ post.url | href }}">{{ post.data.title }}</a></h2>
+    {%- if post.data.description %}<p class="dek">{{ post.data.description }}</p>{% endif %}
+    {%- if post.data.tags %}
+    <p class="tags">
+      {%- for tag in post.data.tags %}{% if tag != "post" %}
+      <a class="tag" href="{{ ['/tags/', tag | tagSlug, '/'] | join | href }}" title="All posts tagged {{ tag }}">{{ tag }}</a>
+      {%- endif %}{% endfor %}
+    </p>
+    {%- endif %}
+  </article>
+  {%- else %}
+  <article class="post empty">
+    <h2>Nothing published yet</h2>
+    <p class="dek">The first posts are written and waiting on a final read. Subscribe by RSS and they will arrive as they land.</p>
+    <p><a href="{{ '/feed.xml' | href }}" title="Subscribe in a feed reader (RSS)">RSS feed</a></p>
+  </article>
+  {%- endfor %}
+</div>
+
+<aside class="side">
+  {%- if collections.tagList.length %}
+  <div class="box">
+    <h2>Tags</h2>
+    <p class="chips">
+      {%- for tag in collections.tagList %}
+      <a class="chip" href="{{ ['/tags/', tag.name | tagSlug, '/'] | join | href }}" title="{{ tag.count }} post{% if tag.count != 1 %}s{% endif %} tagged {{ tag.name }}">{{ tag.name }}<span class="n">{{ tag.count }}</span></a>
+      {%- endfor %}
+    </p>
+  </div>
+  {%- endif %}
+
+  <div class="box">
+    <h2>Follow</h2>
+    <p><a href="{{ '/feed.xml' | href }}" title="Subscribe in a feed reader (RSS)">RSS feed</a></p>
+    <p class="fine">Every post, full text, no tracking beyond the site's own analytics.</p>
+  </div>
+
+  <div class="box">
+    <h2>Also on {{ site.domain }}</h2>
+    <p><a href="{{ site.baseUrl }}/" title="The acting site at {{ site.domain }}">Acting home</a></p>
+    <p class="fine">Credits, reel and resume live at the root of the domain.</p>
+  </div>
+</aside>

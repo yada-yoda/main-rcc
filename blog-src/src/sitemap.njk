@@ -1,0 +1,41 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+{#- The blog keeps its own sitemap at /blog/sitemap.xml and the domain's
+    robots.txt points at it. The acting site's /sitemap.xml is written by
+    a different repo and mirrored over the top of this one on every acting
+    edit, so merging blog URLs into it would not survive. -#}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ '/' | absUrl }}</loc>
+    {%- if collections.posts.length %}
+    <lastmod>{{ collections.posts[0].date | stampDate }}</lastmod>
+    {%- endif %}
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  {%- for post in collections.posts %}
+  <url>
+    <loc>{{ post.url | absUrl }}</loc>
+    <lastmod>{{ post.date | stampDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {%- endfor %}
+  {%- if collections.tagList.length %}
+  <url>
+    <loc>{{ '/tags/' | absUrl }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  {%- for tag in collections.tagList %}
+  <url>
+    <loc>{{ ['/tags/', tag.name | tagSlug, '/'] | join | absUrl }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  {%- endfor %}
+  {%- endif %}
+</urlset>

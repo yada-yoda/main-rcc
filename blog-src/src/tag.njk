@@ -1,0 +1,31 @@
+---
+layout: layouts/base.njk
+showSide: false
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+eleventyComputed:
+  title: "Posts tagged {{ tag.name }}"
+  description: "Every rizzo.cc blog post tagged {{ tag.name }}."
+permalink: "/tags/{{ tag.name | tagSlug }}/"
+---
+<div class="list">
+  <p class="kicker">Tag</p>
+  <h1>{{ tag.name }}</h1>
+  <p class="dek">{{ tag.count }} post{% if tag.count != 1 %}s{% endif %}.</p>
+
+  {%- for post in collections[tag.name] | reverse %}
+  <article class="post">
+    <p class="meta">
+      <span>{{ post.date | shortDate }}</span>
+      <span>{{ post.data.readingTime }} min read</span>
+      {%- if post.data.draft %}<span class="draft-flag" title="Not published: only visible in a local preview">Draft</span>{% endif %}
+    </p>
+    <h2><a href="{{ post.url | href }}">{{ post.data.title }}</a></h2>
+    {%- if post.data.description %}<p class="dek">{{ post.data.description }}</p>{% endif %}
+  </article>
+  {%- endfor %}
+
+  <p><a class="back" href="{{ '/tags/' | href }}" title="Back to every tag">All tags</a></p>
+</div>

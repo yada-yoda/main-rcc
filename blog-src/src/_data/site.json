@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "domain": "rizzo.cc",
+  "baseUrl": "https://rizzo.cc",
+  "pathPrefix": "/blog",
+  "section": "Blog",
+  "kicker": "Notes from Chicago",
+  "headline": "Acting, comedy, and the tools I build on the side.",
+  "intro": "Short posts, written when there is something worth saying. Subscribe by RSS if you want them as they land.",
+  "description": "Short posts on acting, comedy and the small tools behind rizzo.cc.",
+  "language": "en-us",
+  "locale": "en_US",
+  "themeColor": "#2c2e3d",
+  "ga4": "G-PDRXYMSERS",
+  "wordsPerMinute": 200
+}

@@ -1,0 +1,51 @@
+---
+layout: layouts/base.njk
+ogType: article
+showSide: false
+---
+<article class="post-full">
+  <p class="meta">
+    <span>{{ page.date | shortDate }}</span>
+    <span>{{ readingTime }} min read</span>
+    {% if draft %}<span class="draft-flag" title="Not published: this post is a draft and is only visible in a local preview">Draft</span>{% endif %}
+  </p>
+
+  <h1>{{ title }}</h1>
+
+  {% if description %}<p class="standfirst">{{ description }}</p>{% endif %}
+
+  {% if tags %}
+  <p class="tags">
+    {%- for tag in tags %}{% if tag != "post" %}
+    <a class="tag" href="{{ ['/tags/', tag | tagSlug, '/'] | join | href }}" title="All posts tagged {{ tag }}">{{ tag }}</a>
+    {%- endif %}{% endfor %}
+  </p>
+  {% endif %}
+
+  <div class="prose">
+{{ content | safe }}
+  </div>
+
+  <div class="post-end">
+    <a class="back" href="{{ '/' | href }}" title="Back to the post list">All posts</a>
+    <button class="linkbtn" type="button" data-copy="{{ page.url | absUrl }}" title="Copy this post's address to the clipboard">Copy link</button>
+  </div>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ title | jsonify | safe }},
+  "description": {{ (description or site.description) | jsonify | safe }},
+  "datePublished": {{ page.date | isoDate | jsonify | safe }},
+  "url": {{ page.url | absUrl | jsonify | safe }},
+  "mainEntityOfPage": {{ page.url | absUrl | jsonify | safe }},
+  "image": {{ '/og.png' | absUrl | jsonify | safe }},
+  "isPartOf": {
+    "@type": "Blog",
+    "name": {{ [site.section, ' on ', site.domain] | join | jsonify | safe }},
+    "url": {{ '/' | absUrl | jsonify | safe }}
+  }
+}
+</script>

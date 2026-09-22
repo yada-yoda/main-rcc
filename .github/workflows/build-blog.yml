@@ -1,0 +1,65 @@
+# Build rizzo.cc/blog from blog-src/ and commit the result.
+#
+# GitHub Pages serves this repository's main branch as-is, so the built
+# HTML has to be in the repo. Writing a post means dropping a Markdown file
+# in blog-src/src/posts/ and pushing: this workflow runs Eleventy and
+# commits the output under blog/.
+#
+# It only fires on blog-src/** changes, and it only writes to blog/, so it
+# never self-triggers and never touches the acting site at the domain root.
+# Posts with `draft: true` are not built - nothing about them reaches here.
+
+name: Build blog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'blog-src/**'
+      - '.github/workflows/build-blog.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# The acting mirror (yada-yoda/dev) also pushes to this repo. Serializing
+# blog builds, and rebasing just before the push, keeps the two out of each
+# other's way.
+concurrency:
+  group: build-blog
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: blog-src/package-lock.json
+
+      - name: Install dependencies
+        working-directory: blog-src
+        run: npm ci
+
+      - name: Build
+        working-directory: blog-src
+        run: npm run build
+
+      - name: Commit blog/ if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain blog)" ]; then
+            echo "Blog output unchanged."
+            exit 0
+          fi
+          git add blog
+          git commit -m "Build blog from ${GITHUB_SHA::7}"
+          git pull --rebase origin main
+          git push

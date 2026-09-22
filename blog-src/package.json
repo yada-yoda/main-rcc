@@ -1,0 +1,13 @@
+{
+  "name": "rizzo-cc-blog",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Eleventy source for rizzo.cc/blog. Builds into ../blog, which is what GitHub Pages serves.",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
