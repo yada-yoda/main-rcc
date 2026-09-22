@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blog v0.1.0 &mdash; rizzo.cc</title>
+<meta name="description" content="Short posts on acting, comedy and the small tools behind rizzo.cc.">
+<meta name="app-version" content="0.1.0">
+
+<link rel="canonical" href="https://rizzo.cc/blog/">
+<meta name="theme-color" content="#2c2e3d"><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='4' fill='%232c2e3d'/><rect x='7' y='7' width='18' height='3' fill='%2300bcd4'/><rect x='7' y='14' width='18' height='2' fill='%23f5f1e8'/><rect x='7' y='19' width='18' height='2' fill='%23f5f1e8'/><rect x='7' y='24' width='11' height='2' fill='%23f5f1e8'/></svg>">
+<link rel="apple-touch-icon" sizes="180x180" href="/blog/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="rizzo.cc Blog">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="rizzo.cc">
+<meta property="og:title" content="Blog &mdash; rizzo.cc">
+<meta property="og:description" content="Short posts on acting, comedy and the small tools behind rizzo.cc.">
+<meta property="og:url" content="https://rizzo.cc/blog/">
+<meta property="og:image" content="https://rizzo.cc/blog/og.png">
+<meta property="og:image:secure_url" content="https://rizzo.cc/blog/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="rizzo.cc Blog &mdash; Acting, comedy, and the tools I build on the side.">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Blog &mdash; rizzo.cc">
+<meta name="twitter:description" content="Short posts on acting, comedy and the small tools behind rizzo.cc.">
+<meta name="twitter:image" content="https://rizzo.cc/blog/og.png">
+
+<link rel="alternate" type="application/rss+xml" title="rizzo.cc Blog" href="/blog/feed.xml">
+<link rel="stylesheet" href="/blog/css/style.css"><script>
+(function(){
+  try{
+    var q=new URLSearchParams(location.search).get('ga');
+    if(q==='off')localStorage.setItem('ga_optout','1');
+    if(q==='on')localStorage.removeItem('ga_optout');
+    if(localStorage.getItem('ga_optout')==='1')return;
+  }catch(e){}
+  var s=document.createElement('script');s.async=true;
+  s.src='https://www.googletagmanager.com/gtag/js?id=G-PDRXYMSERS';document.head.appendChild(s);
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+  window.gtag=gtag;gtag('js',new Date());gtag('config','G-PDRXYMSERS',{anonymize_ip:true});
+})();
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+<header class="topbar">
+  <a class="home" href="https://rizzo.cc/" title="Back to rizzo.cc"><b>rizzo.cc</b></a>
+  <span class="sep" aria-hidden="true">/</span>
+  <a class="mark" href="/blog/" title="Blog home">Blog</a>
+  <nav class="nav" aria-label="Section">
+    <a href="/blog/" title="All posts, newest first">Posts</a>
+    <a href="/blog/tags/" title="Browse posts by tag">Tags</a>
+    <a href="/blog/feed.xml" title="Subscribe in a feed reader (RSS)">RSS</a>
+  </nav>
+  <span class="ver" title="Section version (semantic versioning)">v0.1.0</span>
+</header>
+
+
+<div class="hero">
+  <p class="kicker">Notes from Chicago</p>
+  <h1>Acting, comedy, and the tools I build on the side.</h1>
+  <p class="lede">Short posts, written when there is something worth saying. Subscribe by RSS if you want them as they land.</p>
+</div>
+
+
+<main id="main" class="body">
+<div class="list">
+  <article class="post empty">
+    <h2>Nothing published yet</h2>
+    <p class="dek">The first posts are written and waiting on a final read. Subscribe by RSS and they will arrive as they land.</p>
+    <p><a href="/blog/feed.xml" title="Subscribe in a feed reader (RSS)">RSS feed</a></p>
+  </article>
+</div>
+
+<aside class="side">
+
+  <div class="box">
+    <h2>Follow</h2>
+    <p><a href="/blog/feed.xml" title="Subscribe in a feed reader (RSS)">RSS feed</a></p>
+    <p class="fine">Every post, full text, no tracking beyond the site's own analytics.</p>
+  </div>
+
+  <div class="box">
+    <h2>Also on rizzo.cc</h2>
+    <p><a href="https://rizzo.cc/" title="The acting site at rizzo.cc">Acting home</a></p>
+    <p class="fine">Credits, reel and resume live at the root of the domain.</p>
+  </div>
+</aside>
+
+</main>
+
+<footer class="footer">
+  <span>Blog</span>
+  <span>Part of rizzo.cc</span>
+  <span title="Section version (semantic versioning)">v0.1.0</span>
+</footer>
+
+<script>
+// Copy-link buttons. Passive confirmation only, so a top-center toast is
+// the right feedback - nothing here asks the reader to decide anything.
+(function(){
+  var toast=document.getElementById('toast'),timer=null,show=null;
+  function say(msg){
+    if(!toast)return;
+    toast.textContent=msg;toast.hidden=false;
+    // A short timeout rather than requestAnimationFrame: rAF does not run in
+    // a background tab, which would leave the toast in the DOM at opacity 0.
+    clearTimeout(show);
+    show=setTimeout(function(){toast.classList.add('on');},20);
+    clearTimeout(timer);
+    timer=setTimeout(function(){
+      toast.classList.remove('on');
+      setTimeout(function(){toast.hidden=true;},200);
+    },1800);
+  }
+  document.addEventListener('click',function(e){
+    var btn=e.target.closest('[data-copy]');
+    if(!btn)return;
+    e.preventDefault();
+    var url=btn.getAttribute('data-copy')||location.href;
+    if(navigator.clipboard&&navigator.clipboard.writeText){
+      navigator.clipboard.writeText(url).then(function(){say('Link copied');},function(){say('Could not copy');});
+    }else{
+      say('Could not copy');
+    }
+  });
+})();
+</script>
+</body>
+</html>
