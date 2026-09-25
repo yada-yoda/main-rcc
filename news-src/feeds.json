@@ -1,0 +1,184 @@
+{
+  "_comment": [
+    "Sources for the Stage Wire ingest. Everything here is free and needs no",
+    "account or key. Two layers: Google News search queries are the backbone",
+    "(they reach outlets that block their own feeds), and direct RSS feeds",
+    "give cleaner, faster copies of the stories those outlets break first.",
+    "Run .scripts/check-feeds.py after editing - it reports which sources",
+    "still answer and how fresh they are.",
+    "",
+    "enabled:false keeps a source in the file as a record without fetching it."
+  ],
+
+  "caps": {
+    "maxItemsPerSource": 60,
+    "maxAgeDays": 21,
+    "requestTimeoutSeconds": 30,
+    "politeDelaySeconds": 1
+  },
+
+  "googleNews": {
+    "base": "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en",
+    "queries": [
+      {
+        "id": "gn-bway-casting",
+        "q": "Broadway casting",
+        "enabled": true,
+        "note": "General Broadway casting news. Widest net of the set."
+      },
+      {
+        "id": "gn-offbway-casting",
+        "q": "\"off-broadway\" casting",
+        "enabled": true,
+        "note": "Off-Broadway is rarely called that outside the quote, so quote it."
+      },
+      {
+        "id": "gn-chicago-venues",
+        "q": "\"Steppenwolf Theatre\" OR \"Goodman Theatre\" OR \"Broadway In Chicago\" OR \"Chicago Shakespeare\" OR \"Lookingglass Theatre\" OR \"Writers Theatre\" OR \"Court Theatre\" OR \"Northlight Theatre\" OR \"Drury Lane Theatre\" OR \"TimeLine Theatre\" OR \"Porchlight Music Theatre\"",
+        "enabled": true,
+        "note": "Chicago houses, every name quoted in full. Bare words here are a disaster: an unquoted TimeLine returns Premier League timelines, Paramount returns the studio merger, and Court returns courtrooms. This is how Tribune coverage reaches us at all - their own feed 403s."
+      },
+      {
+        "id": "gn-bway-debut",
+        "q": "\"makes Broadway debut\"",
+        "enabled": true,
+        "note": "Catches the celebrity-crossover stories, which are the ones the page exists for."
+      },
+      {
+        "id": "gn-to-star",
+        "q": "\"to star\" Broadway",
+        "enabled": true,
+        "note": "The other half of the casting phrasing."
+      },
+      {
+        "id": "gn-chicago-announces",
+        "q": "Chicago theater announces season",
+        "enabled": true,
+        "note": "New production and season announcements out of Chicago."
+      }
+    ]
+  },
+
+  "feeds": [
+    {
+      "id": "playbill",
+      "name": "Playbill",
+      "url": "https://playbill.com/rss/news",
+      "enabled": true,
+      "note": "Casting announcements usually land here first."
+    },
+    {
+      "id": "broadwayworld",
+      "name": "BroadwayWorld",
+      "url": "https://www.broadwayworld.com/feed_all_bway.php",
+      "enabled": true,
+      "note": "High volume. Their Chicago regional feed is gone, so Chicago arrives via Google News."
+    },
+    {
+      "id": "nyt-theater",
+      "name": "The New York Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml",
+      "enabled": true,
+      "note": "Low volume, high quality, New York."
+    },
+    {
+      "id": "variety-theater",
+      "name": "Variety",
+      "url": "https://variety.com/v/theater/feed/",
+      "enabled": true,
+      "note": "Celebrity-heavy - good for the fame angle."
+    },
+    {
+      "id": "deadline-theater",
+      "name": "Deadline",
+      "url": "https://deadline.com/v/theater/feed/",
+      "enabled": true,
+      "note": "Celebrity-heavy, breaks casting early."
+    },
+    {
+      "id": "thr-arts",
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/arts/feed/",
+      "enabled": true,
+      "note": "Arts section - theater is a slice of it, so expect noise."
+    },
+    {
+      "id": "broadway-news",
+      "name": "Broadway News",
+      "url": "https://www.broadwaynews.com/feed/",
+      "enabled": true,
+      "note": "Trade coverage, national."
+    },
+    {
+      "id": "ny-stage-review",
+      "name": "New York Stage Review",
+      "url": "https://www.nystagereview.com/feed/",
+      "enabled": true,
+      "note": "Mostly reviews, which the type rules discard - kept for the occasional announcement."
+    },
+    {
+      "id": "american-theatre",
+      "name": "American Theatre",
+      "url": "https://www.americantheatre.org/feed/",
+      "enabled": true,
+      "note": "National, regional-theater focus."
+    },
+    {
+      "id": "newcity-stage",
+      "name": "Newcity Stage",
+      "url": "https://newcitystage.com/feed/",
+      "enabled": true,
+      "note": "Chicago only."
+    },
+    {
+      "id": "chicago-onstage",
+      "name": "Chicago Onstage",
+      "url": "https://www.chicagoonstage.com/feed/",
+      "enabled": true,
+      "note": "Chicago only."
+    },
+    {
+      "id": "chicago-reader",
+      "name": "Chicago Reader",
+      "url": "https://chicagoreader.com/feed/",
+      "enabled": true,
+      "categoryContains": ["theater", "performing arts", "stage"],
+      "note": "Main feed, so it needs a category filter or it floods the run with music and food."
+    }
+  ],
+
+  "retired": [
+    {
+      "name": "Chicago Tribune theater",
+      "url": "https://www.chicagotribune.com/arts-entertainment/theater/feed/",
+      "reason": "403 to any non-browser client",
+      "covered_by": "gn-chicago-venues",
+      "checked": "2026-09-08"
+    },
+    {
+      "name": "TheaterMania",
+      "reason": "feed responds but is empty",
+      "checked": "2026-09-08"
+    },
+    {
+      "name": "Broadway.com",
+      "reason": "no working feed found",
+      "checked": "2026-09-08"
+    },
+    {
+      "name": "New York Theatre Guide",
+      "reason": "no working feed found",
+      "checked": "2026-09-08"
+    },
+    {
+      "name": "TimeOut Chicago",
+      "reason": "no working feed found",
+      "checked": "2026-09-08"
+    },
+    {
+      "name": "chicagoplays.com",
+      "reason": "no working feed found",
+      "checked": "2026-09-08"
+    }
+  ]
+}

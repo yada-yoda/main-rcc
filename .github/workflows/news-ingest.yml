@@ -1,0 +1,78 @@
+# Collect theatre casting news for rizzo.cc/news (Stage Wire).
+#
+# Reads the free RSS sources in news-src/feeds.json, files each story by city,
+# tier and type, looks up names on Wikidata, and writes news-src/data/. No
+# keys, no accounts, no paid services - the whole point of the design.
+#
+# Four times a day is enough: these outlets publish in US business hours and
+# nothing here is time-critical. The run is skipped entirely if nothing
+# changed, so a quiet day leaves no commit.
+#
+# This workflow writes only under news-src/data/, so it can never disturb the
+# blog, the acting site at the domain root, or the mirror coming in from the
+# dev repo.
+
+name: News ingest
+
+on:
+  schedule:
+    # 13:00, 19:00, 01:00, 07:00 UTC - morning, midday, evening and overnight
+    # in US Central, which is where the Chicago half of the coverage lives.
+    - cron: "0 13,19,1,7 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Classify and report without writing anything"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# The acting mirror and the blog build also push to this repo. Serializing the
+# ingest and rebasing right before the push keeps them out of each other's way.
+concurrency:
+  group: news-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check feed health
+        working-directory: news-src
+        # Informational: one dead outlet should not stop the run, but the
+        # reason a quiet day was quiet should be in the log.
+        continue-on-error: true
+        run: python check_feeds.py
+
+      - name: Ingest
+        working-directory: news-src
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python ingest.py --dry-run
+          else
+            python ingest.py
+          fi
+
+      - name: Commit data if it changed
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain news-src/data)" ]; then
+            echo "No new stories."
+            exit 0
+          fi
+          git add news-src/data
+          git commit -m "News: ingest $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin main
+          git push

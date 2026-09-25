@@ -8,6 +8,7 @@ Two things live here and they do not overlap:
 |---|---|---|
 | `/` (root) | The acting site. `index.html`, `resources.html`, `reel.html`, `assets/`, `sitemap.xml`, `robots.txt` | Mirrored in from the `dev` repo by its sync workflow. **Never edit these by hand** - the next sync overwrites them. |
 | `/blog` | The blog at rizzo.cc/blog | Built here from `blog-src/` by `.github/workflows/build-blog.yml` |
+| `news-src/` | The Stage Wire news ingest | Runs itself four times a day via `.github/workflows/news-ingest.yml` |
 
 `.nojekyll` at the root turns GitHub's Jekyll pass off. Without it Jekyll would
 render the Eleventy sources in `blog-src/` as extra pages.
@@ -53,6 +54,52 @@ The blog keeps its own sitemap at `/blog/sitemap.xml`. The root `/sitemap.xml`
 belongs to the acting site and is mirrored over on every acting edit, so blog
 URLs cannot be merged into it and survive. Search engines pick both up from the
 `Sitemap:` lines in `robots.txt`.
+
+## The news ingest
+
+`news-src/` collects theatre casting news from free RSS feeds and files each
+story by city, tier and type. It runs on a schedule and needs no key, no
+account and no paid service.
+
+```
+news-src/
+  feeds.json      the sources: Google News queries plus direct outlet feeds
+  venues.json     Broadway / Off-Broadway / Chicago houses -> city and tier
+  classify.py     the rules: what is theatre news, where, and what kind
+  people.py       Wikidata lookups - is this a performer, how widely known
+  wire.py         fetching, date parsing, RSS and Atom reading
+  ingest.py       the pipeline that ties it together
+  check_feeds.py  source health report
+  overrides.json  manual corrections, applied last, always winning
+  data/           stories.json and the Wikidata name cache
+```
+
+Useful commands, run from `news-src/`:
+
+```
+python check_feeds.py                          which sources still answer
+python ingest.py --dry-run --no-people --fast  classify without writing
+python ingest.py --dry-run --show 10           same, print the top stories
+python ingest.py                               the real run, writes data/
+```
+
+**Nothing is invented.** A story's summary is the outlet's own feed
+description trimmed to two sentences, kept as a quote with the outlet named.
+Article body text is never copied.
+
+**Unsure means off the page.** A story missing a city or a type gets
+`status: review` and stays out of the published set. A story with neither is
+dropped as off-topic - that is usually a search query catching the wrong
+Paramount.
+
+**Corrections are one line.** Add the story id to `overrides.json` with
+`{"hide": true}` or with the fields to correct. Overrides are applied after
+the rules and always win, so nothing needs a code change to be fixed.
+
+**The fame score** next to a name is how many language editions of Wikipedia
+have an article about that person. It is crude on purpose: public, free, and
+hard to game. Names below the threshold still appear in the story, they just
+do not get a celebrity chip.
 
 ## Changelog
 
