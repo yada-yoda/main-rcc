@@ -656,6 +656,15 @@
   "qid": "Q63086179",
   "score": 49
  },
+ "Encore Engagement": {
+  "checkedAt": "2026-09-25T19:53:48+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Encores You’re A": {
   "checkedAt": "2026-09-25T17:52:09+00:00",
   "description": null,
@@ -1405,6 +1414,15 @@
   "qid": "Q118179884",
   "score": 5
  },
+ "Mormon Becomes": {
+  "checkedAt": "2026-09-25T19:53:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Moves Indoors": {
   "checkedAt": "2026-09-25T17:47:56+00:00",
   "description": null,
@@ -1826,6 +1844,15 @@
   "knownFor": [],
   "qid": "Q30123034",
   "score": 3
+ },
+ "Sarah Jones America": {
+  "checkedAt": "2026-09-25T19:53:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Sarah Paulson": {
   "checkedAt": "2026-09-25T17:56:04+00:00",

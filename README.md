@@ -101,6 +101,21 @@ have an article about that person. It is crude on purpose: public, free, and
 hard to game. Names below the threshold still appear in the story, they just
 do not get a celebrity chip.
 
+### Images
+
+The ingest records the outlet's own image URL for a story when the feed
+publishes one, along with any credit line that came with it. Around a third
+of stories have one. Nothing is downloaded or copied: what is stored is a URL
+pointing at the outlet's own server.
+
+**Recording a URL is not the same as publishing the picture, and the Stage
+Wire pages do not display these yet.** That is a deliberate gap. Production
+photography is usually licensed to the photographer rather than the outlet -
+several of these filenames literally contain the photographer's name - and
+displaying one on rizzo.cc would be republishing someone's work on a domain
+that also carries an acting resume. The data is captured so the option
+exists; the decision to show them is a separate one.
+
 ## Changelog
 
 ### Blog v0.1.0 - 2026-09-22

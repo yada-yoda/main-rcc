@@ -287,6 +287,10 @@ def file_story(item, venues, max_age_days, now):
         "show": classify.show_title(title),
         "quote": quote,
         "quoteSource": outlet,
+        # The outlet's own image URL, recorded but not copied. Whether these
+        # are ever displayed is a separate decision - see the README.
+        "image": item.image,
+        "imageCredit": item.image_credit,
         "published": published,
         "source": {"name": outlet, "url": link, "feed": item.feed_id},
         "names": classify.extract_names(title),
@@ -367,6 +371,8 @@ def build(args):
                 "show": s["show"],
                 "quote": s["quote"],
                 "quoteSource": s["quoteSource"],
+                "image": s["image"],
+                "imageCredit": s["imageCredit"],
                 "published": s["published"],
                 "sources": [],
                 "names": [],
@@ -380,6 +386,10 @@ def build(args):
                 c[field] = s[field]
         if not c["quote"] and s["quote"]:
             c["quote"], c["quoteSource"] = s["quote"], s["quoteSource"]
+        # A Google News copy of a story carries no image, so the first outlet
+        # in the cluster often has none while a later one does.
+        if not c["image"] and s["image"]:
+            c["image"], c["imageCredit"] = s["image"], s["imageCredit"]
         if not any(x["url"] == s["source"]["url"] for x in c["sources"]):
             c["sources"].append(s["source"])
         for n in s["names"]:
@@ -405,6 +415,8 @@ def build(args):
         # Prefer a real summary over none, and the fuller of two summaries.
         if len(other.get("quote") or "") > len(into.get("quote") or ""):
             into["quote"], into["quoteSource"] = other["quote"], other["quoteSource"]
+        if not into.get("image") and other.get("image"):
+            into["image"], into["imageCredit"] = other["image"], other["imageCredit"]
         for s in other["sources"]:
             if not any(x["url"] == s["url"] for x in into["sources"]):
                 into["sources"].append(s)
@@ -501,6 +513,8 @@ def build(args):
             "title": c["title"],
             "quote": c["quote"],
             "quoteSource": c["quoteSource"],
+            "image": c["image"],
+            "imageCredit": c["imageCredit"],
             "celebs": c["celebs"],
             "sources": c["sources"],
             "status": status,
@@ -554,6 +568,7 @@ def build(args):
         "chicago": sum(1 for s in out if s.get("city") == "Chicago"),
         "withCelebs": sum(1 for s in out if s.get("celebs")),
         "watched": sum(1 for s in out if s.get("watched")),
+        "withImage": sum(1 for s in out if s.get("image")),
     }
 
     log("\nResult")

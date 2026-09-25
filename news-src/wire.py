@@ -28,6 +28,7 @@ ACCEPT = "application/rss+xml, application/atom+xml, application/xml, text/xml, 
 DC = "{http://purl.org/dc/elements/1.1/}"
 ATOM = "{http://www.w3.org/2005/Atom}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
 
 # Named zones that turn up in RSS. %Z will not reliably parse these, so they
 # are mapped by hand. Standard/daylight pairs both listed; being an hour out
@@ -115,21 +116,84 @@ def strip_tags(s):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]*>", " ", s or "")).strip()
 
 
+IMG_SRC_RE = re.compile(r"<img[^>]+src=[\"']([^\"']+)[\"']", re.I)
+
+# Tracking pixels and spacers dressed up as article images. A one-pixel GIF
+# from a stats service is not a photograph of anything.
+IMAGE_JUNK = ("pixel", "/track", "spacer", "blank.gif", "1x1", "doubleclick",
+              "feedburner", "gravatar", "avatar")
+
+
+def _usable_image(url):
+    if not url:
+        return False
+    u = url.lower()
+    if not u.startswith("http"):
+        return False
+    return not any(bad in u for bad in IMAGE_JUNK)
+
+
+def find_image(entry, summary_html):
+    """The outlet's own image for this story, if the feed offers one.
+
+    Only what the feed publishes is used - media RSS elements, an enclosure,
+    or an image already embedded in the description. Nothing is scraped from
+    the article page, and the image is never copied: what is recorded is the
+    outlet's URL and whatever credit the feed supplied.
+
+    Returns (url, credit) and both may be None. Storing a URL is not the same
+    as displaying it; whether these are ever shown is a separate decision
+    with its own rights questions.
+    """
+    candidates = []
+
+    for node in entry.findall(MEDIA + "content"):
+        medium = (node.get("medium") or "").lower()
+        mime = (node.get("type") or "").lower()
+        if medium == "image" or mime.startswith("image/") or (not medium and not mime):
+            candidates.append(node.get("url"))
+
+    for node in entry.findall(MEDIA + "thumbnail"):
+        candidates.append(node.get("url"))
+
+    for node in entry.findall("enclosure"):
+        if (node.get("type") or "").lower().startswith("image/"):
+            candidates.append(node.get("url"))
+
+    m = IMG_SRC_RE.search(summary_html or "")
+    if m:
+        candidates.append(html_module.unescape(m.group(1)))
+
+    url = next((c for c in candidates if _usable_image(c)), None)
+
+    credit = None
+    for tag in (MEDIA + "credit", MEDIA + "copyright"):
+        node = entry.find(tag)
+        if node is not None and node.text:
+            credit = node.text.strip()
+            break
+
+    return url, credit
+
+
 class Item:
     """One story as a feed described it, before any of our own judgement."""
 
     # feed_id / feed_name are filled in by the collector, which knows which
     # source the item came from; the parser does not.
     __slots__ = ("title", "link", "summary", "published", "source", "categories",
-                 "feed_id", "feed_name")
+                 "image", "image_credit", "feed_id", "feed_name")
 
-    def __init__(self, title, link, summary, published, source, categories):
+    def __init__(self, title, link, summary, published, source, categories,
+                 image=None, image_credit=None):
         self.title = title
         self.link = link
         self.summary = summary
         self.published = published
         self.source = source
         self.categories = categories
+        self.image = image
+        self.image_credit = image_credit
         self.feed_id = ""
         self.feed_name = ""
 
@@ -153,8 +217,10 @@ def _rss_items(root):
         categories = [_text(c) for c in e.findall("category")]
         categories += [_text(c) for c in e.findall(DC + "subject")]
 
+        image, credit = find_image(e, summary)
+
         yield Item(title, link, strip_tags(summary), published, source,
-                   [c for c in categories if c])
+                   [c for c in categories if c], image, credit)
 
 
 def _atom_items(root):
@@ -171,7 +237,9 @@ def _atom_items(root):
             _text(e.find(ATOM + "published")) or _text(e.find(ATOM + "updated"))
         )
         categories = [c.get("term") for c in e.findall(ATOM + "category") if c.get("term")]
-        yield Item(title, link, strip_tags(summary), published, "", categories)
+        image, credit = find_image(e, summary)
+        yield Item(title, link, strip_tags(summary), published, "", categories,
+                   image, credit)
 
 
 def parse_feed(body):
