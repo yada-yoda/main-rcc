@@ -261,9 +261,16 @@ def extract_names(title):
             flush()
             continue
 
-        # A possessive is the end of whatever came before it and no part of
-        # what comes after: "Broadway's School Girls" is not a person.
-        if POSSESSIVE_RE.search(raw.strip(STRIP_EDGES.replace("'", "").replace("’", ""))):
+        # A possessive ends a name, but the word carrying it is still part of
+        # that name: "Aubrey Plaza's Broadway debut" is about Aubrey Plaza,
+        # while "Broadway's School Girls" is not about anyone. So strip the
+        # 's, keep the word if it stands up on its own, then close the run -
+        # whatever follows a possessive belongs to a different phrase.
+        bare = raw.strip(STRIP_EDGES.replace("'", "").replace("’", ""))
+        if POSSESSIVE_RE.search(bare):
+            owner = POSSESSIVE_RE.sub("", bare).strip(STRIP_EDGES)
+            if _looks_like_name_word(owner):
+                run.append(owner)
             flush()
             continue
 

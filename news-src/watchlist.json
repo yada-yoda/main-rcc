@@ -1,0 +1,24 @@
+{
+  "_comment": [
+    "People this wire always cares about.",
+    "",
+    "A story naming anyone on this list is marked watched and sorts above",
+    "everything else, ahead of both the recognized-celebrity stories and the",
+    "plain ones. Within the watched group the newest still comes first.",
+    "",
+    "A watched name also skips the fame threshold entirely: they get their",
+    "chip whatever Wikidata thinks of them. That is the point of the list -",
+    "it is the editorial override on a score that cannot know what this site",
+    "is actually interested in.",
+    "",
+    "Matching ignores case and possessives, so \"Aubrey Plaza's Broadway",
+    "debut\" counts. Add a name exactly as it is normally printed."
+  ],
+
+  "watch": [
+    {
+      "name": "Aubrey Plaza",
+      "note": "Follow everything - stage work, casting, transfers."
+    }
+  ]
+}

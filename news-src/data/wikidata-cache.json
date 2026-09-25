@@ -137,6 +137,15 @@
   "qid": "Q151892",
   "score": 141
  },
+ "Aubrey Plaza": {
+  "checkedAt": "2026-09-25T18:40:25+00:00",
+  "description": "American actress, producer and comedian (born 1984)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q210547",
+  "score": 54
+ },
  "Baryshnikov Arts": {
   "checkedAt": "2026-09-25T17:56:15+00:00",
   "description": null,
@@ -199,6 +208,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Betsy Wolfe": {
+  "checkedAt": "2026-09-25T18:43:04+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q25051164",
+  "score": 7
  },
  "Bill Pay": {
   "checkedAt": "2026-09-25T17:55:27+00:00",
@@ -1046,6 +1064,15 @@
   "qid": "Q43852827",
   "score": 2
  },
+ "Joe Iconis": {
+  "checkedAt": "2026-09-25T18:43:06+00:00",
+  "description": "American musical theatre writer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6210465",
+  "score": 3
+ },
  "John Legend": {
   "checkedAt": "2026-09-25T17:55:44+00:00",
   "description": "American singer-songwriter",
@@ -1223,6 +1250,18 @@
   "qid": null,
   "score": 0
  },
+ "Lin-Manuel Miranda": {
+  "checkedAt": "2026-09-25T18:43:02+00:00",
+  "description": "American songwriter and composer (born 1980)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "In the Heights",
+   "Star Wars: Episode VII – The Force Awakens"
+  ],
+  "qid": "Q1646482",
+  "score": 45
+ },
  "Little Shop": {
   "checkedAt": "2026-09-25T17:54:35+00:00",
   "description": null,
@@ -1240,6 +1279,15 @@
   "knownFor": [],
   "qid": "Q11833191",
   "score": 17
+ },
+ "Longest Running Show": {
+  "checkedAt": "2026-09-25T18:43:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Love Story": {
   "checkedAt": "2026-09-25T17:53:58+00:00",
@@ -1571,6 +1619,18 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Quentin Tarantino": {
+  "checkedAt": "2026-09-25T18:43:10+00:00",
+  "description": "American filmmaker and actor (born 1963)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Reservoir Dogs",
+   "Pulp Fiction"
+  ],
+  "qid": "Q3772",
+  "score": 123
  },
  "Rachel Dratch": {
   "checkedAt": "2026-09-25T17:48:13+00:00",
@@ -2042,6 +2102,15 @@
   "knownFor": [],
   "qid": "Q3525542",
   "score": 22
+ },
+ "Tim Crouch": {
+  "checkedAt": "2026-09-25T18:43:09+00:00",
+  "description": "English dramatist",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16195482",
+  "score": 5
  },
  "Titanique Hits": {
   "checkedAt": "2026-09-25T17:56:43+00:00",

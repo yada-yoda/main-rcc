@@ -321,6 +321,9 @@ def build(args):
     cfg = json.loads((ROOT / "feeds.json").read_text(encoding="utf-8"))
     venues = classify.load_venues()
     overrides = json.loads((ROOT / "overrides.json").read_text(encoding="utf-8"))
+    watchlist = json.loads((ROOT / "watchlist.json").read_text(encoding="utf-8"))
+    watch_names = [w["name"] for w in watchlist.get("watch", []) if w.get("name")]
+    watch_norm = {norm_title(n): n for n in watch_names}
     caps = cfg.get("caps", {})
 
     only = set(args.source.split(",")) if args.source else None
@@ -418,7 +421,21 @@ def build(args):
         enabled=not args.no_people,
     )
     for c in clusters.values():
-        c["celebs"] = ppl.celebrities(c["names"][:6]) if c["names"] else []
+        # A watched name is looked for in the headline as well as among the
+        # extracted names, so an extraction miss cannot lose the one person
+        # the site is explicitly following.
+        hay = norm_title(c["title"])
+        c["watched"] = sorted({
+            proper for key, proper in watch_norm.items() if key and key in hay
+        } | {
+            proper for key, proper in watch_norm.items()
+            if any(norm_title(n) == key for n in c["names"])
+        })
+        lookup = list(c["names"][:6])
+        for w in c["watched"]:
+            if w not in lookup:
+                lookup.append(w)
+        c["celebs"] = ppl.celebrities(lookup, always=c["watched"]) if lookup else []
     if not args.no_people:
         cache_days_note = f", {ppl.lookups} Wikidata lookups"
 
@@ -466,8 +483,13 @@ def build(args):
         sid = story_id(c["key"])
         was = existing.get(sid)
         status = "published" if (c["city"] and c["type"]) else "review"
+        # Sort rank rather than a raw flag, so the page has one field to order
+        # by: watched people first, then anyone widely known, then the rest.
+        priority = 1 if c["watched"] else (2 if c["celebs"] else 3)
         story = {
             "id": sid,
+            "priority": priority,
+            "watched": c["watched"],
             "firstSeen": was["firstSeen"] if was else c["published"].isoformat(timespec="seconds"),
             "published": c["published"].isoformat(timespec="seconds"),
             "city": c["city"],
@@ -517,7 +539,11 @@ def build(args):
         if s.get("city") and s.get("type") and s["status"] == "review":
             s["status"] = "published"
 
+    # Watched people lead the wire, then recognized names, then everything
+    # else - newest first inside each band. Two passes because Python's sort
+    # is stable and the two keys run in opposite directions.
     out.sort(key=lambda s: s["published"], reverse=True)
+    out.sort(key=lambda s: s.get("priority", 3))
 
     counts = {
         "total": len(out),
@@ -527,6 +553,7 @@ def build(args):
         "newYork": sum(1 for s in out if s.get("city") == "New York"),
         "chicago": sum(1 for s in out if s.get("city") == "Chicago"),
         "withCelebs": sum(1 for s in out if s.get("celebs")),
+        "watched": sum(1 for s in out if s.get("watched")),
     }
 
     log("\nResult")

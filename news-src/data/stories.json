@@ -2,7 +2,1378 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "40118ec1f1",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T19:13:15+00:00",
+   "published": "2026-09-23T19:13:15+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": "Lookingglass Theatre Company",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Kowalski explores and explodes the myths of Tennessee Williams and Marlon Brando",
+   "quote": "Johnny Galecki (L) and Jacob Moskovitz in Kowalski at Lookingglass Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Johnny-Galecki-Jacob-Moskovitz-1-scaled-e1790190586631.jpg?fit=780%2C559&ssl=1\" /> Kowalski , through 10/25 at Lookingglass Theatre The post Kowalski explores and…",
+   "quoteSource": "Chicago Reader",
+   "celebs": [
+    {
+     "name": "Marlon Brando",
+     "knownFor": "The Godfather, Apocalypse Now",
+     "score": 158,
+     "qid": "Q34012"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Chicago Reader",
+     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/kowalski-lookingglass-theatre/",
+     "feed": "chicago-reader"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a6c845c636",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T18:37:33+00:00",
+   "published": "2026-09-23T18:37:33+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": "Chicago Shakespeare Theater",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Play On! celebrates Duke Ellington by way of Twelfth Night",
+   "quote": "Hailee Kaleem Wright (L) and Krystal Joy Brown in Play On! at Chicago Shakespeare Theater \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/3_CST_PLAYON_Press_Photo-by-Kyle-Flubacker-scaled-e1790188221556.jpg?fit=780%2C520&ssl=1\" /> Play On!",
+   "quoteSource": "Chicago Reader",
+   "celebs": [
+    {
+     "name": "Duke Ellington",
+     "knownFor": "Just Squeeze Me (But Please Don't Tease Me), It Don't Mean a Thing",
+     "score": 88,
+     "qid": "Q4030"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Chicago Reader",
+     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/play-on-chicago-shakespeare-theater/",
+     "feed": "chicago-reader"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "1c0ca597aa",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T16:54:10+00:00",
+   "published": "2026-09-23T16:54:10+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New York City Center",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": "You",
+   "title": "Rachel Dratch & Jeff Hiller Join Encores’ ‘You’re A Good Man, Charlie Brown’; Gershwins’ ‘Let ’Em Eat Cake’ Added To Season",
+   "quote": "Rachel Dratch will portray Patty (the non-Peppermint one) and Jeff Hiller will be the piano-playing Schroeder in the upcoming City Center Encores! production of You’re A Good Man, Charlie Brown.",
+   "quoteSource": "Deadline",
+   "celebs": [
+    {
+     "name": "Rachel Dratch",
+     "knownFor": "American actress and comedian",
+     "score": 26,
+     "qid": "Q261977"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/09/rachel-dratch-jeff-hiller-youre-a-good-man-charlie-brown-1237111326/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "5fe21e1629",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T16:37:30+00:00",
+   "published": "2026-09-23T16:37:30+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Giant",
+   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "celebs": [
+    {
+     "name": "John Lithgow",
+     "knownFor": "American actor",
+     "score": 64,
+     "qid": "Q311271"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "3b6f646977",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T19:09:03+00:00",
+   "published": "2026-09-22T19:09:03+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Delirium",
+   "title": "Chulpan Khamatova Stars in the Dark, Absurdist Play “Delirium”",
+   "quote": "After opposing the war in Ukraine and settling in Latvia, Chulpan Khamatova now comes to New York to star in a dark comedy by Ionesco.",
+   "quoteSource": "The New York Times",
+   "celebs": [
+    {
+     "name": "Chulpan Khamatova",
+     "knownFor": "Russian actress",
+     "score": 45,
+     "qid": "Q236132"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/09/21/theater/chulpan-khamatova-delirium-eugene-ionesco.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "ac7ffd25d3",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T17:41:21+00:00",
+   "published": "2026-09-22T17:41:21+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The 25th Annual Putnam County Spelling Bee",
+   "title": "Laura Marano to Join Cast of Off-Broadway’s ‘The 25th Annual Putnam County Spelling Bee’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "celebs": [
+    {
+     "name": "Laura Marano",
+     "knownFor": "American actress and singer",
+     "score": 41,
+     "qid": "Q242792"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFaM2FoQ1JZZW5nc3pWcmFPYzNMWDZpbm5wc3YtZkZaZHpmV3pUUUlxa0lka2ZOVmlMZXQ0ZldkNm1EOG53U1p3SnZnbFBpSVBxcTdjdl81eVlManp2elh2YTU5blVMRWhMeGFaV0JyY0lwRy1XNnJvaDFLY2Y3V0RUTWJQLXBrVXJkSzJIaUx0Qk1qZ1ZiRmF6OXpRQnNTR29vRmpzalZnQ2h0bXlKVGRLRmpJSmNieW1xaEt3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a1e69b72f4",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T15:31:00+00:00",
+   "published": "2026-09-22T15:31:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Diego Rodriguez and James Olivas Will Again Co-Star With Rachel Zegler in Evita on Broadway",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "celebs": [
+    {
+     "name": "Rachel Zegler",
+     "knownFor": "American actress",
+     "score": 53,
+     "qid": "Q61693947"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1VXT250Y2VwX3FoQWpkbHN0QW5jSV9PeHVkajZ2eWVFYVctLVpVSWpWd1dBT3liRVh4bS1WeExybEk0YlI2bzE0eUNEM0ZnTlVlQVhwdWI0Ujd5UHROZEtjNUF0Q1l6blo0WjNMSTh0cWw1UWRjSlF0R1BDdTJZRnl5b2ljVm9sQUUtbTJUMjFreXNvOFBJeFJ6aThReDVMNGFhRXg1a0NZcEFpWXRkNW1XWGh1MVRPbWoxSA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "77fa7a2204",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T15:00:00+00:00",
+   "published": "2026-09-22T15:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Winter Garden Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Evita",
+   "title": "Casting announced for Evita with Rachel Zegler on Broadway",
+   "quote": "Rachel Zegler will be joined in Broadway’s Evita by her London co-stars Diego Rodriguez and James Olivas when the musical revival arrives in New York in February. The casting was announced today by producers Jamie Lloyd and Michael Harrison.",
+   "quoteSource": "Deadline",
+   "celebs": [
+    {
+     "name": "Rachel Zegler",
+     "knownFor": "American actress",
+     "score": 53,
+     "qid": "Q61693947"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Matineemouse",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CZVlYd3VYOWd0T2owLU1ndkV1V1pTZEZzcnNiLUZjY0Nya3c1eEc5UThLM3JHdVlhZlFPV2NXTlQ0LUhFWFNoWFpVOGNaUWwxQ01tNTdKcnRZRnh4MGN2V21ocHgwUWVBMFltZmJiUkNYMmU3azZERVQyRQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "WhatsOnStage",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80N3dHOFprdnUwMi1qOHY0SHR0WUdST2tmbHpQaUpYUG9nQzQ0LWJEd0dzOVYzbWhTZlhPX2VGM0NfaXZlVXkxWkZZNlRDTHUyR1czeDVkSExHMlpjVEJjNW9lRDBtTmx3c05ZVC1HQVhFTUFENkhRbWlySng0SXliUElZeHdVQzhjTlIzeHNrcmFOVkh6SlJQLS1sRkEyVlNVWV9fNTJUVzhvbWlaRXRHMHhsX2xQSzZ5NzNOaWtXZw",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdF9sRVQ2dDdrNFVJU2dnQURTRTZIY2pLYXBjZkgyN1FwcnNuTm1VT2o3Z1p0dlJEMUdWMG9XVW45aXBvTVpXaTEyY0paemhUbXZybzYxa0dWVERRSi0wc1YtM2hQXy14MkhXaGpOWExIVDZmMmJTSERwVFRiQWs",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/09/evita-broadway-cast-rachel-zegler-1237110126/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "4f78d24383",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T08:30:00+00:00",
+   "published": "2026-09-22T08:30:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "An Oak Tree",
+   "title": "Juliet Stevenson, Olivia Williams Join Tim Crouch’s ‘An Oak Tree’ at the Other Palace (EXCLUSIVE)",
+   "quote": "Francesca Moody Productions has unveiled further casting for Tim Crouch’s “An Oak Tree,” adding Juliet Stevenson, Olivia Williams, Sean Gilder, Brian Gleeson, Sophie Melville, Rhashan Stone and Ria Zmitrowicz to the roster of guest artists appearing opposite Crouch during the show’s run at The Other Palace from Oct. 7…",
+   "quoteSource": "Variety",
+   "celebs": [
+    {
+     "name": "Olivia Williams",
+     "knownFor": "British actress",
+     "score": 48,
+     "qid": "Q231163"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/theater/news/juliet-stevenson-olivia-williams-tim-crouch-an-oak-tree-1236871011/",
+     "feed": "variety-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "e14a41f552",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T06:47:21+00:00",
+   "published": "2026-09-22T06:47:21+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Warriors",
+   "title": "Now Casting: Join the Broadway Cast of Eisa Davis and Lin-Manuel Miranda’s ‘Warriors’ + 3 More Gigs",
+   "quote": "",
+   "quoteSource": "Backstage",
+   "celebs": [
+    {
+     "name": "Lin-Manuel Miranda",
+     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
+     "score": 45,
+     "qid": "Q1646482"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Backstage",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUJKdnBSYWZoRndYaUtfbUVhTHdQMzZuNVJ6c2tZWnpKUnVlSlRrRDRicFBvRDRuTWF4dGtrbWhMUWNsOVl5U3piWlJrRkY2T0VtYnJuZHNSTmJTc21WbE0zMUZhdzY1QnhVU0VFQzgzYnEwTm1CMEZ2M2lKUFJVMXNGYi1RcEYzY1ZpY2d2eE8xZzczRVBlTndNZUYxRXN1NTFqcExQelJDSE1jNGc",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "ecebe6cb9a",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-21T14:43:23+00:00",
+   "published": "2026-09-21T14:43:23+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Lucie Jones to Star in 13 Going on 30 – The Musical in Toronto",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "celebs": [
+    {
+     "name": "Lucie Jones",
+     "knownFor": "British singer",
+     "score": 32,
+     "qid": "Q28533369"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXc4TmF2angwQ0NldlZIWnI0V2dLaXpldHlscmlrMEEwWXBKWUZDbzgzb2xGaUQzSjVDdkdfc2JsNGFtV1hILWxpbWxoaUZudDJZLVl5SEdMYzNLaGo3RFJjNzVyYXY0MjdrZm13ZWpyVHNpZERsbTlpZjNmWXRMVnVUR0trUGlSMGJFUWp2UnFWUWZuZjVja3J3eElabVNXOXBFcVJB",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "405179a038",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-20T21:54:51+00:00",
+   "published": "2026-09-20T21:54:51+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": "Lookingglass Theatre Company",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Kowalski Brings Tennessee Williams, Marlon Brando, and All Their Drama to Lookingglass",
+   "quote": "Review by Savannah Brooks; Photo by Michael Brosilow The imagined version of Tennessee Williams (Johnny Galecki) and Marlon Brando (Jacob Moskovitz) in […]",
+   "quoteSource": "Chicago Onstage",
+   "celebs": [
+    {
+     "name": "Marlon Brando",
+     "knownFor": "The Godfather, Apocalypse Now",
+     "score": 158,
+     "qid": "Q34012"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Chicago Onstage",
+     "url": "https://www.chicagoonstage.com/kowalski-brings-tennessee-williams-marlon-brando-and-all-their-drama-to-lookingglass/",
+     "feed": "chicago-onstage"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9e1617b375",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-16T17:09:15+00:00",
+   "published": "2026-09-16T17:09:15+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Patti LuPone to Star in Off-Broadway Revival of Full Gallop",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "celebs": [
+    {
+     "name": "Patti LuPone",
+     "knownFor": "Les Misérables",
+     "score": 33,
+     "qid": "Q270324"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVpXeUpQT1dQNDNVbWh1VUNMYUkwZ1plVm9VVGR1enE5dHRLRC1sXzRnaENsUjllbElwU1hVYzllTVNCQ1liVjI1VENqaHhBNVpJV0xWcjF5YzI0RnVpMjNNMHpRMkFpTEJOcmNZbjVmV3A0d3g0NmF6UElwRGJyYk9xaFVmSzlZNVloOFl3WEJBQllxbDJvSldEVWxYM1RSTzNCWA",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "3974e9d69d",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-16T16:45:21+00:00",
+   "published": "2026-09-16T16:45:21+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Julia Louis-Dreyfus Is Ready to Make a Meal of Broadway",
+   "quote": "The actress, last onstage over four decades ago, had a “terrifying” desire to return to the stage. “Other Desert Cities” will be her Broadway debut.",
+   "quoteSource": "The New York Times",
+   "celebs": [
+    {
+     "name": "Julia Louis-Dreyfus",
+     "knownFor": "Veep, Seinfeld",
+     "score": 56,
+     "qid": "Q232072"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/09/16/theater/julia-louis-dreyfus-broadway-other-desert-cities.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "0fc5a8d2e0",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-16T16:00:28+00:00",
+   "published": "2026-09-16T16:00:28+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Odds and Ends: Spring Awakening Sets Off-Broadway Cast, Lea Michele and Aaron Tveit to Reunite in Concert",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "celebs": [
+    {
+     "name": "Lea Michele",
+     "knownFor": "Glee, Spring Awakening",
+     "score": 55,
+     "qid": "Q228733"
+    },
+    {
+     "name": "Aaron Tveit",
+     "knownFor": "American singer actor",
+     "score": 25,
+     "qid": "Q321770"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhfUTlRdXlvYXo3X0tHUWpOdHVRUkRyOWIwN0Qzc3VqZXppSzQ2OEJaWDJBWkVhdVFIN25idDAyT3V3d0VHbjJoQmVXNm5HYXlQdmNwamtlUzNBZDd0S0l1OURfRzF5LXUxZXJoZ3J6OUNXR0NPVURlTTl2NEh0d2k2V0pLQUhHTF9jQWtKY2lLUUtEelp3TXl3Z2dDZUQ5M3NOQmpBSkhzSndsd1J3WC1SOVlRa3pDWUdrWlNSR3QyX0FITE5lWGhQam1RMThpZ3RIMXh4X2k",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "781395eebb",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-16T13:00:07+00:00",
+   "published": "2026-09-16T13:00:07+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Full Gallop",
+   "title": "Patti LuPone to Star as Diana Vreeland in ‘Full Gallop’",
+   "quote": "LuPone will return to the Off Broadway stage in January for a revival of “Full Gallop.”",
+   "quoteSource": "The New York Times",
+   "celebs": [
+    {
+     "name": "Patti LuPone",
+     "knownFor": "Les Misérables",
+     "score": 33,
+     "qid": "Q270324"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/09/16/theater/patti-lupone-diana-vreeland-full-gallop.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "ad8bf376b8",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-16T12:30:00+00:00",
+   "published": "2026-09-16T12:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Rocky Horror",
+   "title": "Rosie O’Donnell to Join ‘Rocky Horror’ On Broadway For Short Stint, Stepping in For Rachel Dratch",
+   "quote": "O'Donnell will play The Narrator from Oct. 6 through Oct.",
+   "quoteSource": "The Hollywood Reporter",
+   "celebs": [
+    {
+     "name": "Rosie O’Donnell",
+     "knownFor": "The Flintstones, Tarzan",
+     "score": 53,
+     "qid": "Q272929"
+    },
+    {
+     "name": "Rachel Dratch",
+     "knownFor": "American actress and comedian",
+     "score": 26,
+     "qid": "Q261977"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/rosie-odonnell-rocky-horror-on-broadway-rachel-dratch-1236703071/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "74d4576ac2",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-16T07:00:00+00:00",
+   "published": "2026-09-16T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Oh, Mary!",
+   "title": "Bowen Yang Makes Broadway Debut in “Oh, Mary!” as Matt Rogers and “SNL” Pals Cheer Him On",
+   "quote": "With their box office spiking, Bowen Yang and Reece Weaver have extended their Broadway runs in, respectively, Oh, Mary! and Chicago.",
+   "quoteSource": "Deadline",
+   "celebs": [
+    {
+     "name": "Bowen Yang",
+     "knownFor": "Chinese-American comedian",
+     "score": 25,
+     "qid": "Q60737294"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Aol",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmcySmtvRjc5YmZPVUIwUTU2SVlnMWZ1LUtRVk5ETU5zUG9wOFd1cWNqbzBPVUVRazNxYWRDNkRZa3EwS2EwZG9PRHdLXzV0QnZPZE8ycEdmdldSS3U0S1RIQ00wd09IeFhkZkZBaFN0WUFGWVp3YWZBLVkyd1JiOA",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/09/bowen-yang-reece-weaver-broadway-oh-mary-chicago-1237112670/",
+     "feed": "deadline-theater"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/bowen-yang-extends-oh-mary-broadway-run-through-january-2027/",
+     "feed": "broadway-news"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-titanique-oh-mary-bowen-yang-1236707781/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "ca7e67f729",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-16T07:00:00+00:00",
+   "published": "2026-09-16T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Donnell To Join Broadway",
+   "title": "Rosie O’Donnell To Join Broadway’s ‘Rocky Horror Show’ As Temporary Fill-In For Rachel Dratch",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "celebs": [
+    {
+     "name": "Rosie O’Donnell",
+     "knownFor": "The Flintstones, Tarzan",
+     "score": 53,
+     "qid": "Q272929"
+    },
+    {
+     "name": "Rachel Dratch",
+     "knownFor": "American actress and comedian",
+     "score": 26,
+     "qid": "Q261977"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUI4WGc2aTBHOVhsM2duUlpJN2VCdkI5QUVuVFV1cXZRQ2NLVU1NWXNZUTB3eXBYVkRveUNtNVR4VjdqdVlOTl96dDYtMm95LWRGRlRnWFVJUnQ2RXZRamhBX1dnSlFVTjNFMDBkZzBubzN6MlEzN1FxQTJvRDd5OGdrVHg2c3otSWc",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "8aa903ae48",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-15T20:45:43+00:00",
+   "published": "2026-09-15T20:45:43+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Rope’ Sets Off-Broadway Cast Led by Elizabeth Gillies, Cameron Monaghan",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "celebs": [
+    {
+     "name": "Elizabeth Gillies",
+     "knownFor": "Victorious, Dynasty",
+     "score": 51,
+     "qid": "Q230209"
+    },
+    {
+     "name": "Cameron Monaghan",
+     "knownFor": "Shameless",
+     "score": 33,
+     "qid": "Q939351"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXJyT1R4ZHpfQXVHdHRWS0Zob3B1VlJBYTFwMVBqQkJwTHN0MmZ1RmZrek9PWHRVVzk0S2hkNGw3ZGxVbTI1M3hiT3hOeXg0eUt0U0ZfNlo3NzNxSTlNODZXSHFoRV9veXhnZjl2N1U2WGJIMGtjWEswMnBOZ2lUUWhYQ2JWdDQ1QTdwbkFxNXdrcVJab3dkX1hsMWJ3LTVreXBpTzZHYVc",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "2838c53193",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-14T10:59:24+00:00",
+   "published": "2026-09-14T10:59:24+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "Sunday in the Park With George",
+   "title": "‘Sunday in the Park With George’ London Revival Canceled After Ariana Grande, Jonathan Bailey Exit",
+   "quote": "The London revival of “Sunday in the Park With George” has been canceled following the exits of stars Ariana Grande and Jonathan Bailey. “The planned 2027 production of ‘Sunday in the Park with George’ at the Barbican will no longer proceed as scheduled,” a rep for producers Empire Street Productions tells Variety.",
+   "quoteSource": "Variety",
+   "celebs": [
+    {
+     "name": "Ariana Grande",
+     "knownFor": "Wicked, Don't Look Up",
+     "score": 141,
+     "qid": "Q151892"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-canceled-ariana-grande-exit-1236861022/",
+     "feed": "variety-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "810bf3a623",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-14T07:00:00+00:00",
+   "published": "2026-09-14T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "One",
+   "title": "🎭🔥 Jamie Campbell Bower Makes Broadway Debut… For ONE Night Only 🔥🎭",
+   "quote": "",
+   "quoteSource": "Theriffreport",
+   "celebs": [
+    {
+     "name": "Jamie Campbell Bower",
+     "knownFor": "British actor",
+     "score": 50,
+     "qid": "Q313283"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Theriffreport",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclJ1S3BBSXNZeXU0VXlTbC05ZHhER1JzWThKZUtXUGswZzAxS2FRRXIySDhDTjVRNHMtZEVqcG5JckVua1EyYnRPdnVFX3RMQ0RyVVJwb1l0LWp2b19kYUp1WDBSSzg1S2plQkhjdnl2dXExM1lKaDRWVURGSWFqVGo4WWVnNDRBMEl0a2RaeENtYS1vWGhaYTBvUUoxRDZsMDVQeHFyM0dEeDRxVkNOaDQ5R1pYRWhBN3pWTjdCNEg3eXB3QjF3MDZRR2prempkNXcxVTNR",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "e2e0fad365",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-14T07:00:00+00:00",
+   "published": "2026-09-14T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Sea Wall",
+   "title": "Andrew Scott to star in 'Sea Wall' off Broadway for two weeks only",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "celebs": [
+    {
+     "name": "Andrew Scott",
+     "knownFor": "Irish actor",
+     "score": 42,
+     "qid": "Q507322"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRtWXIyRUxQcjA4Mi0ybUc0OEJRU1g4eFdGOXlXaUkyeFBQbGRXa2x4dmZwekdOd2VHMDBMTUZSc0czZUg3SWtYMkNBd3A1cG5rT1BWcFlibHVlY0hqa1JhNDJnY0FVbDNvMGFJNk40NkRnUWF1cVI4VC1waE5sQi1mZy16dDRhZGFXbjJacmRuZ2x1bmRqWXRXblRFZUZ1ZzJIdlUxdktKQkFLcXFiUEVKdVo4cjJqR2c",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQ1J6WEJ5RzVKUGZkVmEyTnlKSHJEVERWeEhnRUpSbE5TWGw5OUNtem9pNG5SMjJFZ0t0SFg5TlVKZVZKeU9FR2RKN2l4MVh4QjNBMVB4M1ZnLWlkd0ZSOXBMRmVPY3c4X0xEZ3hBQQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "b4d67f1540",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-12T07:00:00+00:00",
+   "published": "2026-09-12T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Aladdin.",
+   "title": "Greene: Sherri Shepherd to play Genie in Broadway’s ‘Aladdin.’ Was Michelle Obama busy?",
+   "quote": "",
+   "quoteSource": "New York Daily News",
+   "celebs": [
+    {
+     "name": "Sherri Shepherd",
+     "knownFor": "30 Rock, The Jamie Foxx Show",
+     "score": 26,
+     "qid": "Q268549"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VCU1lHZDhzOHUzYWxXZnBIMFRyNnFrVEVKd1pMNnI1ZktTUXlYaE45UnFLUHNXZFVVUjZLdUV2MEdyTjJqNHhaamVYdVNkZTZsZENlSll3X2J2WHEtbGxCY1R3bU5HNjA4TDRtMEVoNVdVN0J3TzZCelVHa29CNXRvMmtqSkJIenowNXptaFpUVzVET2psWElSU1FVZHVLV2RxX3VodXI",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "c64410641b",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-11T12:00:23+00:00",
+   "published": "2026-09-11T12:00:23+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "The Score",
+   "title": "Fugue Off: Brian Cox Plays a Well-Tempered Bach in ‘The Score’",
+   "quote": "A chat with the acclaimed actor and his wife, Nicole Ansari-Cox, onstage now in Oliver Cotton's new play at Shakespeare Theatre in D.C.",
+   "quoteSource": "American Theatre",
+   "celebs": [
+    {
+     "name": "Brian Cox",
+     "knownFor": "Why Does E=mc2?, The Quantum Universe",
+     "score": 43,
+     "qid": "Q463581"
+    }
+   ],
+   "sources": [
+    {
+     "name": "American Theatre",
+     "url": "https://www.americantheatre.org/2026/09/11/fugue-off-brian-cox-plays-a-well-tempered-bach-in-the-score/",
+     "feed": "american-theatre"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "e60ab3efcb",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T16:30:29+00:00",
+   "published": "2026-09-10T16:30:29+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Popinjay Cavalier",
+   "title": "Sacha Baron Cohen to Star in Quentin Tarantino’s First Stage Play ‘The Popinjay Cavalier’",
+   "quote": "Sacha Baron Cohen is going from Ali G to the West End. The actor and comedian is set to make his stage debut in the London production of Quentin’s Tarantino’s upcoming production “The Popinjay Cavalier,” Variety can confirm.",
+   "quoteSource": "Variety",
+   "celebs": [
+    {
+     "name": "Quentin Tarantino",
+     "knownFor": "Reservoir Dogs, Pulp Fiction",
+     "score": 123,
+     "qid": "Q3772"
+    },
+    {
+     "name": "Sacha Baron Cohen",
+     "knownFor": "Da Ali G Show, Borat",
+     "score": 79,
+     "qid": "Q29055"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/theater/global/sacha-baron-cohen-star-quentin-tarantino-first-stage-play-1236857456/",
+     "feed": "variety-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "eb9af41b83",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Night Of January 16Th",
+   "title": "Christa B. Allen to Join the Cast of NIGHT OF JANUARY 16TH Off-Broadway",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "celebs": [
+    {
+     "name": "Christa B Allen",
+     "knownFor": "American actress",
+     "score": 28,
+     "qid": "Q259064"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX3VMcWVCUkZIdXNMR3dnVFhlMXJjR2hnaVEyNFJVT1hIVU5XRGRSQ2ZzNEFRcGd5dzh1MDdEZl9kaXV6MUowWk93aXQ4XzUtaUFmcnN0Q2E1UlB3YjZ3dDhVaTBUM0M3LVRLakM5YVNGZWV0LWYyRTl0VnZqRGpsYTZyZmg3dzZwSjFPNjdpNGhYSE5zTGJpTzJJRjdaUTRiZEI1dXFGZ3ZuX01vVVhHaVpKNVhOLXdoOGJHVWR1c0FBdnhzaDV5LTln",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "fdf33f7b70",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Buena Vista Social Club",
+   "title": "Gina Torres to star in 'Buena Vista Social Club' on Broadway",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "celebs": [
+    {
+     "name": "Gina Torres",
+     "knownFor": "American actress",
+     "score": 36,
+     "qid": "Q241471"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHNyV29NdGdpY0ZZcHl4M1lobkdHd3ROY1JpUXFFSU9qZFVsTDZPb05veDlBUWRCU2M2aHdVVlFtX0hndnB0ZG9YVjBFWVNsQ3I3bGtGYkN2aGRSaFVBSVIzWGRvdVhDVFlaMDNsSmJmQ053TnVWTHFoRVFJZUZkX0hlbDhwWE5lcHpHQVVZM3dkNWt4ZEp0NTUzVndnTEZYbjhUc1NGQkswdlB1MzN3TWln",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yakRDUWluU0Vrb0ZobG83MGRKaDNjOS1zalNjaWxPOElmRDFKUFNiRmNFN0RqTTBKZFI3eENQTnphdEZudmJmZ1pQVTVDVmhsRVR1YUQwMF94bERsQldEZ2JRSk8",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a1613b77b4",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Wild Rose",
+   "title": "Madeline Brewer to star in 'Wild Rose' musical off Broadway",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "celebs": [
+    {
+     "name": "Madeline Brewer",
+     "knownFor": "American actress",
+     "score": 28,
+     "qid": "Q17385680"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkp4cTJvU25nRER2UHl5aXI5VWJJeWFHLVh4Mnoxd2E2dl9ZRHdHeTBWOGpnbjFIZktiYnJGUWg0c3ExMmJTQ1ZDUnZ0VDVSVHlpWHAwZDRJUTBBb3ZLXzAxMUZ0TWROLWExdmhlc0puLVRieXhBYW5uM0pQSl9abFh4QUpCenZEQ0hUbmhmZjd1TzNYazFKZWZoUlhOLWhYLWtiV29BUnpQV3lxSzVuOQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "308e2ad88e",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Bill Pay",
+   "title": "One-night-only 'Bill Pay' Broadway musical to star Billy Porter, Billy Zane, Jessica Vosk",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "celebs": [
+    {
+     "name": "Billy Zane",
+     "knownFor": "Titanic",
+     "score": 59,
+     "qid": "Q205435"
+    },
+    {
+     "name": "Billy Porter",
+     "knownFor": "American singer and actor",
+     "score": 32,
+     "qid": "Q4913177"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZm5GWTNpRGRjbFVEWmVLVU8yNjhUaUwyZDdsd05HLVBiSHdKZWh3V2c4SmJlNktkb1NwSEJES1pwWGl0SDNjZmo2OTByTDBkRkN2bUhqMVNFaWpXMm5mdWtQSnU1OFhsX1YyODBlM0hWemRYQUlhRW5HRFh2VGM2YmVMdUNHWkFPU1hJSl8tSUFUSDRxM1RUVUtucG5iQWM4VEdqM2lXX19uNGZtZnhZenFqcTJfVWxrTElKbE1UWEdWTTZjRUI5MEJWb253blRaLWUtaEt3",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnVfcmpiSnpIRnpIMTlpUGVWUWtnT25iNW5yQldfaWJmVHg5VGpCS0Y4cGdQbUVBekNjUl9faHVUTXRYaXdReXY0dGE4LV8zVmRlLVNOd3JiZ0F6Z2VTLXpCZFNVaXBQc0RfdTR3bG1jX2dHaTNLVmlFbWNzRXk1Y1hnQ0NJMlV4NGxvSzhZUG9Oel9W",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2NHJITTZqY2NfMmhnNy0yeEFpakxQYXpnOEZWUzl4SDNIV1hNYUg2ajdqRno5UEZ2cUdfNkdlcmJfQUV6bTY3NjdDOC1lcG5jdWVFUTR6STJtRW5UTjRmbA",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTNzSk5LYmtFc2VNd01JMkZBRC1NVG5hRHk1N3pSeDM2UHhtMEY0THJqZXRXWUFwblhKZ1Nua1FuRjc0V0ZRbDdtM1RtT3plOGdrMC1MNnV1N2NObFZ0bTJIQWNzSXVCeXowMU9WQmVRRnFvbURGdlhmUF9LeGkyX2VxQUJMNTlIZ2U1dV9Ocm1IendkdC1tanBxWWZabkRKb01PSVBLWFlZd3pidmE5VW1MMms2cWc",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "d2b7a2772b",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Imitation of Life",
+   "title": "Adrienne Warren to star in John Legend, Lynn Nottage musical 'Imitation of Life'",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "celebs": [
+    {
+     "name": "John Legend",
+     "knownFor": "American singer-songwriter",
+     "score": 58,
+     "qid": "Q44857"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1RDYVlVYk1KSjlxWG5Ha0pvaEc0aVc0WnhZbnNSa2FMOGJ4UUljb1hBYnFfWUJiMkNsRXNmXzJRZWxxdTA0c2c3eHh4cmNBM0FCVmFNYWhOWkVrdEFMNWJBdTNTQTJnQmFqb0JXNkVPUXppVUxfajk5aWlNY2luS1htX0ZxS21hbWR3M202eEFaYVJnbVV3OU12N0ZReGdpbElfdFlyYXFObWVFRjJ0MHNjajUtWmRsRS13a3hha2Y0UnNUaC1iSmFzTQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0dETXpINDN0RE45NE9QaGlpWnJ2VHhiYkVYUDU3VE1TeHl1dkt0N01VaWw4Z1IteDlSSTRYZjg5LXFzR0J6ak1CZl9wNzJ5ZzF2OTR5RVRpU0JpUFRvay12VEJfeGR6N0hHa19VU3BFR3NVNnpvaklZcXJXMDJzNVB6SGQzSl9FOGhkSnNVdzVCTzVoYjBCeFBuSmh6NnFk",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a01503197e",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Rope",
+   "title": "Corey Fogelmanis, Elizabeth Gillies, Jason Butler Harner to Star in Rope Off-Broadway",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "celebs": [
+    {
+     "name": "Elizabeth Gillies",
+     "knownFor": "Victorious, Dynasty",
+     "score": 51,
+     "qid": "Q230209"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSU41dnNQM04wVHZFYWJCbHRrX1pScWhqb1Joa0ZaUkxEQktXS2Zha3E5enhDemVkcDQzS3V3SmRkSEpUa0YteGd6UFZ0TWhGNjZTWEYxWl91V05HM0V5RURSUXZHcEZPVi1JWWFzaWU5NkRXR0hpY29vYnh1NTQ3RUF2cy1vTnYzVjNlRG9TNlI3T1M4VzkxcllBUlZrcWNzZnNMclJZbV9JTm9tUWpKQ19TUWp1VFJ0d0NEcHJVTkp1cEY5",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0lCMWdSc3VwV25Lc05rUFNkTGY1OE1xMkRzRDVzNHdhTmJmcmZPZ0RtNDVRc21SU202WUNZcVJQVGs4eGdvc0ZTNVhiSzVRS1RjSC0tcGRlZFZvempoamRYMzlobkFTdWhjR1dQeGFGcHQ0RV9MOUNqZjQzUmF1TU1fTjJmRVROaFhfeUQxX2lJX0ExMXIyVWVMYk94am9NUGJ4X2dLa0t6VFRtU2ZOMlF2dDBpVkZCS0dNeXZrSQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2RuNUdSZi1GSThNNlRIWVU1WjZtUTktSzR6eEZyamxBUzdlaW5tUWJHM05RSGplc1owemlTZW8yZWlUczAtd0o5OS1ZTHZRMzdsQXY0eG91Sjhmblhsd3ZWZ0x0UkVDYjZhenE3aGtwcGpXUE9DVDNwY1B4U3NoNHNDQ3h2Vzczb1hWVHVoMDFGQnZ3XzIyWGl2OEFVT1d2elhDMFdSLVp3YWxSb0JoM0wtdjhYQ2pFTU51WkNaNA",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "b71821b686",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-09T19:00:00+00:00",
+   "published": "2026-09-09T19:00:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "opening",
+   "show": null,
+   "title": "Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre’s Starry 2027 Slate",
+   "quote": "London’s National Theatre has unveiled its 2027 program, with Paul Mescal, Emma Corrin and Emilia Clarke topping a star-heavy slate of 18 productions, eight of them world premieres, spanning the venue’s three stages and beyond. Mescal returns to the Lyttelton theater for a repertory season, playing Biff Loman in Rebec…",
+   "quoteSource": "Variety",
+   "celebs": [
+    {
+     "name": "Emilia Clarke",
+     "knownFor": "Game of Thrones",
+     "score": 94,
+     "qid": "Q235132"
+    },
+    {
+     "name": "Paul Mescal",
+     "knownFor": "Irish actor",
+     "score": 55,
+     "qid": "Q73367368"
+    },
+    {
+     "name": "Emma Corrin",
+     "knownFor": "British actor",
+     "score": 49,
+     "qid": "Q63086179"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/",
+     "feed": "variety-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "7c927f62e9",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-08T07:00:00+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "celebs": [
+    {
+     "name": "Rosamund Pike",
+     "knownFor": "British actress",
+     "score": 75,
+     "qid": "Q230004"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9d4cc2a472",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-08T07:00:00+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Julia Roberts, Paul Rudd and Sarah Paulson to Star in Broadway’s Small Mouth Sounds",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "celebs": [
+    {
+     "name": "Julia Roberts",
+     "knownFor": "American actress",
+     "score": 131,
+     "qid": "Q40523"
+    },
+    {
+     "name": "Paul Rudd",
+     "knownFor": "Anchorman: The Legend of Ron Burgundy, Ant-Man",
+     "score": 78,
+     "qid": "Q276525"
+    },
+    {
+     "name": "Sarah Paulson",
+     "knownFor": "American actress",
+     "score": 56,
+     "qid": "Q257442"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "f406beedf6",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-08T07:00:00+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Julia Roberts, Paul Rudd and Greta Lee are coming to Broadway next year",
+   "quote": "",
+   "quoteSource": "Time Out Worldwide",
+   "celebs": [
+    {
+     "name": "Julia Roberts",
+     "knownFor": "American actress",
+     "score": 131,
+     "qid": "Q40523"
+    },
+    {
+     "name": "Paul Rudd",
+     "knownFor": "Anchorman: The Legend of Ron Burgundy, Ant-Man",
+     "score": 78,
+     "qid": "Q276525"
+    },
+    {
+     "name": "Greta Lee",
+     "knownFor": "American actress",
+     "score": 30,
+     "qid": "Q19517962"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Time Out Worldwide",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHYwLWt6U2EteVR4QXZVY3d2TkxKN3JVX3FadnRhS3hTSnNHWGpBRmNoVngxNEFEZDVCMjJVWFVpd2Y4VjBVV2lXQzZreS1RbHJKdVZRUHRzYUpHeVNNdFh3OENQTzByZWREV1ZiMEg5b19iWnNfdFFZTHhfTHU4NzJ5LTNJWEdzal8tcVBFOHYxT2loeDhOUlFXTGtKTHpPNDgxMFdfV0VtTFVubUlPN3dsa2U",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "5d960d30e5",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-25T18:42:35+00:00",
+   "published": "2026-09-25T18:42:35+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Broadway Nights Off",
+   "title": "Betsy Wolfe and Joe Iconis to Headline BROADWAY NIGHTS OFF",
+   "quote": "Tony Award nominees Betsy Wolfe (Death Becomes Her, & Juliet) and Joe Iconis (Be More Chill) will headline Broadway Nights Off, two free concerts on Broadway's dark night (Mondays) at Robert F. Wagner, Jr.",
+   "quoteSource": "BroadwayWorld",
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Betsy-Wolfe-and-Joe-Iconis-to-Headline-BROADWAY-NIGHTS-OFF-20260925",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "0131e7b42d",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-25T18:42:35+00:00",
+   "published": "2026-09-25T18:42:35+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Eugene O'Neill Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "The Book Of Mormon",
+   "title": "THE BOOK OF MORMON Becomes Broadway's 9th Longest Running Show",
+   "quote": "Tonight, The Book of Mormon will play its 5,759th performance, passing Mamma Mia! to become the 9th longest running show in Broadway history.",
+   "quoteSource": "BroadwayWorld",
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/THE-BOOK-OF-MORMON-To-Become-Broadways-9th-Longest-Running-Show-20260925",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "4833fe4257",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-25T18:00:56+00:00",
+   "published": "2026-09-25T18:00:56+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "Signature Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "All The World'S A Stage",
+   "title": "Cast Set for ALL THE WORLD'S A STAGE at Signature Theatre",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVVLaFJOVEo3WUNtdlVXNVRXR0pTdzM1SWVjTTAtR0c0SHBJNlpNb1JJLXJKdWUzdldQRGh0SE9rMjhsMEVKaHVoR2VEVmU0c0E5bGxmZ3ItRkZpeWdtcUdWbVlwQV9EZEpINlE0dVZ3cGNvQlV6Y19ydTdCUWZuQ0pERDlONlBhbUN1N2xVeGh0dl9fQWg1YzllQWc1SGhHMk1pdE9md09hc2R5Y0lmQ0QtcTE1UmZI",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "2192ae2cc3",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T17:13:52+00:00",
    "published": "2026-09-25T17:13:52+00:00",
    "city": null,
@@ -26,6 +1397,8 @@
   },
   {
    "id": "58c1dc1978",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T16:27:08+00:00",
    "published": "2026-09-25T16:27:08+00:00",
    "city": "New York",
@@ -49,6 +1422,8 @@
   },
   {
    "id": "05b96336e9",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T16:26:01+00:00",
    "published": "2026-09-25T16:26:01+00:00",
    "city": "New York",
@@ -72,6 +1447,8 @@
   },
   {
    "id": "493f19db83",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T16:10:04+00:00",
    "published": "2026-09-25T16:10:04+00:00",
    "city": "New York",
@@ -95,6 +1472,8 @@
   },
   {
    "id": "5d19bffa6c",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T15:07:18+00:00",
    "published": "2026-09-25T15:07:18+00:00",
    "city": null,
@@ -118,6 +1497,8 @@
   },
   {
    "id": "b0dd3b995f",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T14:50:26+00:00",
    "published": "2026-09-25T14:50:26+00:00",
    "city": "New York",
@@ -141,6 +1522,8 @@
   },
   {
    "id": "1d6c1989fb",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T14:06:57+00:00",
    "published": "2026-09-25T14:06:57+00:00",
    "city": "New York",
@@ -164,6 +1547,8 @@
   },
   {
    "id": "e9f6a3825c",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T14:00:23+00:00",
    "published": "2026-09-25T14:00:23+00:00",
    "city": "New York",
@@ -187,6 +1572,8 @@
   },
   {
    "id": "2d2b54bf97",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T13:22:12+00:00",
    "published": "2026-09-25T13:22:12+00:00",
    "city": "New York",
@@ -210,6 +1597,8 @@
   },
   {
    "id": "897624a13b",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T13:16:00+00:00",
    "published": "2026-09-25T13:16:00+00:00",
    "city": "New York",
@@ -233,6 +1622,8 @@
   },
   {
    "id": "3b3a0e1ab9",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T13:05:00+00:00",
    "published": "2026-09-25T13:05:00+00:00",
    "city": "New York",
@@ -256,6 +1647,8 @@
   },
   {
    "id": "5ae244c3ab",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T12:29:00+00:00",
    "published": "2026-09-25T12:29:00+00:00",
    "city": "New York",
@@ -279,6 +1672,8 @@
   },
   {
    "id": "a68d81f2bd",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T12:00:00+00:00",
    "published": "2026-09-25T12:00:00+00:00",
    "city": "New York",
@@ -302,6 +1697,8 @@
   },
   {
    "id": "8024e9dfdf",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T12:00:00+00:00",
    "published": "2026-09-25T12:00:00+00:00",
    "city": "Chicago",
@@ -325,6 +1722,8 @@
   },
   {
    "id": "c650ae6106",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T11:59:00+00:00",
    "published": "2026-09-25T11:59:00+00:00",
    "city": "Chicago",
@@ -348,6 +1747,8 @@
   },
   {
    "id": "7865bc1a02",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T11:00:11+00:00",
    "published": "2026-09-25T11:00:11+00:00",
    "city": "New York",
@@ -394,6 +1795,8 @@
   },
   {
    "id": "ecd185509f",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T10:00:24+00:00",
    "published": "2026-09-25T10:00:24+00:00",
    "city": "New York",
@@ -417,6 +1820,8 @@
   },
   {
    "id": "4eab6f1e50",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-25T04:00:22+00:00",
    "published": "2026-09-25T04:00:22+00:00",
    "city": "New York",
@@ -440,6 +1845,8 @@
   },
   {
    "id": "8e4dc55d50",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T23:35:50+00:00",
    "published": "2026-09-24T23:35:50+00:00",
    "city": "New York",
@@ -463,6 +1870,8 @@
   },
   {
    "id": "00e14e6dd9",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T22:15:54+00:00",
    "published": "2026-09-24T22:15:54+00:00",
    "city": "Chicago",
@@ -486,6 +1895,8 @@
   },
   {
    "id": "72e873b953",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T21:11:31+00:00",
    "published": "2026-09-24T21:11:31+00:00",
    "city": "New York",
@@ -509,6 +1920,8 @@
   },
   {
    "id": "2213557228",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T20:36:15+00:00",
    "published": "2026-09-24T20:36:15+00:00",
    "city": "New York",
@@ -568,6 +1981,8 @@
   },
   {
    "id": "a81ff71c20",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T20:15:00+00:00",
    "published": "2026-09-24T20:15:00+00:00",
    "city": "New York",
@@ -591,16 +2006,18 @@
   },
   {
    "id": "a5bd18d43f",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T19:08:31+00:00",
    "published": "2026-09-24T19:08:31+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "Classic Stage Company",
+   "city": null,
+   "tier": null,
+   "venue": null,
    "placedBy": "none",
    "type": "casting",
    "show": "Rags",
    "title": "Complete Cast Set for RAGS Benefit Concerts Starring Judy Kuhn and More",
-   "quote": "The complete cast has been revealed for Classic Stage Company's two-night-only benefit concert performances of Rags, featuring a book by Jospeh Stein, music by Charles Strouse, lyrics by Stephen Schwartz, and revised book by David Thompson. The performances will take place on Monday, September 28 at 7pm and Tuesday, S…",
+   "quote": "",
    "quoteSource": "BroadwayWorld",
    "celebs": [],
    "sources": [
@@ -608,17 +2025,14 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHVqRDF5WE9hdnJWVlpaZm9id19kVDVOeEk4b3pXck5jSWNmTFVrOVUyUjFKdC0yUzF1OWNVUFFoeVRvbklSUHNwTERLRUxVVDE1VGd1T2JNSzhoUUlvelBpRFI5TTVlaVhDQmJaMmxVbHB5MUI0aWhtbVZXYW5HOGJQTjc4Q2NLWVZSVlZPN1lVMm9ZeEEzbHJfS2hBbXFNQXctN09USXZ0Vmh6Q2phZTViQ0pVbTNUV2c",
      "feed": "gn-bway-casting"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Complete-Cast-Set-for-RAGS-Benefit-Concerts-Starring-Judy-Kuhn-and-More-20260924",
-     "feed": "broadwayworld"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "a49d1d53c2",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T18:45:39+00:00",
    "published": "2026-09-24T18:45:39+00:00",
    "city": "Chicago",
@@ -642,6 +2056,8 @@
   },
   {
    "id": "9898e41530",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T17:33:54+00:00",
    "published": "2026-09-24T17:33:54+00:00",
    "city": "New York",
@@ -665,6 +2081,8 @@
   },
   {
    "id": "9bac79dd90",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T17:16:40+00:00",
    "published": "2026-09-24T17:16:40+00:00",
    "city": "New York",
@@ -688,6 +2106,8 @@
   },
   {
    "id": "b681e747b8",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T17:08:52+00:00",
    "published": "2026-09-24T17:08:52+00:00",
    "city": "New York",
@@ -711,6 +2131,8 @@
   },
   {
    "id": "f8823ebf49",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T16:31:15+00:00",
    "published": "2026-09-24T16:31:15+00:00",
    "city": null,
@@ -734,6 +2156,8 @@
   },
   {
    "id": "07a0e889db",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T14:07:25+00:00",
    "published": "2026-09-24T14:07:25+00:00",
    "city": "New York",
@@ -757,6 +2181,8 @@
   },
   {
    "id": "cb1dde3ddb",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T14:01:44+00:00",
    "published": "2026-09-24T14:01:44+00:00",
    "city": "New York",
@@ -785,6 +2211,8 @@
   },
   {
    "id": "9cb03cafc6",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T14:01:38+00:00",
    "published": "2026-09-24T14:01:38+00:00",
    "city": "New York",
@@ -808,6 +2236,8 @@
   },
   {
    "id": "f6b2a24284",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T13:15:09+00:00",
    "published": "2026-09-24T13:15:09+00:00",
    "city": "New York",
@@ -831,6 +2261,8 @@
   },
   {
    "id": "e2165cbe14",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T12:00:29+00:00",
    "published": "2026-09-24T12:00:29+00:00",
    "city": null,
@@ -854,6 +2286,8 @@
   },
   {
    "id": "f374cec855",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-24T09:34:16+00:00",
    "published": "2026-09-24T09:34:16+00:00",
    "city": null,
@@ -877,6 +2311,8 @@
   },
   {
    "id": "7af37e0f4d",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T22:10:11+00:00",
    "published": "2026-09-23T22:10:11+00:00",
    "city": null,
@@ -900,6 +2336,8 @@
   },
   {
    "id": "776d5fbe52",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T20:39:29+00:00",
    "published": "2026-09-23T20:39:29+00:00",
    "city": "New York",
@@ -922,67 +2360,9 @@
    "status": "published"
   },
   {
-   "id": "40118ec1f1",
-   "firstSeen": "2026-09-23T19:13:15+00:00",
-   "published": "2026-09-23T19:13:15+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Lookingglass Theatre Company",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Kowalski explores and explodes the myths of Tennessee Williams and Marlon Brando",
-   "quote": "Johnny Galecki (L) and Jacob Moskovitz in Kowalski at Lookingglass Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Johnny-Galecki-Jacob-Moskovitz-1-scaled-e1790190586631.jpg?fit=780%2C559&ssl=1\" /> Kowalski , through 10/25 at Lookingglass Theatre The post Kowalski explores and…",
-   "quoteSource": "Chicago Reader",
-   "celebs": [
-    {
-     "name": "Marlon Brando",
-     "knownFor": "The Godfather, Apocalypse Now",
-     "score": 158,
-     "qid": "Q34012"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/kowalski-lookingglass-theatre/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "a6c845c636",
-   "firstSeen": "2026-09-23T18:37:33+00:00",
-   "published": "2026-09-23T18:37:33+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Chicago Shakespeare Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Play On! celebrates Duke Ellington by way of Twelfth Night",
-   "quote": "Hailee Kaleem Wright (L) and Krystal Joy Brown in Play On! at Chicago Shakespeare Theater \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/3_CST_PLAYON_Press_Photo-by-Kyle-Flubacker-scaled-e1790188221556.jpg?fit=780%2C520&ssl=1\" /> Play On!",
-   "quoteSource": "Chicago Reader",
-   "celebs": [
-    {
-     "name": "Duke Ellington",
-     "knownFor": "Just Squeeze Me (But Please Don't Tease Me), It Don't Mean a Thing",
-     "score": 88,
-     "qid": "Q4030"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/play-on-chicago-shakespeare-theater/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "f959266e1c",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T18:15:31+00:00",
    "published": "2026-09-23T18:15:31+00:00",
    "city": "Chicago",
@@ -1006,6 +2386,8 @@
   },
   {
    "id": "9dfe928908",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T17:50:37+00:00",
    "published": "2026-09-23T17:50:37+00:00",
    "city": "New York",
@@ -1034,6 +2416,8 @@
   },
   {
    "id": "83d01573b2",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T17:45:12+00:00",
    "published": "2026-09-23T17:45:12+00:00",
    "city": "New York",
@@ -1057,6 +2441,8 @@
   },
   {
    "id": "c1e74c116d",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T17:41:49+00:00",
    "published": "2026-09-23T17:41:49+00:00",
    "city": "Chicago",
@@ -1079,67 +2465,9 @@
    "status": "review"
   },
   {
-   "id": "1c0ca597aa",
-   "firstSeen": "2026-09-23T16:54:10+00:00",
-   "published": "2026-09-23T16:54:10+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "New York City Center",
-   "placedBy": "venue",
-   "type": "new production",
-   "show": "You",
-   "title": "Rachel Dratch & Jeff Hiller Join Encores’ ‘You’re A Good Man, Charlie Brown’; Gershwins’ ‘Let ’Em Eat Cake’ Added To Season",
-   "quote": "Rachel Dratch will portray Patty (the non-Peppermint one) and Jeff Hiller will be the piano-playing Schroeder in the upcoming City Center Encores! production of You’re A Good Man, Charlie Brown.",
-   "quoteSource": "Deadline",
-   "celebs": [
-    {
-     "name": "Rachel Dratch",
-     "knownFor": "American actress and comedian",
-     "score": 26,
-     "qid": "Q261977"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/09/rachel-dratch-jeff-hiller-youre-a-good-man-charlie-brown-1237111326/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "5fe21e1629",
-   "firstSeen": "2026-09-23T16:37:30+00:00",
-   "published": "2026-09-23T16:37:30+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Giant",
-   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "celebs": [
-    {
-     "name": "John Lithgow",
-     "knownFor": "American actor",
-     "score": 64,
-     "qid": "Q311271"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "f31ad4bea2",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T16:00:13+00:00",
    "published": "2026-09-23T16:00:13+00:00",
    "city": "New York",
@@ -1156,13 +2484,15 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
-     "feed": "gn-offbway-casting"
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
   },
   {
    "id": "454339bcab",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T15:58:13+00:00",
    "published": "2026-09-23T15:58:13+00:00",
    "city": "New York",
@@ -1186,6 +2516,8 @@
   },
   {
    "id": "43f1b411aa",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T15:05:29+00:00",
    "published": "2026-09-23T15:05:29+00:00",
    "city": "New York",
@@ -1209,6 +2541,8 @@
   },
   {
    "id": "170468f099",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T14:00:00+00:00",
    "published": "2026-09-23T14:00:00+00:00",
    "city": "New York",
@@ -1242,6 +2576,8 @@
   },
   {
    "id": "682eef931c",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T13:51:54+00:00",
    "published": "2026-09-23T13:51:54+00:00",
    "city": "New York",
@@ -1265,6 +2601,8 @@
   },
   {
    "id": "2889134bfc",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T12:00:00+00:00",
    "published": "2026-09-23T12:00:00+00:00",
    "city": "Chicago",
@@ -1288,6 +2626,8 @@
   },
   {
    "id": "a5b6f34c99",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T11:43:41+00:00",
    "published": "2026-09-23T11:43:41+00:00",
    "city": "New York",
@@ -1311,6 +2651,8 @@
   },
   {
    "id": "bac691c1ae",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T10:30:30+00:00",
    "published": "2026-09-23T10:30:30+00:00",
    "city": "New York",
@@ -1334,6 +2676,8 @@
   },
   {
    "id": "8c5c1f21cd",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T07:00:00+00:00",
    "published": "2026-09-23T07:00:00+00:00",
    "city": "New York",
@@ -1357,6 +2701,8 @@
   },
   {
    "id": "51421b6564",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-23T04:59:47+00:00",
    "published": "2026-09-23T04:59:47+00:00",
    "city": "New York",
@@ -1380,6 +2726,8 @@
   },
   {
    "id": "90265cc31f",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T22:15:18+00:00",
    "published": "2026-09-22T22:15:18+00:00",
    "city": "Chicago",
@@ -1403,6 +2751,8 @@
   },
   {
    "id": "491ffd6f74",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T20:34:02+00:00",
    "published": "2026-09-22T20:34:02+00:00",
    "city": "New York",
@@ -1425,37 +2775,9 @@
    "status": "review"
   },
   {
-   "id": "3b6f646977",
-   "firstSeen": "2026-09-22T19:09:03+00:00",
-   "published": "2026-09-22T19:09:03+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Delirium",
-   "title": "Chulpan Khamatova Stars in the Dark, Absurdist Play “Delirium”",
-   "quote": "After opposing the war in Ukraine and settling in Latvia, Chulpan Khamatova now comes to New York to star in a dark comedy by Ionesco.",
-   "quoteSource": "The New York Times",
-   "celebs": [
-    {
-     "name": "Chulpan Khamatova",
-     "knownFor": "Russian actress",
-     "score": 45,
-     "qid": "Q236132"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/09/21/theater/chulpan-khamatova-delirium-eugene-ionesco.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "e04207a106",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T18:49:34+00:00",
    "published": "2026-09-22T18:49:34+00:00",
    "city": null,
@@ -1478,37 +2800,9 @@
    "status": "review"
   },
   {
-   "id": "ac7ffd25d3",
-   "firstSeen": "2026-09-22T17:41:21+00:00",
-   "published": "2026-09-22T17:41:21+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "The 25th Annual Putnam County Spelling Bee",
-   "title": "Laura Marano to Join Cast of Off-Broadway’s ‘The 25th Annual Putnam County Spelling Bee’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "celebs": [
-    {
-     "name": "Laura Marano",
-     "knownFor": "American actress and singer",
-     "score": 41,
-     "qid": "Q242792"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFaM2FoQ1JZZW5nc3pWcmFPYzNMWDZpbm5wc3YtZkZaZHpmV3pUUUlxa0lka2ZOVmlMZXQ0ZldkNm1EOG53U1p3SnZnbFBpSVBxcTdjdl81eVlManp2elh2YTU5blVMRWhMeGFaV0JyY0lwRy1XNnJvaDFLY2Y3V0RUTWJQLXBrVXJkSzJIaUx0Qk1qZ1ZiRmF6OXpRQnNTR29vRmpzalZnQ2h0bXlKVGRLRmpJSmNieW1xaEt3",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "a30e2be867",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T17:23:24+00:00",
    "published": "2026-09-22T17:23:24+00:00",
    "city": "New York",
@@ -1532,6 +2826,8 @@
   },
   {
    "id": "a1d7914193",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T17:00:00+00:00",
    "published": "2026-09-22T17:00:00+00:00",
    "city": "New York",
@@ -1560,6 +2856,8 @@
   },
   {
    "id": "3c93b40009",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T16:31:12+00:00",
    "published": "2026-09-22T16:31:12+00:00",
    "city": "New York",
@@ -1582,37 +2880,9 @@
    "status": "review"
   },
   {
-   "id": "a1e69b72f4",
-   "firstSeen": "2026-09-22T15:31:00+00:00",
-   "published": "2026-09-22T15:31:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Diego Rodriguez and James Olivas Will Again Co-Star With Rachel Zegler in Evita on Broadway",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "celebs": [
-    {
-     "name": "Rachel Zegler",
-     "knownFor": "American actress",
-     "score": 53,
-     "qid": "Q61693947"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1VXT250Y2VwX3FoQWpkbHN0QW5jSV9PeHVkajZ2eWVFYVctLVpVSWpWd1dBT3liRVh4bS1WeExybEk0YlI2bzE0eUNEM0ZnTlVlQVhwdWI0Ujd5UHROZEtjNUF0Q1l6blo0WjNMSTh0cWw1UWRjSlF0R1BDdTJZRnl5b2ljVm9sQUUtbTJUMjFreXNvOFBJeFJ6aThReDVMNGFhRXg1a0NZcEFpWXRkNW1XWGh1MVRPbWoxSA",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "19357fd9e5",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T15:16:00+00:00",
    "published": "2026-09-22T15:16:00+00:00",
    "city": "New York",
@@ -1621,101 +2891,28 @@
    "placedBy": "words",
    "type": null,
    "show": "The Outsiders",
-   "title": "THE OUTSIDERS Unveils New Broadway Cast Members",
+   "title": "'The Outsiders' names new Broadway cast members",
    "quote": "",
-   "quoteSource": "BroadwayWorld",
+   "quoteSource": "New York Theatre Guide",
    "celebs": [],
    "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjYwXzJGeTVuTThWZGs4cW5VR2Z1R0tKcThpeXI2Tko1bmRrakVHN2ZFUVBEUTNjQ1dyZ3JZWG5Tb3BNT09KODZMOEhRX05BTzhnX1NYRDJ3QjZuVndIR3FwWHdCU3RPQ1JybDhYMTBKdk96UDRlNjZBdzNVQmJEbXF2T1BSN19OR3Y4cExBNEE5aWRUWVRtdVN3",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVRuaXdfRjA4S0FBbmdDaE1zQWRnZnh4QXFSSy1qV3R2SjkyUDcybzIzb2g1dmpfNkVzVVJrN0Y1ZGtjeXRiWXg4NXFBMnZaM0dTSVR2RWJhSEZlamgwQnUzUklpWTA1UVNSZ0JXTTZlNTZEUHM0N0s1Nnl2ZDB6elI4XzVScWxJTGxnQUNfQ3VkdDJpenhjRGVR",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "77fa7a2204",
-   "firstSeen": "2026-09-22T15:00:00+00:00",
-   "published": "2026-09-22T15:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Winter Garden Theatre",
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Evita",
-   "title": "Casting announced for Evita with Rachel Zegler on Broadway",
-   "quote": "Rachel Zegler will be joined in Broadway’s Evita by her London co-stars Diego Rodriguez and James Olivas when the musical revival arrives in New York in February. The casting was announced today by producers Jamie Lloyd and Michael Harrison.",
-   "quoteSource": "Deadline",
-   "celebs": [
-    {
-     "name": "Rachel Zegler",
-     "knownFor": "American actress",
-     "score": 53,
-     "qid": "Q61693947"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Substack",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CZVlYd3VYOWd0T2owLU1ndkV1V1pTZEZzcnNiLUZjY0Nya3c1eEc5UThLM3JHdVlhZlFPV2NXTlQ0LUhFWFNoWFpVOGNaUWwxQ01tNTdKcnRZRnh4MGN2V21ocHgwUWVBMFltZmJiUkNYMmU3azZERVQyRQ",
-     "feed": "gn-bway-casting"
     },
     {
-     "name": "WhatsOnStage",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80N3dHOFprdnUwMi1qOHY0SHR0WUdST2tmbHpQaUpYUG9nQzQ0LWJEd0dzOVYzbWhTZlhPX2VGM0NfaXZlVXkxWkZZNlRDTHUyR1czeDVkSExHMlpjVEJjNW9lRDBtTmx3c05ZVC1HQVhFTUFENkhRbWlySng0SXliUElZeHdVQzhjTlIzeHNrcmFOVkh6SlJQLS1sRkEyVlNVWV9fNTJUVzhvbWlaRXRHMHhsX2xQSzZ5NzNOaWtXZw",
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjYwXzJGeTVuTThWZGs4cW5VR2Z1R0tKcThpeXI2Tko1bmRrakVHN2ZFUVBEUTNjQ1dyZ3JZWG5Tb3BNT09KODZMOEhRX05BTzhnX1NYRDJ3QjZuVndIR3FwWHdCU3RPQ1JybDhYMTBKdk96UDRlNjZBdzNVQmJEbXF2T1BSN19OR3Y4cExBNEE5aWRUWVRtdVN3",
      "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdF9sRVQ2dDdrNFVJU2dnQURTRTZIY2pLYXBjZkgyN1FwcnNuTm1VT2o3Z1p0dlJEMUdWMG9XVW45aXBvTVpXaTEyY0paemhUbXZybzYxa0dWVERRSi0wc1YtM2hQXy14MkhXaGpOWExIVDZmMmJTSERwVFRiQWs",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/09/evita-broadway-cast-rachel-zegler-1237110126/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "4f78d24383",
-   "firstSeen": "2026-09-22T08:30:00+00:00",
-   "published": "2026-09-22T08:30:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "An Oak Tree",
-   "title": "Juliet Stevenson, Olivia Williams Join Tim Crouch’s ‘An Oak Tree’ at the Other Palace (EXCLUSIVE)",
-   "quote": "Francesca Moody Productions has unveiled further casting for Tim Crouch’s “An Oak Tree,” adding Juliet Stevenson, Olivia Williams, Sean Gilder, Brian Gleeson, Sophie Melville, Rhashan Stone and Ria Zmitrowicz to the roster of guest artists appearing opposite Crouch during the show’s run at The Other Palace from Oct. 7…",
-   "quoteSource": "Variety",
-   "celebs": [
-    {
-     "name": "Olivia Williams",
-     "knownFor": "British actress",
-     "score": 48,
-     "qid": "Q231163"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/news/juliet-stevenson-olivia-williams-tim-crouch-an-oak-tree-1236871011/",
-     "feed": "variety-theater"
     }
    ],
    "status": "review"
   },
   {
    "id": "9b414dd952",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-22T07:00:00+00:00",
    "published": "2026-09-22T07:00:00+00:00",
    "city": "New York",
@@ -1725,7 +2922,7 @@
    "type": null,
    "show": null,
    "title": "Schedule of Upcoming Off-Broadway Shows",
-   "quote": "",
+   "quote": "Due to the expansive nature of Off-Broadway, this list is not comprehensive.",
    "quoteSource": "Playbill",
    "celebs": [],
    "sources": [
@@ -1733,35 +2930,19 @@
      "name": "Playbill",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WTNIMHVFLU9vcUJJWnJXdTMyaHMxWk4tQkU3bUVzUnpRSHJid0RZamhxQlZTSjRqWXpTYkR5aGRRLURwNEllT0ctX1hVdEx2eFNWdG5jcE81THcxZldkNlM0c1JOMjVFMWtRUy1xdjg3emdWd3p1eHV3",
      "feed": "gn-offbway-casting"
+    },
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/schedule-of-upcoming-off-broadway-shows-2",
+     "feed": "playbill"
     }
    ],
    "status": "review"
   },
   {
-   "id": "e14a41f552",
-   "firstSeen": "2026-09-22T06:47:21+00:00",
-   "published": "2026-09-22T06:47:21+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Warriors",
-   "title": "Now Casting: Join the Broadway Cast of Eisa Davis and Lin-Manuel Miranda’s ‘Warriors’ + 3 More Gigs",
-   "quote": "",
-   "quoteSource": "Backstage",
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Backstage",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUJKdnBSYWZoRndYaUtfbUVhTHdQMzZuNVJ6c2tZWnpKUnVlSlRrRDRicFBvRDRuTWF4dGtrbWhMUWNsOVl5U3piWlJrRkY2T0VtYnJuZHNSTmJTc21WbE0zMUZhdzY1QnhVU0VFQzgzYnEwTm1CMEZ2M2lKUFJVMXNGYi1RcEYzY1ZpY2d2eE8xZzczRVBlTndNZUYxRXN1NTFqcExQelJDSE1jNGc",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "7616a02da5",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-21T20:37:08+00:00",
    "published": "2026-09-21T20:37:08+00:00",
    "city": "New York",
@@ -1778,13 +2959,15 @@
     {
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3dQWFRHT0EzS0kyeGZKTE1Ic3hlZXZrYXNsUko5S2tjdXdOVXNnaHFfWV9pVlJNa2dNbUFqYjVEWnJQR2l0ajFtdjRidFdFRWR5V1RrWjhWbS1iVDJPVDF5cWR4UU5IUkxWN3RoVERDbDVIWDM0a3FCUjVkal9QUkdYN3NaX1dTMTVtZFk0WmdUWkZsdVFXTC1iTk9aM3c",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
   },
   {
    "id": "4318448da2",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-21T18:54:46+00:00",
    "published": "2026-09-21T18:54:46+00:00",
    "city": null,
@@ -1808,6 +2991,8 @@
   },
   {
    "id": "2931690252",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-21T16:08:57+00:00",
    "published": "2026-09-21T16:08:57+00:00",
    "city": null,
@@ -1830,67 +3015,9 @@
    "status": "review"
   },
   {
-   "id": "ecebe6cb9a",
-   "firstSeen": "2026-09-21T14:43:23+00:00",
-   "published": "2026-09-21T14:43:23+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Lucie Jones to Star in 13 Going on 30 – The Musical in Toronto",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "celebs": [
-    {
-     "name": "Lucie Jones",
-     "knownFor": "British singer",
-     "score": 32,
-     "qid": "Q28533369"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXc4TmF2angwQ0NldlZIWnI0V2dLaXpldHlscmlrMEEwWXBKWUZDbzgzb2xGaUQzSjVDdkdfc2JsNGFtV1hILWxpbWxoaUZudDJZLVl5SEdMYzNLaGo3RFJjNzVyYXY0MjdrZm13ZWpyVHNpZERsbTlpZjNmWXRMVnVUR0trUGlSMGJFUWp2UnFWUWZuZjVja3J3eElabVNXOXBFcVJB",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "405179a038",
-   "firstSeen": "2026-09-20T21:54:51+00:00",
-   "published": "2026-09-20T21:54:51+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Lookingglass Theatre Company",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Kowalski Brings Tennessee Williams, Marlon Brando, and All Their Drama to Lookingglass",
-   "quote": "Review by Savannah Brooks; Photo by Michael Brosilow The imagined version of Tennessee Williams (Johnny Galecki) and Marlon Brando (Jacob Moskovitz) in […]",
-   "quoteSource": "Chicago Onstage",
-   "celebs": [
-    {
-     "name": "Marlon Brando",
-     "knownFor": "The Godfather, Apocalypse Now",
-     "score": 158,
-     "qid": "Q34012"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Chicago Onstage",
-     "url": "https://www.chicagoonstage.com/kowalski-brings-tennessee-williams-marlon-brando-and-all-their-drama-to-lookingglass/",
-     "feed": "chicago-onstage"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "2b51db2e18",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-19T18:41:42+00:00",
    "published": "2026-09-19T18:41:42+00:00",
    "city": null,
@@ -1914,6 +3041,8 @@
   },
   {
    "id": "65a0bb0e93",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-19T04:02:53+00:00",
    "published": "2026-09-19T04:02:53+00:00",
    "city": "New York",
@@ -1937,6 +3066,8 @@
   },
   {
    "id": "ea3d6d2918",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-19T01:21:31+00:00",
    "published": "2026-09-19T01:21:31+00:00",
    "city": null,
@@ -1960,6 +3091,8 @@
   },
   {
    "id": "e834239122",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-18T19:12:05+00:00",
    "published": "2026-09-18T19:12:05+00:00",
    "city": "New York",
@@ -1983,6 +3116,8 @@
   },
   {
    "id": "e6ee220117",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-18T10:01:04+00:00",
    "published": "2026-09-18T10:01:04+00:00",
    "city": "New York",
@@ -2006,6 +3141,8 @@
   },
   {
    "id": "6ada44c0f0",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-17T20:08:12+00:00",
    "published": "2026-09-17T20:08:12+00:00",
    "city": "Chicago",
@@ -2029,6 +3166,8 @@
   },
   {
    "id": "bd2d369212",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-17T18:11:02+00:00",
    "published": "2026-09-17T18:11:02+00:00",
    "city": "Chicago",
@@ -2052,6 +3191,8 @@
   },
   {
    "id": "532fc9594a",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-17T17:59:22+00:00",
    "published": "2026-09-17T17:59:22+00:00",
    "city": "New York",
@@ -2075,6 +3216,8 @@
   },
   {
    "id": "b32238628d",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-17T17:48:48+00:00",
    "published": "2026-09-17T17:48:48+00:00",
    "city": "Chicago",
@@ -2098,6 +3241,8 @@
   },
   {
    "id": "9feba454bc",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-17T12:00:00+00:00",
    "published": "2026-09-17T12:00:00+00:00",
    "city": "Chicago",
@@ -2121,6 +3266,8 @@
   },
   {
    "id": "4f1ceb43ae",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-17T07:00:00+00:00",
    "published": "2026-09-17T07:00:00+00:00",
    "city": null,
@@ -2144,6 +3291,8 @@
   },
   {
    "id": "5faa9ee455",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T17:54:07+00:00",
    "published": "2026-09-16T17:54:07+00:00",
    "city": "Chicago",
@@ -2166,103 +3315,9 @@
    "status": "review"
   },
   {
-   "id": "9e1617b375",
-   "firstSeen": "2026-09-16T17:09:15+00:00",
-   "published": "2026-09-16T17:09:15+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Patti LuPone to Star in Off-Broadway Revival of Full Gallop",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "celebs": [
-    {
-     "name": "Patti LuPone",
-     "knownFor": "Les Misérables",
-     "score": 33,
-     "qid": "Q270324"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVpXeUpQT1dQNDNVbWh1VUNMYUkwZ1plVm9VVGR1enE5dHRLRC1sXzRnaENsUjllbElwU1hVYzllTVNCQ1liVjI1VENqaHhBNVpJV0xWcjF5YzI0RnVpMjNNMHpRMkFpTEJOcmNZbjVmV3A0d3g0NmF6UElwRGJyYk9xaFVmSzlZNVloOFl3WEJBQllxbDJvSldEVWxYM1RSTzNCWA",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "3974e9d69d",
-   "firstSeen": "2026-09-16T16:45:21+00:00",
-   "published": "2026-09-16T16:45:21+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Julia Louis-Dreyfus Is Ready to Make a Meal of Broadway",
-   "quote": "The actress, last onstage over four decades ago, had a “terrifying” desire to return to the stage. “Other Desert Cities” will be her Broadway debut.",
-   "quoteSource": "The New York Times",
-   "celebs": [
-    {
-     "name": "Julia Louis-Dreyfus",
-     "knownFor": "Veep, Seinfeld",
-     "score": 56,
-     "qid": "Q232072"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/09/16/theater/julia-louis-dreyfus-broadway-other-desert-cities.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "0fc5a8d2e0",
-   "firstSeen": "2026-09-16T16:00:28+00:00",
-   "published": "2026-09-16T16:00:28+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Odds and Ends: Spring Awakening Sets Off-Broadway Cast, Lea Michele and Aaron Tveit to Reunite in Concert",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "celebs": [
-    {
-     "name": "Lea Michele",
-     "knownFor": "Glee, Spring Awakening",
-     "score": 55,
-     "qid": "Q228733"
-    },
-    {
-     "name": "Aaron Tveit",
-     "knownFor": "American singer actor",
-     "score": 25,
-     "qid": "Q321770"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhfUTlRdXlvYXo3X0tHUWpOdHVRUkRyOWIwN0Qzc3VqZXppSzQ2OEJaWDJBWkVhdVFIN25idDAyT3V3d0VHbjJoQmVXNm5HYXlQdmNwamtlUzNBZDd0S0l1OURfRzF5LXUxZXJoZ3J6OUNXR0NPVURlTTl2NEh0d2k2V0pLQUhHTF9jQWtKY2lLUUtEelp3TXl3Z2dDZUQ5M3NOQmpBSkhzSndsd1J3WC1SOVlRa3pDWUdrWlNSR3QyX0FITE5lWGhQam1RMThpZ3RIMXh4X2k",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "f97d39015f",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T15:27:50+00:00",
    "published": "2026-09-16T15:27:50+00:00",
    "city": "Chicago",
@@ -2286,6 +3341,8 @@
   },
   {
    "id": "48e0246771",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T14:20:45+00:00",
    "published": "2026-09-16T14:20:45+00:00",
    "city": "Chicago",
@@ -2309,6 +3366,8 @@
   },
   {
    "id": "a89cf16f1c",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T13:35:25+00:00",
    "published": "2026-09-16T13:35:25+00:00",
    "city": "New York",
@@ -2332,6 +3391,8 @@
   },
   {
    "id": "e74282621e",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T13:11:02+00:00",
    "published": "2026-09-16T13:11:02+00:00",
    "city": "New York",
@@ -2354,73 +3415,9 @@
    "status": "review"
   },
   {
-   "id": "781395eebb",
-   "firstSeen": "2026-09-16T13:00:07+00:00",
-   "published": "2026-09-16T13:00:07+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Full Gallop",
-   "title": "Patti LuPone to Star as Diana Vreeland in ‘Full Gallop’",
-   "quote": "LuPone will return to the Off Broadway stage in January for a revival of “Full Gallop.”",
-   "quoteSource": "The New York Times",
-   "celebs": [
-    {
-     "name": "Patti LuPone",
-     "knownFor": "Les Misérables",
-     "score": 33,
-     "qid": "Q270324"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/09/16/theater/patti-lupone-diana-vreeland-full-gallop.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "ad8bf376b8",
-   "firstSeen": "2026-09-16T12:30:00+00:00",
-   "published": "2026-09-16T12:30:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Rocky Horror",
-   "title": "Rosie O’Donnell to Join ‘Rocky Horror’ On Broadway For Short Stint, Stepping in For Rachel Dratch",
-   "quote": "O'Donnell will play The Narrator from Oct. 6 through Oct.",
-   "quoteSource": "The Hollywood Reporter",
-   "celebs": [
-    {
-     "name": "Rosie O’Donnell",
-     "knownFor": "The Flintstones, Tarzan",
-     "score": 53,
-     "qid": "Q272929"
-    },
-    {
-     "name": "Rachel Dratch",
-     "knownFor": "American actress and comedian",
-     "score": 26,
-     "qid": "Q261977"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/rosie-odonnell-rocky-horror-on-broadway-rachel-dratch-1236703071/",
-     "feed": "thr-arts"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "7254a24abb",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T09:00:55+00:00",
    "published": "2026-09-16T09:00:55+00:00",
    "city": "New York",
@@ -2444,6 +3441,8 @@
   },
   {
    "id": "0f48a199fa",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T07:00:00+00:00",
    "published": "2026-09-16T07:00:00+00:00",
    "city": "New York",
@@ -2467,6 +3466,8 @@
   },
   {
    "id": "1ae769c23b",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T07:00:00+00:00",
    "published": "2026-09-16T07:00:00+00:00",
    "city": "New York",
@@ -2504,52 +3505,9 @@
    "status": "published"
   },
   {
-   "id": "74d4576ac2",
-   "firstSeen": "2026-09-16T07:00:00+00:00",
-   "published": "2026-09-16T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Oh, Mary!",
-   "title": "Bowen Yang Makes Broadway Debut in “Oh, Mary!” as Matt Rogers and “SNL” Pals Cheer Him On",
-   "quote": "With their box office spiking, Bowen Yang and Reece Weaver have extended their Broadway runs in, respectively, Oh, Mary! and Chicago.",
-   "quoteSource": "Deadline",
-   "celebs": [
-    {
-     "name": "Bowen Yang",
-     "knownFor": "Chinese-American comedian",
-     "score": 25,
-     "qid": "Q60737294"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmcySmtvRjc5YmZPVUIwUTU2SVlnMWZ1LUtRVk5ETU5zUG9wOFd1cWNqbzBPVUVRazNxYWRDNkRZa3EwS2EwZG9PRHdLXzV0QnZPZE8ycEdmdldSS3U0S1RIQ00wd09IeFhkZkZBaFN0WUFGWVp3YWZBLVkyd1JiOA",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/09/bowen-yang-reece-weaver-broadway-oh-mary-chicago-1237112670/",
-     "feed": "deadline-theater"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/bowen-yang-extends-oh-mary-broadway-run-through-january-2027/",
-     "feed": "broadway-news"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-titanique-oh-mary-bowen-yang-1236707781/",
-     "feed": "thr-arts"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "882a52ab49",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-16T07:00:00+00:00",
    "published": "2026-09-16T07:00:00+00:00",
    "city": null,
@@ -2572,79 +3530,9 @@
    "status": "review"
   },
   {
-   "id": "ca7e67f729",
-   "firstSeen": "2026-09-16T07:00:00+00:00",
-   "published": "2026-09-16T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Donnell To Join Broadway",
-   "title": "Rosie O’Donnell To Join Broadway’s ‘Rocky Horror Show’ As Temporary Fill-In For Rachel Dratch",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "celebs": [
-    {
-     "name": "Rosie O’Donnell",
-     "knownFor": "The Flintstones, Tarzan",
-     "score": 53,
-     "qid": "Q272929"
-    },
-    {
-     "name": "Rachel Dratch",
-     "knownFor": "American actress and comedian",
-     "score": 26,
-     "qid": "Q261977"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUI4WGc2aTBHOVhsM2duUlpJN2VCdkI5QUVuVFV1cXZRQ2NLVU1NWXNZUTB3eXBYVkRveUNtNVR4VjdqdVlOTl96dDYtMm95LWRGRlRnWFVJUnQ2RXZRamhBX1dnSlFVTjNFMDBkZzBubzN6MlEzN1FxQTJvRDd5OGdrVHg2c3otSWc",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "8aa903ae48",
-   "firstSeen": "2026-09-15T20:45:43+00:00",
-   "published": "2026-09-15T20:45:43+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Rope’ Sets Off-Broadway Cast Led by Elizabeth Gillies, Cameron Monaghan",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "celebs": [
-    {
-     "name": "Elizabeth Gillies",
-     "knownFor": "Victorious, Dynasty",
-     "score": 51,
-     "qid": "Q230209"
-    },
-    {
-     "name": "Cameron Monaghan",
-     "knownFor": "Shameless",
-     "score": 33,
-     "qid": "Q939351"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXJyT1R4ZHpfQXVHdHRWS0Zob3B1VlJBYTFwMVBqQkJwTHN0MmZ1RmZrek9PWHRVVzk0S2hkNGw3ZGxVbTI1M3hiT3hOeXg0eUt0U0ZfNlo3NzNxSTlNODZXSHFoRV9veXhnZjl2N1U2WGJIMGtjWEswMnBOZ2lUUWhYQ2JWdDQ1QTdwbkFxNXdrcVJab3dkX1hsMWJ3LTVreXBpTzZHYVc",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "f886b028e0",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-15T20:25:01+00:00",
    "published": "2026-09-15T20:25:01+00:00",
    "city": "New York",
@@ -2668,6 +3556,8 @@
   },
   {
    "id": "ab10051ddd",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-15T19:35:10+00:00",
    "published": "2026-09-15T19:35:10+00:00",
    "city": "New York",
@@ -2691,6 +3581,8 @@
   },
   {
    "id": "e971db6c50",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-15T18:00:31+00:00",
    "published": "2026-09-15T18:00:31+00:00",
    "city": "New York",
@@ -2714,6 +3606,8 @@
   },
   {
    "id": "8216f7f17c",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-15T14:46:12+00:00",
    "published": "2026-09-15T14:46:12+00:00",
    "city": "New York",
@@ -2737,6 +3631,8 @@
   },
   {
    "id": "889f43cb65",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-15T07:00:00+00:00",
    "published": "2026-09-15T07:00:00+00:00",
    "city": "New York",
@@ -2760,6 +3656,8 @@
   },
   {
    "id": "d5455d8b74",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-15T07:00:00+00:00",
    "published": "2026-09-15T07:00:00+00:00",
    "city": null,
@@ -2783,6 +3681,8 @@
   },
   {
    "id": "6ce9d2a8d6",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-14T21:29:07+00:00",
    "published": "2026-09-14T21:29:07+00:00",
    "city": "New York",
@@ -2806,6 +3706,8 @@
   },
   {
    "id": "c9ff85e5e4",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-14T21:04:27+00:00",
    "published": "2026-09-14T21:04:27+00:00",
    "city": "Chicago",
@@ -2829,6 +3731,8 @@
   },
   {
    "id": "c09b7a49c7",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-14T12:00:00+00:00",
    "published": "2026-09-14T12:00:00+00:00",
    "city": "Chicago",
@@ -2851,37 +3755,9 @@
    "status": "review"
   },
   {
-   "id": "2838c53193",
-   "firstSeen": "2026-09-14T10:59:24+00:00",
-   "published": "2026-09-14T10:59:24+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Sunday in the Park With George",
-   "title": "‘Sunday in the Park With George’ London Revival Canceled After Ariana Grande, Jonathan Bailey Exit",
-   "quote": "The London revival of “Sunday in the Park With George” has been canceled following the exits of stars Ariana Grande and Jonathan Bailey. “The planned 2027 production of ‘Sunday in the Park with George’ at the Barbican will no longer proceed as scheduled,” a rep for producers Empire Street Productions tells Variety.",
-   "quoteSource": "Variety",
-   "celebs": [
-    {
-     "name": "Ariana Grande",
-     "knownFor": "Wicked, Don't Look Up",
-     "score": 141,
-     "qid": "Q151892"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-canceled-ariana-grande-exit-1236861022/",
-     "feed": "variety-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "9233e5cde0",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-14T07:00:00+00:00",
    "published": "2026-09-14T07:00:00+00:00",
    "city": "New York",
@@ -2904,37 +3780,9 @@
    "status": "review"
   },
   {
-   "id": "810bf3a623",
-   "firstSeen": "2026-09-14T07:00:00+00:00",
-   "published": "2026-09-14T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "One",
-   "title": "🎭🔥 Jamie Campbell Bower Makes Broadway Debut… For ONE Night Only 🔥🎭",
-   "quote": "",
-   "quoteSource": "Theriffreport",
-   "celebs": [
-    {
-     "name": "Jamie Campbell Bower",
-     "knownFor": "British actor",
-     "score": 50,
-     "qid": "Q313283"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Theriffreport",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclJ1S3BBSXNZeXU0VXlTbC05ZHhER1JzWThKZUtXUGswZzAxS2FRRXIySDhDTjVRNHMtZEVqcG5JckVua1EyYnRPdnVFX3RMQ0RyVVJwb1l0LWp2b19kYUp1WDBSSzg1S2plQkhjdnl2dXExM1lKaDRWVURGSWFqVGo4WWVnNDRBMEl0a2RaeENtYS1vWGhaYTBvUUoxRDZsMDVQeHFyM0dEeDRxVkNOaDQ5R1pYRWhBN3pWTjdCNEg3eXB3QjF3MDZRR2prempkNXcxVTNR",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "8a5137e6b1",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-14T07:00:00+00:00",
    "published": "2026-09-14T07:00:00+00:00",
    "city": "New York",
@@ -2957,132 +3805,9 @@
    "status": "published"
   },
   {
-   "id": "e2e0fad365",
-   "firstSeen": "2026-09-14T07:00:00+00:00",
-   "published": "2026-09-14T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Sea Wall",
-   "title": "Andrew Scott to star in 'Sea Wall' off Broadway for two weeks only",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "celebs": [
-    {
-     "name": "Andrew Scott",
-     "knownFor": "Irish actor",
-     "score": 42,
-     "qid": "Q507322"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRtWXIyRUxQcjA4Mi0ybUc0OEJRU1g4eFdGOXlXaUkyeFBQbGRXa2x4dmZwekdOd2VHMDBMTUZSc0czZUg3SWtYMkNBd3A1cG5rT1BWcFlibHVlY0hqa1JhNDJnY0FVbDNvMGFJNk40NkRnUWF1cVI4VC1waE5sQi1mZy16dDRhZGFXbjJacmRuZ2x1bmRqWXRXblRFZUZ1ZzJIdlUxdktKQkFLcXFiUEVKdVo4cjJqR2c",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQ1J6WEJ5RzVKUGZkVmEyTnlKSHJEVERWeEhnRUpSbE5TWGw5OUNtem9pNG5SMjJFZ0t0SFg5TlVKZVZKeU9FR2RKN2l4MVh4QjNBMVB4M1ZnLWlkd0ZSOXBMRmVPY3c4X0xEZ3hBQQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "b4d67f1540",
-   "firstSeen": "2026-09-12T07:00:00+00:00",
-   "published": "2026-09-12T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Aladdin.",
-   "title": "Greene: Sherri Shepherd to play Genie in Broadway’s ‘Aladdin.’ Was Michelle Obama busy?",
-   "quote": "",
-   "quoteSource": "New York Daily News",
-   "celebs": [
-    {
-     "name": "Sherri Shepherd",
-     "knownFor": "30 Rock, The Jamie Foxx Show",
-     "score": 26,
-     "qid": "Q268549"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Daily News",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0VCU1lHZDhzOHUzYWxXZnBIMFRyNnFrVEVKd1pMNnI1ZktTUXlYaE45UnFLUHNXZFVVUjZLdUV2MEdyTjJqNHhaamVYdVNkZTZsZENlSll3X2J2WHEtbGxCY1R3bU5HNjA4TDRtMEVoNVdVN0J3TzZCelVHa29CNXRvMmtqSkJIenowNXptaFpUVzVET2psWElSU1FVZHVLV2RxX3VodXI",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "c64410641b",
-   "firstSeen": "2026-09-11T12:00:23+00:00",
-   "published": "2026-09-11T12:00:23+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "The Score",
-   "title": "Fugue Off: Brian Cox Plays a Well-Tempered Bach in ‘The Score’",
-   "quote": "A chat with the acclaimed actor and his wife, Nicole Ansari-Cox, onstage now in Oliver Cotton's new play at Shakespeare Theatre in D.C.",
-   "quoteSource": "American Theatre",
-   "celebs": [
-    {
-     "name": "Brian Cox",
-     "knownFor": "Why Does E=mc2?, The Quantum Universe",
-     "score": 43,
-     "qid": "Q463581"
-    }
-   ],
-   "sources": [
-    {
-     "name": "American Theatre",
-     "url": "https://www.americantheatre.org/2026/09/11/fugue-off-brian-cox-plays-a-well-tempered-bach-in-the-score/",
-     "feed": "american-theatre"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "e60ab3efcb",
-   "firstSeen": "2026-09-10T16:30:29+00:00",
-   "published": "2026-09-10T16:30:29+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "The Popinjay Cavalier",
-   "title": "Sacha Baron Cohen to Star in Quentin Tarantino’s First Stage Play ‘The Popinjay Cavalier’",
-   "quote": "Sacha Baron Cohen is going from Ali G to the West End. The actor and comedian is set to make his stage debut in the London production of Quentin’s Tarantino’s upcoming production “The Popinjay Cavalier,” Variety can confirm.",
-   "quoteSource": "Variety",
-   "celebs": [
-    {
-     "name": "Sacha Baron Cohen",
-     "knownFor": "Da Ali G Show, Borat",
-     "score": 79,
-     "qid": "Q29055"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/global/sacha-baron-cohen-star-quentin-tarantino-first-stage-play-1236857456/",
-     "feed": "variety-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "e4fe524edd",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-10T11:00:46+00:00",
    "published": "2026-09-10T11:00:46+00:00",
    "city": null,
@@ -3105,228 +3830,9 @@
    "status": "review"
   },
   {
-   "id": "eb9af41b83",
-   "firstSeen": "2026-09-10T07:00:00+00:00",
-   "published": "2026-09-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Night Of January 16Th",
-   "title": "Christa B. Allen to Join the Cast of NIGHT OF JANUARY 16TH Off-Broadway",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "celebs": [
-    {
-     "name": "Christa B Allen",
-     "knownFor": "American actress",
-     "score": 28,
-     "qid": "Q259064"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX3VMcWVCUkZIdXNMR3dnVFhlMXJjR2hnaVEyNFJVT1hIVU5XRGRSQ2ZzNEFRcGd5dzh1MDdEZl9kaXV6MUowWk93aXQ4XzUtaUFmcnN0Q2E1UlB3YjZ3dDhVaTBUM0M3LVRLakM5YVNGZWV0LWYyRTl0VnZqRGpsYTZyZmg3dzZwSjFPNjdpNGhYSE5zTGJpTzJJRjdaUTRiZEI1dXFGZ3ZuX01vVVhHaVpKNVhOLXdoOGJHVWR1c0FBdnhzaDV5LTln",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "fdf33f7b70",
-   "firstSeen": "2026-09-10T07:00:00+00:00",
-   "published": "2026-09-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Buena Vista Social Club",
-   "title": "Gina Torres to star in 'Buena Vista Social Club' on Broadway",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "celebs": [
-    {
-     "name": "Gina Torres",
-     "knownFor": "American actress",
-     "score": 36,
-     "qid": "Q241471"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHNyV29NdGdpY0ZZcHl4M1lobkdHd3ROY1JpUXFFSU9qZFVsTDZPb05veDlBUWRCU2M2aHdVVlFtX0hndnB0ZG9YVjBFWVNsQ3I3bGtGYkN2aGRSaFVBSVIzWGRvdVhDVFlaMDNsSmJmQ053TnVWTHFoRVFJZUZkX0hlbDhwWE5lcHpHQVVZM3dkNWt4ZEp0NTUzVndnTEZYbjhUc1NGQkswdlB1MzN3TWln",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yakRDUWluU0Vrb0ZobG83MGRKaDNjOS1zalNjaWxPOElmRDFKUFNiRmNFN0RqTTBKZFI3eENQTnphdEZudmJmZ1pQVTVDVmhsRVR1YUQwMF94bERsQldEZ2JRSk8",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a1613b77b4",
-   "firstSeen": "2026-09-10T07:00:00+00:00",
-   "published": "2026-09-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Wild Rose",
-   "title": "Madeline Brewer to star in 'Wild Rose' musical off Broadway",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "celebs": [
-    {
-     "name": "Madeline Brewer",
-     "knownFor": "American actress",
-     "score": 28,
-     "qid": "Q17385680"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkp4cTJvU25nRER2UHl5aXI5VWJJeWFHLVh4Mnoxd2E2dl9ZRHdHeTBWOGpnbjFIZktiYnJGUWg0c3ExMmJTQ1ZDUnZ0VDVSVHlpWHAwZDRJUTBBb3ZLXzAxMUZ0TWROLWExdmhlc0puLVRieXhBYW5uM0pQSl9abFh4QUpCenZEQ0hUbmhmZjd1TzNYazFKZWZoUlhOLWhYLWtiV29BUnpQV3lxSzVuOQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "308e2ad88e",
-   "firstSeen": "2026-09-10T07:00:00+00:00",
-   "published": "2026-09-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Bill Pay",
-   "title": "One-night-only 'Bill Pay' Broadway musical to star Billy Porter, Billy Zane, Jessica Vosk",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "celebs": [
-    {
-     "name": "Billy Zane",
-     "knownFor": "Titanic",
-     "score": 59,
-     "qid": "Q205435"
-    },
-    {
-     "name": "Billy Porter",
-     "knownFor": "American singer and actor",
-     "score": 32,
-     "qid": "Q4913177"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZm5GWTNpRGRjbFVEWmVLVU8yNjhUaUwyZDdsd05HLVBiSHdKZWh3V2c4SmJlNktkb1NwSEJES1pwWGl0SDNjZmo2OTByTDBkRkN2bUhqMVNFaWpXMm5mdWtQSnU1OFhsX1YyODBlM0hWemRYQUlhRW5HRFh2VGM2YmVMdUNHWkFPU1hJSl8tSUFUSDRxM1RUVUtucG5iQWM4VEdqM2lXX19uNGZtZnhZenFqcTJfVWxrTElKbE1UWEdWTTZjRUI5MEJWb253blRaLWUtaEt3",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnVfcmpiSnpIRnpIMTlpUGVWUWtnT25iNW5yQldfaWJmVHg5VGpCS0Y4cGdQbUVBekNjUl9faHVUTXRYaXdReXY0dGE4LV8zVmRlLVNOd3JiZ0F6Z2VTLXpCZFNVaXBQc0RfdTR3bG1jX2dHaTNLVmlFbWNzRXk1Y1hnQ0NJMlV4NGxvSzhZUG9Oel9W",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2NHJITTZqY2NfMmhnNy0yeEFpakxQYXpnOEZWUzl4SDNIV1hNYUg2ajdqRno5UEZ2cUdfNkdlcmJfQUV6bTY3NjdDOC1lcG5jdWVFUTR6STJtRW5UTjRmbA",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTNzSk5LYmtFc2VNd01JMkZBRC1NVG5hRHk1N3pSeDM2UHhtMEY0THJqZXRXWUFwblhKZ1Nua1FuRjc0V0ZRbDdtM1RtT3plOGdrMC1MNnV1N2NObFZ0bTJIQWNzSXVCeXowMU9WQmVRRnFvbURGdlhmUF9LeGkyX2VxQUJMNTlIZ2U1dV9Ocm1IendkdC1tanBxWWZabkRKb01PSVBLWFlZd3pidmE5VW1MMms2cWc",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "d2b7a2772b",
-   "firstSeen": "2026-09-10T07:00:00+00:00",
-   "published": "2026-09-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Imitation of Life",
-   "title": "Adrienne Warren to star in John Legend, Lynn Nottage musical 'Imitation of Life'",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "celebs": [
-    {
-     "name": "John Legend",
-     "knownFor": "American singer-songwriter",
-     "score": 58,
-     "qid": "Q44857"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1RDYVlVYk1KSjlxWG5Ha0pvaEc0aVc0WnhZbnNSa2FMOGJ4UUljb1hBYnFfWUJiMkNsRXNmXzJRZWxxdTA0c2c3eHh4cmNBM0FCVmFNYWhOWkVrdEFMNWJBdTNTQTJnQmFqb0JXNkVPUXppVUxfajk5aWlNY2luS1htX0ZxS21hbWR3M202eEFaYVJnbVV3OU12N0ZReGdpbElfdFlyYXFObWVFRjJ0MHNjajUtWmRsRS13a3hha2Y0UnNUaC1iSmFzTQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0dETXpINDN0RE45NE9QaGlpWnJ2VHhiYkVYUDU3VE1TeHl1dkt0N01VaWw4Z1IteDlSSTRYZjg5LXFzR0J6ak1CZl9wNzJ5ZzF2OTR5RVRpU0JpUFRvay12VEJfeGR6N0hHa19VU3BFR3NVNnpvaklZcXJXMDJzNVB6SGQzSl9FOGhkSnNVdzVCTzVoYjBCeFBuSmh6NnFk",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a01503197e",
-   "firstSeen": "2026-09-10T07:00:00+00:00",
-   "published": "2026-09-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Rope",
-   "title": "Corey Fogelmanis, Elizabeth Gillies, Jason Butler Harner to Star in Rope Off-Broadway",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "celebs": [
-    {
-     "name": "Elizabeth Gillies",
-     "knownFor": "Victorious, Dynasty",
-     "score": 51,
-     "qid": "Q230209"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSU41dnNQM04wVHZFYWJCbHRrX1pScWhqb1Joa0ZaUkxEQktXS2Zha3E5enhDemVkcDQzS3V3SmRkSEpUa0YteGd6UFZ0TWhGNjZTWEYxWl91V05HM0V5RURSUXZHcEZPVi1JWWFzaWU5NkRXR0hpY29vYnh1NTQ3RUF2cy1vTnYzVjNlRG9TNlI3T1M4VzkxcllBUlZrcWNzZnNMclJZbV9JTm9tUWpKQ19TUWp1VFJ0d0NEcHJVTkp1cEY5",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0lCMWdSc3VwV25Lc05rUFNkTGY1OE1xMkRzRDVzNHdhTmJmcmZPZ0RtNDVRc21SU202WUNZcVJQVGs4eGdvc0ZTNVhiSzVRS1RjSC0tcGRlZFZvempoamRYMzlobkFTdWhjR1dQeGFGcHQ0RV9MOUNqZjQzUmF1TU1fTjJmRVROaFhfeUQxX2lJX0ExMXIyVWVMYk94am9NUGJ4X2dLa0t6VFRtU2ZOMlF2dDBpVkZCS0dNeXZrSQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2RuNUdSZi1GSThNNlRIWVU1WjZtUTktSzR6eEZyamxBUzdlaW5tUWJHM05RSGplc1owemlTZW8yZWlUczAtd0o5OS1ZTHZRMzdsQXY0eG91Sjhmblhsd3ZWZ0x0UkVDYjZhenE3aGtwcGpXUE9DVDNwY1B4U3NoNHNDQ3h2Vzczb1hWVHVoMDFGQnZ3XzIyWGl2OEFVT1d2elhDMFdSLVp3YWxSb0JoM0wtdjhYQ2pFTU51WkNaNA",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "0d2f5c3807",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-09T20:42:11+00:00",
    "published": "2026-09-09T20:42:11+00:00",
    "city": "New York",
@@ -3349,49 +3855,9 @@
    "status": "published"
   },
   {
-   "id": "b71821b686",
-   "firstSeen": "2026-09-09T19:00:00+00:00",
-   "published": "2026-09-09T19:00:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": null,
-   "title": "Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre’s Starry 2027 Slate",
-   "quote": "London’s National Theatre has unveiled its 2027 program, with Paul Mescal, Emma Corrin and Emilia Clarke topping a star-heavy slate of 18 productions, eight of them world premieres, spanning the venue’s three stages and beyond. Mescal returns to the Lyttelton theater for a repertory season, playing Biff Loman in Rebec…",
-   "quoteSource": "Variety",
-   "celebs": [
-    {
-     "name": "Emilia Clarke",
-     "knownFor": "Game of Thrones",
-     "score": 94,
-     "qid": "Q235132"
-    },
-    {
-     "name": "Paul Mescal",
-     "knownFor": "Irish actor",
-     "score": 55,
-     "qid": "Q73367368"
-    },
-    {
-     "name": "Emma Corrin",
-     "knownFor": "British actor",
-     "score": 49,
-     "qid": "Q63086179"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/",
-     "feed": "variety-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "1ea3f3e258",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-09T15:45:19+00:00",
    "published": "2026-09-09T15:45:19+00:00",
    "city": "Chicago",
@@ -3415,6 +3881,8 @@
   },
   {
    "id": "cc24148edc",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-09T07:00:00+00:00",
    "published": "2026-09-09T07:00:00+00:00",
    "city": "New York",
@@ -3438,6 +3906,8 @@
   },
   {
    "id": "fb16e346da",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
    "published": "2026-09-08T07:00:00+00:00",
    "city": "New York",
@@ -3461,6 +3931,8 @@
   },
   {
    "id": "eb1602cc16",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
    "published": "2026-09-08T07:00:00+00:00",
    "city": "New York",
@@ -3484,6 +3956,8 @@
   },
   {
    "id": "45b7a1fe6b",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
    "published": "2026-09-08T07:00:00+00:00",
    "city": "New York",
@@ -3506,37 +3980,9 @@
    "status": "published"
   },
   {
-   "id": "7c927f62e9",
-   "firstSeen": "2026-09-08T07:00:00+00:00",
-   "published": "2026-09-08T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "celebs": [
-    {
-     "name": "Rosamund Pike",
-     "knownFor": "British actress",
-     "score": 75,
-     "qid": "Q230004"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "8342b81d79",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
    "published": "2026-09-08T07:00:00+00:00",
    "city": "New York",
@@ -3560,6 +4006,8 @@
   },
   {
    "id": "69a551cea1",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
    "published": "2026-09-08T07:00:00+00:00",
    "city": "New York",
@@ -3583,6 +4031,8 @@
   },
   {
    "id": "c064918568",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
    "published": "2026-09-08T07:00:00+00:00",
    "city": "New York",
@@ -3605,91 +4055,9 @@
    "status": "published"
   },
   {
-   "id": "9d4cc2a472",
-   "firstSeen": "2026-09-08T07:00:00+00:00",
-   "published": "2026-09-08T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Julia Roberts, Paul Rudd and Sarah Paulson to Star in Broadway’s Small Mouth Sounds",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "celebs": [
-    {
-     "name": "Julia Roberts",
-     "knownFor": "American actress",
-     "score": 131,
-     "qid": "Q40523"
-    },
-    {
-     "name": "Paul Rudd",
-     "knownFor": "Anchorman: The Legend of Ron Burgundy, Ant-Man",
-     "score": 78,
-     "qid": "Q276525"
-    },
-    {
-     "name": "Sarah Paulson",
-     "knownFor": "American actress",
-     "score": 56,
-     "qid": "Q257442"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "f406beedf6",
-   "firstSeen": "2026-09-08T07:00:00+00:00",
-   "published": "2026-09-08T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Julia Roberts, Paul Rudd and Greta Lee are coming to Broadway next year",
-   "quote": "",
-   "quoteSource": "Time Out Worldwide",
-   "celebs": [
-    {
-     "name": "Julia Roberts",
-     "knownFor": "American actress",
-     "score": 131,
-     "qid": "Q40523"
-    },
-    {
-     "name": "Paul Rudd",
-     "knownFor": "Anchorman: The Legend of Ron Burgundy, Ant-Man",
-     "score": 78,
-     "qid": "Q276525"
-    },
-    {
-     "name": "Greta Lee",
-     "knownFor": "American actress",
-     "score": 30,
-     "qid": "Q19517962"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Time Out Worldwide",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHYwLWt6U2EteVR4QXZVY3d2TkxKN3JVX3FadnRhS3hTSnNHWGpBRmNoVngxNEFEZDVCMjJVWFVpd2Y4VjBVV2lXQzZreS1RbHJKdVZRUHRzYUpHeVNNdFh3OENQTzByZWREV1ZiMEg5b19iWnNfdFFZTHhfTHU4NzJ5LTNJWEdzal8tcVBFOHYxT2loeDhOUlFXTGtKTHpPNDgxMFdfV0VtTFVubUlPN3dsa2U",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "c33360141c",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
    "published": "2026-09-08T07:00:00+00:00",
    "city": "New York",
@@ -3713,6 +4081,8 @@
   },
   {
    "id": "98658e8377",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-07T07:00:00+00:00",
    "published": "2026-09-07T07:00:00+00:00",
    "city": "Chicago",
@@ -3736,6 +4106,8 @@
   },
   {
    "id": "e1135527f3",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-05T07:00:00+00:00",
    "published": "2026-09-05T07:00:00+00:00",
    "city": "New York",
@@ -3764,6 +4136,8 @@
   },
   {
    "id": "cfaea4e49b",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-04T18:01:39+00:00",
    "published": "2026-09-04T18:01:39+00:00",
    "city": "New York",
@@ -3787,6 +4161,8 @@
   },
   {
    "id": "cab53d9542",
+   "priority": 3,
+   "watched": [],
    "firstSeen": "2026-09-04T07:00:00+00:00",
    "published": "2026-09-04T07:00:00+00:00",
    "city": "New York",

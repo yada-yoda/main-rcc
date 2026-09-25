@@ -4,9 +4,8 @@
 # tier and type, looks up names on Wikidata, and writes news-src/data/. No
 # keys, no accounts, no paid services - the whole point of the design.
 #
-# Four times a day is enough: these outlets publish in US business hours and
-# nothing here is time-critical. The run is skipped entirely if nothing
-# changed, so a quiet day leaves no commit.
+# Twice a day, morning and evening US Central. The run writes nothing if
+# nothing changed, so a quiet day leaves no commit behind.
 #
 # This workflow writes only under news-src/data/, so it can never disturb the
 # blog, the acting site at the domain root, or the mirror coming in from the
@@ -16,9 +15,11 @@ name: News ingest
 
 on:
   schedule:
-    # 13:00, 19:00, 01:00, 07:00 UTC - morning, midday, evening and overnight
-    # in US Central, which is where the Chicago half of the coverage lives.
-    - cron: "0 13,19,1,7 * * *"
+    # 13:00 and 23:00 UTC - early morning and early evening US Central, which
+    # is where the Chicago half of the coverage lives. Twice is enough: these
+    # outlets publish in business hours, the feeds hold far more than a day of
+    # items, and nothing here is time-critical.
+    - cron: "0 13,23 * * *"
   workflow_dispatch:
     inputs:
       dry_run:

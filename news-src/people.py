@@ -200,22 +200,38 @@ class People:
         headline. The occupation is the useful half."""
         return re.sub(r"\s*\((?:born|b\.)[^)]*\)\s*$", "", text or "").strip()
 
-    def celebrities(self, names):
-        """Filter candidate names down to performers famous enough to show."""
+    def _chip(self, name, entry, watched=False):
+        known = entry.get("knownFor") or []
+        chip = {
+            "name": name,
+            "knownFor": ", ".join(known) if known
+                        else self._tidy_known_for(entry.get("description")),
+            "score": entry.get("score", 0),
+            "qid": entry.get("qid"),
+        }
+        if watched:
+            chip["watched"] = True
+        return chip
+
+    def celebrities(self, names, always=()):
+        """Candidate names filtered down to performers famous enough to show.
+
+        Names in `always` are the watchlist, and they bypass the threshold
+        completely - the whole point of that list is that it outranks a score
+        which cannot know what this particular site cares about. A watched
+        name is kept even if Wikidata has nothing useful to say about them.
+        """
+        always_norm = {a.lower() for a in always}
         out = []
         for name in names:
+            watched = name.lower() in always_norm
             e = self.look_up(name)
-            if not (e.get("isPerson") and e.get("isPerformer")):
-                continue
-            if e.get("score", 0) < self.min_score:
-                continue
-            known = e.get("knownFor") or []
-            out.append({
-                "name": name,
-                "knownFor": ", ".join(known) if known
-                            else self._tidy_known_for(e.get("description")),
-                "score": e.get("score", 0),
-                "qid": e.get("qid"),
-            })
-        out.sort(key=lambda c: -c["score"])
+            if not watched:
+                if not (e.get("isPerson") and e.get("isPerformer")):
+                    continue
+                if e.get("score", 0) < self.min_score:
+                    continue
+            out.append(self._chip(name, e, watched))
+        # Watched names lead, then the widest known.
+        out.sort(key=lambda c: (not c.get("watched"), -c["score"]))
         return out

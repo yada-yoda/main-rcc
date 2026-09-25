@@ -8,7 +8,7 @@ Two things live here and they do not overlap:
 |---|---|---|
 | `/` (root) | The acting site. `index.html`, `resources.html`, `reel.html`, `assets/`, `sitemap.xml`, `robots.txt` | Mirrored in from the `dev` repo by its sync workflow. **Never edit these by hand** - the next sync overwrites them. |
 | `/blog` | The blog at rizzo.cc/blog | Built here from `blog-src/` by `.github/workflows/build-blog.yml` |
-| `news-src/` | The Stage Wire news ingest | Runs itself four times a day via `.github/workflows/news-ingest.yml` |
+| `news-src/` | The Stage Wire news ingest | Runs itself twice a day via `.github/workflows/news-ingest.yml` |
 
 `.nojekyll` at the root turns GitHub's Jekyll pass off. Without it Jekyll would
 render the Eleventy sources in `blog-src/` as extra pages.
