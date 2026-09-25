@@ -250,7 +250,7 @@
    ],
    "sources": [
     {
-     "name": "Matineemouse",
+     "name": "Substack",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CZVlYd3VYOWd0T2owLU1ndkV1V1pTZEZzcnNiLUZjY0Nya3c1eEc5UThLM3JHdVlhZlFPV2NXTlQ0LUhFWFNoWFpVOGNaUWwxQ01tNTdKcnRZRnh4MGN2V21ocHgwUWVBMFltZmJiUkNYMmU3azZERVQyRQ",
      "feed": "gn-bway-casting"
     },
@@ -478,7 +478,7 @@
    "show": null,
    "title": "Odds and Ends: Spring Awakening Sets Off-Broadway Cast, Lea Michele and Aaron Tveit to Reunite in Concert",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "celebs": [
     {
      "name": "Lea Michele",
@@ -495,7 +495,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhfUTlRdXlvYXo3X0tHUWpOdHVRUkRyOWIwN0Qzc3VqZXppSzQ2OEJaWDJBWkVhdVFIN25idDAyT3V3d0VHbjJoQmVXNm5HYXlQdmNwamtlUzNBZDd0S0l1OURfRzF5LXUxZXJoZ3J6OUNXR0NPVURlTTl2NEh0d2k2V0pLQUhHTF9jQWtKY2lLUUtEelp3TXl3Z2dDZUQ5M3NOQmpBSkhzSndsd1J3WC1SOVlRa3pDWUdrWlNSR3QyX0FITE5lWGhQam1RMThpZ3RIMXh4X2k",
      "feed": "gn-offbway-casting"
     }
@@ -1221,7 +1221,7 @@
    "show": null,
    "title": "Julia Roberts, Paul Rudd and Sarah Paulson to Star in Broadway’s Small Mouth Sounds",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "celebs": [
     {
      "name": "Julia Roberts",
@@ -1244,7 +1244,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
      "feed": "gn-to-star"
     }
@@ -1300,7 +1300,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-25T18:42:35+00:00",
-   "published": "2026-09-25T18:42:35+00:00",
+   "published": "2026-09-25T18:44:15+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -1325,7 +1325,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-25T18:42:35+00:00",
-   "published": "2026-09-25T18:42:35+00:00",
+   "published": "2026-09-25T18:44:15+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": "Eugene O'Neill Theatre",
@@ -2202,7 +2202,7 @@
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTdWU3Q4MU13SjRwcDJTb0JwUnctTlcxOEhYVkxwNkNqT1ZhQTdiWkRBdjUxMi1fcmJCT2VsZkxsNW1UQzNuM1duUmNFUldGUXZPYmRQOTB3LUVmeGxLZ1ZZVXhuaU1qOXlOYWFfVjl6SUlQV0RneDBwcnRra0RUNkoyWHg4cWJWdDNENUlUWFN0R0ZCb3M3Z3FENVN5bzBpb3pfYUIwZXRUeUdBSUNB",
      "feed": "gn-to-star"
     }
@@ -2528,11 +2528,11 @@
    "show": null,
    "title": "Paranormal Activity Cast on the Screams, Laughs and Love Story at the Heart of the Broadway Thriller",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ0NKYVgtMWRPQ3RNTUZMdTlVZEJ1WnZXTDFnMnQ0bTJ0bnF6YTFDTHZtaUkxOURrQ2FhdFJ4N2tFdE00Z3NLcTg5UTZ6S1JISVhvMXNNNW5uWVZsQ0dNaEgzbU5FQjhkWGI3TV83cTVEbWJIMWd0ZTZnVWkwZWlLaEw5MkU0ZkdEa3VkMnhtd3FJRHg3dFl2dFY4d3JvanVpT1NZbEFPTGcxM0c4aXhBTm4yaUwwM285c0ZwNTA3QlRQaGxwVXZibC1uSjMtSjN4YmFR",
      "feed": "gn-bway-casting"
     }
@@ -2557,7 +2557,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2dXR1ZZRDFyVFYzdUhyUk9JdEhwZWZtNWtvd0NnVjhWMWVqTGRQRzZ6M2RGODFkU05aYW5qZTZ3SC12NjFOa0FjVHFCV0FXd0FhR0tzU3I1Wl8xVU1YSl9GYWdqUjIwUHFmczROSndBSldXVlhTempWaGVsZngtdXR3UmdLT2h6SVBJVy1OekZ3LV81amsxMUxveFBhRUF1dk13",
      "feed": "gn-bway-debut"
     },
@@ -2868,11 +2868,11 @@
    "show": null,
    "title": "The Outsiders Sets New Broadway Cast Members",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmJ0cVA4VkxiUUdiOWlYSzFwZkdlME5sMWRKY3ZFNFM4c19hYjhTQThrS3dCZnpEay05WUstbThOazJSWFJOQzNYeGNDcnFqNnREUlltaVJnbkZ5US1ZUktOcFFDbWRqbzUtZENPSW5PNnRSTWl5RHp1Vm5YWDVhZklOUlBHTjVjUEE",
      "feed": "gn-bway-casting"
     }
@@ -3643,11 +3643,11 @@
    "show": null,
    "title": "The Best Shows Coming to Broadway in 2026 and 2027",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
      "feed": "gn-to-star"
     }
@@ -3943,11 +3943,11 @@
    "show": null,
    "title": "Downstate Sets Broadway Cast With Liza Colón-Zayas, Thomas Sadoski, K. Todd Freeman, Francis Guinan and More",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmJ1WlN1dVNxLV9fU05sYzMwUzdRY3A1ZkR4V0FNbWtyWlR0Z2VaNkluZUNaOXFJYjF6UGFUZkFiTGphN2xkV1REdHBkMVEwTDU3MGc4dkp1ZEZnT0xaNmpKLUtYMVA0YWdiOENvb2EzYjZwaHlPeno0WTR5Y3FPaElVcnhKeGZCQjFEQlEwZE9JSkswNmhMR19xVFJLZVU3YlNwZkNXcDFqanY5WVBSVlBDZ2VfTFowWUdmajllRGxSeFFuMlpnMDRBZ3JXWjc0QTlsOG53ejMyUQ",
      "feed": "gn-bway-casting"
     }
