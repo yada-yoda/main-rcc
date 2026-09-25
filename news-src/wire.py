@@ -133,17 +133,28 @@ def _usable_image(url):
     return not any(bad in u for bad in IMAGE_JUNK)
 
 
+def _dimension(node, attr):
+    try:
+        return int(node.get(attr) or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
 def find_image(entry, summary_html):
     """The outlet's own image for this story, if the feed offers one.
 
     Only what the feed publishes is used - media RSS elements, an enclosure,
     or an image already embedded in the description. Nothing is scraped from
-    the article page, and the image is never copied: what is recorded is the
-    outlet's URL and whatever credit the feed supplied.
+    the article page and nothing is copied: what is recorded is the outlet's
+    own URL, its dimensions where stated, and any credit the feed supplied.
 
-    Returns (url, credit) and both may be None. Storing a URL is not the same
-    as displaying it; whether these are ever shown is a separate decision
-    with its own rights questions.
+    Feeds routinely publish the same photograph several times at different
+    sizes - a 150px thumbnail alongside a 1200px original. The widest one
+    wins, because these are displayed at the top of a story rather than as a
+    postage stamp, and an upscaled thumbnail looks like a mistake. Entries
+    that state no width sort last rather than being discarded.
+
+    Returns (url, credit, width, height); any of them may be None or 0.
     """
     candidates = []
 
@@ -151,20 +162,28 @@ def find_image(entry, summary_html):
         medium = (node.get("medium") or "").lower()
         mime = (node.get("type") or "").lower()
         if medium == "image" or mime.startswith("image/") or (not medium and not mime):
-            candidates.append(node.get("url"))
+            candidates.append((node.get("url"), _dimension(node, "width"),
+                               _dimension(node, "height")))
 
     for node in entry.findall(MEDIA + "thumbnail"):
-        candidates.append(node.get("url"))
+        candidates.append((node.get("url"), _dimension(node, "width"),
+                           _dimension(node, "height")))
 
     for node in entry.findall("enclosure"):
         if (node.get("type") or "").lower().startswith("image/"):
-            candidates.append(node.get("url"))
+            candidates.append((node.get("url"), 0, 0))
 
+    # An image already inside the description, used only if the feed offered
+    # no proper media element.
     m = IMG_SRC_RE.search(summary_html or "")
     if m:
-        candidates.append(html_module.unescape(m.group(1)))
+        candidates.append((html_module.unescape(m.group(1)), 0, 0))
 
-    url = next((c for c in candidates if _usable_image(c)), None)
+    usable = [c for c in candidates if _usable_image(c[0])]
+    if not usable:
+        return None, None, 0, 0
+
+    url, width, height = max(usable, key=lambda c: c[1])
 
     credit = None
     for tag in (MEDIA + "credit", MEDIA + "copyright"):
@@ -173,7 +192,7 @@ def find_image(entry, summary_html):
             credit = node.text.strip()
             break
 
-    return url, credit
+    return url, credit, width, height
 
 
 class Item:
@@ -182,10 +201,11 @@ class Item:
     # feed_id / feed_name are filled in by the collector, which knows which
     # source the item came from; the parser does not.
     __slots__ = ("title", "link", "summary", "published", "source", "categories",
-                 "image", "image_credit", "feed_id", "feed_name")
+                 "image", "image_credit", "image_width", "image_height",
+                 "feed_id", "feed_name")
 
     def __init__(self, title, link, summary, published, source, categories,
-                 image=None, image_credit=None):
+                 image=None, image_credit=None, image_width=0, image_height=0):
         self.title = title
         self.link = link
         self.summary = summary
@@ -194,6 +214,8 @@ class Item:
         self.categories = categories
         self.image = image
         self.image_credit = image_credit
+        self.image_width = image_width
+        self.image_height = image_height
         self.feed_id = ""
         self.feed_name = ""
 
@@ -217,10 +239,10 @@ def _rss_items(root):
         categories = [_text(c) for c in e.findall("category")]
         categories += [_text(c) for c in e.findall(DC + "subject")]
 
-        image, credit = find_image(e, summary)
+        image, credit, iw, ih = find_image(e, summary)
 
         yield Item(title, link, strip_tags(summary), published, source,
-                   [c for c in categories if c], image, credit)
+                   [c for c in categories if c], image, credit, iw, ih)
 
 
 def _atom_items(root):
@@ -237,9 +259,9 @@ def _atom_items(root):
             _text(e.find(ATOM + "published")) or _text(e.find(ATOM + "updated"))
         )
         categories = [c.get("term") for c in e.findall(ATOM + "category") if c.get("term")]
-        image, credit = find_image(e, summary)
+        image, credit, iw, ih = find_image(e, summary)
         yield Item(title, link, strip_tags(summary), published, "", categories,
-                   image, credit)
+                   image, credit, iw, ih)
 
 
 def parse_feed(body):

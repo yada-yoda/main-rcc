@@ -276,6 +276,14 @@ def file_story(item, venues, max_age_days, now):
     if is_echo(quote, title):
         quote = ""
 
+    # These images are hotlinked from the outlet and shown with a credit
+    # beneath. An image nobody can be credited for does not get shown at all:
+    # if the attribution cannot be worked out, neither can permission.
+    image = item.image
+    image_credit = (item.image_credit or outlet or "").strip()
+    if image and not image_credit:
+        image = None
+
     return {
         "title": title,
         "city": city,
@@ -287,10 +295,16 @@ def file_story(item, venues, max_age_days, now):
         "show": classify.show_title(title),
         "quote": quote,
         "quoteSource": outlet,
-        # The outlet's own image URL, recorded but not copied. Whether these
-        # are ever displayed is a separate decision - see the README.
-        "image": item.image,
-        "imageCredit": item.image_credit,
+        # The outlet's own image URL, recorded but never copied. These are
+        # hotlinked from the outlet's server and shown with the credit line
+        # beneath them.
+        #
+        # imageCredit is never empty when there is an image, so attribution
+        # cannot be lost further down the line by forgetting to handle a null.
+        "image": image,
+        "imageCredit": image_credit if image else None,
+        "imageWidth": item.image_width if image else 0,
+        "imageHeight": item.image_height if image else 0,
         "published": published,
         "source": {"name": outlet, "url": link, "feed": item.feed_id},
         "names": classify.extract_names(title),
@@ -373,6 +387,8 @@ def build(args):
                 "quoteSource": s["quoteSource"],
                 "image": s["image"],
                 "imageCredit": s["imageCredit"],
+                "imageWidth": s["imageWidth"],
+                "imageHeight": s["imageHeight"],
                 "published": s["published"],
                 "sources": [],
                 "names": [],
@@ -387,9 +403,14 @@ def build(args):
         if not c["quote"] and s["quote"]:
             c["quote"], c["quoteSource"] = s["quote"], s["quoteSource"]
         # A Google News copy of a story carries no image, so the first outlet
-        # in the cluster often has none while a later one does.
-        if not c["image"] and s["image"]:
+        # in the cluster often has none while a later one does. Between two
+        # that do, the wider photograph wins.
+        if s["image"] and s["imageWidth"] > (c["imageWidth"] or 0):
             c["image"], c["imageCredit"] = s["image"], s["imageCredit"]
+            c["imageWidth"], c["imageHeight"] = s["imageWidth"], s["imageHeight"]
+        elif not c["image"] and s["image"]:
+            c["image"], c["imageCredit"] = s["image"], s["imageCredit"]
+            c["imageWidth"], c["imageHeight"] = s["imageWidth"], s["imageHeight"]
         if not any(x["url"] == s["source"]["url"] for x in c["sources"]):
             c["sources"].append(s["source"])
         for n in s["names"]:
@@ -415,8 +436,14 @@ def build(args):
         # Prefer a real summary over none, and the fuller of two summaries.
         if len(other.get("quote") or "") > len(into.get("quote") or ""):
             into["quote"], into["quoteSource"] = other["quote"], other["quoteSource"]
-        if not into.get("image") and other.get("image"):
+        if other.get("image") and other.get("imageWidth", 0) > (into.get("imageWidth") or 0):
             into["image"], into["imageCredit"] = other["image"], other["imageCredit"]
+            into["imageWidth"] = other.get("imageWidth", 0)
+            into["imageHeight"] = other.get("imageHeight", 0)
+        elif not into.get("image") and other.get("image"):
+            into["image"], into["imageCredit"] = other["image"], other["imageCredit"]
+            into["imageWidth"] = other.get("imageWidth", 0)
+            into["imageHeight"] = other.get("imageHeight", 0)
         for s in other["sources"]:
             if not any(x["url"] == s["url"] for x in into["sources"]):
                 into["sources"].append(s)
@@ -515,6 +542,8 @@ def build(args):
             "quoteSource": c["quoteSource"],
             "image": c["image"],
             "imageCredit": c["imageCredit"],
+            "imageWidth": c["imageWidth"],
+            "imageHeight": c["imageHeight"],
             "celebs": c["celebs"],
             "sources": c["sources"],
             "status": status,
@@ -536,6 +565,22 @@ def build(args):
             when = when.replace(tzinfo=dt.timezone.utc)
         if when >= cutoff:
             out.append(old)
+
+    # --- one invariant, enforced where everything passes through ---------
+    # No image without a credit beneath it. Stories carried forward from an
+    # earlier run were written before this rule existed and never go through
+    # the filing code again, so checking only at filing time left them
+    # untouched - which is how the first attempt at this missed one.
+    stripped = 0
+    for s in out:
+        if s.get("image") and not (s.get("imageCredit") or "").strip():
+            s["image"] = None
+            s["imageCredit"] = None
+            s["imageWidth"] = 0
+            s["imageHeight"] = 0
+            stripped += 1
+    if stripped:
+        log(f"  dropped {stripped} image(s) that could not be credited")
 
     # --- overrides, applied last and always winning ----------------------
     hidden = 0

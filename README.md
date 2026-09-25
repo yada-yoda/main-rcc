@@ -108,13 +108,24 @@ publishes one, along with any credit line that came with it. Around a third
 of stories have one. Nothing is downloaded or copied: what is stored is a URL
 pointing at the outlet's own server.
 
-**Recording a URL is not the same as publishing the picture, and the Stage
-Wire pages do not display these yet.** That is a deliberate gap. Production
-photography is usually licensed to the photographer rather than the outlet -
-several of these filenames literally contain the photographer's name - and
-displaying one on rizzo.cc would be republishing someone's work on a domain
-that also carries an acting resume. The data is captured so the option
-exists; the decision to show them is a separate one.
+Nothing is downloaded or re-hosted. The images are hotlinked from the
+outlet's own server and displayed with the credit line beneath them, which is
+the decision taken on 2026-09-25 with the rights question on the table:
+production photography is usually licensed to the photographer rather than
+the outlet, and several of these filenames contain the photographer's name.
+
+Two rules follow from that and are enforced in the data rather than left to
+the page:
+
+- **No image without a credit.** When the feed supplies no credit string the
+  outlet's name is used, and if even that cannot be worked out the image is
+  dropped. If the attribution cannot be established, neither can permission.
+- **The widest copy wins.** Feeds publish the same photograph at several
+  sizes; a 150px thumbnail stretched across the top of a story looks like a
+  mistake.
+
+Only about one feed in ten states image dimensions, so a page displaying
+these cannot rely on knowing them in advance.
 
 ## Changelog
 
