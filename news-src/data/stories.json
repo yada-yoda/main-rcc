@@ -2,6 +2,90 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "9f50934dc2",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-25T22:06:43+00:00",
+   "published": "2026-09-25T22:06:43+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Margaret Qualley and Sabrina Carpenter Join Tom Holland-Led Fred Astaire Biopic",
+   "quote": "Deadline has reported that Margaret Qualley and Sabrina Carpenter have joined Tom Holland in the Fred Astaire biopic in which Holland will star as the famed actor and dancer from the Golden Age of Hollywood. Qualley will star as Adele Astaire and Carpenter will star as Ginger Rogers.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-1864be0fccd297cb4a3f1e66f4c9c940.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Sabrina Carpenter",
+     "knownFor": "Girl Meets World, Short n' Sweet",
+     "score": 82,
+     "qid": "Q7396400"
+    },
+    {
+     "name": "Margaret Qualley",
+     "knownFor": "American actress and model",
+     "score": 56,
+     "qid": "Q17380672"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Margaret-Qualley-and-Sabrina-Carpenter-Join-Tom-Holland-Led-Fred-Astaire-Biopic-20260925",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "0a9abe9c4d",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T22:14:58+00:00",
+   "published": "2026-09-23T22:14:58+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Evita",
+   "title": "Jamie Lloyd’s electrifying new production of Tim Rice and Andrew Lloyd Webber’s ‘Evita’ announces additional casting for Broadway",
+   "quote": "",
+   "quoteSource": "Theatrefullstop",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Andrew Lloyd Webber",
+     "knownFor": "Evita, Jesus Christ Superstar",
+     "score": 67,
+     "qid": "Q180975"
+    },
+    {
+     "name": "Tim Rice",
+     "knownFor": "Evita, Jesus Christ Superstar",
+     "score": 40,
+     "qid": "Q298295"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Theatrefullstop",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNenhNQXBVaVhfTHZhS2VDd2stUjlIQWRHZGMxc1hKSFpoWU5UbGk4aW8wTU1aMUpzd1JUYkJDQkxWUmt4VWFGellnVU1kSW5RYTVVTmQwVnhENGY0WEhrazRHVGl2MVBUd2pyZWwtUnFrUloyQUNuQWkxNXllN3hLRzc3VDNLdEZsUjFoSEZtWTduN2h2aE5QNGhEaWVpdi1naGtCMVkxbzB0VlZ0dkdDa2RCX0xaVlJZTlViWlFtMThyLTFnSzVOdm1JcEN0X281aXBYUkVBbzhkcXhIMFo4MEl0V3dTVFpIdjNDSGFRZ0trVEdWZ0JTNHU1RlZqUQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "40118ec1f1",
    "priority": 2,
    "watched": [],
@@ -641,7 +725,7 @@
    "status": "published"
   },
   {
-   "id": "74d4576ac2",
+   "id": "73d470e79f",
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-09-16T07:00:00+00:00",
@@ -651,8 +735,8 @@
    "venue": null,
    "placedBy": "words",
    "type": "casting",
-   "show": "Oh, Mary!",
-   "title": "Bowen Yang Makes Broadway Debut in “Oh, Mary!” as Matt Rogers and “SNL” Pals Cheer Him On",
+   "show": "Snl",
+   "title": "Bowen Yang Makes Broadway Debut in Oh, Mary! as Matt Rogers and SNL Pals Cheer Him On",
    "quote": "With their box office spiking, Bowen Yang and Reece Weaver have extended their Broadway runs in, respectively, Oh, Mary! and Chicago.",
    "quoteSource": "Deadline",
    "image": "https://deadline.com/wp-content/uploads/2026/09/split-2-split-1000x667-3-2-e1790270768679.jpg",
@@ -669,9 +753,14 @@
    ],
    "sources": [
     {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmcySmtvRjc5YmZPVUIwUTU2SVlnMWZ1LUtRVk5ETU5zUG9wOFd1cWNqbzBPVUVRazNxYWRDNkRZa3EwS2EwZG9PRHdLXzV0QnZPZE8ycEdmdldSS3U0S1RIQ00wd09IeFhkZkZBaFN0WUFGWVp3YWZBLVkyd1JiOA",
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmb0QyV2FiV2lRa25DTWo5WTZicnNDc0JhQVh2MWtyMjdXN3J0cjRaNWMzXzhkdGdHa04zYUtwV3hIZDVqM0Z5LTd6WWszMHQzR0F3VUEyZGNGekhTX1lIdGpTcnBmRWNKVVVSR1FkbUtkdkQxc2tWVEpn",
      "feed": "gn-bway-debut"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-titanique-oh-mary-bowen-yang-1236707781/",
+     "feed": "thr-arts"
     },
     {
      "name": "Deadline",
@@ -682,11 +771,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/bowen-yang-extends-oh-mary-broadway-run-through-january-2027/",
      "feed": "broadway-news"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-titanique-oh-mary-bowen-yang-1236707781/",
-     "feed": "thr-arts"
     }
    ],
    "status": "published"
@@ -732,57 +816,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "73d470e79f",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-16T07:00:00+00:00",
-   "published": "2026-09-16T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Snl",
-   "title": "Bowen Yang Makes Broadway Debut in Oh, Mary! as Matt Rogers and SNL Pals Cheer Him On",
-   "quote": "With their box office spiking, Bowen Yang and Reece Weaver have extended their Broadway runs in, respectively, Oh, Mary! and Chicago.",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "celebs": [
-    {
-     "name": "Bowen Yang",
-     "knownFor": "Chinese-American comedian",
-     "score": 25,
-     "qid": "Q60737294"
-    }
-   ],
-   "sources": [
-    {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmb0QyV2FiV2lRa25DTWo5WTZicnNDc0JhQVh2MWtyMjdXN3J0cjRaNWMzXzhkdGdHa04zYUtwV3hIZDVqM0Z5LTd6WWszMHQzR0F3VUEyZGNGekhTX1lIdGpTcnBmRWNKVVVSR1FkbUtkdkQxc2tWVEpn",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-titanique-oh-mary-bowen-yang-1236707781/",
-     "feed": "thr-arts"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/09/bowen-yang-reece-weaver-broadway-oh-mary-chicago-1237112670/",
-     "feed": "deadline-theater"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/bowen-yang-extends-oh-mary-broadway-run-through-january-2027/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published",
-   "imageWidth": 0,
-   "imageHeight": 0
   },
   {
    "id": "8aa903ae48",
@@ -1408,7 +1441,7 @@
    "show": null,
    "title": "Julia Roberts, Paul Rudd and Sarah Paulson to Star in Broadway’s Small Mouth Sounds",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1435,7 +1468,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
      "feed": "gn-to-star"
     }
@@ -1486,6 +1519,35 @@
      "name": "Time Out Worldwide",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHYwLWt6U2EteVR4QXZVY3d2TkxKN3JVX3FadnRhS3hTSnNHWGpBRmNoVngxNEFEZDVCMjJVWFVpd2Y4VjBVV2lXQzZreS1RbHJKdVZRUHRzYUpHeVNNdFh3OENQTzByZWREV1ZiMEg5b19iWnNfdFFZTHhfTHU4NzJ5LTNJWEdzal8tcVBFOHYxT2loeDhOUlFXTGtKTHpPNDgxMFdfV0VtTFVubUlPN3dsa2U",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "86025c672b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-25T20:41:53+00:00",
+   "published": "2026-09-25T20:41:53+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Shall We Dance? A Look at Ballroom Dancing on Broadway",
+   "quote": "Today, Sony Pictures Classics releases HA-CHAN, SHAKE YOUR BOOTY! in theaters nationwide.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-6a7fe184342399d41187fa01df0c5861.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Shall-We-Dance-A-Look-at-Ballroom-Dancing-on-Broadway-20260925",
+     "feed": "broadwayworld"
     }
    ],
    "status": "review"
@@ -1605,6 +1667,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "038e084ddd",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-25T16:40:34+00:00",
+   "published": "2026-09-25T16:40:34+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "opening",
+   "show": null,
+   "title": "The Imaginary Invalid Revival Begins Performances on Broadway September 25",
+   "quote": "The play centers on professional patient Argan who indulges his every ailment, scheming to marry off his daughter to a doctor to save on medical bills.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Eureka-Day-Press-Day9.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/the-imaginary-invalid-revival-begins-performances-on-broadway-september-25",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "58c1dc1978",
@@ -2587,7 +2678,7 @@
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTdWU3Q4MU13SjRwcDJTb0JwUnctTlcxOEhYVkxwNkNqT1ZhQTdiWkRBdjUxMi1fcmJCT2VsZkxsNW1UQzNuM1duUmNFUldGUXZPYmRQOTB3LUVmeGxLZ1ZZVXhuaU1qOXlOYWFfVjl6SUlQV0RneDBwcnRra0RUNkoyWHg4cWJWdDNENUlUWFN0R0ZCb3M3Z3FENVN5bzBpb3pfYUIwZXRUeUdBSUNB",
      "feed": "gn-to-star"
     }
@@ -2998,7 +3089,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2dXR1ZZRDFyVFYzdUhyUk9JdEhwZWZtNWtvd0NnVjhWMWVqTGRQRzZ6M2RGODFkU05aYW5qZTZ3SC12NjFOa0FjVHFCV0FXd0FhR0tzU3I1Wl8xVU1YSl9GYWdqUjIwUHFmczROSndBSldXVlhTempWaGVsZngtdXR3UmdLT2h6SVBJVy1OekZ3LV81amsxMUxveFBhRUF1dk13",
      "feed": "gn-bway-debut"
     },
@@ -3011,35 +3102,6 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/09/blue-man-group-broadway-holiday-show-1237110780/",
      "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "682eef931c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T13:51:54+00:00",
-   "published": "2026-09-23T13:51:54+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "School Girls",
-   "title": "Jocelyn Bioh to star in her play ‘School Girls’ on Broadway for four performances only",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUlrb3hEM09VU2c1MWZSWXZQZGNZSTRrNzl0MEtXZld0cWE2OWZUSkpLeXJXeEVGeEd2LU1vVkpBRzlNTFRjT19Td3Q1dTFtMkg0MWJPQmJQV0d4b0pRRUpnc3dRLXltZU1HOW1lNzZUaWhHdGMwWlp2bVJrLURQNU9xVFhoM2J5RjlIdmZ2Tm9qcmtIVG5aRGpZUklmclA2UVVENC1pdGtyOUtZVVdJdXg1SkFtTjZFTlExM0IxMUNsNkFENFBhNGFRdUxzdmFMbUFnVg",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -3132,6 +3194,35 @@
    "status": "review"
   },
   {
+   "id": "fcd0686d1b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T09:22:02+00:00",
+   "published": "2026-09-23T09:22:02+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Village Wooing",
+   "title": "Cast Set For VILLAGE WOOING at Gingold Theatrical Group",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlZkaHpnai1wb0gtQWZxeW8xRW9pME1EZFhFMXJLMHlEMjRpSFFoSW1xRlRCVGNJV2RydTFYRkV5ZlBoWjBkc2NBMTJ5TW9ZdjBFRDNhRFBKa3lCRG4xWWNGRGd1S2t5X1puVGoybkNRa3VWd3gzeHpFdEZLWjAwSUVvb3hWbm92MU5GYmEwU2IxVEo0aXQyd0xfVExUTjFkTFR5dXhVaDdwRl9sa3ZlSHVwMmtqOTRDZ0RF",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "8c5c1f21cd",
    "priority": 3,
    "watched": [],
@@ -3145,7 +3236,7 @@
    "show": null,
    "title": "Broadway Shows in NYC: 2026 Fall Theater Guide",
    "quote": "",
-   "quoteSource": "Ticketmaster Blog",
+   "quoteSource": "Blog",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3153,7 +3244,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Ticketmaster Blog",
+     "name": "Blog",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tMi03MnpPbEFHVEVrZWNMa3RuMUZPdEFpOEprZjRzLVZmcUgwVW1ISm4xS21VVnN2c25QMVFMdFd1bXVCN2tXRUFOeVNIYUhScHVjRnVIOUpNbldPdWx5RTFxZ00",
      "feed": "gn-to-star"
     }
@@ -3380,7 +3471,41 @@
    "placedBy": "words",
    "type": null,
    "show": "The Outsiders",
-   "title": "'The Outsiders' names new Broadway cast members",
+   "title": "THE OUTSIDERS Unveils New Broadway Cast Members",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjYwXzJGeTVuTThWZGs4cW5VR2Z1R0tKcThpeXI2Tko1bmRrakVHN2ZFUVBEUTNjQ1dyZ3JZWG5Tb3BNT09KODZMOEhRX05BTzhnX1NYRDJ3QjZuVndIR3FwWHdCU3RPQ1JybDhYMTBKdk96UDRlNjZBdzNVQmJEbXF2T1BSN19OR3Y4cExBNEE5aWRUWVRtdVN3",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVRuaXdfRjA4S0FBbmdDaE1zQWRnZnh4QXFSSy1qV3R2SjkyUDcybzIzb2g1dmpfNkVzVVJrN0Y1ZGtjeXRiWXg4NXFBMnZaM0dTSVR2RWJhSEZlamgwQnUzUklpWTA1UVNSZ0JXTTZlNTZEUHM0N0s1Nnl2ZDB6elI4XzVScWxJTGxnQUNfQ3VkdDJpenhjRGVR",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "682eef931c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T13:51:54+00:00",
+   "published": "2026-09-22T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "School Girls",
+   "title": "Jocelyn Bioh to star in her play ‘School Girls’ on Broadway for four performances only",
    "quote": "",
    "quoteSource": "New York Theatre Guide",
    "image": null,
@@ -3391,16 +3516,11 @@
    "sources": [
     {
      "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVRuaXdfRjA4S0FBbmdDaE1zQWRnZnh4QXFSSy1qV3R2SjkyUDcybzIzb2g1dmpfNkVzVVJrN0Y1ZGtjeXRiWXg4NXFBMnZaM0dTSVR2RWJhSEZlamgwQnUzUklpWTA1UVNSZ0JXTTZlNTZEUHM0N0s1Nnl2ZDB6elI4XzVScWxJTGxnQUNfQ3VkdDJpenhjRGVR",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjYwXzJGeTVuTThWZGs4cW5VR2Z1R0tKcThpeXI2Tko1bmRrakVHN2ZFUVBEUTNjQ1dyZ3JZWG5Tb3BNT09KODZMOEhRX05BTzhnX1NYRDJ3QjZuVndIR3FwWHdCU3RPQ1JybDhYMTBKdk96UDRlNjZBdzNVQmJEbXF2T1BSN19OR3Y4cExBNEE5aWRUWVRtdVN3",
-     "feed": "gn-bway-casting"
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUlrb3hEM09VU2c1MWZSWXZQZGNZSTRrNzl0MEtXZld0cWE2OWZUSkpLeXJXeEVGeEd2LU1vVkpBRzlNTFRjT19Td3Q1dTFtMkg0MWJPQmJQV0d4b0pRRUpnc3dRLXltZU1HOW1lNzZUaWhHdGMwWlp2bVJrLURQNU9xVFhoM2J5RjlIdmZ2Tm9qcmtIVG5aRGpZUklmclA2UVVENC1pdGtyOUtZVVdJdXg1SkFtTjZFTlExM0IxMUNsNkFENFBhNGFRdUxzdmFMbUFnVg",
+     "feed": "gn-to-star"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "9b414dd952",
@@ -3735,7 +3855,7 @@
    "show": null,
    "title": "Broadway's latest headlines & casting news",
    "quote": "",
-   "quoteSource": "NBC New York",
+   "quoteSource": "NBC 4 New York",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3743,7 +3863,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "NBC New York",
+     "name": "NBC 4 New York",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUdBVGZ5SXZPdTZFaDhQYmlPMTlMUnlfTl9HakNPbjF5T25qV295d0ZBVEc5ZkNDLThYVVFyanhiU3I5Z19UMWRLcGk1ZW5FUF9ZMmkwVFZyOXJuVUdObk5JZmhqdmUzUi1TeDR1RnNHbWhoM1cwaVZVOEFRTXh4OHpMZUFYeDNBcEIxNXVwak0xQzZxM0xBbmlyUVJFWGJpNlpPeTNnYW5WdUVoTHhDMncta21VZEM5OWJv0gHDAUFVX3lxTE5hR1VzZHBGQnlHdFhVYjBWZzJkbjlBbFYxb0xDNU5xVmpLZHB2ZGhSRVpNamh1UDhEMkY2TEZjaUdPVTA1RWxzNGVQSGF5NG1iV05yZEd2ZmdvbkFXaXN2TmI0Y1NsbzhRWldZZUlEQUZWNk5YdFlZRWMzV3pJenJfOHdFbldQVEdYeU94ZlA4UXpLWjJuNDlkQXdGMmlKUnpIMXNvb2RzdTB3N3d0UmlvaE50YnNWSS03X08xaHhHMW1hMA",
      "feed": "gn-bway-casting"
     }
@@ -4243,7 +4363,7 @@
    "show": null,
    "title": "The Best Shows Coming to Broadway in 2026 and 2027",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4251,7 +4371,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
      "feed": "gn-to-star"
     }

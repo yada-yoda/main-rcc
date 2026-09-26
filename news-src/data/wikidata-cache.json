@@ -89,6 +89,18 @@
   "qid": null,
   "score": 0
  },
+ "Andrew Lloyd Webber": {
+  "checkedAt": "2026-09-26T01:13:39+00:00",
+  "description": "British theatre composer (born 1948)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Evita",
+   "Jesus Christ Superstar"
+  ],
+  "qid": "Q180975",
+  "score": 67
+ },
  "Andrew Scott": {
   "checkedAt": "2026-09-25T17:55:51+00:00",
   "description": "Irish actor (born 1976)",
@@ -145,6 +157,15 @@
   "knownFor": [],
   "qid": "Q210547",
   "score": 54
+ },
+ "Ballroom Dancing": {
+  "checkedAt": "2026-09-26T01:13:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Baryshnikov Arts": {
   "checkedAt": "2026-09-25T17:56:15+00:00",
@@ -809,6 +830,15 @@
   "qid": "Q241471",
   "score": 36
  },
+ "Gingold Theatrical Group": {
+  "checkedAt": "2026-09-26T01:13:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Go Behind": {
   "checkedAt": "2026-09-25T17:47:52+00:00",
   "description": null,
@@ -917,6 +947,15 @@
   "qid": null,
   "score": 0
  },
+ "Imaginary Invalid": {
+  "checkedAt": "2026-09-26T01:13:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Including John Proctor": {
   "checkedAt": "2026-09-25T17:54:02+00:00",
   "description": null,
@@ -970,6 +1009,15 @@
   "knownFor": [],
   "qid": "Q313283",
   "score": 50
+ },
+ "Jamie Lloyd": {
+  "checkedAt": "2026-09-26T01:13:35+00:00",
+  "description": "British theatre director",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6147131",
+  "score": 5
  },
  "Jasmine Amy Rogers": {
   "checkedAt": "2026-09-25T17:47:40+00:00",
@@ -1356,6 +1404,15 @@
   "knownFor": [],
   "qid": "Q17385680",
   "score": 28
+ },
+ "Margaret Qualley": {
+  "checkedAt": "2026-09-26T01:13:44+00:00",
+  "description": "American actress and model (born 1994)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q17380672",
+  "score": 56
  },
  "Marlon Brando": {
   "checkedAt": "2026-09-25T17:57:26+00:00",
@@ -1815,6 +1872,18 @@
   "qid": null,
   "score": 0
  },
+ "Sabrina Carpenter": {
+  "checkedAt": "2026-09-26T01:13:45+00:00",
+  "description": "American singer-songwriter and actress (born 1999)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Girl Meets World",
+   "Short n' Sweet"
+  ],
+  "qid": "Q7396400",
+  "score": 82
+ },
  "Sacha Baron Cohen": {
   "checkedAt": "2026-09-25T17:51:51+00:00",
   "description": "British comedian and actor (born 1971)",
@@ -2139,6 +2208,18 @@
   "qid": "Q16195482",
   "score": 5
  },
+ "Tim Rice": {
+  "checkedAt": "2026-09-26T01:13:36+00:00",
+  "description": "British lyricist and author",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Evita",
+   "Jesus Christ Superstar"
+  ],
+  "qid": "Q298295",
+  "score": 40
+ },
  "Titanique Hits": {
   "checkedAt": "2026-09-25T17:56:43+00:00",
   "description": null,
@@ -2174,6 +2255,15 @@
   "knownFor": [],
   "qid": "Q16205820",
   "score": 16
+ },
+ "Tom Holland-Led Fred": {
+  "checkedAt": "2026-09-26T01:13:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Town Hall": {
   "checkedAt": "2026-09-25T17:55:17+00:00",
