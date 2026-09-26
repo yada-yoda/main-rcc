@@ -44,6 +44,42 @@
    "status": "review"
   },
   {
+   "id": "5fe21e1629",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T16:37:30+00:00",
+   "published": "2026-09-25T20:03:08+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Giant",
+   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "John Lithgow",
+     "knownFor": "American actor",
+     "score": 64,
+     "qid": "Q311271"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "0a9abe9c4d",
    "priority": 2,
    "watched": [],
@@ -189,42 +225,6 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/09/rachel-dratch-jeff-hiller-youre-a-good-man-charlie-brown-1237111326/",
      "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "5fe21e1629",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-23T16:37:30+00:00",
-   "published": "2026-09-23T16:37:30+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Giant",
-   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "John Lithgow",
-     "knownFor": "American actor",
-     "score": 64,
-     "qid": "Q311271"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -1298,6 +1298,53 @@
    "status": "published"
   },
   {
+   "id": "6209f2f87c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Rope",
+   "title": "Cameron Monaghan, Elizabeth Gillies, more to star in 'Rope' off Broadway",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Elizabeth Gillies",
+     "knownFor": "Victorious, Dynasty",
+     "score": 51,
+     "qid": "Q230209"
+    },
+    {
+     "name": "Cameron Monaghan",
+     "knownFor": "Shameless",
+     "score": 33,
+     "qid": "Q939351"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0lCMWdSc3VwV25Lc05rUFNkTGY1OE1xMkRzRDVzNHdhTmJmcmZPZ0RtNDVRc21SU202WUNZcVJQVGs4eGdvc0ZTNVhiSzVRS1RjSC0tcGRlZFZvempoamRYMzlobkFTdWhjR1dQeGFGcHQ0RV9MOUNqZjQzUmF1TU1fTjJmRVROaFhfeUQxX2lJX0ExMXIyVWVMYk94am9NUGJ4X2dLa0t6VFRtU2ZOMlF2dDBpVkZCS0dNeXZrSQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2RuNUdSZi1GSThNNlRIWVU1WjZtUTktSzR6eEZyamxBUzdlaW5tUWJHM05RSGplc1owemlTZW8yZWlUczAtd0o5OS1ZTHZRMzdsQXY0eG91Sjhmblhsd3ZWZ0x0UkVDYjZhenE3aGtwcGpXUE9DVDNwY1B4U3NoNHNDQ3h2Vzczb1hWVHVoMDFGQnZ3XzIyWGl2OEFVT1d2elhDMFdSLVp3YWxSb0JoM0wtdjhYQ2pFTU51WkNaNA",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "a01503197e",
    "priority": 2,
    "watched": [],
@@ -1524,6 +1571,93 @@
    "status": "review"
   },
   {
+   "id": "5b50808db7",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-26T15:42:22+00:00",
+   "published": "2026-09-26T15:42:22+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "intimate staging of the Broadway smash musical",
+   "title": "Stages' intimate staging of the Broadway smash musical 'Come From Away' soars",
+   "quote": "",
+   "quoteSource": "Houston Chronicle",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Houston Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHRpMUZoZG93VnptYlhUNW1vSHQtRkRjU2QzbkNuWFVkZmdqcmlyME1nVXY2dlZENERVZ0Nqa053ZWVpR2t2ZVBhM2JMdi1pTlFpSVpIeFNjNnNEOFNQSUpUTnFyc3U2a3ZuemVLZGppSWtxaDFKVFJ5RFlBRGdib2Y0R2VWeDRNYzBQREZwZkN0VldZaDJIaUxuNmd2Zw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "6977c945e6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-26T13:39:00+00:00",
+   "published": "2026-09-26T13:39:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "How New York Mets star Jose Iglesias went from shortstop to Broadway actor",
+   "quote": "",
+   "quoteSource": "The Independent",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ09xVFJILWlNbExyakFtc3RYdzJfNWlhamEwVFFiZlk4WFJ1U3hBWjZxUFlpcEpFU3hrSTk0SWtFMTVrNzR4MHYwVGdlelE0eFB0Tk9PTG1XUlJNb0pTTHc0NDZUM0djRUh4WU1IenItbjhLdEpLS2RBcDN4NU5LTjZkSl9nYXptVmNpVFc3U2laQldhUEVZenhmendydmxjSy1JT3lsd0JZV1YyYjhFY0M1YVFmUGNrUWN1YmtkZzdqY0Y5U05uS0laQjl0UQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "987d83e159",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-26T00:00:00+00:00",
+   "published": "2026-09-26T00:00:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "No Day But Today",
+   "title": "'No Day But Today': London Rent Revival, Starring Stranger Things' Gaten Matarazzo, Begins September 26",
+   "quote": "Luke Sheppard is directing the Pulitzer Prize-winning Jonathan Larson musical.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/1.-RENT.-Full-Company.-Photo-Oliver-Rosser.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/no-day-but-today-london-rent-revival-starring-stranger-things-gaten-matarazzo-begins-september-26",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "86025c672b",
    "priority": 3,
    "watched": [],
@@ -1551,6 +1685,64 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "9898e41530",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-24T17:33:54+00:00",
+   "published": "2026-09-25T20:27:40+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Schmigadoon!",
+   "title": "Broadway’s ‘Schmigadoon!’ Adds Ana Gasteyer, Brad Oscar, More to Cast",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmM1Z0gydjR2WDg3aHRYTE5wTnotRVhpb2s0QmRxLWI3Wm9BTk1wbzF1WGJzVDZKNkpGN0pkV25DeHVZeTY0M2lmTEoxQ3M5dl9Ub0FEM1FWYVpFTk1xV2wwX25GNENRdXVuNVZjZS1COTFlWEtkVG93d2xoUExaUjMyRlhpaVZhbGExeFhXcHUxUml0ejBNNmVTQ29abjRO",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "454339bcab",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T15:58:13+00:00",
+   "published": "2026-09-25T20:11:17+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "extension",
+   "show": "Masquerade",
+   "title": "‘Masquerade’ Announces Fifth Off-Broadway Extension, New Cast Members",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "5d960d30e5",
@@ -2507,35 +2699,6 @@
    "status": "published"
   },
   {
-   "id": "9898e41530",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T17:33:54+00:00",
-   "published": "2026-09-24T17:33:54+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Schmigadoon!",
-   "title": "Broadway’s ‘Schmigadoon!’ Adds Ana Gasteyer, Brad Oscar, More to Cast",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmM1Z0gydjR2WDg3aHRYTE5wTnotRVhpb2s0QmRxLWI3Wm9BTk1wbzF1WGJzVDZKNkpGN0pkV25DeHVZeTY0M2lmTEoxQ3M5dl9Ub0FEM1FWYVpFTk1xV2wwX25GNENRdXVuNVZjZS1COTFlWEtkVG93d2xoUExaUjMyRlhpaVZhbGExeFhXcHUxUml0ejBNNmVTQ29abjRO",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "9bac79dd90",
    "priority": 3,
    "watched": [],
@@ -2931,7 +3094,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Lunt-Fontanne Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "A New Holiday Surprise",
    "title": "Blue Man Group makes Broadway debut with ‘A New Holiday Surprise’",
@@ -2943,6 +3106,11 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDlubkRrMVpNOUV2b1oxQ2JrUWdmTm1TR3RQZUhUZEFOQWdZTGNSVjlDeXB4Ny1xU1hNTUQyZHgxa0gxRzh5b0tSdzZHQnFfcE9BRWVRYjRfM0RxdkRiRjFORVlwZG1UOW9ObWt5UmZlZlRVSW9nUXI3Qi1tenhOdERDaVdUOG92ZEE1QUg3V1AyNFRCUWxvQw",
+     "feed": "gn-bway-debut"
+    },
     {
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/blue-man-group-makes-broadway-debut-with-a-new-holiday-surprise/",
@@ -3005,35 +3173,6 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "454339bcab",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T15:58:13+00:00",
-   "published": "2026-09-23T15:58:13+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "extension",
-   "show": "Masquerade",
-   "title": "‘Masquerade’ Announces Fifth Off-Broadway Extension, New Cast Members",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -3236,7 +3375,7 @@
    "show": null,
    "title": "Broadway Shows in NYC: 2026 Fall Theater Guide",
    "quote": "",
-   "quoteSource": "Blog",
+   "quoteSource": "Ticketmaster Blog",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3244,7 +3383,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Blog",
+     "name": "Ticketmaster Blog",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tMi03MnpPbEFHVEVrZWNMa3RuMUZPdEFpOEprZjRzLVZmcUgwVW1ISm4xS21VVnN2c25QMVFMdFd1bXVCN2tXRUFOeVNIYUhScHVjRnVIOUpNbldPdWx5RTFxZ00",
      "feed": "gn-to-star"
     }
@@ -3279,6 +3418,64 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "d7d8f22fc7",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T02:47:56+00:00",
+   "published": "2026-09-23T02:47:56+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Holes",
+   "title": "'The Holes' Off-Broadway review — belly up to the bar's backroom",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6QVpZd2g5YnZUN3dFSUstU1FiSzlkc0h6cEpXeVZtVHdFemg2VmRyVklHMHJZcWRHaDBuSzJUQWxfNlFEaHNwbzJKekpkX0I1cU1zRDVsWTlrTWkxSHVsbzNNeDdWeVBDcGtEb0ZZdzhJT1g2LWZqa3RaZk9HUQ",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "91ef7723eb",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-22T23:16:25+00:00",
+   "published": "2026-09-22T23:16:25+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Ceiling",
+   "title": "THE CEILING Cast Announced; Musical to Open at Le Poisson Rouge",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOURwWThWbV83OHFXZS0tb01KaG5fLS1XVFJzOVQyWXZWVlpBbGVXNnd2UU1LWXdwYXlzbUNjSVhDN3EtY0hReEtVSWpVbXdmcXFXSVpWQVY0NlV1ZC1pRkVGellyQUdtUHdwN2lLWnlIRUI5QVM2WHhWLW5nUGlhWGlCNExUb3NvWXRiTEZ1cUFxN3J0NGl2ck8yR01jNjdXb3FBbmdMTFVYTVVkdV9UQTJZWmVUM0t0bmlBSG9uYw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "90265cc31f",
@@ -3755,6 +3952,35 @@
    "status": "published"
   },
   {
+   "id": "57d00d573b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-18T17:33:41+00:00",
+   "published": "2026-09-18T17:33:41+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Midnight",
+   "title": "Full Cast Revealed for Todrick Hall’s New Musical ‘Midnight’ Ahead of Off-Broadway Debut",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "e6ee220117",
    "priority": 3,
    "watched": [],
@@ -3842,35 +4068,6 @@
    "status": "review"
   },
   {
-   "id": "532fc9594a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-17T17:59:22+00:00",
-   "published": "2026-09-17T17:59:22+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Broadway's latest headlines & casting news",
-   "quote": "",
-   "quoteSource": "NBC 4 New York",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "NBC 4 New York",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUdBVGZ5SXZPdTZFaDhQYmlPMTlMUnlfTl9HakNPbjF5T25qV295d0ZBVEc5ZkNDLThYVVFyanhiU3I5Z19UMWRLcGk1ZW5FUF9ZMmkwVFZyOXJuVUdObk5JZmhqdmUzUi1TeDR1RnNHbWhoM1cwaVZVOEFRTXh4OHpMZUFYeDNBcEIxNXVwak0xQzZxM0xBbmlyUVJFWGJpNlpPeTNnYW5WdUVoTHhDMncta21VZEM5OWJv0gHDAUFVX3lxTE5hR1VzZHBGQnlHdFhVYjBWZzJkbjlBbFYxb0xDNU5xVmpLZHB2ZGhSRVpNamh1UDhEMkY2TEZjaUdPVTA1RWxzNGVQSGF5NG1iV05yZEd2ZmdvbkFXaXN2TmI0Y1NsbzhRWldZZUlEQUZWNk5YdFlZRWMzV3pJenJfOHdFbldQVEdYeU94ZlA4UXpLWjJuNDlkQXdGMmlKUnpIMXNvb2RzdTB3N3d0UmlvaE50YnNWSS03X08xaHhHMW1hMA",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "b32238628d",
    "priority": 3,
    "watched": [],
@@ -3927,6 +4124,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "532fc9594a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-17T17:59:22+00:00",
+   "published": "2026-09-17T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Broadway's latest headlines & casting news",
+   "quote": "",
+   "quoteSource": "NBC 4 New York",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "NBC 4 New York",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUdBVGZ5SXZPdTZFaDhQYmlPMTlMUnlfTl9HakNPbjF5T25qV295d0ZBVEc5ZkNDLThYVVFyanhiU3I5Z19UMWRLcGk1ZW5FUF9ZMmkwVFZyOXJuVUdObk5JZmhqdmUzUi1TeDR1RnNHbWhoM1cwaVZVOEFRTXh4OHpMZUFYeDNBcEIxNXVwak0xQzZxM0xBbmlyUVJFWGJpNlpPeTNnYW5WdUVoTHhDMncta21VZEM5OWJv0gHDAUFVX3lxTE5hR1VzZHBGQnlHdFhVYjBWZzJkbjlBbFYxb0xDNU5xVmpLZHB2ZGhSRVpNamh1UDhEMkY2TEZjaUdPVTA1RWxzNGVQSGF5NG1iV05yZEd2ZmdvbkFXaXN2TmI0Y1NsbzhRWldZZUlEQUZWNk5YdFlZRWMzV3pJenJfOHdFbldQVEdYeU94ZlA4UXpLWjJuNDlkQXdGMmlKUnpIMXNvb2RzdTB3N3d0UmlvaE50YnNWSS03X08xaHhHMW1hMA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "4f1ceb43ae",
@@ -4962,35 +5188,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "cab53d9542",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-04T07:00:00+00:00",
-   "published": "2026-09-04T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Wanted",
-   "title": "WANTED Reveals Full Cast and Creative Team Ahead of Broadway Premiere",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejhYNjhLdlJQWE5pWVVYXzlJdFFJVGdRZ2VKZW94N2VKRFZkTzlzRkJXTmhpMUszS3dXZmNUN1JheXgteXBYR1BOMjJOOG1IVXg4RXRNLU0tVmVyUnFBQ01YSmhyVmpzY2hvLTBOSF9uZEF6UGp5cHZ5RUtTZzgxNVFoUUFEZHNGNkxsOGZfNUF6cGw0NV9PMXRFTmQ1Y0hDdmlRNjBWZXBubE1DYUpJN0U2dDZVMzQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
   }
  ]
 }
