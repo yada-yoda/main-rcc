@@ -377,11 +377,6 @@
     },
     {
      "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdF9sRVQ2dDdrNFVJU2dnQURTRTZIY2pLYXBjZkgyN1FwcnNuTm1VT2o3Z1p0dlJEMUdWMG9XVW45aXBvTVpXaTEyY0paemhUbXZybzYxa0dWVERRSi0wc1YtM2hQXy14MkhXaGpOWExIVDZmMmJTSERwVFRiQWs",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Deadline",
      "url": "https://deadline.com/2026/09/evita-broadway-cast-rachel-zegler-1237110126/",
      "feed": "deadline-theater"
     }
@@ -618,7 +613,7 @@
    "show": null,
    "title": "Odds and Ends: Spring Awakening Sets Off-Broadway Cast, Lea Michele and Aaron Tveit to Reunite in Concert",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -639,7 +634,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhfUTlRdXlvYXo3X0tHUWpOdHVRUkRyOWIwN0Qzc3VqZXppSzQ2OEJaWDJBWkVhdVFIN25idDAyT3V3d0VHbjJoQmVXNm5HYXlQdmNwamtlUzNBZDd0S0l1OURfRzF5LXUxZXJoZ3J6OUNXR0NPVURlTTl2NEh0d2k2V0pLQUhHTF9jQWtKY2lLUUtEelp3TXl3Z2dDZUQ5M3NOQmpBSkhzSndsd1J3WC1SOVlRa3pDWUdrWlNSR3QyX0FITE5lWGhQam1RMThpZ3RIMXh4X2k",
      "feed": "gn-offbway-casting"
     }
@@ -720,6 +715,42 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/rosie-odonnell-rocky-horror-on-broadway-rachel-dratch-1236703071/",
      "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "810bf3a623",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-14T07:00:00+00:00",
+   "published": "2026-09-16T08:59:32+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "One",
+   "title": "🎭🔥 Jamie Campbell Bower Makes Broadway Debut… For ONE Night Only 🔥🎭",
+   "quote": "",
+   "quoteSource": "Theriffreport",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jamie Campbell Bower",
+     "knownFor": "British actor",
+     "score": 50,
+     "qid": "Q313283"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Theriffreport",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclJ1S3BBSXNZeXU0VXlTbC05ZHhER1JzWThKZUtXUGswZzAxS2FRRXIySDhDTjVRNHMtZEVqcG5JckVua1EyYnRPdnVFX3RMQ0RyVVJwb1l0LWp2b19kYUp1WDBSSzg1S2plQkhjdnl2dXExM1lKaDRWVURGSWFqVGo4WWVnNDRBMEl0a2RaeENtYS1vWGhaYTBvUUoxRDZsMDVQeHFyM0dEeDRxVkNOaDQ5R1pYRWhBN3pWTjdCNEg3eXB3QjF3MDZRR2prempkNXcxVTNR",
+     "feed": "gn-bway-debut"
     }
    ],
    "status": "published"
@@ -894,42 +925,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "810bf3a623",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-14T07:00:00+00:00",
-   "published": "2026-09-14T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "One",
-   "title": "🎭🔥 Jamie Campbell Bower Makes Broadway Debut… For ONE Night Only 🔥🎭",
-   "quote": "",
-   "quoteSource": "Theriffreport",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Jamie Campbell Bower",
-     "knownFor": "British actor",
-     "score": 50,
-     "qid": "Q313283"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Theriffreport",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclJ1S3BBSXNZeXU0VXlTbC05ZHhER1JzWThKZUtXUGswZzAxS2FRRXIySDhDTjVRNHMtZEVqcG5JckVua1EyYnRPdnVFX3RMQ0RyVVJwb1l0LWp2b19kYUp1WDBSSzg1S2plQkhjdnl2dXExM1lKaDRWVURGSWFqVGo4WWVnNDRBMEl0a2RaeENtYS1vWGhaYTBvUUoxRDZsMDVQeHFyM0dEeDRxVkNOaDQ5R1pYRWhBN3pWTjdCNEg3eXB3QjF3MDZRR2prempkNXcxVTNR",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "e2e0fad365",
@@ -1153,6 +1148,11 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHNyV29NdGdpY0ZZcHl4M1lobkdHd3ROY1JpUXFFSU9qZFVsTDZPb05veDlBUWRCU2M2aHdVVlFtX0hndnB0ZG9YVjBFWVNsQ3I3bGtGYkN2aGRSaFVBSVIzWGRvdVhDVFlaMDNsSmJmQ053TnVWTHFoRVFJZUZkX0hlbDhwWE5lcHpHQVVZM3dkNWt4ZEp0NTUzVndnTEZYbjhUc1NGQkswdlB1MzN3TWln",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUNOMG5ha1ZPdXFSNGhSc0VQYTFIZ1ZlVF94UUhSd2ZHX1BKcUd6MXo1ODZucE9lbzFuOUZoOUVJSHpzRi1xTk5IaU9vc3A2T01SWVI5dThQSHpxUG8xTnRjVmZlX1ZPMmcwVVRfVWszTDZtMUdybHhMckIwTU1LbXVvdFJOeUNSdk80WmhzMDJIRHZVaTRzb2RXd1Q4bGJNbFFTZWsxRjU",
      "feed": "gn-to-star"
     },
     {
@@ -1439,6 +1439,42 @@
    "status": "review"
   },
   {
+   "id": "7c927f62e9",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-08T07:00:00+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Rosamund Pike",
+     "knownFor": "British actress",
+     "score": 75,
+     "qid": "Q230004"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "9d4cc2a472",
    "priority": 2,
    "watched": [],
@@ -1452,7 +1488,7 @@
    "show": null,
    "title": "Julia Roberts, Paul Rudd and Sarah Paulson to Star in Broadway’s Small Mouth Sounds",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1479,7 +1515,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
      "feed": "gn-to-star"
     }
@@ -1535,40 +1571,120 @@
    "status": "review"
   },
   {
-   "id": "7c927f62e9",
-   "priority": 2,
+   "id": "ef417f782f",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-09-08T07:00:00+00:00",
-   "published": "2026-09-08T07:00:00+00:00",
+   "firstSeen": "2026-09-27T15:49:26+00:00",
+   "published": "2026-09-27T15:49:26+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Samuel J. Friedman Theatre",
+   "placedBy": "venue",
+   "type": "opening",
+   "show": "School Girls",
+   "title": "Exclusive: Watch a Scene from SCHOOL GIRLS; OR, THE AFRICAN MEAN GIRLS PLAY on Broadway",
+   "quote": "Jocelyn Bioh's School Girls; Or, The African Mean Girls Play, directed by two-time Tony Award nominee Whitney White, is getting ready to open on Broadway! Ahead on opening night, September 28 at the Samuel J.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-c8858628084ea3c8410015ae07954eb6.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Exclusive-Watch-a-Scene-from-SCHOOL-GIRLS-OR-THE-AFRICAN-MEAN-GIRLS-PLAY-on-Broadway-20260927",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "454339bcab",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T15:58:13+00:00",
+   "published": "2026-09-27T07:59:33+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "extension",
+   "show": "Masquerade",
+   "title": "‘Masquerade’ Announces Fifth Off-Broadway Extension, New Cast Members",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "047a107bd0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T00:00:00+00:00",
+   "published": "2026-09-27T00:00:00+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": null,
    "show": null,
-   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
+   "title": "Broadway Flea Market Held Indoors at Hammerstein Ballroom September 27",
+   "quote": "The annual Broadway Cares fundraiser, usually held in and around Shubert Alley, has moved inside.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Broadway-Flea-Market-2025-photo-by-Rebecca-J-Michelson-179.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-flea-market-held-indoors-at-hammerstein-ballroom-september-27",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "14892237ca",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-26T22:04:55+00:00",
+   "published": "2026-09-26T22:04:55+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "transfer",
+   "show": null,
+   "title": "Broadway transfer of Jamie Lloyd’s Evita – further cast confirmed",
    "quote": "",
-   "quoteSource": "TheaterMania",
+   "quoteSource": "Musicaltheatrereview",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Rosamund Pike",
-     "knownFor": "British actress",
-     "score": 75,
-     "qid": "Q230004"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
+     "name": "Musicaltheatrereview",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUYxVzZFZURhR1doMmpLOXBRUWpyU1pFLUtZZWt3eTBvQ0dKVjZtOTBFQWpiQnNxSnRab0s4ME1vektQZnFoRnhVaUtPczZFZVpRQjhOd01LM21Ta28waEo4TzJydWx0Tm5NbEs5WTRRcERtREJVNlROTnpCdEp4Qk82OGdkYXNoQ1VmT0lyejZOdm9FQkdnbEdvWmk",
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "7fccb70f4a",
@@ -1774,35 +1890,6 @@
    "status": "published"
   },
   {
-   "id": "454339bcab",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T15:58:13+00:00",
-   "published": "2026-09-25T20:11:17+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "extension",
-   "show": "Masquerade",
-   "title": "‘Masquerade’ Announces Fifth Off-Broadway Extension, New Cast Members",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "5d960d30e5",
    "priority": 3,
    "watched": [],
@@ -2000,36 +2087,7 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3pEdXhYeGs5LVRpeEJFcmxZZE41SE95ZTl5STZ4MGtuU3psMDFtTkkyZzF2d1F2eVlPQ19La2hMRG1aYktkcWhldkgyWnIzX09lNDNrTWV1TVhBOFRTT3JZbnd5bVZ5WG5JSGpHSEdlYTY1aVJVNWZsb3RRUVg2Wks1a1p1dm14ZXB2SlRtdzkzZGxxVlFHUHlxWmxCZw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "493f19db83",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T16:10:04+00:00",
-   "published": "2026-09-25T16:10:04+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A Ghost in Your Ear",
-   "title": "'A Ghost in Your Ear' names new Off-Broadway casting, performance dates",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUlsNmxEUTZkQzh2NnJYRVBaNVBJYS16c3dGMGpLQ19JQ1FOT1NSQzQ5RGhWejF1Zk1vb242a2ZMY2NWVlgxWlMwVWNTbTBaVjMzbXJLTkQ0Z2ZOVldQR3ZwZkJ5cGVVRm9IUGE2U2liVEpOTUtlRjAyQnJMcjN3ZnRDa0t4MVFWZTd3WDYtODdmQ05yUDF2RkM3aEtNbXY3VFN5dHpOYmdRWXJrZUNYVFZoZllrRTU4U28tQXUzVQ",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -2870,7 +2928,7 @@
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTdWU3Q4MU13SjRwcDJTb0JwUnctTlcxOEhYVkxwNkNqT1ZhQTdiWkRBdjUxMi1fcmJCT2VsZkxsNW1UQzNuM1duUmNFUldGUXZPYmRQOTB3LUVmeGxLZ1ZZVXhuaU1qOXlOYWFfVjl6SUlQV0RneDBwcnRra0RUNkoyWHg4cWJWdDNENUlUWFN0R0ZCb3M3Z3FENVN5bzBpb3pfYUIwZXRUeUdBSUNB",
      "feed": "gn-to-star"
     }
@@ -2994,6 +3052,35 @@
    "status": "review"
   },
   {
+   "id": "493f19db83",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-25T16:10:04+00:00",
+   "published": "2026-09-24T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A Ghost in Your Ear",
+   "title": "'A Ghost in Your Ear' names new Off-Broadway casting, performance dates",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUlsNmxEUTZkQzh2NnJYRVBaNVBJYS16c3dGMGpLQ19JQ1FOT1NSQzQ5RGhWejF1Zk1vb242a2ZMY2NWVlgxWlMwVWNTbTBaVjMzbXJLTkQ0Z2ZOVldQR3ZwZkJ5cGVVRm9IUGE2U2liVEpOTUtlRjAyQnJMcjN3ZnRDa0t4MVFWZTd3WDYtODdmQ05yUDF2RkM3aEtNbXY3VFN5dHpOYmdRWXJrZUNYVFZoZllrRTU4U28tQXUzVQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "7af37e0f4d",
    "priority": 3,
    "watched": [],
@@ -3021,6 +3108,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "17167520a6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T21:15:23+00:00",
+   "published": "2026-09-23T21:15:23+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Dreamgirls",
+   "title": "Jennifer Hudson Helps Cast 'Dreamgirls' Broadway Revival",
+   "quote": "",
+   "quoteSource": "Yahoo",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDRsR2NXZVlBRUx2QWM1QmpmNnh0UzZuWkhCQjV2WXZVZWdnMjY3dnpqaGlRY2s1bW9uNjAwSkFOcFQ2WUMxNGF4aHc1dGg2VXhzNWJzVkhFVnpUTnZLakNmb1lpT0ZqTTh2bmxUN0F4WkZzQklfX21SV0pRblJKTmYtVEZCQkRTQVFvb2dNa1lZZmhsY0VKdl9aRjl3M3pSclVSTTdRdjVWU0U",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "776d5fbe52",
@@ -3123,7 +3239,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Lunt-Fontanne Theatre",
-   "placedBy": "words",
+   "placedBy": "venue",
    "type": "casting",
    "show": "A New Holiday Surprise",
    "title": "Blue Man Group makes Broadway debut with ‘A New Holiday Surprise’",
@@ -3135,11 +3251,6 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDlubkRrMVpNOUV2b1oxQ2JrUWdmTm1TR3RQZUhUZEFOQWdZTGNSVjlDeXB4Ny1xU1hNTUQyZHgxa0gxRzh5b0tSdzZHQnFfcE9BRWVRYjRfM0RxdkRiRjFORVlwZG1UOW9ObWt5UmZlZlRVSW9nUXI3Qi1tenhOdERDaVdUOG92ZEE1QUg3V1AyNFRCUWxvQw",
-     "feed": "gn-bway-debut"
-    },
     {
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/blue-man-group-makes-broadway-debut-with-a-new-holiday-surprise/",
@@ -3201,7 +3312,7 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
-     "feed": "gn-to-star"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -3257,7 +3368,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2dXR1ZZRDFyVFYzdUhyUk9JdEhwZWZtNWtvd0NnVjhWMWVqTGRQRzZ6M2RGODFkU05aYW5qZTZ3SC12NjFOa0FjVHFCV0FXd0FhR0tzU3I1Wl8xVU1YSl9GYWdqUjIwUHFmczROSndBSldXVlhTempWaGVsZngtdXR3UmdLT2h6SVBJVy1OekZ3LV81amsxMUxveFBhRUF1dk13",
      "feed": "gn-bway-debut"
     },
@@ -3665,7 +3776,7 @@
    "show": null,
    "title": "The Outsiders Sets New Broadway Cast Members",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3673,7 +3784,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmJ0cVA4VkxiUUdiOWlYSzFwZkdlME5sMWRKY3ZFNFM4c19hYjhTQThrS3dCZnpEay05WUstbThOazJSWFJOQzNYeGNDcnFqNnREUlltaVJnbkZ5US1ZUktOcFFDbWRqbzUtZENPSW5PNnRSTWl5RHp1Vm5YWDVhZklOUlBHTjVjUEE",
      "feed": "gn-bway-casting"
     }
@@ -3873,7 +3984,7 @@
    "show": null,
    "title": "Complete Cast Set for SIX: The Musical North American Tour",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3881,7 +3992,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3JaakI5Y3BRUXhLTGRDbFJRaHA5SnMzbjRGVDJJNU1IM3hHakxKLWMtU3c1YnhnM3lmRUpLZ2ktNEczRlFHaktXUW9MOU9BMDBzY0xYU3BCWEdxV3hGS01Da2hmMWRNeVRxR2xEcWwycm1wbERqakhCRHozdkotbmhNMjRHdWxwVE0xM0pSakk3QnBoeFpIaFV3OA",
      "feed": "gn-bway-casting"
     }
@@ -4034,11 +4145,40 @@
    "status": "published"
   },
   {
+   "id": "e6ee220117",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-18T10:01:04+00:00",
+   "published": "2026-09-18T10:01:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Drag star Alaska Thunderf*ck, a Provincetown favorite, to star in Broadway hit",
+   "quote": "",
+   "quoteSource": "Cape Cod Times",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Cape Cod Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVdkaGh4Q29GTzhVYjRSNFdvVDRNX05INzRtdGl2YVdvRFJUU2RSOGc4eWN0c0JvenRmb3kwa240amxFcGZvRTlaLVZNUXBObjBGS1VmeVRGT2xFSklOQ3Q5dndvNmFBMHFEcXhBc2dxXzZMOGprd3lCanNWQlFUVVF2WWZ0UGxJM3pFWTkwcjd2dkptUVQzaElOV21rSkVteTlabmNiZG5KenpUYkxRZzFWd2pEZ2NWUjl6ag",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "8f377f698b",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-18T17:18:56+00:00",
-   "published": "2026-09-18T17:18:56+00:00",
+   "published": "2026-09-18T07:00:00+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -4057,35 +4197,6 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUNmVFN1MnIwa01NelNtMDlERnFJS2NDT0xLczJ6Y0g1MUJ6ZXpvdUxIUkRlZkw1STU4dldsRGZqN3JDN0pnVlJ0aU1rdGhhZENGZTZMZEY2Ui05WUlDbUdLNnNmbTdMbWdPZUlLdVhxZkUxX0hkdDBCbURlOUNObmxwcFFzekp5OW1uaWdWUzdLQmY4OVJTYUs4Wl9UMVpfMFdldUs0ZDJ2NmxvYnZJVG9SY3BqdUFHR3JQaHdpcVZLdS1XNEZfOUNReVpUVVotd3pVREdaY0hEOGUzcnJ2N2c5dw",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "e6ee220117",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-18T10:01:04+00:00",
-   "published": "2026-09-18T10:01:04+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Drag star Alaska Thunderf*ck, a Provincetown favorite, to star in Broadway hit",
-   "quote": "",
-   "quoteSource": "Yahoo",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmt4cmlqVVMwOElzQ1lGOG5heVdFeVJLR3FwNGF2dWF4U0gwcHVtUDlXQTI3ZTVTRXNUSXRDdW1LMmRuM3diY1JueGVYV1lhcHNLbGMwY1RUem1CanlRbHBCLUhPR25fVGY3XzBldGZTcUpJZ196bGtyMjdJVEVpQUFZc2N1alpISHFSM1hCRGtiVk9sRlE",
      "feed": "gn-to-star"
     }
    ],
@@ -4671,7 +4782,7 @@
    "show": null,
    "title": "The Best Shows Coming to Broadway in 2026 and 2027",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4679,7 +4790,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
      "feed": "gn-to-star"
     }
@@ -4745,35 +4856,6 @@
    "status": "review"
   },
   {
-   "id": "6ce9d2a8d6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-14T21:29:07+00:00",
-   "published": "2026-09-14T21:29:07+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Cast Announced for The Verge Off-Broadway",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWFDdTZjbWxlY2hvMFdmWENJNG9BdDF1anJUcVJsSU9RNHY2d2RkWVBveWdLSzlKZ09pSXl2T1ZZQkVMUEZSaEtOM2NDVFR0c2VtN2RjOUt5ZERqMEQ5Qy02S1NoejNvMzF5dEE4dm9qY2xOZXVRalM3WmhqRUhERXBjcmk2QXJaSzQ4Ng",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "c9ff85e5e4",
    "priority": 3,
    "watched": [],
@@ -4832,6 +4914,35 @@
    "status": "review"
   },
   {
+   "id": "6ce9d2a8d6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-14T21:29:07+00:00",
+   "published": "2026-09-14T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Cast Announced for The Verge Off-Broadway",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWFDdTZjbWxlY2hvMFdmWENJNG9BdDF1anJUcVJsSU9RNHY2d2RkWVBveWdLSzlKZ09pSXl2T1ZZQkVMUEZSaEtOM2NDVFR0c2VtN2RjOUt5ZERqMEQ5Qy02S1NoejNvMzF5dEE4dm9qY2xOZXVRalM3WmhqRUhERXBjcmk2QXJaSzQ4Ng",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "9233e5cde0",
    "priority": 3,
    "watched": [],
@@ -4885,6 +4996,35 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWl3SnBMOHZScmxBd2V6OUhjU01RaTZUT3A5Y2JSTFAwWEdKcUlMbEpTY2NsLXpNMnNORFRId3hkNjR6NTdmcGN1Z05oaG5fdmhYLUszM0pGdm9veC1HNUZJSl9vSzd0Zmg2Sm5NSE9aY0U4SlpkbGNCa1JrVGVGUkljRFVwVEFxOHpjNEd4N1hhbGZEa3lxZjJna3M4d0xBb2VEbXlhNmpMUUdLVEY5X1FTYmo1WThwV3B3U25Fa19rdGZWUUE",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "e1135527f3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-05T07:00:00+00:00",
+   "published": "2026-09-13T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Sound of Music",
+   "title": "Now Casting: Join Broadway’s ‘The Sound of Music’ Revival + 3 More Gigs",
+   "quote": "",
+   "quoteSource": "Backstage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Backstage",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd25leWdsdF9kR1JMTC1MSDlpZV9rb3BqSXc4TFpzS29ISmp5YlNqMDFTQlp0b3BvVU5kdDRyUmtMMGxCbFZ2dGRfYVJEYlY2Uk5jVS1fYTdBdF9YYVA4WkFJdE1ITGVxM09QN1dTcElKRjgzTGtuUERVQURwSnJ6UWowclAtOG56alVZTlJ1MHhPZUJsaXJJeGt4QXpaNUk",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -4977,6 +5117,35 @@
    "status": "review"
   },
   {
+   "id": "1a81b04dce",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-09T07:00:00+00:00",
+   "published": "2026-09-09T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Dallas Cowboys Cheerleader Reece Weaver swaps boots for Broadway",
+   "quote": "",
+   "quoteSource": "BBC",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQXloY2dTUDVXZTZoQ1pyMWVYVTA5b1dRejNKeXQyMXZITEFRdnN1eFZtZGxxeVplT3RsSFZQQnZsUEFfRUFiQVg2VlpoamJyMTRValRQb0dHdw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "cc24148edc",
    "priority": 3,
    "watched": [],
@@ -5006,35 +5175,6 @@
    "status": "published"
   },
   {
-   "id": "fb16e346da",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-08T07:00:00+00:00",
-   "published": "2026-09-08T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Going Bacharach Finds Full Casting for Off-Broadway Return",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa3hpM2ZGbkNvRnVTRHlwdmM1alNwQ2d1UXc1ZEZsajU0NDFDTVYwYUtqZWxOcHpqSkR5QU9LMGZKR3VXTTBTZWV1dWhoSGpWX3ZkUk9vVjVjeXpsTjhKLXVmWkdWVS0xeU9pRWVFRVZjSFhvell4aVVmWmttOFoySHdoMlc1dzhqcmhtVEpMYkc",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "eb1602cc16",
    "priority": 3,
    "watched": [],
@@ -5048,7 +5188,7 @@
    "show": null,
    "title": "Downstate Sets Broadway Cast With Liza Colón-Zayas, Thomas Sadoski, K. Todd Freeman, Francis Guinan and More",
    "quote": "",
-   "quoteSource": "Broadway",
+   "quoteSource": "Broadway Shows",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -5056,7 +5196,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway",
+     "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmJ1WlN1dVNxLV9fU05sYzMwUzdRY3A1ZkR4V0FNbWtyWlR0Z2VaNkluZUNaOXFJYjF6UGFUZkFiTGphN2xkV1REdHBkMVEwTDU3MGc4dkp1ZEZnT0xaNmpKLUtYMVA0YWdiOENvb2EzYjZwaHlPeno0WTR5Y3FPaElVcnhKeGZCQjFEQlEwZE9JSkswNmhMR19xVFJLZVU3YlNwZkNXcDFqanY5WVBSVlBDZ2VfTFowWUdmajllRGxSeFFuMlpnMDRBZ3JXWjc0QTlsOG53ejMyUQ",
      "feed": "gn-bway-casting"
     }
@@ -5087,6 +5227,35 @@
     {
      "name": "People",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0phckpRNmZyQzJvVFFhWEN2c3V4Ni1rZjlYY0FRV3JfeTBBWi1haF9hZGpCQTZuaVJrbnhSTnBjQWw0OEN3NDZ2WDZrNFp1UGVSTlVxOGtOYW02bWRCWWo1N0JHNTRzU2FmM1JGVWpWN3pBSS1VUi1fazN2XzllenBLV3NMWWp4UGlibXpxc1RTSnJKZWI5SVVYdGR4NW5zZUE",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "fb16e346da",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-08T07:00:00+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Going Bacharach Finds Full Casting for Off-Broadway Return",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa3hpM2ZGbkNvRnVTRHlwdmM1alNwQ2d1UXc1ZEZsajU0NDFDTVYwYUtqZWxOcHpqSkR5QU9LMGZKR3VXTTBTZWV1dWhoSGpWX3ZkUk9vVjVjeXpsTjhKLXVmWkdWVS0xeU9pRWVFRVZjSFhvell4aVVmWmttOFoySHdoMlc1dzhqcmhtVEpMYkc",
      "feed": "gn-bway-casting"
     }
    ],
@@ -5233,40 +5402,6 @@
      "name": "Playbill",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRU9HQ0xoOEc0TkdrOVRqZlU5bkNEcHpKcFpqeDgtMWxJQUxDSGVybzMtNE9RMzRRbXYxNkx3NWtsTExaaVR1UnYwUVFQY3pLMHMzT2RWQlhTM2kwSzhYUWQ3clNtaFYtN21GQ0FtWnNoZDN4M3pfQThpQmNhdWkwdHZWZE9hSVlza3FRbUxzS00yYWFVSDhfUzllX28tYTBDekx3X1k5TnlzcW5zRFNXUDJHdUJtd0E",
      "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "e1135527f3",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-05T07:00:00+00:00",
-   "published": "2026-09-05T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Sound of Music",
-   "title": "Now Casting: Join Broadway’s ‘The Sound of Music’ Revival + 3 More Gigs",
-   "quote": "",
-   "quoteSource": "Backstage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Backstage",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd25leWdsdF9kR1JMTC1MSDlpZV9rb3BqSXc4TFpzS29ISmp5YlNqMDFTQlp0b3BvVU5kdDRyUmtMMGxCbFZ2dGRfYVJEYlY2Uk5jVS1fYTdBdF9YYVA4WkFJdE1ITGVxM09QN1dTcElKRjgzTGtuUERVQURwSnJ6UWowclAtOG56alVZTlJ1MHhPZUJsaXJJeGt4QXpaNUk",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Secret NYC",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kSHgxNnZrODRpcW4wdWxJZmhGWWM2VHkyaC1jRTVfVEI1NTM0bGlrNlp0blVRbTdxVFQzb284aVRtUkhyQlZYcXUyV0wwWFQ2ZmlWSjA3LVk1MUVzSEh3M2ticy1QT3kwVjlYdmpLdDhwZmJUOE8zSVFn",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"

@@ -561,6 +561,15 @@
   "qid": null,
   "score": 0
  },
+ "Dallas Cowboys Cheerleader": {
+  "checkedAt": "2026-09-27T17:33:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Debut With First-": {
   "checkedAt": "2026-09-25T17:48:20+00:00",
   "description": null,
@@ -760,6 +769,15 @@
  },
  "Flea Market": {
   "checkedAt": "2026-09-25T17:56:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Flea Market Held": {
+  "checkedAt": "2026-09-27T17:33:08+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1108,6 +1126,15 @@
   "knownFor": [],
   "qid": "Q6178332",
   "score": 3
+ },
+ "Jennifer Hudson Helps": {
+  "checkedAt": "2026-09-27T17:33:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Jesse Labelle": {
   "checkedAt": "2026-09-25T17:51:33+00:00",
