@@ -618,7 +618,7 @@
    "show": null,
    "title": "Odds and Ends: Spring Awakening Sets Off-Broadway Cast, Lea Michele and Aaron Tveit to Reunite in Concert",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -639,7 +639,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhfUTlRdXlvYXo3X0tHUWpOdHVRUkRyOWIwN0Qzc3VqZXppSzQ2OEJaWDJBWkVhdVFIN25idDAyT3V3d0VHbjJoQmVXNm5HYXlQdmNwamtlUzNBZDd0S0l1OURfRzF5LXUxZXJoZ3J6OUNXR0NPVURlTTl2NEh0d2k2V0pLQUhHTF9jQWtKY2lLUUtEelp3TXl3Z2dDZUQ5M3NOQmpBSkhzSndsd1J3WC1SOVlRa3pDWUdrWlNSR3QyX0FITE5lWGhQam1RMThpZ3RIMXh4X2k",
      "feed": "gn-offbway-casting"
     }
@@ -1164,42 +1164,6 @@
    "status": "published"
   },
   {
-   "id": "a1613b77b4",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-10T07:00:00+00:00",
-   "published": "2026-09-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Wild Rose",
-   "title": "Madeline Brewer to star in 'Wild Rose' musical off Broadway",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Madeline Brewer",
-     "knownFor": "American actress",
-     "score": 28,
-     "qid": "Q17385680"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkp4cTJvU25nRER2UHl5aXI5VWJJeWFHLVh4Mnoxd2E2dl9ZRHdHeTBWOGpnbjFIZktiYnJGUWg0c3ExMmJTQ1ZDUnZ0VDVSVHlpWHAwZDRJUTBBb3ZLXzAxMUZ0TWROLWExdmhlc0puLVRieXhBYW5uM0pQSl9abFh4QUpCenZEQ0hUbmhmZjd1TzNYazFKZWZoUlhOLWhYLWtiV29BUnpQV3lxSzVuOQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "308e2ad88e",
    "priority": 2,
    "watched": [],
@@ -1292,6 +1256,42 @@
     {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0dETXpINDN0RE45NE9QaGlpWnJ2VHhiYkVYUDU3VE1TeHl1dkt0N01VaWw4Z1IteDlSSTRYZjg5LXFzR0J6ak1CZl9wNzJ5ZzF2OTR5RVRpU0JpUFRvay12VEJfeGR6N0hHa19VU3BFR3NVNnpvaklZcXJXMDJzNVB6SGQzSl9FOGhkSnNVdzVCTzVoYjBCeFBuSmh6NnFk",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a1613b77b4",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-10T07:00:00+00:00",
+   "published": "2026-09-10T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Wild Rose",
+   "title": "Madeline Brewer to star in 'Wild Rose' musical off Broadway",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Madeline Brewer",
+     "knownFor": "American actress",
+     "score": 28,
+     "qid": "Q17385680"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkp4cTJvU25nRER2UHl5aXI5VWJJeWFHLVh4Mnoxd2E2dl9ZRHdHeTBWOGpnbjFIZktiYnJGUWg0c3ExMmJTQ1ZDUnZ0VDVSVHlpWHAwZDRJUTBBb3ZLXzAxMUZ0TWROLWExdmhlc0puLVRieXhBYW5uM0pQSl9abFh4QUpCenZEQ0hUbmhmZjd1TzNYazFKZWZoUlhOLWhYLWtiV29BUnpQV3lxSzVuOQ",
      "feed": "gn-to-star"
     }
    ],
@@ -1439,42 +1439,6 @@
    "status": "review"
   },
   {
-   "id": "7c927f62e9",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-08T07:00:00+00:00",
-   "published": "2026-09-08T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Rosamund Pike",
-     "knownFor": "British actress",
-     "score": 75,
-     "qid": "Q230004"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "9d4cc2a472",
    "priority": 2,
    "watched": [],
@@ -1488,7 +1452,7 @@
    "show": null,
    "title": "Julia Roberts, Paul Rudd and Sarah Paulson to Star in Broadway’s Small Mouth Sounds",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1515,7 +1479,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
      "feed": "gn-to-star"
     }
@@ -1565,6 +1529,71 @@
     {
      "name": "Time Out Worldwide",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHYwLWt6U2EteVR4QXZVY3d2TkxKN3JVX3FadnRhS3hTSnNHWGpBRmNoVngxNEFEZDVCMjJVWFVpd2Y4VjBVV2lXQzZreS1RbHJKdVZRUHRzYUpHeVNNdFh3OENQTzByZWREV1ZiMEg5b19iWnNfdFFZTHhfTHU4NzJ5LTNJWEdzal8tcVBFOHYxT2loeDhOUlFXTGtKTHpPNDgxMFdfV0VtTFVubUlPN3dsa2U",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "7c927f62e9",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-08T07:00:00+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Rosamund Pike",
+     "knownFor": "British actress",
+     "score": 75,
+     "qid": "Q230004"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "7fccb70f4a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-26T16:49:57+00:00",
+   "published": "2026-09-26T16:49:57+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Trust",
+   "title": "Emily Bergl, Jonathan Penner To Star In Staged Reading Of Andrew Heinze's THE TRUST",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1VlQUM4RGd4ZEVUeGVnMFplMUFzU3hncmRoLXFfSWtGOVNES3ZMQ0xkdWw4OGlUa1RqWVA2bkZqSlpnU0RHR2RGLW1yLUc4UG41UVVZLUhISmZ6T3JGNVNEOG1iTG5qOXI0R3RWTk5NU29FYUU5a1dpNVdxOEhrYzNZdXh6ZjJCaVg1Y0hCY2lIcnhITlVabU1QV3VVbjd6NVMxRUZOcDE1WDZZNUhsQWxxaGR5N2ZJUkRrWG81bmdzMmNfemNF",
      "feed": "gn-to-star"
     }
    ],
@@ -1714,6 +1743,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "9bac79dd90",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-24T17:16:40+00:00",
+   "published": "2026-09-25T20:22:58+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Galileo",
+   "title": "Raúl Esparza to Star in Broadway Run of ‘Galileo’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG12bFdyRWhRVjJJdXBDZHp3SWVxNFVraUhLeVJtbGo1dV9lbmNxQkw4RzZTMWVCeUNydnlNOUwwT0NZZWlYcUh6clkyNTRlaTVUMlhoQVRKTU5CLUpLSDUtbmZvSTBYTWQteTVCOUFaZGl3V1ltbXdMdlBCUXZuTlk4SmJkVzM4MTFN",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "454339bcab",
@@ -2267,35 +2325,6 @@
    "status": "published"
   },
   {
-   "id": "a68d81f2bd",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T12:00:00+00:00",
-   "published": "2026-09-25T12:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Watch a Scene From Broadway's School Girls, Featuring Denée Benton and Jasmine Amy Rogers",
-   "quote": "The Jocelyn Bioh play is bowing on the Main Stem via Manhattan Theatre Club.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/YouTube-Thumbnail-2.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/watch-a-scene-from-broadways-school-girls-featuring-denee-benton-and-jasmine-amy-rogers",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "8024e9dfdf",
    "priority": 3,
    "watched": [],
@@ -2320,6 +2349,35 @@
      "name": "Newcity Stage",
      "url": "https://www.newcitystage.com/2026/09/25/sparks-fly-when-tennessee-williams-meets-a-young-marlon-brando/",
      "feed": "newcity-stage"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a68d81f2bd",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-25T12:00:00+00:00",
+   "published": "2026-09-25T12:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Watch a Scene From Broadway's School Girls, Featuring Denée Benton and Jasmine Amy Rogers",
+   "quote": "The Jocelyn Bioh play is bowing on the Main Stem via Manhattan Theatre Club.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/YouTube-Thumbnail-2.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/watch-a-scene-from-broadways-school-girls-featuring-denee-benton-and-jasmine-amy-rogers",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -2699,35 +2757,6 @@
    "status": "published"
   },
   {
-   "id": "9bac79dd90",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T17:16:40+00:00",
-   "published": "2026-09-24T17:16:40+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Galileo",
-   "title": "Raúl Esparza to Star in Broadway Run of ‘Galileo’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG12bFdyRWhRVjJJdXBDZHp3SWVxNFVraUhLeVJtbGo1dV9lbmNxQkw4RzZTMWVCeUNydnlNOUwwT0NZZWlYcUh6clkyNTRlaTVUMlhoQVRKTU5CLUpLSDUtbmZvSTBYTWQteTVCOUFaZGl3V1ltbXdMdlBCUXZuTlk4SmJkVzM4MTFN",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "b681e747b8",
    "priority": 3,
    "watched": [],
@@ -2841,7 +2870,7 @@
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTdWU3Q4MU13SjRwcDJTb0JwUnctTlcxOEhYVkxwNkNqT1ZhQTdiWkRBdjUxMi1fcmJCT2VsZkxsNW1UQzNuM1duUmNFUldGUXZPYmRQOTB3LUVmeGxLZ1ZZVXhuaU1qOXlOYWFfVjl6SUlQV0RneDBwcnRra0RUNkoyWHg4cWJWdDNENUlUWFN0R0ZCb3M3Z3FENVN5bzBpb3pfYUIwZXRUeUdBSUNB",
      "feed": "gn-to-star"
     }
@@ -3228,7 +3257,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2dXR1ZZRDFyVFYzdUhyUk9JdEhwZWZtNWtvd0NnVjhWMWVqTGRQRzZ6M2RGODFkU05aYW5qZTZ3SC12NjFOa0FjVHFCV0FXd0FhR0tzU3I1Wl8xVU1YSl9GYWdqUjIwUHFmczROSndBSldXVlhTempWaGVsZngtdXR3UmdLT2h6SVBJVy1OekZ3LV81amsxMUxveFBhRUF1dk13",
      "feed": "gn-bway-debut"
     },
@@ -3602,10 +3631,10 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Richard Rodgers Theatre",
-   "placedBy": "words",
+   "placedBy": "venue",
    "type": null,
    "show": "Rent",
-   "title": "Original ‘Rent’ Cast Members to Reunite for 30th Anniversary Broadway Concert",
+   "title": "Original ‘Rent’ Cast To Reunite For Livestream Benefit Concert Next Month",
    "quote": "Idina Menzel, Adam Pascal, Anthony Rapp, Daphne Rubin-Vega and other cast members of Jonathan Larson’s Rent will take part in a one-night-only 30th anniversary benefit concert to be livestreamed from Broadway’s Richard Rodgers Theatre next month. The October 26 Rent, the 30th Anniversary Concert in which the musical w…",
    "quoteSource": "Deadline",
    "image": "https://deadline.com/wp-content/uploads/2026/09/1ffcb6cdf1302c5b4c1857381fedb34c-rent-obc-hr.jpg",
@@ -3614,11 +3643,6 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUtSMXJWSWtKOUlQdmlCUlBDSHUxMjhUcUdNdnpFV0lpU2w4TVJCMzFKTGtvdEV2MEZCTW9uZ3VnbkhYVmpFRWJ2V2hUN2VyNlg2aXdWUXRZWElES3ZlY3AtNzZJQzAzNXVnSmM0QXpSdEpYeHgwTHFzM1FMY0Y4Xzg1U0hkWmNRUEdNVHdQaTNfRlExVlROeUt6eVc1SkJiM0FhRV9rWi1mbnRyQUR4QQ",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "Deadline",
      "url": "https://deadline.com/2026/09/rent-broadway-cast-reunion-concert-1237110213/",
@@ -3641,7 +3665,7 @@
    "show": null,
    "title": "The Outsiders Sets New Broadway Cast Members",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3649,7 +3673,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmJ0cVA4VkxiUUdiOWlYSzFwZkdlME5sMWRKY3ZFNFM4c19hYjhTQThrS3dCZnpEay05WUstbThOazJSWFJOQzNYeGNDcnFqNnREUlltaVJnbkZ5US1ZUktOcFFDbWRqbzUtZENPSW5PNnRSTWl5RHp1Vm5YWDVhZklOUlBHTjVjUEE",
      "feed": "gn-bway-casting"
     }
@@ -3836,6 +3860,35 @@
    "status": "review"
   },
   {
+   "id": "c8d5114109",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-21T14:08:18+00:00",
+   "published": "2026-09-21T14:08:18+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Complete Cast Set for SIX: The Musical North American Tour",
+   "quote": "",
+   "quoteSource": "Broadway",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3JaakI5Y3BRUXhLTGRDbFJRaHA5SnMzbjRGVDJJNU1IM3hHakxKLWMtU3c1YnhnM3lmRUpLZ2ktNEczRlFHaktXUW9MOU9BMDBzY0xYU3BCWEdxV3hGS01Da2hmMWRNeVRxR2xEcWwycm1wbERqakhCRHozdkotbmhNMjRHdWxwVE0xM0pSakk3QnBoeFpIaFV3OA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "2b51db2e18",
    "priority": 3,
    "watched": [],
@@ -3976,6 +4029,35 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
      "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "8f377f698b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-18T17:18:56+00:00",
+   "published": "2026-09-18T17:18:56+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "extension",
+   "show": "Buena Vista Social Club",
+   "title": "Bernie Williams to join 'Buena Vista Social Club' on Broadway; José 'Candelita' Iglesias extends run",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUNmVFN1MnIwa01NelNtMDlERnFJS2NDT0xLczJ6Y0g1MUJ6ZXpvdUxIUkRlZkw1STU4dldsRGZqN3JDN0pnVlJ0aU1rdGhhZENGZTZMZEY2Ui05WUlDbUdLNnNmbTdMbWdPZUlLdVhxZkUxX0hkdDBCbURlOUNObmxwcFFzekp5OW1uaWdWUzdLQmY4OVJTYUs4Wl9UMVpfMFdldUs0ZDJ2NmxvYnZJVG9SY3BqdUFHR3JQaHdpcVZLdS1XNEZfOUNReVpUVVotd3pVREdaY0hEOGUzcnJ2N2c5dw",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -4589,7 +4671,7 @@
    "show": null,
    "title": "The Best Shows Coming to Broadway in 2026 and 2027",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4597,7 +4679,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
      "feed": "gn-to-star"
     }
@@ -4629,6 +4711,35 @@
      "name": "London Theatre",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUVMTkJHSlZodmh5OWxYZGZsSmY1UENrWHFFakQtSm0wU0JpT0d3Wk94NC1aUU9VM1BQZm04R2FPZ29hd0xocGVfcFdPWWVYbGZPMFNLeGlRN2xEMHNGVXdLZnZteHBKdjJZQ2xPaUFtNlZEdnlpZ2RoeC05S2V1X1F1eF91SERKTGNBYWVHWEd2eU9KRTNDOHViQXAwOXZxMlZxS0p3Z0Z4NUhLX2gzWVotZ3pZS28",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f5fa3cc306",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-15T03:49:02+00:00",
+   "published": "2026-09-15T03:49:02+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "“58th Anniversary Celebration of Equity Theater Excellence in Chicago”",
+   "quote": "",
+   "quoteSource": "AROUND THE TOWN CHICAGO",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "AROUND THE TOWN CHICAGO",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlF0Nk9IUFJYWTYzNU1FMjBNZzJaX2FONHhIM1J5eHFfc2hPN0xuYmoxWEFRclVfU0VhaER2WV9FTnExSTIySTlzd1BUSjNESEFjaXltbjljcHg4eS00cUN5TFZCcDI0VDktbmFxWlJtZTRBRWRxcUZtRTdwXzdNaGlidkQtcXlQZUVzS2lYcGFjVDM4NDdHZnZEUTh6X05CUWdLRUEtWEpEQ2s",
+     "feed": "gn-chicago-venues"
     }
    ],
    "status": "review"
@@ -4937,7 +5048,7 @@
    "show": null,
    "title": "Downstate Sets Broadway Cast With Liza Colón-Zayas, Thomas Sadoski, K. Todd Freeman, Francis Guinan and More",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4945,7 +5056,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmJ1WlN1dVNxLV9fU05sYzMwUzdRY3A1ZkR4V0FNbWtyWlR0Z2VaNkluZUNaOXFJYjF6UGFUZkFiTGphN2xkV1REdHBkMVEwTDU3MGc4dkp1ZEZnT0xaNmpKLUtYMVA0YWdiOENvb2EzYjZwaHlPeno0WTR5Y3FPaElVcnhKeGZCQjFEQlEwZE9JSkswNmhMR19xVFJLZVU3YlNwZkNXcDFqanY5WVBSVlBDZ2VfTFowWUdmajllRGxSeFFuMlpnMDRBZ3JXWjc0QTlsOG53ejMyUQ",
      "feed": "gn-bway-casting"
     }
@@ -5159,35 +5270,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "cfaea4e49b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-04T18:01:39+00:00",
-   "published": "2026-09-04T18:01:39+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Wanted",
-   "title": "‘Wanted’ sets complete Broadway cast and creative team",
-   "quote": "",
-   "quoteSource": "Broadway News",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb05Wc1BaOGJMNGd6LVBBLVR6NGs4SURia2ZMSjRYaFJESDMwMVMwZGk1VUlsMU1fTmlZR0RIbXN2aWUzcC1KeEk0MVRRemtqYTJNb0Q0M0w4aS1na19ra0RORFNJeVJZaEM1LVZhX1EwS3VmNnlUNElmSU9zUW9FWUlzY2piYmVDY0E",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
   }
  ]
 }
