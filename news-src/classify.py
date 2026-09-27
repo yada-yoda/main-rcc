@@ -37,6 +37,13 @@ TYPE_RULES = [
         "makes broadway debut",
         "broadway debut", "will play", "to play", "takes over", "replaces",
         "steps into", "has joined", "set to star", "tapped to",
+        # Added 2026-09-27 from two days of real headlines. Each of these was
+        # sitting in the review bucket as an obvious casting story the phrase
+        # list happened not to cover.
+        "to join cast", "join cast of", "to join broadway", "to join",
+        "to cast", "sets cast", "cast led by", "led by",
+        "co-star", "costar", "to headline", "will headline",
+        "coming to broadway", "fill-in", "fill in for", "adds",
     ]),
     ("transfer", [
         "transfers", "transfer to", "moves to broadway", "move to broadway",
@@ -77,6 +84,12 @@ DISCARD_PHRASES = [
     "fall preview", "spring preview", "summer preview", "season preview",
     "tv series", "in development", "box office report",
     "box set", "cast album", "cast recording", "christmas album", "out now",
+    # Added 2026-09-27. These were reaching the review bucket, where they sat
+    # looking like work to do. They are features, retrospectives and event
+    # listings - none of them are news about who is doing what next.
+    "a look at", "1st look", "flea market", "went from", "longest-running",
+    "childhood photos", "explores and", "by way of", "takes a look",
+    "everything you need to know", "here's what", "guide to",
 ]
 
 
@@ -95,6 +108,31 @@ def should_discard(text):
     for phrase in DISCARD_PHRASES:
         if phrase in text:
             return phrase
+    return None
+
+
+# Places and formats this wire does not cover. Two days of real headlines
+# showed the review bucket filling with West End and Toronto casting and with
+# film projects: Variety and Deadline cover London theatre heavily, and those
+# stories can never be given a city here, so they would sit in the queue
+# forever looking like work that someone could do something about.
+#
+# This only applies when nothing in scope was found. A London production
+# transferring to Broadway names a Broadway house or says Broadway, matches
+# on that first, and never reaches this test.
+OUT_OF_SCOPE = [
+    "west end", "london", "toronto", "sydney", "melbourne", "dublin",
+    "edinburgh", "stratford-upon-avon", "the other palace", "old vic",
+    "young vic", "donmar", "almeida", "shaftesbury",
+    "biopic", "film adaptation", "feature film", "netflix", "hbo max",
+    "streaming series", "movie musical",
+]
+
+
+def out_of_scope(text):
+    for marker in OUT_OF_SCOPE:
+        if marker in text:
+            return marker
     return None
 
 

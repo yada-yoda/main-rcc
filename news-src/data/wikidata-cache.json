@@ -821,6 +821,15 @@
   "qid": null,
   "score": 0
  },
+ "Four Performances": {
+  "checkedAt": "2026-09-27T19:22:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Francis Guinan": {
   "checkedAt": "2026-09-25T17:54:10+00:00",
   "description": "American actor",
@@ -1769,6 +1778,15 @@
  },
  "Place Where": {
   "checkedAt": "2026-09-25T17:52:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Playwright Jocelyn Bioh": {
+  "checkedAt": "2026-09-27T19:22:20+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

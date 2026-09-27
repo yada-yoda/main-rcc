@@ -269,6 +269,13 @@ def file_story(item, venues, max_age_days, now):
     if city is None and kind is None:
         return None, "off topic"
 
+    # Nothing in scope was found and the story is plainly somewhere else -
+    # the West End, Toronto, a film. Not ambiguous, just not ours.
+    if city is None:
+        elsewhere = classify.out_of_scope(text)
+        if elsewhere:
+            return None, f"out of scope:{elsewhere}"
+
     outlet = tidy_source(item.source or gnews_source or item.feed_name or item.feed_id)
     link = strip_tracking(unwrap_google(item.link))
 
@@ -554,6 +561,7 @@ def build(args):
     cutoff = now - dt.timedelta(days=caps.get("maxAgeDays", 21))
     seen_ids = {s["id"] for s in out}
     absorbed_ids = {i for c in clusters.values() for i in c.get("absorbed", [])}
+    dropped_on_refile = []
     for sid, old in existing.items():
         if sid in seen_ids or sid in absorbed_ids:
             continue
@@ -563,8 +571,73 @@ def build(args):
             continue
         if when.tzinfo is None:
             when = when.replace(tzinfo=dt.timezone.utc)
-        if when >= cutoff:
-            out.append(old)
+        if when < cutoff:
+            continue
+
+        # Re-file it against the current rules rather than trusting the
+        # verdict it was given when it was first seen.
+        #
+        # Most of the corpus is older than the feed window, so without this a
+        # rule improvement only ever applies to whatever happens to be in the
+        # feeds today and the review bucket never clears. Tuning against real
+        # data is the entire point of collecting for days before building
+        # pages, and it does not work if the data cannot be re-judged.
+        #
+        # Only the title survives in a stored story, so a venue named solely
+        # in the original summary is not recoverable here. That is the cost.
+        refile_text = classify.haystack(old.get("title"), "")
+        if classify.should_discard(refile_text):
+            dropped_on_refile.append(old["id"])
+            continue
+
+        city, tier, venue, how = classify.classify_place(
+            refile_text, venues, (old.get("title") or "").lower()
+        )
+        kind, _ = classify.classify_type(refile_text)
+
+        if city is None and classify.out_of_scope(refile_text):
+            dropped_on_refile.append(old["id"])
+            continue
+        if city:
+            old["city"], old["tier"] = city, tier
+            old["venue"], old["placedBy"] = venue or old.get("venue"), how
+        if kind:
+            old["type"] = kind
+        if old.get("status") != "hidden":
+            old["status"] = "published" if (old.get("city") and old.get("type")) else "review"
+
+        out.append(old)
+
+    if dropped_on_refile:
+        log(f"  dropped {len(dropped_on_refile)} older stor(y/ies) the rules now discard")
+
+    # --- last-ditch dedupe on the headline itself ------------------------
+    # A story's id comes from its cluster key, and the cluster key depends on
+    # the rules. So tuning the rules can give a story a NEW id, at which point
+    # the copy already on disk is no longer recognised as the same story and
+    # the carry-forward puts it back alongside the new one. That is how one
+    # Rosamund Pike headline ended up in the published set twice.
+    #
+    # Matching on the headline catches it regardless of how the id moved. The
+    # copy with more sources wins, and failing that the one seen first.
+    by_headline = {}
+    for s in out:
+        key = norm_title(s["title"])
+        kept = by_headline.get(key)
+        if kept is None:
+            by_headline[key] = s
+            continue
+        better = max((kept, s), key=lambda x: (len(x.get("sources") or []),
+                                               x.get("firstSeen") or ""))
+        worse = kept if better is s else s
+        for src in worse.get("sources") or []:
+            if not any(x["url"] == src["url"] for x in better.get("sources") or []):
+                better.setdefault("sources", []).append(src)
+        by_headline[key] = better
+
+    if len(by_headline) != len(out):
+        log(f"  merged {len(out) - len(by_headline)} duplicate headline(s)")
+    out = list(by_headline.values())
 
     # --- one invariant, enforced where everything passes through ---------
     # No image without a credit beneath it. Stories carried forward from an

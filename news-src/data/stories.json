@@ -2,48 +2,6 @@
  "version": "0.1.0",
  "stories": [
   {
-   "id": "9f50934dc2",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-25T22:06:43+00:00",
-   "published": "2026-09-25T22:06:43+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Margaret Qualley and Sabrina Carpenter Join Tom Holland-Led Fred Astaire Biopic",
-   "quote": "Deadline has reported that Margaret Qualley and Sabrina Carpenter have joined Tom Holland in the Fred Astaire biopic in which Holland will star as the famed actor and dancer from the Golden Age of Hollywood. Qualley will star as Adele Astaire and Carpenter will star as Ginger Rogers.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-1864be0fccd297cb4a3f1e66f4c9c940.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Sabrina Carpenter",
-     "knownFor": "Girl Meets World, Short n' Sweet",
-     "score": 82,
-     "qid": "Q7396400"
-    },
-    {
-     "name": "Margaret Qualley",
-     "knownFor": "American actress and model",
-     "score": 56,
-     "qid": "Q17380672"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Margaret-Qualley-and-Sabrina-Carpenter-Join-Tom-Holland-Led-Fred-Astaire-Biopic-20260925",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "5fe21e1629",
    "priority": 2,
    "watched": [],
@@ -120,78 +78,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "40118ec1f1",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-23T19:13:15+00:00",
-   "published": "2026-09-23T19:13:15+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Lookingglass Theatre Company",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Kowalski explores and explodes the myths of Tennessee Williams and Marlon Brando",
-   "quote": "Johnny Galecki (L) and Jacob Moskovitz in Kowalski at Lookingglass Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Johnny-Galecki-Jacob-Moskovitz-1-scaled-e1790190586631.jpg?fit=780%2C559&ssl=1\" /> Kowalski , through 10/25 at Lookingglass Theatre The post Kowalski explores and…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Johnny-Galecki-Jacob-Moskovitz-1-scaled-e1790190586631.jpg?fit=1024%2C734&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Marlon Brando",
-     "knownFor": "The Godfather, Apocalypse Now",
-     "score": 158,
-     "qid": "Q34012"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/kowalski-lookingglass-theatre/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "a6c845c636",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-23T18:37:33+00:00",
-   "published": "2026-09-23T18:37:33+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Chicago Shakespeare Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Play On! celebrates Duke Ellington by way of Twelfth Night",
-   "quote": "Hailee Kaleem Wright (L) and Krystal Joy Brown in Play On! at Chicago Shakespeare Theater \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/3_CST_PLAYON_Press_Photo-by-Kyle-Flubacker-scaled-e1790188221556.jpg?fit=780%2C520&ssl=1\" /> Play On!",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/3_CST_PLAYON_Press_Photo-by-Kyle-Flubacker-scaled-e1790188221556.jpg?fit=1024%2C683&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Duke Ellington",
-     "knownFor": "Just Squeeze Me (But Please Don't Tease Me), It Don't Mean a Thing",
-     "score": 88,
-     "qid": "Q4030"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/play-on-chicago-shakespeare-theater/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "1c0ca597aa",
@@ -275,7 +161,7 @@
    "tier": "Off-Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": "The 25th Annual Putnam County Spelling Bee",
    "title": "Laura Marano to Join Cast of Off-Broadway’s ‘The 25th Annual Putnam County Spelling Bee’",
    "quote": "",
@@ -299,7 +185,7 @@
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "a1e69b72f4",
@@ -311,7 +197,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": null,
    "title": "Diego Rodriguez and James Olivas Will Again Co-Star With Rachel Zegler in Evita on Broadway",
    "quote": "",
@@ -335,7 +221,7 @@
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "77fa7a2204",
@@ -384,42 +270,6 @@
    "status": "published"
   },
   {
-   "id": "4f78d24383",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-22T08:30:00+00:00",
-   "published": "2026-09-22T08:30:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "An Oak Tree",
-   "title": "Juliet Stevenson, Olivia Williams Join Tim Crouch’s ‘An Oak Tree’ at the Other Palace (EXCLUSIVE)",
-   "quote": "Francesca Moody Productions has unveiled further casting for Tim Crouch’s “An Oak Tree,” adding Juliet Stevenson, Olivia Williams, Sean Gilder, Brian Gleeson, Sophie Melville, Rhashan Stone and Ria Zmitrowicz to the roster of guest artists appearing opposite Crouch during the show’s run at The Other Palace from Oct. 7…",
-   "quoteSource": "Variety",
-   "image": "https://variety.com/wp-content/uploads/2026/09/Juliet-Stevenson-Olivia-Williams.jpg",
-   "imageCredit": "Variety",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Olivia Williams",
-     "knownFor": "British actress",
-     "score": 48,
-     "qid": "Q231163"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/news/juliet-stevenson-olivia-williams-tim-crouch-an-oak-tree-1236871011/",
-     "feed": "variety-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "e14a41f552",
    "priority": 2,
    "watched": [],
@@ -454,42 +304,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "ecebe6cb9a",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-21T14:43:23+00:00",
-   "published": "2026-09-21T14:43:23+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Lucie Jones to Star in 13 Going on 30 – The Musical in Toronto",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lucie Jones",
-     "knownFor": "British singer",
-     "score": 32,
-     "qid": "Q28533369"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXc4TmF2angwQ0NldlZIWnI0V2dLaXpldHlscmlrMEEwWXBKWUZDbzgzb2xGaUQzSjVDdkdfc2JsNGFtV1hILWxpbWxoaUZudDJZLVl5SEdMYzNLaGo3RFJjNzVyYXY0MjdrZm13ZWpyVHNpZERsbTlpZjNmWXRMVnVUR0trUGlSMGJFUWp2UnFWUWZuZjVja3J3eElabVNXOXBFcVJB",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "405179a038",
@@ -678,48 +492,6 @@
    "status": "review"
   },
   {
-   "id": "ad8bf376b8",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-16T12:30:00+00:00",
-   "published": "2026-09-16T12:30:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Rocky Horror",
-   "title": "Rosie O’Donnell to Join ‘Rocky Horror’ On Broadway For Short Stint, Stepping in For Rachel Dratch",
-   "quote": "O'Donnell will play The Narrator from Oct. 6 through Oct.",
-   "quoteSource": "The Hollywood Reporter",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Rosie O’Donnell",
-     "knownFor": "The Flintstones, Tarzan",
-     "score": 53,
-     "qid": "Q272929"
-    },
-    {
-     "name": "Rachel Dratch",
-     "knownFor": "American actress and comedian",
-     "score": 26,
-     "qid": "Q261977"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/rosie-odonnell-rocky-horror-on-broadway-rachel-dratch-1236703071/",
-     "feed": "thr-arts"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "810bf3a623",
    "priority": 2,
    "watched": [],
@@ -816,11 +588,11 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": "Donnell To Join Broadway",
    "title": "Rosie O’Donnell To Join Broadway’s ‘Rocky Horror Show’ As Temporary Fill-In For Rachel Dratch",
-   "quote": "",
-   "quoteSource": "Deadline",
+   "quote": "O'Donnell will play The Narrator from Oct. 6 through Oct.",
+   "quoteSource": "The Hollywood Reporter",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -844,9 +616,14 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUI4WGc2aTBHOVhsM2duUlpJN2VCdkI5QUVuVFV1cXZRQ2NLVU1NWXNZUTB3eXBYVkRveUNtNVR4VjdqdVlOTl96dDYtMm95LWRGRlRnWFVJUnQ2RXZRamhBX1dnSlFVTjNFMDBkZzBubzN6MlEzN1FxQTJvRDd5OGdrVHg2c3otSWc",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/rosie-odonnell-rocky-horror-on-broadway-rachel-dratch-1236703071/",
+     "feed": "thr-arts"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "8aa903ae48",
@@ -858,7 +635,7 @@
    "tier": "Off-Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": null,
    "title": "Rope’ Sets Off-Broadway Cast Led by Elizabeth Gillies, Cameron Monaghan",
    "quote": "",
@@ -888,43 +665,7 @@
      "feed": "gn-offbway-casting"
     }
    ],
-   "status": "review"
-  },
-  {
-   "id": "2838c53193",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-14T10:59:24+00:00",
-   "published": "2026-09-14T10:59:24+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Sunday in the Park With George",
-   "title": "‘Sunday in the Park With George’ London Revival Canceled After Ariana Grande, Jonathan Bailey Exit",
-   "quote": "The London revival of “Sunday in the Park With George” has been canceled following the exits of stars Ariana Grande and Jonathan Bailey. “The planned 2027 production of ‘Sunday in the Park with George’ at the Barbican will no longer proceed as scheduled,” a rep for producers Empire Street Productions tells Variety.",
-   "quoteSource": "Variety",
-   "image": "https://variety.com/wp-content/uploads/2026/01/ari-jonathan.jpg",
-   "imageCredit": "Variety",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Ariana Grande",
-     "knownFor": "Wicked, Don't Look Up",
-     "score": 141,
-     "qid": "Q151892"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-canceled-ariana-grande-exit-1236861022/",
-     "feed": "variety-theater"
-    }
-   ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "e2e0fad365",
@@ -1340,6 +1081,11 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2RuNUdSZi1GSThNNlRIWVU1WjZtUTktSzR6eEZyamxBUzdlaW5tUWJHM05RSGplc1owemlTZW8yZWlUczAtd0o5OS1ZTHZRMzdsQXY0eG91Sjhmblhsd3ZWZ0x0UkVDYjZhenE3aGtwcGpXUE9DVDNwY1B4U3NoNHNDQ3h2Vzczb1hWVHVoMDFGQnZ3XzIyWGl2OEFVT1d2elhDMFdSLVp3YWxSb0JoM0wtdjhYQ2pFTU51WkNaNA",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXJyT1R4ZHpfQXVHdHRWS0Zob3B1VlJBYTFwMVBqQkJwTHN0MmZ1RmZrek9PWHRVVzk0S2hkNGw3ZGxVbTI1M3hiT3hOeXg0eUt0U0ZfNlo3NzNxSTlNODZXSHFoRV9veXhnZjl2N1U2WGJIMGtjWEswMnBOZ2lUUWhYQ2JWdDQ1QTdwbkFxNXdrcVJab3dkX1hsMWJ3LTVreXBpTzZHYVc",
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -1391,55 +1137,7 @@
    "status": "published"
   },
   {
-   "id": "b71821b686",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-09T19:00:00+00:00",
-   "published": "2026-09-09T19:00:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": null,
-   "title": "Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre’s Starry 2027 Slate",
-   "quote": "London’s National Theatre has unveiled its 2027 program, with Paul Mescal, Emma Corrin and Emilia Clarke topping a star-heavy slate of 18 productions, eight of them world premieres, spanning the venue’s three stages and beyond. Mescal returns to the Lyttelton theater for a repertory season, playing Biff Loman in Rebec…",
-   "quoteSource": "Variety",
-   "image": "https://variety.com/wp-content/uploads/2026/09/Paul-Mescal-Emma-Corrin-Emilia-Clarke.jpg",
-   "imageCredit": "Variety",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Emilia Clarke",
-     "knownFor": "Game of Thrones",
-     "score": 94,
-     "qid": "Q235132"
-    },
-    {
-     "name": "Paul Mescal",
-     "knownFor": "Irish actor",
-     "score": 55,
-     "qid": "Q73367368"
-    },
-    {
-     "name": "Emma Corrin",
-     "knownFor": "British actor",
-     "score": 49,
-     "qid": "Q63086179"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/",
-     "feed": "variety-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "7c927f62e9",
+   "id": "2ec644c090",
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-09-08T07:00:00+00:00",
@@ -1448,7 +1146,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": null,
    "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
    "quote": "",
@@ -1472,7 +1170,7 @@
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "9d4cc2a472",
@@ -1511,12 +1209,23 @@
      "knownFor": "American actress",
      "score": 56,
      "qid": "Q257442"
+    },
+    {
+     "name": "Greta Lee",
+     "knownFor": "American actress",
+     "score": 30,
+     "qid": "Q19517962"
     }
    ],
    "sources": [
     {
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Time Out Worldwide",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHYwLWt6U2EteVR4QXZVY3d2TkxKN3JVX3FadnRhS3hTSnNHWGpBRmNoVngxNEFEZDVCMjJVWFVpd2Y4VjBVV2lXQzZreS1RbHJKdVZRUHRzYUpHeVNNdFh3OENQTzByZWREV1ZiMEg5b19iWnNfdFFZTHhfTHU4NzJ5LTNJWEdzal8tcVBFOHYxT2loeDhOUlFXTGtKTHpPNDgxMFdfV0VtTFVubUlPN3dsa2U",
      "feed": "gn-to-star"
     }
    ],
@@ -1532,7 +1241,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": null,
    "title": "Julia Roberts, Paul Rudd and Greta Lee are coming to Broadway next year",
    "quote": "",
@@ -1568,7 +1277,7 @@
      "feed": "gn-to-star"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "ef417f782f",
@@ -1627,35 +1336,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "047a107bd0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T00:00:00+00:00",
-   "published": "2026-09-27T00:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Flea Market Held Indoors at Hammerstein Ballroom September 27",
-   "quote": "The annual Broadway Cares fundraiser, usually held in and around Shubert Alley, has moved inside.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Broadway-Flea-Market-2025-photo-by-Rebecca-J-Michelson-179.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-flea-market-held-indoors-at-hammerstein-ballroom-september-27",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "14892237ca",
@@ -1745,93 +1425,6 @@
    "status": "review"
   },
   {
-   "id": "6977c945e6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-26T13:39:00+00:00",
-   "published": "2026-09-26T13:39:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "How New York Mets star Jose Iglesias went from shortstop to Broadway actor",
-   "quote": "",
-   "quoteSource": "The Independent",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ09xVFJILWlNbExyakFtc3RYdzJfNWlhamEwVFFiZlk4WFJ1U3hBWjZxUFlpcEpFU3hrSTk0SWtFMTVrNzR4MHYwVGdlelE0eFB0Tk9PTG1XUlJNb0pTTHc0NDZUM0djRUh4WU1IenItbjhLdEpLS2RBcDN4NU5LTjZkSl9nYXptVmNpVFc3U2laQldhUEVZenhmendydmxjSy1JT3lsd0JZV1YyYjhFY0M1YVFmUGNrUWN1YmtkZzdqY0Y5U05uS0laQjl0UQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "987d83e159",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-26T00:00:00+00:00",
-   "published": "2026-09-26T00:00:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "No Day But Today",
-   "title": "'No Day But Today': London Rent Revival, Starring Stranger Things' Gaten Matarazzo, Begins September 26",
-   "quote": "Luke Sheppard is directing the Pulitzer Prize-winning Jonathan Larson musical.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/1.-RENT.-Full-Company.-Photo-Oliver-Rosser.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/no-day-but-today-london-rent-revival-starring-stranger-things-gaten-matarazzo-begins-september-26",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "86025c672b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T20:41:53+00:00",
-   "published": "2026-09-25T20:41:53+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Shall We Dance? A Look at Ballroom Dancing on Broadway",
-   "quote": "Today, Sony Pictures Classics releases HA-CHAN, SHAKE YOUR BOOTY! in theaters nationwide.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-6a7fe184342399d41187fa01df0c5861.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Shall-We-Dance-A-Look-at-Ballroom-Dancing-on-Broadway-20260925",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "9898e41530",
    "priority": 3,
    "watched": [],
@@ -1841,7 +1434,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": "Schmigadoon!",
    "title": "Broadway’s ‘Schmigadoon!’ Adds Ana Gasteyer, Brad Oscar, More to Cast",
    "quote": "",
@@ -1858,7 +1451,7 @@
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "9bac79dd90",
@@ -1899,7 +1492,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": "Broadway Nights Off",
    "title": "Betsy Wolfe and Joe Iconis to Headline BROADWAY NIGHTS OFF",
    "quote": "Tony Award nominees Betsy Wolfe (Death Becomes Her, & Juliet) and Joe Iconis (Be More Chill) will headline Broadway Nights Off, two free concerts on Broadway's dark night (Mondays) at Robert F. Wagner, Jr.",
@@ -1916,7 +1509,7 @@
      "feed": "broadwayworld"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "0131e7b42d",
@@ -2151,64 +1744,6 @@
    "status": "review"
   },
   {
-   "id": "757eb5e7d8",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T14:51:14+00:00",
-   "published": "2026-09-25T14:51:14+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Eugene O'Neill Theatre",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "The Book of Mormon Becomes 9th Longest-Running Broadway Show September 25",
-   "quote": "The Tony-winning musical continues at the Eugene O'Neill Theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/4-Kevin-Clay-Elder-Price-in-The-Book-of-Mormon-cJulieta-Cervantes_2026-01-06-140642_tdpq.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/the-book-of-mormon-becomes-9th-longest-running-broadway-show-september-25",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "b0dd3b995f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T14:50:26+00:00",
-   "published": "2026-09-25T14:50:26+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Exclusive: Broadway Stars Share Childhood Photos From Their Summers at Stagedoor Manor",
-   "quote": "Going to Stagedoor Manor is not like any other summer spent at sleepaway camp — it’s an unforgettable, once-in-a-lifetime experience. Some of Broadway’s biggest stars attended the performing arts program in Loch Sheldrake, New York, long before they graced the Great White Way.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-f5ed4acabec0d4d3c2f6da585214df56.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Exclusive-Broadway-Stars-Share-Childhood-Photos-From-Their-Summers-at-Stagedoor-Manor-20260925",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "1d6c1989fb",
    "priority": 3,
    "watched": [],
@@ -2294,35 +1829,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "897624a13b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T13:16:00+00:00",
-   "published": "2026-09-25T13:16:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "Daryl Roth Theatre",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Get a 1st Look at Todrick Hall Musical Midnight, Beginning Off-Broadway September 25",
-   "quote": "The stage and screen favorite has written, directed, and choreographed the musical, and is starring at the Daryl Roth Theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/3.-Charlotte-Odusanya-and-The-Company-of-MIDNIGHT-(c)-Valerie-Terranova.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/get-a-1st-look-at-todrick-hall-musical-midnight-beginning-off-broadway-september-25",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "3b3a0e1ab9",
@@ -2530,7 +2036,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "James Earl Jones Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "Wanted",
    "title": "Wake Up With BroadwayWorld September 25, 2026- Go Behind the Scenes of WANTED and More",
@@ -2580,35 +2086,6 @@
    "status": "review"
   },
   {
-   "id": "8e4dc55d50",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T23:35:50+00:00",
-   "published": "2026-09-24T23:35:50+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Broadway Flea Market and Grand Auction",
-   "title": "2026 ‘Broadway Flea Market and Grand Auction’ moves indoors",
-   "quote": "This year’s flea has announced a change of venue due to an expected nor’easter.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/Broadway-Flea-Market-2025-photo-by-Rebecca-J-Michelson-39-1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/2026-broadway-flea-market-and-grand-auction-moves-indoors/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "00e14e6dd9",
    "priority": 3,
    "watched": [],
@@ -2638,35 +2115,6 @@
    "status": "review"
   },
   {
-   "id": "72e873b953",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T21:11:31+00:00",
-   "published": "2026-09-24T21:11:31+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Flea Market Moves Indoors to Hammerstein Ballroom",
-   "quote": "​This Sunday's Broadway Flea Market & Grand Auction will be moved indoors to Hammerstein Ballroom due to forecasts calling for high winds and rain in New York City as a nor'easter moves through the region. The annual event, presented by and benefiting Broadway Cares/Equity Fights AIDS, will take place beginning at 10…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-472f673d80d39152101977b14cbd9b11.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Broadway-Flea-Market-Moves-Indoors-to-Hammerstein-Ballroom-20260924",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "2213557228",
    "priority": 3,
    "watched": [],
@@ -2690,42 +2138,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "98fb3abc26",
-   "firstSeen": "2026-09-24T20:24:50+00:00",
-   "published": "2026-09-24T20:24:50+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "A Man On The Inside",
-   "title": "Bernadette Peters & Rachel Dratch Join Netflix's A MAN ON THE INSIDE Final Season",
-   "quote": "Bernadette Peters and Rachel Dratch have joined the final season of Netflix's A Man on the Inside. The Ted Danson-led series is currently in production for its third and last season.",
-   "quoteSource": "BroadwayWorld",
-   "celebs": [
-    {
-     "name": "Bernadette Peters",
-     "knownFor": "American actress and singer",
-     "score": 44,
-     "qid": "Q231391"
-    },
-    {
-     "name": "Rachel Dratch",
-     "knownFor": "American actress and comedian",
-     "score": 26,
-     "qid": "Q261977"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Bernadette-Peters-Rachel-Dratch-Join-Netflixs-A-MAN-ON-THE-INSIDE-Final-Season-20260924",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "a81ff71c20",
@@ -2965,7 +2377,7 @@
    "status": "review"
   },
   {
-   "id": "f6b2a24284",
+   "id": "5abf82881c",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-24T13:15:09+00:00",
@@ -2974,7 +2386,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": null,
    "title": "Exclusive: Broadway press agent Kendall Edwards to join grapevine PR",
    "quote": "Edwards joins Molly Barnett and Chelsea Nachman on an all-woman press agent team.",
@@ -2991,7 +2403,7 @@
      "feed": "broadway-news"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "e2165cbe14",
@@ -3231,35 +2643,6 @@
    "status": "published"
   },
   {
-   "id": "83d01573b2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T17:45:12+00:00",
-   "published": "2026-09-23T17:45:12+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Lunt-Fontanne Theatre",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": "A New Holiday Surprise",
-   "title": "Blue Man Group makes Broadway debut with ‘A New Holiday Surprise’",
-   "quote": "The all-new festive show will play a limited engagement at the Lunt-Fontanne Theatre from November 12, 2026 through January 3, 2027.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/142880-13-1.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/blue-man-group-makes-broadway-debut-with-a-new-holiday-surprise/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "c1e74c116d",
    "priority": 3,
    "watched": [],
@@ -3381,9 +2764,43 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/09/blue-man-group-broadway-holiday-show-1237110780/",
      "feed": "deadline-theater"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/blue-man-group-makes-broadway-debut-with-a-new-holiday-surprise/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "7e5f87fc26",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T13:25:05+00:00",
+   "published": "2026-09-23T13:25:05+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "School Girls",
+   "title": "Playwright Jocelyn Bioh to Join Cast of SCHOOL GIRLS; OR, THE AFRICAN MEAN GIRLS PLAY For Four Performances",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMzVEcjVnMHNOOUJMZS04ZXgwZzJRSFBFa0NHdlhoVGFHS3lGeVdKbllndmtNajlhUG5iYjg2XzhkbFFLNlpEcGw4dFBma2t6WWNaZm5GZUJYNGtOUjNITG9jT2dPUS1YRmdUdDRUbWhvX2t6SVpKWkFMbzBGeTNtcXJFYnN5TFVXdmxJMkNPbFUwTEx2Q293cUwtMmhRazNlYm90ZWlkRDNtajZlRXhuUWRpNnRUSUMzSUFja09JakoySVpIZWRRWG1ONmhOS3JJRDdON1I2MHJsb3lnTHJZdnpadkMtWlk",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "2889134bfc",
@@ -4000,35 +3417,6 @@
    "status": "review"
   },
   {
-   "id": "2b51db2e18",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-19T18:41:42+00:00",
-   "published": "2026-09-19T18:41:42+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Where We Can Simply Be Together And Be Present",
-   "title": "Cate Blanchett Asks London Audience To Stop Filming Play, Says Stage Is Place “Where We Can Simply Be Together And Be Present”",
-   "quote": "Enjoying the show? Then please put away your cellphone.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/09/cate.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/09/cate-blanchett-london-stage-cellphones-1237108459/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "65a0bb0e93",
    "priority": 3,
    "watched": [],
@@ -4145,35 +3533,6 @@
    "status": "published"
   },
   {
-   "id": "e6ee220117",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-18T10:01:04+00:00",
-   "published": "2026-09-18T10:01:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Drag star Alaska Thunderf*ck, a Provincetown favorite, to star in Broadway hit",
-   "quote": "",
-   "quoteSource": "Cape Cod Times",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Cape Cod Times",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVdkaGh4Q29GTzhVYjRSNFdvVDRNX05INzRtdGl2YVdvRFJUU2RSOGc4eWN0c0JvenRmb3kwa240amxFcGZvRTlaLVZNUXBObjBGS1VmeVRGT2xFSklOQ3Q5dndvNmFBMHFEcXhBc2dxXzZMOGprd3lCanNWQlFUVVF2WWZ0UGxJM3pFWTkwcjd2dkptUVQzaElOV21rSkVteTlabmNiZG5KenpUYkxRZzFWd2pEZ2NWUjl6ag",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "8f377f698b",
    "priority": 3,
    "watched": [],
@@ -4183,7 +3542,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "extension",
+   "type": "casting",
    "show": "Buena Vista Social Club",
    "title": "Bernie Williams to join 'Buena Vista Social Club' on Broadway; José 'Candelita' Iglesias extends run",
    "quote": "",
@@ -4197,6 +3556,35 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUNmVFN1MnIwa01NelNtMDlERnFJS2NDT0xLczJ6Y0g1MUJ6ZXpvdUxIUkRlZkw1STU4dldsRGZqN3JDN0pnVlJ0aU1rdGhhZENGZTZMZEY2Ui05WUlDbUdLNnNmbTdMbWdPZUlLdVhxZkUxX0hkdDBCbURlOUNObmxwcFFzekp5OW1uaWdWUzdLQmY4OVJTYUs4Wl9UMVpfMFdldUs0ZDJ2NmxvYnZJVG9SY3BqdUFHR3JQaHdpcVZLdS1XNEZfOUNReVpUVVotd3pVREdaY0hEOGUzcnJ2N2c5dw",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "e6ee220117",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-18T10:01:04+00:00",
+   "published": "2026-09-18T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Drag star Alaska Thunderf*ck, a Provincetown favorite, to star in Broadway hit",
+   "quote": "",
+   "quoteSource": "Yahoo",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmt4cmlqVVMwOElzQ1lGOG5heVdFeVJLR3FwNGF2dWF4U0gwcHVtUDlXQTI3ZTVTRXNUSXRDdW1LMmRuM3diY1JueGVYV1lhcHNLbGMwY1RUem1CanlRbHBCLUhPR25fVGY3XzBldGZTcUpJZ196bGtyMjdJVEVpQUFZc2N1alpISHFSM1hCRGtiVk9sRlE",
      "feed": "gn-to-star"
     }
    ],
@@ -4332,7 +3720,7 @@
    "show": null,
    "title": "Broadway's latest headlines & casting news",
    "quote": "",
-   "quoteSource": "NBC 4 New York",
+   "quoteSource": "Nbcnewyork",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4340,7 +3728,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "NBC 4 New York",
+     "name": "Nbcnewyork",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUdBVGZ5SXZPdTZFaDhQYmlPMTlMUnlfTl9HakNPbjF5T25qV295d0ZBVEc5ZkNDLThYVVFyanhiU3I5Z19UMWRLcGk1ZW5FUF9ZMmkwVFZyOXJuVUdObk5JZmhqdmUzUi1TeDR1RnNHbWhoM1cwaVZVOEFRTXh4OHpMZUFYeDNBcEIxNXVwak0xQzZxM0xBbmlyUVJFWGJpNlpPeTNnYW5WdUVoTHhDMncta21VZEM5OWJv0gHDAUFVX3lxTE5hR1VzZHBGQnlHdFhVYjBWZzJkbjlBbFYxb0xDNU5xVmpLZHB2ZGhSRVpNamh1UDhEMkY2TEZjaUdPVTA1RWxzNGVQSGF5NG1iV05yZEd2ZmdvbkFXaXN2TmI0Y1NsbzhRWldZZUlEQUZWNk5YdFlZRWMzV3pJenJfOHdFbldQVEdYeU94ZlA4UXpLWjJuNDlkQXdGMmlKUnpIMXNvb2RzdTB3N3d0UmlvaE50YnNWSS03X08xaHhHMW1hMA",
      "feed": "gn-bway-casting"
     }
@@ -4769,7 +4157,7 @@
    "status": "published"
   },
   {
-   "id": "889f43cb65",
+   "id": "04400a3adf",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-15T07:00:00+00:00",
@@ -4778,7 +4166,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": null,
    "title": "The Best Shows Coming to Broadway in 2026 and 2027",
    "quote": "",
@@ -4795,36 +4183,7 @@
      "feed": "gn-to-star"
     }
    ],
-   "status": "review"
-  },
-  {
-   "id": "d5455d8b74",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-15T07:00:00+00:00",
-   "published": "2026-09-15T07:00:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Legally Blonde The Musical",
-   "title": "Amber Davies to star in West End run of 'Legally Blonde The Musical'",
-   "quote": "",
-   "quoteSource": "London Theatre",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "London Theatre",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUVMTkJHSlZodmh5OWxYZGZsSmY1UENrWHFFakQtSm0wU0JpT0d3Wk94NC1aUU9VM1BQZm04R2FPZ29hd0xocGVfcFdPWWVYbGZPMFNLeGlRN2xEMHNGVXdLZnZteHBKdjJZQ2xPaUFtNlZEdnlpZ2RoeC05S2V1X1F1eF91SERKTGNBYWVHWEd2eU9KRTNDOHViQXAwOXZxMlZxS0p3Z0Z4NUhLX2gzWVotZ3pZS28",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "f5fa3cc306",
@@ -5028,35 +4387,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "e4fe524edd",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-10T11:00:46+00:00",
-   "published": "2026-09-10T11:00:46+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Ted Lasso",
-   "title": "‘Ted Lasso’ Star Nick Mohammed to Host ‘The Traitors’ Stage Play in London",
-   "quote": "Nick Mohammed will play the host in “The Traitors – Acts of Betrayal,” the West End stage adaptation of the hit competition format, after a video in which Claudia Winkleman swore him in to the role, producers Studio Lambert and Neal Street Productions have revealed. Written by John Finnemore (“Cabin Pressure”) and dir…",
-   "quoteSource": "Variety",
-   "image": "https://variety.com/wp-content/uploads/2026/09/Nick-Mohammed-Claudia-Winkleman-Traitors.jpg",
-   "imageCredit": "Variety",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/2026/theater/news/ted-lasso-nick-mohammed-host-the-traitors-stage-play-1236857067/",
-     "feed": "variety-theater"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "0d2f5c3807",
