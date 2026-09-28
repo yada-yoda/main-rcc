@@ -367,6 +367,15 @@
   "qid": null,
   "score": 0
  },
+ "Brandi Carlile": {
+  "checkedAt": "2026-09-28T20:01:16+00:00",
+  "description": "American alternative country and folk rock singer-songwriter (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q164060",
+  "score": 36
+ },
  "Brian Cox": {
   "checkedAt": "2026-09-25T17:57:09+00:00",
   "description": "English physicist and musician",
@@ -390,6 +399,15 @@
  },
  "Bruce Norris Downstate": {
   "checkedAt": "2026-09-25T17:54:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Bryonha Marie": {
+  "checkedAt": "2026-09-28T20:01:09+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -478,6 +496,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q108828510",
+  "score": 0
+ },
+ "Check Out": {
+  "checkedAt": "2026-09-28T20:01:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Chris Jackson": {
@@ -579,6 +606,15 @@
   "qid": null,
   "score": 0
  },
+ "Current Orpheus": {
+  "checkedAt": "2026-09-28T20:01:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Dallas Cowboys Cheerleader": {
   "checkedAt": "2026-09-27T17:33:07+00:00",
   "description": null,
@@ -588,8 +624,26 @@
   "qid": null,
   "score": 0
  },
+ "Dallas Cowboys Cheerleaders": {
+  "checkedAt": "2026-09-28T20:01:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Damn Yankees": {
   "checkedAt": "2026-09-28T01:26:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Damn Yankees Talks": {
+  "checkedAt": "2026-09-28T20:01:05+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -821,6 +875,15 @@
   "qid": null,
   "score": 0
  },
+ "Fly Away": {
+  "checkedAt": "2026-09-28T20:01:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "For Livestream Benefit": {
   "checkedAt": "2026-09-25T17:48:30+00:00",
   "description": null,
@@ -850,6 +913,15 @@
  },
  "Four Performances": {
   "checkedAt": "2026-09-27T19:22:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Four Years": {
+  "checkedAt": "2026-09-28T20:01:11+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1028,6 +1100,15 @@
   "qid": null,
   "score": 0
  },
+ "How Shakespeare Saved": {
+  "checkedAt": "2026-09-28T20:01:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Imaginary Invalid": {
   "checkedAt": "2026-09-26T01:13:42+00:00",
   "description": null,
@@ -1071,6 +1152,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Jacob Ming-Trent": {
+  "checkedAt": "2026-09-28T20:01:25+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q77283105",
   "score": 0
  },
  "James Olivas": {
@@ -1172,6 +1262,18 @@
   "qid": null,
   "score": 0
  },
+ "Jesse Eisenberg": {
+  "checkedAt": "2026-09-28T20:01:29+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "The Social Network",
+   "Zombieland"
+  ],
+  "qid": "Q219512",
+  "score": 69
+ },
  "Jesse Labelle": {
   "checkedAt": "2026-09-25T17:51:33+00:00",
   "description": "Canadian-American country singer-songwriter",
@@ -1211,6 +1313,15 @@
   "qid": "Q43852827",
   "score": 2
  },
+ "Joe Carroll": {
+  "checkedAt": "2026-09-28T20:01:14+00:00",
+  "description": "American singer (1919–1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q916929",
+  "score": 6
+ },
  "Joe Iconis": {
   "checkedAt": "2026-09-25T18:43:06+00:00",
   "description": "American musical theatre writer",
@@ -1246,6 +1357,15 @@
   "knownFor": [],
   "qid": "Q311271",
   "score": 64
+ },
+ "John Riddle": {
+  "checkedAt": "2026-09-28T20:01:10+00:00",
+  "description": "American actor, singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q108077820",
+  "score": 0
  },
  "Jonathan Bailey Exit": {
   "checkedAt": "2026-09-25T17:51:50+00:00",
@@ -1360,6 +1480,15 @@
  },
  "Kicking Off Paper": {
   "checkedAt": "2026-09-25T17:54:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Last Flight": {
+  "checkedAt": "2026-09-28T20:01:36+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1540,6 +1669,15 @@
   "qid": "Q17385680",
   "score": 28
  },
+ "Mare Winningham": {
+  "checkedAt": "2026-09-28T20:01:13+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q235189",
+  "score": 32
+ },
  "Margaret Qualley": {
   "checkedAt": "2026-09-26T01:13:44+00:00",
   "description": "American actress and model (born 1994)",
@@ -1587,6 +1725,33 @@
   "knownFor": [],
   "qid": "Q102338984",
   "score": 6
+ },
+ "Max Wolf Friedlich": {
+  "checkedAt": "2026-09-28T20:01:24+00:00",
+  "description": "American writer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q126946253",
+  "score": 1
+ },
+ "Merboy Next Door": {
+  "checkedAt": "2026-09-28T20:01:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Michael Luwoye": {
+  "checkedAt": "2026-09-28T20:01:33+00:00",
+  "description": "American actor of Nigerian descent",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q47491844",
+  "score": 2
  },
  "Michelle Obama": {
   "checkedAt": "2026-09-25T17:54:25+00:00",
@@ -1647,6 +1812,15 @@
  },
  "Next Month": {
   "checkedAt": "2026-09-25T17:52:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Next Year": {
+  "checkedAt": "2026-09-28T20:01:32+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1862,6 +2036,15 @@
  },
  "Prayer Circle": {
   "checkedAt": "2026-09-25T17:57:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Producing Team": {
+  "checkedAt": "2026-09-28T20:01:17+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2097,6 +2280,24 @@
   "qid": "Q30123034",
   "score": 3
  },
+ "Sandra Dee": {
+  "checkedAt": "2026-09-28T20:01:28+00:00",
+  "description": "American actress and model (1942–2005)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q234875",
+  "score": 42
+ },
+ "Sara Jean Ford": {
+  "checkedAt": "2026-09-28T20:01:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sarah Jones America": {
   "checkedAt": "2026-09-25T19:53:47+00:00",
   "description": null,
@@ -2282,6 +2483,15 @@
  },
  "Stagedoor Manor": {
   "checkedAt": "2026-09-25T17:47:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Standing Room Only": {
+  "checkedAt": "2026-09-28T20:01:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
