@@ -167,6 +167,24 @@
   "qid": "Q210547",
   "score": 54
  },
+ "Austin Scott": {
+  "checkedAt": "2026-09-28T01:26:14+00:00",
+  "description": "U.S. Representative from Georgia",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q781167",
+  "score": 13
+ },
+ "Austin Scott Also": {
+  "checkedAt": "2026-09-28T01:26:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ballroom Dancing": {
   "checkedAt": "2026-09-26T01:13:49+00:00",
   "description": null,
@@ -563,6 +581,15 @@
  },
  "Dallas Cowboys Cheerleader": {
   "checkedAt": "2026-09-27T17:33:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Damn Yankees": {
+  "checkedAt": "2026-09-28T01:26:11+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1295,6 +1322,15 @@
   "qid": "Q40523",
   "score": 131
  },
+ "Julianne Hough": {
+  "checkedAt": "2026-09-28T01:26:13+00:00",
+  "description": "American dancer, choreographer, actress, singer, and songwriter (born 1988)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q232646",
+  "score": 36
+ },
  "Juliet Stevenson": {
   "checkedAt": "2026-09-25T17:51:41+00:00",
   "description": "English actor (born 1956)",
@@ -1597,6 +1633,18 @@
   "qid": null,
   "score": 0
  },
+ "Neil Patrick Harris": {
+  "checkedAt": "2026-09-28T01:26:08+00:00",
+  "description": "American actor (born 1973)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "8-Bit Christmas",
+   "Glee"
+  ],
+  "qid": "Q485310",
+  "score": 72
+ },
  "Next Month": {
   "checkedAt": "2026-09-25T17:52:17+00:00",
   "description": null,
@@ -1877,6 +1925,15 @@
   "knownFor": [],
   "qid": "Q747697",
   "score": 20
+ },
+ "Real Estate": {
+  "checkedAt": "2026-09-28T01:26:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Red Orchid": {
   "checkedAt": "2026-09-25T17:57:29+00:00",

@@ -2,11 +2,103 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "2df00d9c45",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-26T07:00:00+00:00",
+   "published": "2026-09-26T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Marquis Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Damn Yankees",
+   "title": "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
+   "quote": "Damn Yankees is heading back to Broadway. Producers Lia Vollack, Haley Swindal, and Julie Boardman announced today that the seven-time Tony and Emmy Award-winning musical will return this spring, starring Tony Award and five-time Emmy Award winner Neil Patrick Harris as Applegate, Emmy Award winner Julianne Hough in h…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://static01.nyt.com/images/2026/08/11/arts/11cul-damn-yankees-grid/11cul-damn-yankees-grid-mediumSquareAt3X.jpg",
+   "imageCredit": "From left: Mike Coppola/Getty Images for Tony Awards Pro; Kena Betancur/Agence France-Presse — Getty Images; Dia Dipasupil/Getty Images",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [
+    {
+     "name": "Neil Patrick Harris",
+     "knownFor": "8-Bit Christmas, Glee",
+     "score": 72,
+     "qid": "Q485310"
+    },
+    {
+     "name": "Julianne Hough",
+     "knownFor": "American dancer, choreographer, actress, singer, and songwriter",
+     "score": 36,
+     "qid": "Q232646"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSm5jUDVsT2JTMDZ3WHlxZV9XVE9TZWhoUWJMUHE3bmd6eTJNNnhndGlNdXNhZk1nSDZDbm0wME01Tlc5RU9hQnNSaGVSZFhCZlpfdVZBSGtTQ2ExejBrWE0wR21rc3d2eG41WDZLRzVJOTlMc1hEVzRyZGlfeWZVd1ZLWDF5NkNQNUdKRkNPODE2VXpmQlhCZVRkemc5QQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0J3M2Vpc241clRoQlBYTlVzX25UQmg0N1hxMVlqb3hUNVJBRU1zUndkREkzb0lNRnFNYzZiMkd4eU5PckRSbkZ1Ulh1Q1lTZGNzLVJlb3h4MUF4SThuZHUtSS1DeElaVGlVT254MXpiRk1JZVVYVnVSb1c3QW1wcDJDSU5nNE9YSjRaZnJFMnlDS0k",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Upi",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS3NTV1MyVXFsU1pKMWtsb1lNTXlULUpadTdFS2FFT0l1THVabHliRFo3b1dWY01jZExqU3ZtRnZSWVkzVEU3dkxNQl9MeU8zOTVJTk91OVIyQ3Z1Zml1S3ktOTZTaTM5TExiNWVFS2ZHZ21ubGpHSC1pS195V1VTSnFKOE0zX1hlaDJ2aFVydWFhNEdEYVB6Vkh1RWd2V3AyeE1LWl9xYnFNZGFDMGxLZktubEhPYzNWclB4S0xlbktmZkR4OGlfOU9zS0NwRk3SAdQBQVVfeXFMTWUxMEMxYkFpVDgxUzlKVnZ3elVMY0hqbm1LWmJBTzUwTkNOdU1uc1MyU2p3bE1hZ2h2SWdWV0tBV0h0aXQ3Z09QRC1GY1NwVDZ6cG1hb2VjVGtxdGQxVE1aa3VHTlJrUFI3SkY1Y0s5M0RDbXZ6SUdZZjFaZ29tR1BoM0ZYTlpZa2RGakp4VVgzMkV1WXZnV21JQjZOdGF4dldGTDV5Z0Z5clpFWjVSOW9PcURUWktBNHpRRWdEX1lDbk9XRGlwM29xdWJDakNpWUEyRXM",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Newyorktheatreguide",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkViY2V1bVNuM0VuUUprejVyOXJsMVRuSDJwWk9OTkRGMzg0Qk83V2Q2b3BXVHNneENRbmpQb0o3aThnXzUwem1nTzJEQUtWdjFycWFPVzhNTmJGZEt2SkFkQjZ1Q0JseHJTNE85a3VqN2dQcmdyM0VtamVGemlNU2ZIemlsUUlKMEV4ajNJTU1iaGNOS3ZLNm1zTUNadGRYRWFtRWhVWXJNYVU1TFN6cGpKNUljUW9odlRSNGFrN1ZFdFBzczh3Xzk1T3h6UzdnYkN4dzNPaUpPQ0xsekJONFV2OUE1VGtVRVE",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Neil-Patrick-Harris-Julianne-Hough-Austin-Scott-Will-Lead-DAMN-YANKEES-on-Broadway-20260927",
+     "feed": "broadwayworld"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/09/27/theater/damn-yankees-broadway-neil-patrick-harris.html",
+     "feed": "nyt-theater"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/09/neil-patrick-harris-damn-yankees-broadway-revival-2027-1237114819/",
+     "feed": "deadline-theater"
+    },
+    {
+     "name": "Broadway",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDZNUFBsbU95ZldwRWpnYnBlVGNZcnV4U2hydEQ5a21QMkZFMFZIdkRRYzEwUjdYTmF0dEstLVNNdzdhVVRaY3dMR3k0RVJidzhwTG95ZXRGMnoxT3RxYXdyaHBUZmdrNDZqR2VKSldsZzY4ejgwd2IwWjBCQi1fOGc3a1JLUG1NVTRFOGJtbWtBeHAwd3pIN2FnMUZwc29jcEJhZVUwRVJHNlloaXBkekN1Z0dGbFBMbDZlLVd3QjlHaWN4bmdZc0xvdVJDdw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDlQNTh5VGZTUUt3LURFTTZSLTN3M252ZUsxVWJZaDdrYW1sdldBY3JXWmw1Z01LdUJncTJTbjl3amo3cHFNdWlfVjN5b0FNQi1DNVZja3VZWjBqd1h3ekdzYmdFS2w2UlZYTG9DTXJpZ1BsVU1SRzN3dmVlaGpLSjFhcTZFOURQb2EySW5xZndMU2paQ0hJSFNjTG9saHM",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/neil-patrick-harris-will-lead-damn-yankees-broadway-revival-this-spring",
+     "feed": "playbill"
+    },
+    {
+     "name": "Theatrely",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWdQb2JfSjFvckRkMDIyTXV5MGtOUENmQXp6OE50ekgwZUlvZFB5c2RhU2owcWhGMFNKVzB6Ylh3VG1NZ0doY1piWUY2MGwzTzZUa1JEVGxFQ2NJNkt2b0hiUHZPQnNfWWF0SWlSYmI5RHBVVjFwaXNnUmFvQnlCYU50dXRCN0JQZE1fc18yQVBvcFdxQzM1RFNOcDhVQQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "5fe21e1629",
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-09-23T16:37:30+00:00",
-   "published": "2026-09-25T20:03:08+00:00",
+   "published": "2026-09-25T18:37:44+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -228,14 +320,14 @@
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-09-22T15:00:00+00:00",
-   "published": "2026-09-22T15:00:00+00:00",
+   "published": "2026-09-22T15:20:10+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": "Winter Garden Theatre",
    "placedBy": "words",
    "type": "casting",
    "show": "Evita",
-   "title": "Casting announced for Evita with Rachel Zegler on Broadway",
+   "title": "Evita with Rachel Zegler announces Broadway casting with returning West End stars",
    "quote": "Rachel Zegler will be joined in Broadway’s Evita by her London co-stars Diego Rodriguez and James Olivas when the musical revival arrives in New York in February. The casting was announced today by producers Jamie Lloyd and Michael Harrison.",
    "quoteSource": "Deadline",
    "image": "https://deadline.com/wp-content/uploads/2026/09/1.-Evita-L-to-R-Diego-Rodriguez-as-Che-Rachel-Zegler-as-Eva-Peron-and-James-Olivas-as-Juan-Peron.-Photo-by-Marc-Brenner.jpg.jpg",
@@ -251,11 +343,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "Substack",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CZVlYd3VYOWd0T2owLU1ndkV1V1pTZEZzcnNiLUZjY0Nya3c1eEc5UThLM3JHdVlhZlFPV2NXTlQ0LUhFWFNoWFpVOGNaUWwxQ01tNTdKcnRZRnh4MGN2V21ocHgwUWVBMFltZmJiUkNYMmU3azZERVQyRQ",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "WhatsOnStage",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80N3dHOFprdnUwMi1qOHY0SHR0WUdST2tmbHpQaUpYUG9nQzQ0LWJEd0dzOVYzbWhTZlhPX2VGM0NfaXZlVXkxWkZZNlRDTHUyR1czeDVkSExHMlpjVEJjNW9lRDBtTmx3c05ZVC1HQVhFTUFENkhRbWlySng0SXliUElZeHdVQzhjTlIzeHNrcmFOVkh6SlJQLS1sRkEyVlNVWV9fNTJUVzhvbWlaRXRHMHhsX2xQSzZ5NzNOaWtXZw",
@@ -427,7 +514,7 @@
    "show": null,
    "title": "Odds and Ends: Spring Awakening Sets Off-Broadway Cast, Lea Michele and Aaron Tveit to Reunite in Concert",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -448,7 +535,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhfUTlRdXlvYXo3X0tHUWpOdHVRUkRyOWIwN0Qzc3VqZXppSzQ2OEJaWDJBWkVhdVFIN25idDAyT3V3d0VHbjJoQmVXNm5HYXlQdmNwamtlUzNBZDd0S0l1OURfRzF5LXUxZXJoZ3J6OUNXR0NPVURlTTl2NEh0d2k2V0pLQUhHTF9jQWtKY2lLUUtEelp3TXl3Z2dDZUQ5M3NOQmpBSkhzSndsd1J3WC1SOVlRa3pDWUdrWlNSR3QyX0FITE5lWGhQam1RMThpZ3RIMXh4X2k",
      "feed": "gn-offbway-casting"
     }
@@ -681,7 +768,7 @@
    "show": "Sea Wall",
    "title": "Andrew Scott to star in 'Sea Wall' off Broadway for two weeks only",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -696,7 +783,7 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXRtWXIyRUxQcjA4Mi0ybUc0OEJRU1g4eFdGOXlXaUkyeFBQbGRXa2x4dmZwekdOd2VHMDBMTUZSc0czZUg3SWtYMkNBd3A1cG5rT1BWcFlibHVlY0hqa1JhNDJnY0FVbDNvMGFJNk40NkRnUWF1cVI4VC1waE5sQi1mZy16dDRhZGFXbjJacmRuZ2x1bmRqWXRXblRFZUZ1ZzJIdlUxdktKQkFLcXFiUEVKdVo4cjJqR2c",
      "feed": "gn-to-star"
     },
@@ -872,7 +959,7 @@
    "show": "Buena Vista Social Club",
    "title": "Gina Torres to star in 'Buena Vista Social Club' on Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -887,7 +974,7 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHNyV29NdGdpY0ZZcHl4M1lobkdHd3ROY1JpUXFFSU9qZFVsTDZPb05veDlBUWRCU2M2aHdVVlFtX0hndnB0ZG9YVjBFWVNsQ3I3bGtGYkN2aGRSaFVBSVIzWGRvdVhDVFlaMDNsSmJmQ053TnVWTHFoRVFJZUZkX0hlbDhwWE5lcHpHQVVZM3dkNWt4ZEp0NTUzVndnTEZYbjhUc1NGQkswdlB1MzN3TWln",
      "feed": "gn-to-star"
     },
@@ -918,7 +1005,7 @@
    "show": "Bill Pay",
    "title": "One-night-only 'Bill Pay' Broadway musical to star Billy Porter, Billy Zane, Jessica Vosk",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -939,7 +1026,7 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZm5GWTNpRGRjbFVEWmVLVU8yNjhUaUwyZDdsd05HLVBiSHdKZWh3V2c4SmJlNktkb1NwSEJES1pwWGl0SDNjZmo2OTByTDBkRkN2bUhqMVNFaWpXMm5mdWtQSnU1OFhsX1YyODBlM0hWemRYQUlhRW5HRFh2VGM2YmVMdUNHWkFPU1hJSl8tSUFUSDRxM1RUVUtucG5iQWM4VEdqM2lXX19uNGZtZnhZenFqcTJfVWxrTElKbE1UWEdWTTZjRUI5MEJWb253blRaLWUtaEt3",
      "feed": "gn-to-star"
     },
@@ -975,7 +1062,7 @@
    "show": "Imitation of Life",
    "title": "Adrienne Warren to star in John Legend, Lynn Nottage musical 'Imitation of Life'",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -990,7 +1077,7 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1RDYVlVYk1KSjlxWG5Ha0pvaEc0aVc0WnhZbnNSa2FMOGJ4UUljb1hBYnFfWUJiMkNsRXNmXzJRZWxxdTA0c2c3eHh4cmNBM0FCVmFNYWhOWkVrdEFMNWJBdTNTQTJnQmFqb0JXNkVPUXppVUxfajk5aWlNY2luS1htX0ZxS21hbWR3M202eEFaYVJnbVV3OU12N0ZReGdpbElfdFlyYXFObWVFRjJ0MHNjajUtWmRsRS13a3hha2Y0UnNUaC1iSmFzTQ",
      "feed": "gn-to-star"
     },
@@ -1016,7 +1103,7 @@
    "show": "Wild Rose",
    "title": "Madeline Brewer to star in 'Wild Rose' musical off Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1031,7 +1118,7 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkp4cTJvU25nRER2UHl5aXI5VWJJeWFHLVh4Mnoxd2E2dl9ZRHdHeTBWOGpnbjFIZktiYnJGUWg0c3ExMmJTQ1ZDUnZ0VDVSVHlpWHAwZDRJUTBBb3ZLXzAxMUZ0TWROLWExdmhlc0puLVRieXhBYW5uM0pQSl9abFh4QUpCenZEQ0hUbmhmZjd1TzNYazFKZWZoUlhOLWhYLWtiV29BUnpQV3lxSzVuOQ",
      "feed": "gn-to-star"
     }
@@ -1052,7 +1139,7 @@
    "show": "Rope",
    "title": "Cameron Monaghan, Elizabeth Gillies, more to star in 'Rope' off Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1073,7 +1160,7 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0lCMWdSc3VwV25Lc05rUFNkTGY1OE1xMkRzRDVzNHdhTmJmcmZPZ0RtNDVRc21SU202WUNZcVJQVGs4eGdvc0ZTNVhiSzVRS1RjSC0tcGRlZFZvempoamRYMzlobkFTdWhjR1dQeGFGcHQ0RV9MOUNqZjQzUmF1TU1fTjJmRVROaFhfeUQxX2lJX0ExMXIyVWVMYk94am9NUGJ4X2dLa0t6VFRtU2ZOMlF2dDBpVkZCS0dNeXZrSQ",
      "feed": "gn-to-star"
     },
@@ -1186,7 +1273,7 @@
    "show": null,
    "title": "Julia Roberts, Paul Rudd and Sarah Paulson to Star in Broadway’s Small Mouth Sounds",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1219,7 +1306,7 @@
    ],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0RpeEJscnFxMmQ4Ulp6bzBqd3lKMVVYUW4tOTRmcXNjQlp2bVM5VXJMLTRIYjdxMG1EODFUNUZjRURBQWpCcGNLMFZJTzFIUF9jTTRna1phMmN6QU5HeG5xYTNwcTdHX2ItSURlcWZ4T2ZaV0VCNXpyNVpHcVlKOWRIYXp4TEtCblRwX2w5UFpMaDc4X0puUzBDd2NwcG1maG44dlZDbFpjaEczNURaOUJZZTJBZG1wM2tr",
      "feed": "gn-to-star"
     },
@@ -1278,6 +1365,64 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "1729de3767",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T20:30:00+00:00",
+   "published": "2026-09-27T20:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Weekly Schedule of Current Broadway Shows",
+   "quote": "A rundown of current Broadway shows and their planned show times.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "603a20f1e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T19:30:00+00:00",
+   "published": "2026-09-27T19:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
+   "quote": "Keep track of the shows booked into each Broadway theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-real-estate",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "ef417f782f",
@@ -1670,7 +1815,7 @@
    "show": "We",
    "title": "Complete cast set for 'We'll See' off Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1678,7 +1823,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3pEdXhYeGs5LVRpeEJFcmxZZE41SE95ZTl5STZ4MGtuU3psMDFtTkkyZzF2d1F2eVlPQ19La2hMRG1aYktkcWhldkgyWnIzX09lNDNrTWV1TVhBOFRTT3JZbnd5bVZ5WG5JSGpHSEdlYTY1aVJVNWZsb3RRUVg2Wks1a1p1dm14ZXB2SlRtdzkzZGxxVlFHUHlxWmxCZw",
      "feed": "gn-offbway-casting"
     }
@@ -1752,7 +1897,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Todd Haimes Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": null,
    "show": "Hour Plays On Broadway",
    "title": "24 HOUR PLAYS ON BROADWAY to Honor Thomas Kail",
@@ -2298,7 +2443,7 @@
    "show": "Little Shop of Horrors",
    "title": "T. R. Knight, Hannah Cruz to star in ‘Little Shop of Horrors’ off Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2306,7 +2451,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUhuRFFuUVc2dTJ2UmZkZ1NTRlMtYVUwc3lCTDQ0VXFLS05STVY3SjE3TXdZM2h4TjFlSEpraEZDUGxMVUNQaC1nYzJzYnRWeEE4VVlhWXlxcmVBdzR1SFoyaHFKeDN2NlRuMmI1NlVDTjlMby1QWEV3UDc4b3VTNHBSYlJPR24zdWZqZ2ZSYnZvZnJlS3RIUTlLTTYxNnJFS3lZTTUwVHlScXh0Q25CVlZpRGViLWZtczFRbllHYWw",
      "feed": "gn-to-star"
     }
@@ -2340,7 +2485,7 @@
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTdWU3Q4MU13SjRwcDJTb0JwUnctTlcxOEhYVkxwNkNqT1ZhQTdiWkRBdjUxMi1fcmJCT2VsZkxsNW1UQzNuM1duUmNFUldGUXZPYmRQOTB3LUVmeGxLZ1ZZVXhuaU1qOXlOYWFfVjl6SUlQV0RneDBwcnRra0RUNkoyWHg4cWJWdDNENUlUWFN0R0ZCb3M3Z3FENVN5bzBpb3pfYUIwZXRUeUdBSUNB",
      "feed": "gn-to-star"
     }
@@ -2477,7 +2622,7 @@
    "show": "A Ghost in Your Ear",
    "title": "'A Ghost in Your Ear' names new Off-Broadway casting, performance dates",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2485,7 +2630,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUlsNmxEUTZkQzh2NnJYRVBaNVBJYS16c3dGMGpLQ19JQ1FOT1NSQzQ5RGhWejF1Zk1vb242a2ZMY2NWVlgxWlMwVWNTbTBaVjMzbXJLTkQ0Z2ZOVldQR3ZwZkJ5cGVVRm9IUGE2U2liVEpOTUtlRjAyQnJMcjN3ZnRDa0t4MVFWZTd3WDYtODdmQ05yUDF2RkM3aEtNbXY3VFN5dHpOYmdRWXJrZUNYVFZoZllrRTU4U28tQXUzVQ",
      "feed": "gn-bway-casting"
     }
@@ -2506,7 +2651,7 @@
    "show": "Mary Poppins",
    "title": "Paper Mill Playhouse Announces Additional Casting & Creative Team for MARY POPPINS Kicking Off Paper Mill’s 2026-2027 Season This Fall",
    "quote": "",
-   "quoteSource": "TAPinto",
+   "quoteSource": "Tapinto",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2514,7 +2659,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "TAPinto",
+     "name": "Tapinto",
      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQUTVJOXVXMHBKVVJmMklWcFpSRC04Y3RfQ05KeWlOSkVOeTRZeU1DZFdyM1NLVDRzbTdzRjl4U3FwWUNJMC1iOE1udVQwbWcwLVYwc19jejQ2V2VPNy10aklDMUt6aDJHRFJIdlBiZHhsU19VY0FHTGRHTmJMRWRTRWtmUEtram1lLUZZNkw1aG9QcFp6dWMzSW1oempJN0hBdmMwRHdGVVZvNEFabEEyN2dfejVMOXA1S2dJVDdmM05OdXBEdldlMzVVX3ZjS3hUTUswU19FWTlaU0tmbU45SXVvM29Wc01aMndiZU8zTldkNnplZjdZQUgyYjJRNTBHV1BaUnBMbmlhc0F2MXljYnpCbnhwbHpaTEduVWFfMnhlS2o0Y0o5bDIwZ2M2Q0F6M1dSOTgtSDQzdFEwdUE0cXBLQXRXVmt3cWtrZzBpREZ3QnlVQkZ5Z0N4NmlFRjl4Mldr",
      "feed": "gn-offbway-casting"
     }
@@ -2685,7 +2830,7 @@
    "show": "A Christmas Carol",
    "title": "Andy Karl to star in 'A Christmas Carol' off Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2693,7 +2838,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
      "feed": "gn-offbway-casting"
     }
@@ -2751,7 +2896,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2dXR1ZZRDFyVFYzdUhyUk9JdEhwZWZtNWtvd0NnVjhWMWVqTGRQRzZ6M2RGODFkU05aYW5qZTZ3SC12NjFOa0FjVHFCV0FXd0FhR0tzU3I1Wl8xVU1YSl9GYWdqUjIwUHFmczROSndBSldXVlhTempWaGVsZngtdXR3UmdLT2h6SVBJVy1OekZ3LV81amsxMUxveFBhRUF1dk13",
      "feed": "gn-bway-debut"
     },
@@ -2990,7 +3135,7 @@
    "show": "The Holes",
    "title": "'The Holes' Off-Broadway review — belly up to the bar's backroom",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2998,7 +3143,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6QVpZd2g5YnZUN3dFSUstU1FiSzlkc0h6cEpXeVZtVHdFemg2VmRyVklHMHJZcWRHaDBuSzJUQWxfNlFEaHNwbzJKekpkX0I1cU1zRDVsWTlrTWkxSHVsbzNNeDdWeVBDcGtEb0ZZdzhJT1g2LWZqa3RaZk9HUQ",
      "feed": "gn-offbway-casting"
     }
@@ -3193,7 +3338,7 @@
    "show": null,
    "title": "The Outsiders Sets New Broadway Cast Members",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3201,7 +3346,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmJ0cVA4VkxiUUdiOWlYSzFwZkdlME5sMWRKY3ZFNFM4c19hYjhTQThrS3dCZnpEay05WUstbThOazJSWFJOQzNYeGNDcnFqNnREUlltaVJnbkZ5US1ZUktOcFFDbWRqbzUtZENPSW5PNnRSTWl5RHp1Vm5YWDVhZklOUlBHTjVjUEE",
      "feed": "gn-bway-casting"
     }
@@ -3235,7 +3380,7 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVRuaXdfRjA4S0FBbmdDaE1zQWRnZnh4QXFSSy1qV3R2SjkyUDcybzIzb2g1dmpfNkVzVVJrN0Y1ZGtjeXRiWXg4NXFBMnZaM0dTSVR2RWJhSEZlamgwQnUzUklpWTA1UVNSZ0JXTTZlNTZEUHM0N0s1Nnl2ZDB6elI4XzVScWxJTGxnQUNfQ3VkdDJpenhjRGVR",
      "feed": "gn-bway-casting"
     }
@@ -3256,7 +3401,7 @@
    "show": "School Girls",
    "title": "Jocelyn Bioh to star in her play ‘School Girls’ on Broadway for four performances only",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3264,7 +3409,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZUlrb3hEM09VU2c1MWZSWXZQZGNZSTRrNzl0MEtXZld0cWE2OWZUSkpLeXJXeEVGeEd2LU1vVkpBRzlNTFRjT19Td3Q1dTFtMkg0MWJPQmJQV0d4b0pRRUpnc3dRLXltZU1HOW1lNzZUaWhHdGMwWlp2bVJrLURQNU9xVFhoM2J5RjlIdmZ2Tm9qcmtIVG5aRGpZUklmclA2UVVENC1pdGtyOUtZVVdJdXg1SkFtTjZFTlExM0IxMUNsNkFENFBhNGFRdUxzdmFMbUFnVg",
      "feed": "gn-to-star"
     }
@@ -3546,7 +3691,7 @@
    "show": "Buena Vista Social Club",
    "title": "Bernie Williams to join 'Buena Vista Social Club' on Broadway; José 'Candelita' Iglesias extends run",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3554,7 +3699,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUNmVFN1MnIwa01NelNtMDlERnFJS2NDT0xLczJ6Y0g1MUJ6ZXpvdUxIUkRlZkw1STU4dldsRGZqN3JDN0pnVlJ0aU1rdGhhZENGZTZMZEY2Ui05WUlDbUdLNnNmbTdMbWdPZUlLdVhxZkUxX0hkdDBCbURlOUNObmxwcFFzekp5OW1uaWdWUzdLQmY4OVJTYUs4Wl9UMVpfMFdldUs0ZDJ2NmxvYnZJVG9SY3BqdUFHR3JQaHdpcVZLdS1XNEZfOUNReVpUVVotd3pVREdaY0hEOGUzcnJ2N2c5dw",
      "feed": "gn-to-star"
     }
@@ -3720,7 +3865,7 @@
    "show": null,
    "title": "Broadway's latest headlines & casting news",
    "quote": "",
-   "quoteSource": "Nbcnewyork",
+   "quoteSource": "NBC 4 New York",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3728,7 +3873,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Nbcnewyork",
+     "name": "NBC 4 New York",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUdBVGZ5SXZPdTZFaDhQYmlPMTlMUnlfTl9HakNPbjF5T25qV295d0ZBVEc5ZkNDLThYVVFyanhiU3I5Z19UMWRLcGk1ZW5FUF9ZMmkwVFZyOXJuVUdObk5JZmhqdmUzUi1TeDR1RnNHbWhoM1cwaVZVOEFRTXh4OHpMZUFYeDNBcEIxNXVwak0xQzZxM0xBbmlyUVJFWGJpNlpPeTNnYW5WdUVoTHhDMncta21VZEM5OWJv0gHDAUFVX3lxTE5hR1VzZHBGQnlHdFhVYjBWZzJkbjlBbFYxb0xDNU5xVmpLZHB2ZGhSRVpNamh1UDhEMkY2TEZjaUdPVTA1RWxzNGVQSGF5NG1iV05yZEd2ZmdvbkFXaXN2TmI0Y1NsbzhRWldZZUlEQUZWNk5YdFlZRWMzV3pJenJfOHdFbldQVEdYeU94ZlA4UXpLWjJuNDlkQXdGMmlKUnpIMXNvb2RzdTB3N3d0UmlvaE50YnNWSS03X08xaHhHMW1hMA",
      "feed": "gn-bway-casting"
     }
@@ -3999,7 +4144,7 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkhrazBpcm5QcFlhREhJd3dQN2VxWkYwR2NvbWdoNm1uZ05nbjlfZHZ3d3UzaXBMTVdVVzAwc0M5dlNyV1M1TFdXYlFfRE1qaVprQjBJcGR2eVdUZ3l3c0ZjUGlWRllJWlBBQ2NBdk0tbXFZeWhTNTE1dm91X2FiN2tnLV9tRUlVdlhrYXRQT3RGS3Vyd1NwWQ",
      "feed": "gn-offbway-casting"
     },
@@ -4054,7 +4199,7 @@
    "show": "The Unbelievers",
    "title": "Full cast set for 'The Unbelievers' off Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4062,7 +4207,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFdydzZUbGZpMzdkeTc4Z0RVeE5UREhwWVMzendybzY0RWU2bmlSV1JVRjQwUUhQZy1OaU5DeWlWWE9VLTc3Qm02bXVmNC1kYlFEbWM2aEVZcmJzWWVnOGRJdU5kOUJuc19wR0VETmt1S0xHMDhDRTYtZ25ZbFNJZzZ0eXR4VnZwRlQxR3dCd0hfSVBvVTQ1OWJNR1Z2UGs3T1E",
      "feed": "gn-offbway-casting"
     }
@@ -4112,7 +4257,7 @@
    "show": "The Verge",
    "title": "'The Verge' Off-Broadway cast set",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4120,7 +4265,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzlEOTJFcHotaG5Tb3dqSFc1R2dTZ0kzanZSbXRWZmxEa2ZDTWVTRTUyYmEwdEd4VVJLQWtGTm1pbHJ0RGN6eGw2bEJybmlidkduX1BsZ25uQ1VHSG9nVUxJdlFyU2VEOG13R05KaHU4Ui1PRG5ScmJ4bWw1WGtMc0VBZjV3SHgwZVNjdFp3",
      "feed": "gn-offbway-casting"
     }
@@ -4170,7 +4315,7 @@
    "show": null,
    "title": "The Best Shows Coming to Broadway in 2026 and 2027",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4178,7 +4323,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
      "feed": "gn-to-star"
     }
@@ -4344,7 +4489,7 @@
    "show": "Texas in Paris",
    "title": "Lillias White, Reeve Carney to star in Off-Broadway musical 'Texas in Paris'",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4352,7 +4497,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWl3SnBMOHZScmxBd2V6OUhjU01RaTZUT3A5Y2JSTFAwWEdKcUlMbEpTY2NsLXpNMnNORFRId3hkNjR6NTdmcGN1Z05oaG5fdmhYLUszM0pGdm9veC1HNUZJSl9vSzd0Zmg2Sm5NSE9aY0U4SlpkbGNCa1JrVGVGUkljRFVwVEFxOHpjNEd4N1hhbGZEa3lxZjJna3M4d0xBb2VEbXlhNmpMUUdLVEY5X1FTYmo1WThwV3B3U25Fa19rdGZWUUE",
      "feed": "gn-to-star"
     }
@@ -4518,7 +4663,7 @@
    "show": null,
    "title": "Downstate Sets Broadway Cast With Liza Colón-Zayas, Thomas Sadoski, K. Todd Freeman, Francis Guinan and More",
    "quote": "",
-   "quoteSource": "Broadway Shows",
+   "quoteSource": "Broadway",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4526,7 +4671,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Broadway Shows",
+     "name": "Broadway",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmJ1WlN1dVNxLV9fU05sYzMwUzdRY3A1ZkR4V0FNbWtyWlR0Z2VaNkluZUNaOXFJYjF6UGFUZkFiTGphN2xkV1REdHBkMVEwTDU3MGc4dkp1ZEZnT0xaNmpKLUtYMVA0YWdiOENvb2EzYjZwaHlPeno0WTR5Y3FPaElVcnhKeGZCQjFEQlEwZE9JSkswNmhMR19xVFJLZVU3YlNwZkNXcDFqanY5WVBSVlBDZ2VfTFowWUdmajllRGxSeFFuMlpnMDRBZ3JXWjc0QTlsOG53ejMyUQ",
      "feed": "gn-bway-casting"
     }
@@ -4634,7 +4779,7 @@
    "show": "the ripple, the wave that carried me home",
    "title": "Cast set for 'the ripple, the wave that carried me home' off Broadway",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "Newyorktheatreguide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4642,7 +4787,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
+     "name": "Newyorktheatreguide",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmZ0MEt4X1VvbkJmMUZWYm5pOGl6WkNsd2tlTVU1UkhTYTRKZ2dmS0xUZ1RHSGw4RWgyMUM2bWVqRlVLSUIyVjBLd2JubTFuSks4cWxGTHU4enc1Rk50cU5yNGZ0NTRVRFpQd1pPamhiVFFZbHhqSWVrYnctbEplTzR0ZjJDWU9hV2lMMTBLYWVmbVo4dF94YzBRZ24tUjNXaHpUMzZoTTJKcXlVUk9PSk14cUt1bE16amdDUg",
      "feed": "gn-offbway-casting"
     }
