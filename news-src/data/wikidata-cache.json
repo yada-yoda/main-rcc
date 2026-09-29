@@ -44,6 +44,15 @@
   "qid": null,
   "score": 0
  },
+ "Ailing Wayne Brady": {
+  "checkedAt": "2026-09-29T18:29:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Aladdin Casts": {
   "checkedAt": "2026-09-25T17:54:16+00:00",
   "description": null,
@@ -185,6 +194,15 @@
   "qid": null,
   "score": 0
  },
+ "Ato Blankson-Wood": {
+  "checkedAt": "2026-09-29T18:29:19+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q100588726",
+  "score": 1
+ },
  "Aubrey Plaza": {
   "checkedAt": "2026-09-25T18:40:25+00:00",
   "description": "American actress, producer and comedian (born 1984)",
@@ -311,6 +329,17 @@
   "qid": "Q862359",
   "score": 7
  },
+ "Billy Crystal": {
+  "checkedAt": "2026-09-29T18:29:23+00:00",
+  "description": "American actor, comedian, writer, producer, director and television presenter (born 1948)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Monsters, Inc."
+  ],
+  "qid": "Q186485",
+  "score": 62
+ },
  "Billy Porter": {
   "checkedAt": "2026-09-25T17:55:23+00:00",
   "description": "American singer and actor",
@@ -333,6 +362,15 @@
  },
  "Birthday Tribute": {
   "checkedAt": "2026-09-25T17:55:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Blue Beetle Actor": {
+  "checkedAt": "2026-09-29T18:29:34+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -426,6 +464,15 @@
  },
  "Bringing Draco Malfoy": {
   "checkedAt": "2026-09-25T17:55:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Broadway-Bound Beat": {
+  "checkedAt": "2026-09-29T18:29:35+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -578,6 +625,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Cobra Kai": {
+  "checkedAt": "2026-09-29T18:29:16+00:00",
+  "description": "Spanish tennis player (born 1999)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q33084529",
+  "score": 23
  },
  "Comedy Bill Pay": {
   "checkedAt": "2026-09-25T17:56:25+00:00",
@@ -866,6 +922,15 @@
   "qid": null,
   "score": 0
  },
+ "Evan Alexander Smith": {
+  "checkedAt": "2026-09-29T18:29:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ever Holiday Spectacular": {
   "checkedAt": "2026-09-25T17:48:21+00:00",
   "description": null,
@@ -875,8 +940,26 @@
   "qid": null,
   "score": 0
  },
+ "Favorite James Lapine": {
+  "checkedAt": "2026-09-29T18:29:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Film Version": {
   "checkedAt": "2026-09-25T17:55:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Final Sing-Along Performance": {
+  "checkedAt": "2026-09-29T18:29:32+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1066,6 +1149,15 @@
  },
  "Good Man": {
   "checkedAt": "2026-09-25T17:48:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Grammy-Winning Rapper Nas": {
+  "checkedAt": "2026-09-29T18:29:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1269,6 +1361,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Jason Michael Webb": {
+  "checkedAt": "2026-09-29T18:29:29+00:00",
+  "description": "composer, lyricist, musical director, producer and arranger",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q112526488",
   "score": 0
  },
  "Jay O Sanders": {
@@ -1541,6 +1642,15 @@
   "qid": null,
   "score": 0
  },
+ "Kristoffer Diaz": {
+  "checkedAt": "2026-09-29T18:29:27+00:00",
+  "description": "American writer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q19663468",
+  "score": 2
+ },
  "Last Flight": {
   "checkedAt": "2026-09-28T20:01:36+00:00",
   "description": null,
@@ -1654,6 +1764,15 @@
   "knownFor": [],
   "qid": "Q11833191",
   "score": 17
+ },
+ "Lonely People": {
+  "checkedAt": "2026-09-29T18:29:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Longest Running Show": {
   "checkedAt": "2026-09-25T18:43:07+00:00",
@@ -1827,6 +1946,15 @@
  },
  "Midnight Ahead": {
   "checkedAt": "2026-09-26T16:53:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Milton Keynes": {
+  "checkedAt": "2026-09-29T18:29:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2271,6 +2399,15 @@
   "qid": null,
   "score": 0
  },
+ "Replace Wayne Brady": {
+  "checkedAt": "2026-09-29T18:29:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Revada Arts": {
   "checkedAt": "2026-09-29T02:30:27+00:00",
   "description": null,
@@ -2431,6 +2568,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Schele Williams": {
+  "checkedAt": "2026-09-29T18:29:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q131694384",
   "score": 0
  },
  "Schmackary's For": {
@@ -2625,6 +2771,15 @@
   "qid": null,
   "score": 0
  },
+ "Stranger Things": {
+  "checkedAt": "2026-09-29T18:29:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Stranger Things Gaten": {
   "checkedAt": "2026-09-26T16:53:58+00:00",
   "description": null,
@@ -2717,6 +2872,15 @@
   "knownFor": [],
   "qid": "Q3525542",
   "score": 22
+ },
+ "Through Lottery": {
+  "checkedAt": "2026-09-29T18:29:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Tim Crouch": {
   "checkedAt": "2026-09-25T18:43:09+00:00",
@@ -2811,6 +2975,24 @@
   "qid": null,
   "score": 0
  },
+ "Two Weeks": {
+  "checkedAt": "2026-09-29T18:29:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Upside Down": {
+  "checkedAt": "2026-09-29T18:29:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Victoria Livengood": {
   "checkedAt": "2026-09-29T02:30:18+00:00",
   "description": "American opera singer",
@@ -2840,6 +3022,15 @@
  },
  "Watch His Cover": {
   "checkedAt": "2026-09-25T17:47:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Wayne Brady Withdraws": {
+  "checkedAt": "2026-09-29T18:29:33+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2891,6 +3082,18 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Xolo Maridueña": {
+  "checkedAt": "2026-09-29T18:29:17+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Cobra Kai",
+   "Blue Beetle"
+  ],
+  "qid": "Q53870611",
+  "score": 36
  },
  "Yerin Ha": {
   "checkedAt": "2026-09-25T17:56:11+00:00",
