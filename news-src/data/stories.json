@@ -2,6 +2,48 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "54b65ec295",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-28T22:24:09+00:00",
+   "published": "2026-09-28T22:24:09+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New York Theatre Workshop",
+   "placedBy": "venue",
+   "type": "opening",
+   "show": "Wild Rose",
+   "title": "Mare Winningham & More Join Madeline Brewer in WILD ROSE at NYTW",
+   "quote": "New York Theatre Workshop (NYTW) (Artistic Director Patricia McGregor and Managing Director Maya Choldin) announced today additional cast and creative team for the US premiere production of the new musical Wild Rose. Joining the previously announced Emmy Award nominee Madeline Brewer (Becky Shaw, “The Handmaid’s Tale”…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-3d37e9d1ed58e6a59b2dbe5e988f5e3b.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Mare Winningham",
+     "knownFor": "American actress",
+     "score": 32,
+     "qid": "Q235189"
+    },
+    {
+     "name": "Madeline Brewer",
+     "knownFor": "American actress",
+     "score": 28,
+     "qid": "Q17385680"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Mare-Winningham-More-Join-Madeline-Brewer-in-WILD-ROSE-at-NYTW-20260928",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "f653377e31",
    "priority": 2,
    "watched": [],
@@ -124,10 +166,10 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Marquis Theatre",
-   "placedBy": "words",
+   "placedBy": "none",
    "type": "casting",
    "show": "Damn Yankees",
-   "title": "Neil Patrick Harris, Julianne Hough, Austin Scott to Return to Broadway in ‘Damn Yankees’",
+   "title": "Neil Patrick Harris, Julianne Hough to star in 'Damn Yankees'",
    "quote": "Damn Yankees is heading back to Broadway. Producers Lia Vollack, Haley Swindal, and Julie Boardman announced today that the seven-time Tony and Emmy Award-winning musical will return this spring, starring Tony Award and five-time Emmy Award winner Neil Patrick Harris as Applegate, Emmy Award winner Julianne Hough in h…",
    "quoteSource": "BroadwayWorld",
    "image": "https://static01.nyt.com/images/2026/08/11/arts/11cul-damn-yankees-grid/11cul-damn-yankees-grid-mediumSquareAt3X.jpg",
@@ -150,8 +192,8 @@
    ],
    "sources": [
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlA3SDFRc0ZOWE4wTEJidGNFUlV2NlVwVEFWLVVXN1NOVGoyMzhSRTNuRUNjQk94bEZaTkFPTzZjNG56R2o1d0R1cHNPSXJwTWk0bk1VdWd5R015dWFCa2hZOW1CMC1JLXdSRndrQTZIcGliaXNON3NjZUR1amVoTE1fWlZTNktKYWloRkN0VzJHRWZCOFBNX2Vrb0wxU0lnRDhST2hOaXdlZHZyNjV0Z0VLQ0xaU1BzeGZQS1dn",
+     "name": "Newsday",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmhIWUFObjBUbkY2RFJmUVZTTnk2dU9BSlRhSzVaODlaNDBEcTF2MHEya3lyNXl5MVlRaWs1a2lBdFhvbWxEZmhmZFlrX19Tck8zSkNJQlVHS212bU5rcGxlUFdLNGhRQUFUQlZNczZKNTd3NFVQMzZRUXRILXg1dWhR",
      "feed": "gn-to-star"
     },
     {
@@ -160,18 +202,18 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdMSXhmdms4VmU3ZTk4UFhnWjVnNThCZ3VyaVpMRlJwWnN4cE9qbE05bFloRzNBcDN5NTBLRUREbVpBN2VLRzJ0bWxHTWVSSjlyRGhzcEpMb3N3cnRrVHljLXJjeHF0QTJXemRodHpKVTRsVzJpZmRKWVN2T01oMVZTdTFTVnZ1RkhkTzNLaFpHeGFWa1FhWWJCdjgtdGhDWXd2c2NsMFIzWHdXTWI2a1habVViNGRfTFVTWjdFdDdYN28",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Newsday",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmhIWUFObjBUbkY2RFJmUVZTTnk2dU9BSlRhSzVaODlaNDBEcTF2MHEya3lyNXl5MVlRaWs1a2lBdFhvbWxEZmhmZFlrX19Tck8zSkNJQlVHS212bU5rcGxlUFdLNGhRQUFUQlZNczZKNTd3NFVQMzZRUXRILXg1dWhR",
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlA3SDFRc0ZOWE4wTEJidGNFUlV2NlVwVEFWLVVXN1NOVGoyMzhSRTNuRUNjQk94bEZaTkFPTzZjNG56R2o1d0R1cHNPSXJwTWk0bk1VdWd5R015dWFCa2hZOW1CMC1JLXdSRndrQTZIcGliaXNON3NjZUR1amVoTE1fWlZTNktKYWloRkN0VzJHRWZCOFBNX2Vrb0wxU0lnRDhST2hOaXdlZHZyNjV0Z0VLQ0xaU1BzeGZQS1dn",
      "feed": "gn-to-star"
     },
     {
      "name": "The New York Times",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0J3M2Vpc241clRoQlBYTlVzX25UQmg0N1hxMVlqb3hUNVJBRU1zUndkREkzb0lNRnFNYzZiMkd4eU5PckRSbkZ1Ulh1Q1lTZGNzLVJlb3h4MUF4SThuZHUtSS1DeElaVGlVT254MXpiRk1JZVVYVnVSb1c3QW1wcDJDSU5nNE9YSjRaZnJFMnlDS0k",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdMSXhmdms4VmU3ZTk4UFhnWjVnNThCZ3VyaVpMRlJwWnN4cE9qbE05bFloRzNBcDN5NTBLRUREbVpBN2VLRzJ0bWxHTWVSSjlyRGhzcEpMb3N3cnRrVHljLXJjeHF0QTJXemRodHpKVTRsVzJpZmRKWVN2T01oMVZTdTFTVnZ1RkhkTzNLaFpHeGFWa1FhWWJCdjgtdGhDWXd2c2NsMFIzWHdXTWI2a1habVViNGRfTFVTWjdFdDdYN28",
      "feed": "gn-to-star"
     },
     {
@@ -1390,6 +1432,42 @@
    "status": "published"
   },
   {
+   "id": "2ec644c090",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-08T07:00:00+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Rosamund Pike",
+     "knownFor": "British actress",
+     "score": 75,
+     "qid": "Q230004"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "9d4cc2a472",
    "priority": 2,
    "watched": [],
@@ -1449,42 +1527,6 @@
    "status": "published"
   },
   {
-   "id": "2ec644c090",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-08T07:00:00+00:00",
-   "published": "2026-09-08T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "West End Cast to Join Rosamund Pike in Inter Alia on Broadway",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Rosamund Pike",
-     "knownFor": "British actress",
-     "score": 75,
-     "qid": "Q230004"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHprSG9VMUhYa0VqLWZtS0FjdjFWaFZmTjlVMlJGR000VUY5Y0NWTUU0cW43UmNObnRtVmg0d2w2allvdnRfbnhSTzRfY0lCWWpfNHpvRDhnMENYRG9LQ0lYWEpGeV9TZlZ0Mmhac2xRZFZHUS1XOU5qVXhMc2NTZmFDb0V2Q1RuNDVNclUwVzRnY01OV2tVUkJFbzZWV3ZkYjR1N1RBSQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "f406beedf6",
    "priority": 2,
    "watched": [],
@@ -1531,6 +1573,209 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "1b5ab8fc3b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-29T01:30:07+00:00",
+   "published": "2026-09-29T01:30:07+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "School Girls",
+   "title": "Denée Benton and Patina Miller Help Give ‘School Girls’ a Broadway Glow-Up",
+   "quote": "Jocelyn Bioh’s breakthrough 2017 play about cliques and colorism is just as funny — and devastating — with a sharp ensemble and direction by Whitney White.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/09/29/multimedia/28cul-school-girls-1-fkgt/28cul-school-girls-1-fkgt-mediumSquareAt3X.jpg",
+   "imageCredit": "Sara Krulwich/The New York Times",
+   "imageWidth": 1800,
+   "imageHeight": 1799,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/09/28/theater/school-girls-or-the-african-mean-girls-play-review.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "3f2a0d581a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T23:04:09+00:00",
+   "published": "2026-09-28T23:04:09+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "MCC Theater",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Mcc",
+   "title": "MCC Theater’s MISCAST27 Set for April 2027",
+   "quote": "MCC Theater’s annual benefit concert MISCAST will return on Monday, April 12, 2027. The one-night-only event features Broadway performers taking on songs from roles they would not traditionally be cast to play.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-b8779d4270b1619d5ef1ff347ec1c58e.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/MCC-Theaters-MISCAST27-Set-for-April-2027-20260928",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "04400a3adf",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-15T07:00:00+00:00",
+   "published": "2026-09-28T22:27:19+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "The Best Shows Coming to Broadway in 2026 and 2027",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "5fb12af263",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T21:40:09+00:00",
+   "published": "2026-09-28T21:40:09+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "Bowtie Bar announces singing telegram partnership with the Pekoe Group",
+   "quote": "Cast members from “Two Strangers (Carry a Cake Across New York),” “SIX” and “Operation Mincemeat” will serenade happy-hour patrons.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/BroadwayxTelegramCocktail2-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/bowtie-bar-announces-singing-telegram-partnership-with-the-pekoe-group/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "51473bf131",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T21:30:00+00:00",
+   "published": "2026-09-28T21:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Reviews Are Out for School Girls; Or, The African Mean Girls Play On Broadway",
+   "quote": "The Jocelyn Bioh play makes its Main Stem debut via Manhattan Theatre Club.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/0095-Denee-Benton-Jordan-Rice-Nia-Otchere-Sarfo-Lucia-Aremu-Erin-Morton-and-Heather-Alicia-Simms-in-School-Girls_-Or-The-African-Mean-Girls-Play-(c)Matthew-Murphy.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/reviews-are-out-for-school-girls-or-the-african-mean-girls-play-on-broadway",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "24cae3b670",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T21:27:54+00:00",
+   "published": "2026-09-28T21:27:54+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Medium",
+   "title": "Victoria Livengood and More to Star in THE MEDIUM at Opera Carolina",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGp0dG5QZzQ1bFJTc0F6eURrbndKWWh2OEFtSE16X3RsbW9GOF8zb0JVMkFqWVU1c1dtd1JlVWoyZ0JoT20xdHdOTVdNTVFRX1BHbFV2UERBb2FSU0JfeFZxLVEtOTloVVlyRFAzcDJGd3gzOExvRkx2OXU0Xy1wUk5udzhjWlZwZ1IyNGhSb1BxQVpja1JmaTJsSEhqNXFTOVFwZ1IydEI4N1RXbFN3UGpnU0Y",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "bf0a75f138",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T21:19:52+00:00",
+   "published": "2026-09-28T21:19:52+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Revada Arts Center: A New Artistic Home in Southwest D.C.",
+   "quote": "Theater Alliance, IN Series, and 4EYE Film Center will lead and share a new arts hub and gathering space.",
+   "quoteSource": "American Theatre",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "American Theatre",
+     "url": "https://www.americantheatre.org/2026/09/28/revada-arts-center-a-new-artistic-home-in-southwest-d-c/",
+     "feed": "american-theatre"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "d8b79fb1c3",
@@ -1765,6 +2010,35 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Jessica-Vosk-Michael-Luwoye-and-More-Join-IMITATION-OF-LIFE-Off-Broadway-20260928",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "87530412cf",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T13:00:00+00:00",
+   "published": "2026-09-28T13:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "It",
+   "title": "‘It’s so fun not to play nice’: How ‘School Girls’ brings ‘Mean Girls’ energy to Broadway",
+   "quote": "",
+   "quoteSource": "Gold Derby",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Gold Derby",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0tiZHNTVDhDa3RsRGNfQ3NtakFlalV5ZF9DWUk1cDFpR2t6WnFRRkJpbXZQdFIyZ0NHLXNEckZ3X0daWlRhQ1k4V2IxM2pqeVNfZzVKSXhpd1dzelVQV2x3SmRvZ3dMOXp1Y1pqTzNVT2dTUk5XbW9Jd3FKSXJiQmFqemdBQVROZldDWk5aU1pQRzJCaVUwYm5IWjBhUGlOQVBLMnN4aU9TdFE",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -2116,6 +2390,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "c5489291bf",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-26T20:35:25+00:00",
+   "published": "2026-09-26T20:35:25+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Constantine Maroulis & Alison Luff to Star in New Musical Breaking Through at Pasadena Playhouse",
+   "quote": "",
+   "quoteSource": "IMDb",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWRjVWc1hGdFI3cXcxZEM3RGh4aDZxMWxIMk1tdUt5NlFYZFBLa3QtTlh0amxZLUJ4OTd5Rk85VUUxcjNLRzN5eFlZQVltN2hmTng1ZU9kbm5yQjdhWVVvUW1JbHFtQTQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "7fccb70f4a",
@@ -3364,18 +3667,18 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-23T17:50:37+00:00",
-   "published": "2026-09-23T17:50:37+00:00",
+   "published": "2026-09-23T17:50:47+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "Samuel J. Friedman Theatre",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "School Girls; Or, the African Mean Girls Play",
    "title": "Jocelyn Bioh to star in her play ‘School Girls; Or, the African Mean Girls Play’ on Broadway for four performances",
-   "quote": "Bioh will step in for Tony winner Patina Miller’s short absence as Eloise Amponsah from October 9-11 at Broadway’s Samuel J. Friedman Theatre.",
+   "quote": "",
    "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/Jocelyn-Bioh-1.jpg",
-   "imageCredit": "Broadway News",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -3384,11 +3687,6 @@
      "name": "Broadway News",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN2lBMFN0RGxTTERCTUQyY1Z1Nmxvd0NXRzBQTnJRdU4ySk03QnZCU3JGQzYwVV94cTN5cWp2aDBLVHpKektQOG1zclRFaExiRDVQcEVlOElnU21pN01YNWhlRXpHNHB5d0tZd0dwY3l3Wjd1Q2gteDhqclA3Sk51dFNfbzFIU3JVRF9Xc1AzZzhDSnBUaV83cmRvVHdFZ09pV29QM3pXWnV6ZTJrYng1bTVXVHFXbk1xUEJPaXpmM3cyN3BvYTJBZHkwd2RJZGZNRmp4TzB5SQ",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/jocelyn-bioh-to-star-in-her-play-school-girls-or-the-african-mean-girls-play-on-broadway-for-four-performances/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -3518,8 +3816,8 @@
     },
     {
      "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/blue-man-group-makes-broadway-debut-with-a-new-holiday-surprise/",
-     "feed": "broadway-news"
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDlubkRrMVpNOUV2b1oxQ2JrUWdmTm1TR3RQZUhUZEFOQWdZTGNSVjlDeXB4Ny1xU1hNTUQyZHgxa0gxRzh5b0tSdzZHQnFfcE9BRWVRYjRfM0RxdkRiRjFORVlwZG1UOW9ObWt5UmZlZlRVSW9nUXI3Qi1tenhOdERDaVdUOG92ZEE1QUg3V1AyNFRCUWxvQw",
+     "feed": "gn-bway-debut"
     }
    ],
    "status": "published"
@@ -4879,35 +5177,6 @@
    "status": "published"
   },
   {
-   "id": "04400a3adf",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-15T07:00:00+00:00",
-   "published": "2026-09-15T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "The Best Shows Coming to Broadway in 2026 and 2027",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "f5fa3cc306",
    "priority": 3,
    "watched": [],
@@ -4921,7 +5190,7 @@
    "show": null,
    "title": "“58th Anniversary Celebration of Equity Theater Excellence in Chicago”",
    "quote": "",
-   "quoteSource": "Aroundthetownchicago",
+   "quoteSource": "AROUND THE TOWN CHICAGO",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -4929,7 +5198,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Aroundthetownchicago",
+     "name": "AROUND THE TOWN CHICAGO",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlF0Nk9IUFJYWTYzNU1FMjBNZzJaX2FONHhIM1J5eHFfc2hPN0xuYmoxWEFRclVfU0VhaER2WV9FTnExSTIySTlzd1BUSjNESEFjaXltbjljcHg4eS00cUN5TFZCcDI0VDktbmFxWlJtZTRBRWRxcUZtRTdwXzdNaGlidkQtcXlQZUVzS2lYcGFjVDM4NDdHZnZEUTh6X05CUWdLRUEtWEpEQ2s",
      "feed": "gn-chicago-venues"
     }
@@ -5051,6 +5320,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "69350bcbec",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-14T07:00:00+00:00",
+   "published": "2026-09-14T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Reece Weaver Gives Update on Will Allman Marriage as She Makes Broadway Debut",
+   "quote": "",
+   "quoteSource": "Yahoo",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVcyU0doVTVHLUhyUlRHWDlsSXd3QW9hQjFRMVc4eHNxWDYzVUNXcWI4SFo2SGZ1OGdBdjBHUklBR1EwUjNyckRvdUZwcVNkMUMtV3ZxbW1rYjRhaTl3TDFnU3hZSVljTWJzSUt2UGVLNElnTlhSOUlBMDgwcGYxV2xvS3hlanR1azYzckZXRG40VkxQTDhnWnFtbUxWZVpFOE4xV3c4aw",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "8a5137e6b1",
@@ -5198,7 +5496,7 @@
    "status": "review"
   },
   {
-   "id": "815bdd791a",
+   "id": "1a81b04dce",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-09T07:00:00+00:00",
@@ -5207,11 +5505,11 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "casting",
+   "type": null,
    "show": null,
-   "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
+   "title": "Dallas Cowboys Cheerleader Reece Weaver swaps boots for Broadway",
    "quote": "",
-   "quoteSource": "Yahoo",
+   "quoteSource": "BBC",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -5219,12 +5517,12 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTF5VVhUQ012X1lTS2lxUkhLdDJiMUxSQ0k5TFVJcFlfcTZENWJjYnVQRnZLNk15MWwxQWprX3FyMjlWTzVWR1ZJZUhUZUtZU0dqblNvMUU1SWg5V1ByeWxyUmdraHBFWkFzOEVoZnlpMnpNc2dvb0ZLTmFjRWpUS1IwRURJQklIMUktWkZuWlQwNFhmalVJWHRjUUg4Vmk4M0hmMEQtb1pOZXZXVUE",
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQXloY2dTUDVXZTZoQ1pyMWVYVTA5b1dRejNKeXQyMXZITEFRdnN1eFZtZGxxeVplT3RsSFZQQnZsUEFfRUFiQVg2VlpoamJyMTRValRQb0dHdw",
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "cc24148edc",
@@ -5256,7 +5554,7 @@
    "status": "published"
   },
   {
-   "id": "1a81b04dce",
+   "id": "815bdd791a",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-09T07:00:00+00:00",
@@ -5265,11 +5563,11 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": null,
-   "title": "Dallas Cowboys Cheerleader Reece Weaver swaps boots for Broadway",
+   "title": "Dallas Cowboys Cheerleaders star impresses on Broadway after celebrity casting row",
    "quote": "",
-   "quoteSource": "BBC",
+   "quoteSource": "Yahoo",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -5277,12 +5575,12 @@
    "celebs": [],
    "sources": [
     {
-     "name": "BBC",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQXloY2dTUDVXZTZoQ1pyMWVYVTA5b1dRejNKeXQyMXZITEFRdnN1eFZtZGxxeVplT3RsSFZQQnZsUEFfRUFiQVg2VlpoamJyMTRValRQb0dHdw",
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTF5VVhUQ012X1lTS2lxUkhLdDJiMUxSQ0k5TFVJcFlfcTZENWJjYnVQRnZLNk15MWwxQWprX3FyMjlWTzVWR1ZJZUhUZUtZU0dqblNvMUU1SWg5V1ByeWxyUmdraHBFWkFzOEVoZnlpMnpNc2dvb0ZLTmFjRWpUS1IwRURJQklIMUktWkZuWlQwNFhmalVJWHRjUUg4Vmk4M0hmMEQtb1pOZXZXVUE",
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "eb1602cc16",

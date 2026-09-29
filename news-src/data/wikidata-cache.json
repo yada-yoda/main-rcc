@@ -62,6 +62,24 @@
   "qid": null,
   "score": 0
  },
+ "Alison Luff": {
+  "checkedAt": "2026-09-29T02:30:22+00:00",
+  "description": "American singer and stage actress",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q104715469",
+  "score": 1
+ },
+ "Allman Marriage": {
+  "checkedAt": "2026-09-29T02:30:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Amalia Yoo": {
   "checkedAt": "2026-09-25T17:54:04+00:00",
   "description": "American actress",
@@ -157,6 +175,15 @@
   ],
   "qid": "Q151892",
   "score": 141
+ },
+ "Artistic Home": {
+  "checkedAt": "2026-09-29T02:30:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Aubrey Plaza": {
   "checkedAt": "2026-09-25T18:40:25+00:00",
@@ -351,6 +378,15 @@
  },
  "Bowen Yang Boosts": {
   "checkedAt": "2026-09-25T17:48:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Bowtie Bar": {
+  "checkedAt": "2026-09-29T02:30:26+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -569,6 +605,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Constantine Maroulis": {
+  "checkedAt": "2026-09-29T02:30:21+00:00",
+  "description": "American singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1917605",
+  "score": 13
  },
  "Corey Fogelmanis": {
   "checkedAt": "2026-09-25T17:55:57+00:00",
@@ -1093,6 +1138,15 @@
  },
  "Honor Thomas Kail": {
   "checkedAt": "2026-09-25T17:47:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "How School Girls": {
+  "checkedAt": "2026-09-29T02:30:13+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1735,6 +1789,15 @@
   "qid": "Q126946253",
   "score": 1
  },
+ "Mean Girls": {
+  "checkedAt": "2026-09-29T02:30:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Merboy Next Door": {
   "checkedAt": "2026-09-28T20:01:23+00:00",
   "description": null,
@@ -1903,6 +1966,15 @@
   "qid": null,
   "score": 0
  },
+ "Opera Carolina": {
+  "checkedAt": "2026-09-29T02:30:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Original Rent": {
   "checkedAt": "2026-09-25T17:52:16+00:00",
   "description": null,
@@ -1950,6 +2022,24 @@
  },
  "Paranormal Activity": {
   "checkedAt": "2026-09-25T17:53:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Pasadena Playhouse": {
+  "checkedAt": "2026-09-29T02:30:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Patina Miller Help": {
+  "checkedAt": "2026-09-29T02:30:25+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2154,6 +2244,15 @@
   "qid": null,
   "score": 0
  },
+ "Reece Weaver Gives": {
+  "checkedAt": "2026-09-29T02:30:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Reeve Carney": {
   "checkedAt": "2026-09-25T17:55:32+00:00",
   "description": "American singer-songwriter and actor",
@@ -2165,6 +2264,15 @@
  },
  "Rehearsing Oedipus": {
   "checkedAt": "2026-09-25T17:57:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Revada Arts": {
+  "checkedAt": "2026-09-29T02:30:27+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2702,6 +2810,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Victoria Livengood": {
+  "checkedAt": "2026-09-29T02:30:18+00:00",
+  "description": "American opera singer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16193218",
+  "score": 2
  },
  "Wake Up": {
   "checkedAt": "2026-09-25T17:51:38+00:00",
