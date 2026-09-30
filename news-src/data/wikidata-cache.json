@@ -53,6 +53,15 @@
   "qid": null,
   "score": 0
  },
+ "Al Hirschfeld": {
+  "checkedAt": "2026-09-30T01:52:48+00:00",
+  "description": "American artist and caricaturist (1903-2003)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1532260",
+  "score": 19
+ },
  "Aladdin Casts": {
   "checkedAt": "2026-09-25T17:54:16+00:00",
   "description": null,
@@ -387,6 +396,15 @@
   "qid": null,
   "score": 0
  },
+ "Blue Parts": {
+  "checkedAt": "2026-09-30T01:52:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Blue Violinist": {
   "checkedAt": "2026-09-25T17:53:47+00:00",
   "description": null,
@@ -554,6 +572,15 @@
   "qid": null,
   "score": 0
  },
+ "Carrie Coon": {
+  "checkedAt": "2026-09-30T01:52:30+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q17317909",
+  "score": 38
+ },
  "Cast To Reunite": {
   "checkedAt": "2026-09-25T17:48:28+00:00",
   "description": null,
@@ -565,6 +592,15 @@
  },
  "Cate Blanchett Asks": {
   "checkedAt": "2026-09-25T17:48:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Celebrate Hispanic Heritage": {
+  "checkedAt": "2026-09-30T01:52:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -607,6 +643,15 @@
   "knownFor": [],
   "qid": "Q259064",
   "score": 28
+ },
+ "Christopher Jackson Keeps": {
+  "checkedAt": "2026-09-30T01:52:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Chulpan Khamatova": {
   "checkedAt": "2026-09-25T17:56:33+00:00",
@@ -709,6 +754,15 @@
  },
  "Current Orpheus": {
   "checkedAt": "2026-09-28T20:01:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Cursed Child Rebounds": {
+  "checkedAt": "2026-09-30T01:52:44+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1093,6 +1147,15 @@
   "qid": null,
   "score": 0
  },
+ "Gabriel Ebert": {
+  "checkedAt": "2026-09-30T01:52:22+00:00",
+  "description": "American singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16201335",
+  "score": 5
+ },
  "Gershwins Let Em": {
   "checkedAt": "2026-09-25T17:52:11+00:00",
   "description": null,
@@ -1210,6 +1273,26 @@
   "qid": "Q138974233",
   "score": 2
  },
+ "Harry Potter": {
+  "checkedAt": "2026-09-30T01:52:42+00:00",
+  "description": "British soldier (1921–1939)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5892520",
+  "score": 3
+ },
+ "Hayley Atwell": {
+  "checkedAt": "2026-09-30T01:52:26+00:00",
+  "description": "English and American actress (born 1982)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Peggy Carter"
+  ],
+  "qid": "Q234959",
+  "score": 58
+ },
  "High Note": {
   "checkedAt": "2026-09-25T17:48:26+00:00",
   "description": null,
@@ -1266,6 +1349,15 @@
  },
  "Including John Proctor": {
   "checkedAt": "2026-09-25T17:54:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Industry Reading": {
+  "checkedAt": "2026-09-30T01:52:23+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1633,6 +1725,15 @@
   "qid": "Q51844729",
   "score": 3
  },
+ "Kerry Butler-Directed Little": {
+  "checkedAt": "2026-09-30T01:52:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Kicking Off Paper": {
   "checkedAt": "2026-09-25T17:54:44+00:00",
   "description": null,
@@ -1653,6 +1754,24 @@
  },
  "Last Flight": {
   "checkedAt": "2026-09-28T20:01:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Last Gatekeeper": {
+  "checkedAt": "2026-09-30T01:52:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Last Week": {
+  "checkedAt": "2026-09-30T01:52:39+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1708,6 +1827,33 @@
   "qid": null,
   "score": 0
  },
+ "Les Misérables": {
+  "checkedAt": "2026-09-30T01:52:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Liba Vaynberg": {
+  "checkedAt": "2026-09-30T01:52:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Liberty Come Together": {
+  "checkedAt": "2026-09-30T01:52:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Life Off": {
   "checkedAt": "2026-09-25T17:55:49+00:00",
   "description": null,
@@ -1746,6 +1892,15 @@
   ],
   "qid": "Q1646482",
   "score": 45
+ },
+ "Lion King Continue": {
+  "checkedAt": "2026-09-30T01:52:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Little Shop": {
   "checkedAt": "2026-09-25T17:54:35+00:00",
@@ -1971,6 +2126,15 @@
   "qid": "Q118179884",
   "score": 5
  },
+ "MoCo Show": {
+  "checkedAt": "2026-09-30T01:52:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Mormon Becomes": {
   "checkedAt": "2026-09-25T19:53:50+00:00",
   "description": null,
@@ -1987,6 +2151,24 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Much Ado About": {
+  "checkedAt": "2026-09-30T01:52:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "NaTasha Yvette Williams": {
+  "checkedAt": "2026-09-30T01:52:19+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q113687844",
   "score": 0
  },
  "Neil Patrick Harris": {
@@ -2254,6 +2436,15 @@
  },
  "Prayer Circle": {
   "checkedAt": "2026-09-25T17:57:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Primary Stages": {
+  "checkedAt": "2026-09-30T01:52:18+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2939,6 +3130,24 @@
   "qid": "Q16205820",
   "score": 16
  },
+ "Tom Felton": {
+  "checkedAt": "2026-09-30T01:52:45+00:00",
+  "description": "British actor, singer and musician",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q105682",
+  "score": 64
+ },
+ "Tom Hiddleston": {
+  "checkedAt": "2026-09-30T01:52:24+00:00",
+  "description": "English actor (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q295803",
+  "score": 80
+ },
  "Tom Holland-Led Fred": {
   "checkedAt": "2026-09-26T01:13:47+00:00",
   "description": null,
@@ -3040,6 +3249,15 @@
  },
  "We'll See": {
   "checkedAt": "2026-09-25T17:53:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Week Ending": {
+  "checkedAt": "2026-09-30T01:52:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
