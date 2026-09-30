@@ -26,6 +26,15 @@
   "qid": "Q4685725",
   "score": 11
  },
+ "Afflictions Cobra Kai": {
+  "checkedAt": "2026-09-30T18:17:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "African Mean Girls": {
   "checkedAt": "2026-09-25T17:55:04+00:00",
   "description": null,
@@ -182,6 +191,15 @@
   "qid": null,
   "score": 0
  },
+ "Anthony Crivello": {
+  "checkedAt": "2026-09-30T18:18:06+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4772333",
+  "score": 8
+ },
  "Ariana Grande": {
   "checkedAt": "2026-09-25T17:51:47+00:00",
   "description": "American singer, songwriter, and actress (born 1993)",
@@ -196,6 +214,15 @@
  },
  "Artistic Home": {
   "checkedAt": "2026-09-29T02:30:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Asolo Rep": {
+  "checkedAt": "2026-09-30T18:18:00+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -320,6 +347,15 @@
   "qid": null,
   "score": 0
  },
+ "Beth Leavel": {
+  "checkedAt": "2026-09-30T18:17:58+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4897566",
+  "score": 5
+ },
  "Betsy Wolfe": {
   "checkedAt": "2026-09-25T18:43:04+00:00",
   "description": "American actress and singer",
@@ -378,6 +414,15 @@
   "qid": null,
   "score": 0
  },
+ "Blue Beetle": {
+  "checkedAt": "2026-09-30T18:17:48+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Blue Beetle Actor": {
   "checkedAt": "2026-09-29T18:29:34+00:00",
   "description": null,
@@ -413,6 +458,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Bobby Darin": {
+  "checkedAt": "2026-09-30T18:17:54+00:00",
+  "description": "American singer and actor (1936–1973)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q311267",
+  "score": 48
  },
  "Bowen Yang": {
   "checkedAt": "2026-09-25T17:52:05+00:00",
@@ -452,6 +506,15 @@
  },
  "Box Office": {
   "checkedAt": "2026-09-25T17:52:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Brain When": {
+  "checkedAt": "2026-09-30T18:18:10+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -806,6 +869,15 @@
   "qid": null,
   "score": 0
  },
+ "Deadline Hollywood Dirty": {
+  "checkedAt": "2026-09-30T18:17:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Debut With First-": {
   "checkedAt": "2026-09-25T17:48:20+00:00",
   "description": null,
@@ -899,6 +971,15 @@
   "qid": "Q4030",
   "score": 88
  },
+ "Eddie Cooper": {
+  "checkedAt": "2026-09-30T18:18:04+00:00",
+  "description": "British actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5335944",
+  "score": 1
+ },
  "Eisa Davis": {
   "checkedAt": "2026-09-25T17:53:52+00:00",
   "description": "American playwright, actress, singer-songwriter (born 1971)",
@@ -907,6 +988,15 @@
   "knownFor": [],
   "qid": "Q28033745",
   "score": 5
+ },
+ "Elaine Lynn": {
+  "checkedAt": "2026-09-30T18:17:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q112375670",
+  "score": 0
  },
  "Elizabeth Gillies": {
   "checkedAt": "2026-09-25T17:54:45+00:00",
@@ -1320,6 +1410,15 @@
   "qid": null,
   "score": 0
  },
+ "Hospitalized During": {
+  "checkedAt": "2026-09-30T18:18:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "How School Girls": {
   "checkedAt": "2026-09-29T02:30:13+00:00",
   "description": null,
@@ -1356,6 +1455,15 @@
   "qid": null,
   "score": 0
  },
+ "Industry Presentation": {
+  "checkedAt": "2026-09-30T18:18:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Industry Reading": {
   "checkedAt": "2026-09-30T01:52:23+00:00",
   "description": null,
@@ -1383,8 +1491,26 @@
   "qid": null,
   "score": 0
  },
+ "Isa Briones": {
+  "checkedAt": "2026-09-30T18:18:12+00:00",
+  "description": "American actor (born 1999)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q63944057",
+  "score": 18
+ },
  "Iverson Joins": {
   "checkedAt": "2026-09-25T17:47:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Jack Ducat": {
+  "checkedAt": "2026-09-30T18:17:53+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1464,6 +1590,15 @@
   "qid": "Q112526488",
   "score": 0
  },
+ "Jay Michaels": {
+  "checkedAt": "2026-09-30T18:17:57+00:00",
+  "description": "Canadian broadcaster",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6166921",
+  "score": 0
+ },
  "Jay O Sanders": {
   "checkedAt": "2026-09-25T17:55:01+00:00",
   "description": null,
@@ -1491,6 +1626,15 @@
   "qid": null,
   "score": 0
  },
+ "Jenn Colella": {
+  "checkedAt": "2026-09-30T18:18:01+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q22006836",
+  "score": 7
+ },
  "Jenn Gambatese": {
   "checkedAt": "2026-09-25T17:55:34+00:00",
   "description": "American actress and singer",
@@ -1508,6 +1652,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Jeremy Jordan": {
+  "checkedAt": "2026-09-30T18:17:51+00:00",
+  "description": "American actor and singer (born 1984)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6181572",
+  "score": 28
  },
  "Jesse Eisenberg": {
   "checkedAt": "2026-09-28T20:01:29+00:00",
@@ -1538,6 +1691,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Jessica Phillips": {
+  "checkedAt": "2026-09-30T18:18:03+00:00",
+  "description": "British politician (born 1981)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q19979409",
+  "score": 18
  },
  "Jessica Vosk": {
   "checkedAt": "2026-09-25T17:55:40+00:00",
@@ -1649,6 +1811,15 @@
   "knownFor": [],
   "qid": "Q1394422",
   "score": 19
+ },
+ "Joshua Henry": {
+  "checkedAt": "2026-09-30T18:18:13+00:00",
+  "description": "Canadian-American actor and singer (born 1984)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q15972933",
+  "score": 10
  },
  "José Candelita Iglesias": {
   "checkedAt": "2026-09-27T01:07:08+00:00",
@@ -2054,6 +2225,15 @@
   "qid": "Q102338984",
   "score": 6
  },
+ "Matthew Morrison": {
+  "checkedAt": "2026-09-30T18:17:50+00:00",
+  "description": "American actor, dancer, and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q294812",
+  "score": 41
+ },
  "Max Wolf Friedlich": {
   "checkedAt": "2026-09-28T20:01:24+00:00",
   "description": "American writer",
@@ -2071,6 +2251,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Megan Thee Stallion": {
+  "checkedAt": "2026-09-30T18:18:08+00:00",
+  "description": "American rapper, singer and songwriter",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q59268408",
+  "score": 56
  },
  "Merboy Next Door": {
   "checkedAt": "2026-09-28T20:01:23+00:00",
@@ -2182,6 +2371,15 @@
   ],
   "qid": "Q485310",
   "score": 72
+ },
+ "Next List": {
+  "checkedAt": "2026-09-30T18:18:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Next Month": {
   "checkedAt": "2026-09-25T17:52:17+00:00",
@@ -2751,6 +2949,15 @@
   "knownFor": [],
   "qid": "Q257442",
   "score": 56
+ },
+ "Sarah Pidgeon Named": {
+  "checkedAt": "2026-09-30T18:18:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Scene From Broadway's": {
   "checkedAt": "2026-09-25T17:47:37+00:00",
