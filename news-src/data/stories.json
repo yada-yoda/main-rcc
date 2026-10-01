@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "37cf844770",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-01T01:03:34+00:00",
+   "published": "2026-10-01T01:03:34+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Nobody Cares,",
+   "title": "Laura Benanti on Her Journey From Broadway to Stand-Up With a Riotous One-Woman Show, ‘Nobody Cares,’ and Why Melania Remains One of Her Proudest Roles",
+   "quote": "Laura Benanti is out of the woods and into a thicket that is very different from her initial Broadway base: the world of stand-up comedy. Officially, “Laura Benanti: Nobody Cares” is a “one-woman show,” but she says the only reason she shies away from calling it stand-up at all is because she respects the people […]",
+   "quoteSource": "Variety",
+   "image": "https://variety.com/wp-content/uploads/2026/09/3-LauraBenanti_Photo-by-Avery-Brunkus-e1790813687989.jpg",
+   "imageCredit": "Variety",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Laura Benanti",
+     "knownFor": "American actress",
+     "score": 36,
+     "qid": "Q195129"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/legit/news/laura-benanti-nobody-cares-broadway-comedy-melania-interview-1236894247/",
+     "feed": "variety-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "456adb8059",
    "priority": 2,
    "watched": [],
@@ -51,18 +87,24 @@
    "published": "2026-09-30T18:00:11+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": null,
+   "venue": "Circle in the Square",
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": "Just in Time",
    "title": "Matthew Morrison to return in 'Just in Time' on Broadway; Jeremy Jordan, Carrie St. Louis set departures",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
+   "quote": "Producers Tom Kirdahy, Robert Ahrens and John Frost just announced that Screen Actors Guild Award winner and Tony Award, Emmy Award and Golden Globe Award nominee Matthew Morrison will make a limited three-week encore engagement as Bobby Darin in the record-breaking, award-winning smash hit musical JUST IN TIME beginn…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-1aee0a08c59f2dcab6f2f24be54915de.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
+    {
+     "name": "Bobby Darin",
+     "knownFor": "American singer and actor (1936–1973)",
+     "score": 48,
+     "qid": "Q311267"
+    },
     {
      "name": "Matthew Morrison",
      "knownFor": "American actor, dancer, and singer",
@@ -81,9 +123,19 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTk0WG9mSkRyUTF5SWg1QkRMUzI3MVMzLXJQcHdOY3N3a2p2TU5lNi14alJrRWZJNWV6bUNSaE01eTR6YVNDMllsZG9SY2lnY1p1Z0ItVUtQVlVCTlBaLXZ4bGpTcVRoalE3T1B5MExZRGlpeUgzX2NpOHJMYkFucjFSQ2I5azN4bEZBTFVjOUVRV0Z3UUdpVDRlWEt5T3FvUlJwMTg2eEkySTI2aFFCNXhzVU5CbmNWd2xEVzB0OFlQUFZqZy1acHBOYzJNZHJveHpKUmttRFE5UzBHaVp1LUk3NzVkaTFU",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Matthew-Morrison-Will-Return-to-JUST-IN-TIME-on-Broadway-20260930",
+     "feed": "broadwayworld"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/matthew-morrison-returns-to-broadways-just-in-time-as-bobby-darin/",
+     "feed": "broadway-news"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "42ceaa0ab6",
@@ -473,6 +525,42 @@
    "status": "published"
   },
   {
+   "id": "5fe21e1629",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T16:37:30+00:00",
+   "published": "2026-09-28T19:45:18+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Giant",
+   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "John Lithgow",
+     "knownFor": "American actor",
+     "score": 64,
+     "qid": "Q311271"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "f653377e31",
    "priority": 2,
    "watched": [],
@@ -646,11 +734,6 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdMSXhmdms4VmU3ZTk4UFhnWjVnNThCZ3VyaVpMRlJwWnN4cE9qbE05bFloRzNBcDN5NTBLRUREbVpBN2VLRzJ0bWxHTWVSSjlyRGhzcEpMb3N3cnRrVHljLXJjeHF0QTJXemRodHpKVTRsVzJpZmRKWVN2T01oMVZTdTFTVnZ1RkhkTzNLaFpHeGFWa1FhWWJCdjgtdGhDWXd2c2NsMFIzWHdXTWI2a1habVViNGRfTFVTWjdFdDdYN28",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkViY2V1bVNuM0VuUUprejVyOXJsMVRuSDJwWk9OTkRGMzg0Qk83V2Q2b3BXVHNneENRbmpQb0o3aThnXzUwem1nTzJEQUtWdjFycWFPVzhNTmJGZEt2SkFkQjZ1Q0JseHJTNE85a3VqN2dQcmdyM0VtamVGemlNU2ZIemlsUUlKMEV4ajNJTU1iaGNOS3ZLNm1zTUNadGRYRWFtRWhVWXJNYVU1TFN6cGpKNUljUW9odlRSNGFrN1ZFdFBzczh3Xzk1T3h6UzdnYkN4dzNPaUpPQ0xsekJONFV2OUE1VGtVRVE",
      "feed": "gn-to-star"
@@ -676,6 +759,11 @@
      "feed": "thr-arts"
     },
     {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDZNUFBsbU95ZldwRWpnYnBlVGNZcnV4U2hydEQ5a21QMkZFMFZIdkRRYzEwUjdYTmF0dEstLVNNdzdhVVRaY3dMR3k0RVJidzhwTG95ZXRGMnoxT3RxYXdyaHBUZmdrNDZqR2VKSldsZzY4ejgwd2IwWjBCQi1fOGc3a1JLUG1NVTRFOGJtbWtBeHAwd3pIN2FnMUZwc29jcEJhZVUwRVJHNlloaXBkekN1Z0dGbFBMbDZlLVd3QjlHaWN4bmdZc0xvdVJDdw",
+     "feed": "gn-to-star"
+    },
+    {
      "name": "Broadway In Boston",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWUtpLVRIaGp3dG5DVGwzdHFMYmQ0azdrR2dWQ0Q4V21mUk9uTlVUMlZTX0VzV0hVRFpoT0oyY2hNdmNzd09nUWR4MkhqNE9TcE1VcjZ4M0NEZTNvdXRyV3ZRWDVNaUx5b2dhTnB4eVBEMnFOeTBDUkNPOVlfT3N0YXpNMmQ1Y1ZyNnRiLXY4UTI0NXJIVGFJaGhNYnJBYU80a1RIV2NxcmJZT0JDUnZqU0NXMDNHMWdYQVNFLXEzS3M1RXBjMjc5Nw",
      "feed": "gn-to-star"
@@ -689,42 +777,6 @@
      "name": "Theatrely",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWdQb2JfSjFvckRkMDIyTXV5MGtOUENmQXp6OE50ekgwZUlvZFB5c2RhU2owcWhGMFNKVzB6Ylh3VG1NZ0doY1piWUY2MGwzTzZUa1JEVGxFQ2NJNkt2b0hiUHZPQnNfWWF0SWlSYmI5RHBVVjFwaXNnUmFvQnlCYU50dXRCN0JQZE1fc18yQVBvcFdxQzM1RFNOcDhVQQ",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "5fe21e1629",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-23T16:37:30+00:00",
-   "published": "2026-09-25T18:37:44+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Giant",
-   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "John Lithgow",
-     "knownFor": "American actor",
-     "score": 64,
-     "qid": "Q311271"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -1732,11 +1784,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2RuNUdSZi1GSThNNlRIWVU1WjZtUTktSzR6eEZyamxBUzdlaW5tUWJHM05RSGplc1owemlTZW8yZWlUczAtd0o5OS1ZTHZRMzdsQXY0eG91Sjhmblhsd3ZWZ0x0UkVDYjZhenE3aGtwcGpXUE9DVDNwY1B4U3NoNHNDQ3h2Vzczb1hWVHVoMDFGQnZ3XzIyWGl2OEFVT1d2elhDMFdSLVp3YWxSb0JoM0wtdjhYQ2pFTU51WkNaNA",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXJyT1R4ZHpfQXVHdHRWS0Zob3B1VlJBYTFwMVBqQkJwTHN0MmZ1RmZrek9PWHRVVzk0S2hkNGw3ZGxVbTI1M3hiT3hOeXg0eUt0U0ZfNlo3NzNxSTlNODZXSHFoRV9veXhnZjl2N1U2WGJIMGtjWEswMnBOZ2lUUWhYQ2JWdDQ1QTdwbkFxNXdrcVJab3dkX1hsMWJ3LTVreXBpTzZHYVc",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -1835,21 +1882,50 @@
    "status": "published"
   },
   {
-   "id": "eda4230520",
+   "id": "d67a9a4728",
    "priority": 3,
    "watched": [],
-   "firstSeen": "2026-09-30T17:46:30+00:00",
-   "published": "2026-09-30T17:46:30+00:00",
-   "city": null,
-   "tier": null,
+   "firstSeen": "2026-09-30T21:12:31+00:00",
+   "published": "2026-09-30T21:12:31+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
    "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "My Favorite Year",
-   "title": "Beth Leavel, Brad Oscar and More to Star in MY FAVORITE YEAR Workshop at Asolo Rep",
-   "quote": "a { text-decoration: none; } sup { font-size: 100% !important; } 96 sup { font-size: 100% !important; } Asolo Repertory Theatre will develop My Favorite Year, with a score by the Tony Award-winning team of Stephen Flaherty and Lynn Ahrens, and book by Joseph Dougherty, in a workshop taking place September 25 to Octobe…",
+   "placedBy": "words",
+   "type": "new production",
+   "show": "The Apple Boys",
+   "title": "Broadway-aimed new musical ‘The Apple Boys’ sets Off-Broadway premiere",
+   "quote": "Tony Award-winning producer LaChanze is one of the new musical’s producers.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/LaChanze_cred_Cindy_Ord_Getty-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadway-aimed-new-musical-the-apple-boys-sets-off-broadway-premiere/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "6cfcafdcda",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T19:20:57+00:00",
+   "published": "2026-09-30T19:20:57+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "The Public Theater",
+   "placedBy": "venue",
+   "type": null,
+   "show": "Triumph",
+   "title": "TRIUMPH, PHIL, HENRY IV, PARTS 1 & 2 & More Set for The Public Theater's 2026-27 Season",
+   "quote": "body, table, td, h1, h2, h3, p, a, span, div, ul, li, b, strong {font-family: Arial, sans-serif !important;} The Public Theater has revealed the line-up for The Public's Spring and Summer 2027 season at The Public's landmark Astor Place flagship at 425 Lafayette Street and The Delacorte Theater in Central Park. Follow…",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-b7daaf76c87d46257927f99380ce2ab6.jpg",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-2aab2635049815d382cdf0e5cdbe34e9.jpg",
    "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
@@ -1857,8 +1933,37 @@
    "sources": [
     {
      "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Beth-Leavel-Brad-Oscar-and-More-to-Star-in-MY-FAVORITE-YEAR-Workshop-at-Asolo-Rep-20260930",
+     "url": "https://www.broadwayworld.com/article/TRIUMPH-World-Premiere-and-More-Set-for-The-Public-Theaters-SpringSummer-2026-27-Season-20260930",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9cb03cafc6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-24T14:01:38+00:00",
+   "published": "2026-09-30T19:20:06+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "Chicago",
+   "title": "‘Chicago’ will make its India debut in 2027",
+   "quote": "The long-running revival staging is coming to Mumbai for a limited run.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/CHIBWAY_SUMMER26_2910_KrystaRodriguez-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/chicago-will-make-its-india-debut-in-2027/",
+     "feed": "broadway-news"
     }
    ],
    "status": "review"
@@ -1891,6 +1996,69 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "eda4230520",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T17:46:30+00:00",
+   "published": "2026-09-30T16:46:30+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "My Favorite Year",
+   "title": "Beth Leavel, Brad Oscar and More to Star in MY FAVORITE YEAR Workshop at Asolo Rep",
+   "quote": "a { text-decoration: none; } sup { font-size: 100% !important; } 96 sup { font-size: 100% !important; } Asolo Repertory Theatre will develop My Favorite Year, with a score by the Tony Award-winning team of Stephen Flaherty and Lynn Ahrens, and book by Joseph Dougherty, in a workshop taking place September 25 to Octobe…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-b7daaf76c87d46257927f99380ce2ab6.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEZmMEYxRERwdkxrVXROUDFwc19KMG9vMmN0OGlDeExIYmdENWVzYW0wQVdEZ3llaFdHSWcxUktqUXdUbUtvZlJ5Y2tJa3FhTGlpLTdrZ2RyazVhcGM2a1Fac2RYejNlMTRxTHRBQTVDTUdELXliZG5Oc19XVURkN2pubW5PTWd5NGdkUUxqOHZwUVRRM1BTaU1KT3oxN2lIcVBQNVRTUWJmNVNMdHo1X2RoWkpLTGtMb1l1YlJHMzlDS2U5UXp3",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Beth-Leavel-Brad-Oscar-and-More-to-Star-in-MY-FAVORITE-YEAR-Workshop-at-Asolo-Rep-20260930",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "e6389ba5c8",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T16:04:00+00:00",
+   "published": "2026-09-30T16:04:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Tina Benko Will Lead Daniel Fish-Directed Elektra Off-Broadway",
+   "quote": "The new take on the Sophocles classic will also feature Rebecca Naomi Jones, Cricket Brown, Sally Wingert, and Michael Rudko.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/20260419_FAOPENING_PhotobyMichaelahReynolds_EDIT-019.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/tina-benko-will-lead-daniel-fish-directed-elektra-off-broadway",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "aabd98c3e7",
@@ -1951,6 +2119,64 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Eddie-Cooper-Anthony-Crivello-and-More-Will-Lead-Industry-Presentation-of-New-Musical-GOLDEN-20260930",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "5615e70e18",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T14:39:56+00:00",
+   "published": "2026-09-30T14:39:56+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "The Apple Boys Musical Will Make Off-Broadway Premiere in 2027",
+   "quote": "David Alpert will direct the production at the Duke on 42nd Street.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/The-Apple-Boys-HR.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/the-apple-boys-musical-will-make-off-broadway-premiere-in-2027",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "41a9dac5d8",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T14:38:00+00:00",
+   "published": "2026-09-30T14:38:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "The Public Adds What We Talk About When We Talk About Anne Frank New York Premiere, Wendell Pierce-Led Henry IV, More to Upcoming Season",
+   "quote": "The Off-Broadway company will also host a joint world premiere play from Caryl Churchill, starring Annaleigh Ashford and Joe Tapper.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Romeo-and-Juliet-Opening-Night-Rebecca-J-Michelson-48.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/the-public-adds-what-we-talk-about-when-we-talk-about-anne-frank-new-york-premiere-wendell-pierce-led-henry-iv-more-to-upcoming-season",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -2105,7 +2331,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-15T07:00:00+00:00",
-   "published": "2026-09-30T08:32:01+00:00",
+   "published": "2026-09-30T08:50:36+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -3353,6 +3579,35 @@
    "status": "review"
   },
   {
+   "id": "da36a0eccc",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T16:48:02+00:00",
+   "published": "2026-09-28T18:14:41+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Damn Yankees",
+   "title": "10 things to know about the new 'Damn Yankees' Broadway revival",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTmtLV2lUdE9YUGJxamNnTV9MbVNzLW1wYm1TS3cxZXZRWndWWlY5Yl9GLUhmR2RqaExYcVVjR1IzVHU3MVJmRWVzSjBIeHJTWlpUNG00aC03SXRwR1Rub0lZbGRBdDBMQ0VTNUJLRUxOQ2lkSVo1SDJ4ZnRYWlBsM25meE5XbnFmX25fbElPOWx1WEUtRlE2Qm1OWHNTaUFUY25pcnpOeHVZejVKeFUtOGpsaTd5UQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "d8b79fb1c3",
    "priority": 3,
    "watched": [],
@@ -3380,40 +3635,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "da36a0eccc",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T16:48:02+00:00",
-   "published": "2026-09-28T16:48:02+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Damn Yankees",
-   "title": "10 things to know about the new 'Damn Yankees' Broadway revival",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTmtLV2lUdE9YUGJxamNnTV9MbVNzLW1wYm1TS3cxZXZRWndWWlY5Yl9GLUhmR2RqaExYcVVjR1IzVHU3MVJmRWVzSjBIeHJTWlpUNG00aC03SXRwR1Rub0lZbGRBdDBMQ0VTNUJLRUxOQ2lkSVo1SDJ4ZnRYWlBsM25meE5XbnFmX25fbElPOWx1WEUtRlE2Qm1OWHNTaUFUY25pcnpOeHVZejVKeFUtOGpsaTd5UQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "News12 | Bronx",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12blZ4cXNMMzJVUGRCMndxWG02b0xfaVl4ZkotbXpqb3pZU3h3ZS1fMU5jT2l2bUlUY2RrX253Y1lxR2ZaVVNEU3pVUUpycGtXaWJKUTAtQldpZVN6Nm1oU1VaQW04VlE",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "e5e3597a17",
@@ -4856,35 +5077,6 @@
    "status": "published"
   },
   {
-   "id": "9cb03cafc6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T14:01:38+00:00",
-   "published": "2026-09-24T14:01:38+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Chicago",
-   "title": "How ‘Chicago’ Is Bringing a New Reality to Broadway — And Reaping the Rewards",
-   "quote": "",
-   "quoteSource": "Billboard",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Billboard",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHJQTTBCZ044THBvMmxHV1lmRjc4Zmg1eWp2LUNJbjlXNzdwOWR0U2s3OVU3bGdON0dDa0Zlb0pabWZYazFMMEY1UXlyYmZrTldGa3hfVy1NWjg3M2gzNHBXQlc2UU1ib1JFLUZsSVAyM3NUUVVxTWRMQUVlaFhfcWVaazdkWHItdHhGVldyMA",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "5abf82881c",
    "priority": 3,
    "watched": [],
@@ -5716,7 +5908,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-22T15:16:00+00:00",
-   "published": "2026-09-22T15:16:00+00:00",
+   "published": "2026-09-22T07:00:00+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,

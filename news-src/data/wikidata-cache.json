@@ -200,6 +200,15 @@
   "qid": "Q4772333",
   "score": 8
  },
+ "Apple Boys": {
+  "checkedAt": "2026-10-01T01:50:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ariana Grande": {
   "checkedAt": "2026-09-25T17:51:47+00:00",
   "description": "American singer, songwriter, and actress (born 1993)",
@@ -862,6 +871,15 @@
  },
  "Damn Yankees Talks": {
   "checkedAt": "2026-09-28T20:01:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Daniel Fish-Directed Elektra": {
+  "checkedAt": "2026-10-01T01:49:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1950,6 +1968,15 @@
   "qid": null,
   "score": 0
  },
+ "Laura Benanti": {
+  "checkedAt": "2026-10-01T01:50:06+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q195129",
+  "score": 36
+ },
  "Laura Marano": {
   "checkedAt": "2026-09-25T17:54:12+00:00",
   "description": "American actress and singer (born 1995)",
@@ -2429,6 +2456,15 @@
   "qid": null,
   "score": 0
  },
+ "Nobody Cares": {
+  "checkedAt": "2026-10-01T01:50:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Nominating Committee": {
   "checkedAt": "2026-09-25T17:47:48+00:00",
   "description": null,
@@ -2659,6 +2695,24 @@
   "qid": null,
   "score": 0
  },
+ "Proudest Roles": {
+  "checkedAt": "2026-10-01T01:50:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Public Adds What": {
+  "checkedAt": "2026-10-01T01:50:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Quentin Tarantino": {
   "checkedAt": "2026-09-25T18:43:10+00:00",
   "description": "American filmmaker and actor (born 1963)",
@@ -2814,6 +2868,15 @@
   "knownFor": [],
   "qid": "Q7329442",
   "score": 3
+ },
+ "Riotous One-Woman Show": {
+  "checkedAt": "2026-10-01T01:50:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Rocky Horror": {
   "checkedAt": "2026-09-25T17:56:47+00:00",
@@ -3205,6 +3268,24 @@
   "qid": null,
   "score": 0
  },
+ "Talk About Anne": {
+  "checkedAt": "2026-10-01T01:50:04+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Talk About When": {
+  "checkedAt": "2026-10-01T01:50:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Tamar Greene": {
   "checkedAt": "2026-09-25T17:56:12+00:00",
   "description": null,
@@ -3300,6 +3381,15 @@
   ],
   "qid": "Q298295",
   "score": 40
+ },
+ "Tina Benko": {
+  "checkedAt": "2026-10-01T01:49:58+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q35102351",
+  "score": 2
  },
  "Titanique Hits": {
   "checkedAt": "2026-09-25T17:56:43+00:00",
@@ -3481,8 +3571,26 @@
   "qid": null,
   "score": 0
  },
+ "Wendell Pierce-Led Henry": {
+  "checkedAt": "2026-10-01T01:50:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Where We Can": {
   "checkedAt": "2026-09-25T17:48:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Why Melania Remains": {
+  "checkedAt": "2026-10-01T01:50:10+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
