@@ -191,6 +191,18 @@
   "qid": "Q4760876",
   "score": 12
  },
+ "Anne Frank": {
+  "checkedAt": "2026-10-02T02:02:18+00:00",
+  "description": "German-born Dutch Jewish diarist and Holocaust victim (1929–1945)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [
+   "Diary of Anne Frank",
+   "Tales from the Secret Annex"
+  ],
+  "qid": "Q4583",
+  "score": 170
+ },
  "Annual Putnam County": {
   "checkedAt": "2026-09-25T17:54:13+00:00",
   "description": null,
@@ -568,6 +580,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Britton Smith": {
+  "checkedAt": "2026-10-02T02:02:15+00:00",
+  "description": "researcher ORCID ID = 0000-0002-6804-630X",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q59672609",
   "score": 0
  },
  "Broadway-Bound Beat": {
@@ -1866,6 +1887,15 @@
   "qid": "Q311271",
   "score": 64
  },
+ "John Proctor": {
+  "checkedAt": "2026-10-02T02:02:12+00:00",
+  "description": "Convicted of witchcraft during the Salem Witch Trials",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3182316",
+  "score": 4
+ },
  "John Riddle": {
   "checkedAt": "2026-09-28T20:01:10+00:00",
   "description": "American actor, singer",
@@ -2246,6 +2276,15 @@
  },
  "Longest Running Show": {
   "checkedAt": "2026-09-25T18:43:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Los Angeles Goldrich": {
+  "checkedAt": "2026-10-02T02:02:20+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2765,6 +2804,15 @@
   "qid": null,
   "score": 0
  },
+ "Passing Strange": {
+  "checkedAt": "2026-10-02T02:02:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Patina Miller Help": {
   "checkedAt": "2026-09-29T02:30:25+00:00",
   "description": null,
@@ -2955,6 +3003,15 @@
  },
  "Real Estate": {
   "checkedAt": "2026-09-28T01:26:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Real Housewives Britani": {
+  "checkedAt": "2026-10-02T02:02:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3213,6 +3270,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Saycon Sengbloh": {
+  "checkedAt": "2026-10-02T02:02:13+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q24570150",
+  "score": 5
  },
  "Scene From Broadway's": {
   "checkedAt": "2026-09-25T17:47:37+00:00",
@@ -3726,6 +3792,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Ty Taylor": {
+  "checkedAt": "2026-10-02T02:02:14+00:00",
+  "description": "American musician",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7859641",
+  "score": 2
  },
  "Upside Down": {
   "checkedAt": "2026-09-29T18:29:39+00:00",
