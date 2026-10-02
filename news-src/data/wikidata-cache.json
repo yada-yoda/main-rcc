@@ -191,6 +191,15 @@
   "qid": "Q4760876",
   "score": 12
  },
+ "Anika Larsen": {
+  "checkedAt": "2026-10-02T18:15:15+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16738990",
+  "score": 3
+ },
  "Anne Frank": {
   "checkedAt": "2026-10-02T02:02:18+00:00",
   "description": "German-born Dutch Jewish diarist and Holocaust victim (1929–1945)",
@@ -683,6 +692,17 @@
   "qid": null,
   "score": 0
  },
+ "Carl Clemons-Hopkins": {
+  "checkedAt": "2026-10-02T18:15:05+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Hacks"
+  ],
+  "qid": "Q106925763",
+  "score": 7
+ },
  "Carrie Coon": {
   "checkedAt": "2026-09-30T01:52:30+00:00",
   "description": "American actress",
@@ -773,6 +793,15 @@
   "qid": "Q236132",
   "score": 45
  },
+ "Cinco Paul Receives": {
+  "checkedAt": "2026-10-02T18:15:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Co-Stars Diego Rodriguez": {
   "checkedAt": "2026-09-25T17:52:20+00:00",
   "description": null,
@@ -835,6 +864,15 @@
   "knownFor": [],
   "qid": "Q15229529",
   "score": 9
+ },
+ "Creation Stories": {
+  "checkedAt": "2026-10-02T18:15:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Creative Team": {
   "checkedAt": "2026-09-25T17:54:42+00:00",
@@ -998,6 +1036,27 @@
   "qid": null,
   "score": 0
  },
+ "Dolly Parton": {
+  "checkedAt": "2026-10-02T18:14:39+00:00",
+  "description": "American singer-songwriter (1946–2026)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "All I Can Do",
+   "I Will Always Love You"
+  ],
+  "qid": "Q180453",
+  "score": 122
+ },
+ "Dolly Parton Handpicked": {
+  "checkedAt": "2026-10-02T18:14:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Donna Vivino": {
   "checkedAt": "2026-09-25T17:55:33+00:00",
   "description": "American actress",
@@ -1009,6 +1068,15 @@
  },
  "Don’t Walk": {
   "checkedAt": "2026-09-25T17:57:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Dream Evaporates": {
+  "checkedAt": "2026-10-02T18:15:13+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1075,6 +1143,15 @@
   ],
   "qid": "Q230209",
   "score": 51
+ },
+ "Else Went": {
+  "checkedAt": "2026-10-02T18:15:01+00:00",
+  "description": "American playwright",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q138950122",
+  "score": 2
  },
  "Emilia Clarke": {
   "checkedAt": "2026-09-25T17:52:02+00:00",
@@ -1249,6 +1326,15 @@
   "qid": null,
   "score": 0
  },
+ "Foundation Richard Rodgers": {
+  "checkedAt": "2026-10-02T18:15:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Four Performances": {
   "checkedAt": "2026-09-27T19:22:22+00:00",
   "description": null,
@@ -1275,6 +1361,15 @@
   "knownFor": [],
   "qid": "Q5481173",
   "score": 12
+ },
+ "Free Student": {
+  "checkedAt": "2026-10-02T18:14:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Front Page": {
   "checkedAt": "2026-09-25T17:57:16+00:00",
@@ -1411,6 +1506,15 @@
   "qid": null,
   "score": 0
  },
+ "Green Alliance": {
+  "checkedAt": "2026-10-02T18:15:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Greta Lee": {
   "checkedAt": "2026-09-25T17:56:23+00:00",
   "description": "American actress (born 1983)",
@@ -1446,6 +1550,15 @@
   "knownFor": [],
   "qid": "Q138974233",
   "score": 2
+ },
+ "Hari Nef": {
+  "checkedAt": "2026-10-02T18:15:07+00:00",
+  "description": "American actor, model and author",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q19665738",
+  "score": 23
  },
  "Harry Hamlin": {
   "checkedAt": "2026-10-01T18:43:23+00:00",
@@ -1541,6 +1654,33 @@
  },
  "Imaginary Invalid": {
   "checkedAt": "2026-09-26T01:13:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Important Importants": {
+  "checkedAt": "2026-10-02T18:15:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Incel-Themed Degenerates": {
+  "checkedAt": "2026-10-02T18:15:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Including Ally Bonino": {
+  "checkedAt": "2026-10-02T18:14:58+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1860,6 +2000,15 @@
   "qid": "Q6210465",
   "score": 3
  },
+ "John Behlmann": {
+  "checkedAt": "2026-10-02T18:14:46+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q28777599",
+  "score": 7
+ },
  "John Legend": {
   "checkedAt": "2026-09-25T17:55:44+00:00",
   "description": "American singer-songwriter",
@@ -2015,6 +2164,15 @@
   "knownFor": [],
   "qid": "Q272518",
   "score": 24
+ },
+ "Katie Rose Clarke": {
+  "checkedAt": "2026-10-02T18:14:41+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6377543",
+  "score": 6
  },
  "Katrina Lenk": {
   "checkedAt": "2026-09-25T17:55:29+00:00",
@@ -2183,6 +2341,15 @@
  },
  "Life Off": {
   "checkedAt": "2026-09-25T17:55:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Life Story": {
+  "checkedAt": "2026-10-02T18:14:44+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2398,6 +2565,24 @@
   "knownFor": [],
   "qid": "Q6781118",
   "score": 13
+ },
+ "Mason Alexander Park": {
+  "checkedAt": "2026-10-02T18:14:49+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q109037931",
+  "score": 9
+ },
+ "Massachusetts Tryouts": {
+  "checkedAt": "2026-10-02T18:14:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Matt Rogers": {
   "checkedAt": "2026-09-25T17:54:53+00:00",
@@ -2618,6 +2803,15 @@
   "qid": null,
   "score": 0
  },
+ "Niall Sheehy": {
+  "checkedAt": "2026-10-02T18:14:53+00:00",
+  "description": "Irish hurler and Gaelic footballer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16229267",
+  "score": 1
+ },
  "Nick Mohammed": {
   "checkedAt": "2026-09-25T17:51:57+00:00",
   "description": "British actor",
@@ -2678,6 +2872,15 @@
   "qid": null,
   "score": 0
  },
+ "Norah Nunes": {
+  "checkedAt": "2026-10-02T18:14:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Now Playing": {
   "checkedAt": "2026-09-25T17:53:48+00:00",
   "description": null,
@@ -2716,6 +2919,15 @@
  },
  "Opera Carolina": {
   "checkedAt": "2026-09-29T02:30:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Operation Mincemeat": {
+  "checkedAt": "2026-10-02T18:15:16+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2874,6 +3086,15 @@
  },
  "Playwright Jocelyn Bioh": {
   "checkedAt": "2026-09-27T19:22:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Playwrights Horizons": {
+  "checkedAt": "2026-10-02T18:15:04+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3175,6 +3396,15 @@
   "qid": null,
   "score": 0
  },
+ "Run Extended": {
+  "checkedAt": "2026-10-02T18:14:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Rural Tenderness": {
   "checkedAt": "2026-09-25T17:57:07+00:00",
   "description": null,
@@ -3343,6 +3573,15 @@
   "qid": null,
   "score": 0
  },
+ "See Sweet Family": {
+  "checkedAt": "2026-10-02T18:15:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sherri Shepherd": {
   "checkedAt": "2026-09-25T17:54:22+00:00",
   "description": "American actress, comedian, author and television personality",
@@ -3393,6 +3632,15 @@
  },
  "Small Mouth Sounds": {
   "checkedAt": "2026-09-25T17:56:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Snow Goose": {
+  "checkedAt": "2026-10-02T18:14:56+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3766,6 +4014,15 @@
   "qid": null,
   "score": 0
  },
+ "True Original": {
+  "checkedAt": "2026-10-02T18:14:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Twelfth Night": {
   "checkedAt": "2026-09-25T17:57:33+00:00",
   "description": null,
@@ -3892,6 +4149,17 @@
   "qid": null,
   "score": 0
  },
+ "Wendie Malick": {
+  "checkedAt": "2026-10-02T18:14:54+00:00",
+  "description": "American film, television and voice actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Dream On"
+  ],
+  "qid": "Q956021",
+  "score": 35
+ },
  "Where We Can": {
   "checkedAt": "2026-09-25T17:48:38+00:00",
   "description": null,
@@ -3900,6 +4168,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Whitney Leavitt": {
+  "checkedAt": "2026-10-02T18:14:48+00:00",
+  "description": "American influencer and television personality",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q130278036",
+  "score": 1
  },
  "Why Love": {
   "checkedAt": "2026-10-01T18:43:44+00:00",
@@ -3948,6 +4225,15 @@
  },
  "Wonderful Life Plans": {
   "checkedAt": "2026-10-01T18:43:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "World Don't Want": {
+  "checkedAt": "2026-10-02T18:14:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
