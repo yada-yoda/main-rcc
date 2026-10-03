@@ -692,6 +692,15 @@
   "qid": null,
   "score": 0
  },
+ "Capital One Arena": {
+  "checkedAt": "2026-10-03T01:45:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Carl Clemons-Hopkins": {
   "checkedAt": "2026-10-02T18:15:05+00:00",
   "description": "American actor",
@@ -702,6 +711,15 @@
   ],
   "qid": "Q106925763",
   "score": 7
+ },
+ "Carolee Carmello": {
+  "checkedAt": "2026-10-03T01:45:48+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q438956",
+  "score": 13
  },
  "Carrie Coon": {
   "checkedAt": "2026-09-30T01:52:30+00:00",
@@ -750,6 +768,15 @@
  },
  "Check Out": {
   "checkedAt": "2026-09-28T20:01:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Chose Herself": {
+  "checkedAt": "2026-10-03T01:45:46+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1715,6 +1742,15 @@
   "qid": null,
   "score": 0
  },
+ "Industry Readings": {
+  "checkedAt": "2026-10-03T01:45:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Inhabit Little Shop": {
   "checkedAt": "2026-09-25T17:54:34+00:00",
   "description": null,
@@ -2228,6 +2264,15 @@
   "qid": null,
   "score": 0
  },
+ "La Mirada": {
+  "checkedAt": "2026-10-03T01:45:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Last Flight": {
   "checkedAt": "2026-09-28T20:01:36+00:00",
   "description": null,
@@ -2248,6 +2293,15 @@
  },
  "Last Week": {
   "checkedAt": "2026-09-30T01:52:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Late Worldwide Music": {
+  "checkedAt": "2026-10-03T01:45:40+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2646,6 +2700,15 @@
   "knownFor": [],
   "qid": "Q59268408",
   "score": 56
+ },
+ "Member Alain Brutus": {
+  "checkedAt": "2026-10-03T01:45:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Merboy Next Door": {
   "checkedAt": "2026-09-28T20:01:23+00:00",
@@ -4059,6 +4122,33 @@
   "qid": "Q7859641",
   "score": 2
  },
+ "Underdog Shows Why": {
+  "checkedAt": "2026-10-03T01:45:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Unveils Five Actors": {
+  "checkedAt": "2026-10-03T01:45:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Upcoming Show": {
+  "checkedAt": "2026-10-03T01:45:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Upside Down": {
   "checkedAt": "2026-09-29T18:29:39+00:00",
   "description": null,
@@ -4159,6 +4249,15 @@
   ],
   "qid": "Q956021",
   "score": 35
+ },
+ "What Would": {
+  "checkedAt": "2026-10-03T01:45:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Where We Can": {
   "checkedAt": "2026-09-25T17:48:38+00:00",
