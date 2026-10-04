@@ -296,10 +296,13 @@ ul{list-style:none}
 }
 .hero-slide{
   position:absolute;inset:0;
-  background-size:cover;background-position:center;
+  /* --fx / --fxm come from data/hero.yml (focus_x / focus_x_phone) via the
+     build: which horizontal point of a wide photo the crop keeps. */
+  background-size:cover;background-position:var(--fx,50%) 50%;
   opacity:0;
   transition:opacity 1s ease;
 }
+@media (max-width:760px){.hero-slide{background-position:var(--fxm,50%) 50%}}
 .hero-slide.active{
   opacity:1;
 }
@@ -1235,10 +1238,11 @@ footer .hits[hidden]{display:none}
        Photos live in assets/slideshow/photos/. Videos (when ready) go in assets/slideshow/videos/ — see the README there for specs. -->
   <div class="hero-slides" aria-hidden="true">
     <video class="hero-slide" muted playsinline preload="metadata"><source src="assets/slideshow/videos/waiter-boys.mp4" type="video/mp4"></video>
-    <div class="hero-slide" data-expires="2026-09-28" style="background-image:url('assets/slideshow/photos/nice-shirt.jpg')"></div>
-    <div class="hero-slide" style="background-image:url('assets/slideshow/photos/stage.jpg')"></div>
-    <div class="hero-slide" style="background-image:url('assets/slideshow/photos/chicago.jpg')"></div>
-    <div class="hero-slide" style="background-image:url('assets/slideshow/photos/recent.jpg')"></div>
+    <div class="hero-slide" data-expires="2026-09-28" style="background-image:url('assets/slideshow/photos/nice-shirt.jpg');"></div>
+    <div class="hero-slide" style="background-image:url('assets/slideshow/photos/nice-shirt-scene.jpg');--fx:12%;--fxm:50%;"></div>
+    <div class="hero-slide" style="background-image:url('assets/slideshow/photos/stage.jpg');"></div>
+    <div class="hero-slide" style="background-image:url('assets/slideshow/photos/chicago.jpg');"></div>
+    <div class="hero-slide" style="background-image:url('assets/slideshow/photos/recent.jpg');"></div>
     <video class="hero-slide" muted playsinline preload="metadata"><source src="assets/slideshow/videos/deadly-domicile.mp4" type="video/mp4"></video>
   </div>
   <!-- /EDIT: hero-slides -->
@@ -1258,6 +1262,7 @@ footer .hits[hidden]{display:none}
     <div class="hero-quotes" aria-hidden="true">
       <span>Play the verb,<br>not the mood.</span>
       <span data-expires="2026-09-28"><br></span>
+      <span><br></span>
       <span>Separation is in<br>the preparation.</span>
       <span>Stop trying to feel.<br>Start trying to do.</span>
       <span>Prepare to be<br>unprepared.</span>
@@ -1761,7 +1766,7 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.16.0</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.16.1</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 
