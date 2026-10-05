@@ -230,6 +230,24 @@
   "qid": "Q4772333",
   "score": 8
  },
+ "Anthony Mackie": {
+  "checkedAt": "2026-10-05T21:00:17+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q511554",
+  "score": 55
+ },
+ "Anthony Mackie Returning": {
+  "checkedAt": "2026-10-05T21:00:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Apple Boys": {
   "checkedAt": "2026-10-01T01:50:00+00:00",
   "description": null,
@@ -570,6 +588,17 @@
   "qid": "Q164060",
   "score": 36
  },
+ "Brandon Flynn": {
+  "checkedAt": "2026-10-05T21:00:03+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "13 Reasons Why"
+  ],
+  "qid": "Q29168300",
+  "score": 37
+ },
  "Brian Cox": {
   "checkedAt": "2026-09-25T17:57:09+00:00",
   "description": "English physicist and musician",
@@ -582,6 +611,15 @@
   "qid": "Q463581",
   "score": 43
  },
+ "Brian Quijada": {
+  "checkedAt": "2026-10-05T21:00:23+00:00",
+  "description": "American actor, writer, and musician",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q55314770",
+  "score": 2
+ },
  "Bringing Draco Malfoy": {
   "checkedAt": "2026-09-25T17:55:11+00:00",
   "description": null,
@@ -590,6 +628,18 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Britney Spears": {
+  "checkedAt": "2026-10-05T21:00:19+00:00",
+  "description": "American singer, songwriter, actress and model (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "...Baby One More Time",
+   "Oops!... I Did It Again"
+  ],
+  "qid": "Q11975",
+  "score": 146
  },
  "Britton Smith": {
   "checkedAt": "2026-10-02T02:02:15+00:00",
@@ -793,6 +843,15 @@
   "qid": null,
   "score": 0
  },
+ "Chris Huvane": {
+  "checkedAt": "2026-10-05T21:00:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Chris Jackson": {
   "checkedAt": "2026-09-25T17:56:51+00:00",
   "description": "British geologist",
@@ -883,6 +942,15 @@
   "qid": null,
   "score": 0
  },
+ "Conrad Ricamora": {
+  "checkedAt": "2026-10-05T21:00:06+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q18348775",
+  "score": 18
+ },
  "Constantine Maroulis": {
   "checkedAt": "2026-09-29T02:30:21+00:00",
   "description": "American singer",
@@ -921,6 +989,15 @@
  },
  "Creative Team Ahead": {
   "checkedAt": "2026-09-25T17:54:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Crisis Moment Pleads": {
+  "checkedAt": "2026-10-05T21:00:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1071,6 +1148,15 @@
   "knownFor": [],
   "qid": "Q3819512",
   "score": 3
+ },
+ "Diggers Song": {
+  "checkedAt": "2026-10-05T21:00:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Dirty Dancing": {
   "checkedAt": "2026-09-25T17:57:19+00:00",
@@ -1272,6 +1358,15 @@
   "qid": null,
   "score": 0
  },
+ "Every Performer": {
+  "checkedAt": "2026-10-05T21:00:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Fallen Angels Film": {
   "checkedAt": "2026-10-03T17:00:46+00:00",
   "description": null,
@@ -1292,6 +1387,15 @@
  },
  "Film Version": {
   "checkedAt": "2026-09-25T17:55:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Final Bow": {
+  "checkedAt": "2026-10-05T21:00:27+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1343,6 +1447,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Florencia Lozano": {
+  "checkedAt": "2026-10-05T21:00:15+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q293264",
+  "score": 16
  },
  "Fly Away": {
   "checkedAt": "2026-09-28T20:01:35+00:00",
@@ -1445,6 +1558,15 @@
  },
  "Full Gallop": {
   "checkedAt": "2026-09-25T17:55:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Full-Time Claire": {
+  "checkedAt": "2026-10-05T21:00:25+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1578,6 +1700,15 @@
   "qid": "Q19517962",
   "score": 30
  },
+ "Grief Eater Near": {
+  "checkedAt": "2026-10-05T21:00:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hairier Would": {
   "checkedAt": "2026-10-05T01:39:09+00:00",
   "description": null,
@@ -1623,6 +1754,15 @@
   "qid": "Q138974233",
   "score": 2
  },
+ "Hannah Kevitt": {
+  "checkedAt": "2026-10-05T21:00:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hari Nef": {
   "checkedAt": "2026-10-02T18:15:07+00:00",
   "description": "American actor, model and author",
@@ -1660,6 +1800,15 @@
   ],
   "qid": "Q234959",
   "score": 58
+ },
+ "Here There": {
+  "checkedAt": "2026-10-05T21:00:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "High Note": {
   "checkedAt": "2026-09-25T17:48:26+00:00",
@@ -1735,6 +1884,15 @@
  },
  "Imaginary Invalid": {
   "checkedAt": "2026-09-26T01:13:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Imaginary Invalid Bill": {
+  "checkedAt": "2026-10-05T21:00:57+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2012,6 +2170,15 @@
   "qid": "Q6181572",
   "score": 28
  },
+ "Jeremy O Harris": {
+  "checkedAt": "2026-10-05T21:00:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q112042530",
+  "score": 0
+ },
  "Jesse Eisenberg": {
   "checkedAt": "2026-09-28T20:01:29+00:00",
   "description": "American actor",
@@ -2255,6 +2422,24 @@
   "qid": "Q272518",
   "score": 24
  },
+ "Kathleen Chalfant": {
+  "checkedAt": "2026-10-05T21:00:07+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1635113",
+  "score": 14
+ },
+ "Kathleen Chalfont": {
+  "checkedAt": "2026-10-05T21:00:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Katie Rose Clarke": {
   "checkedAt": "2026-10-02T18:14:41+00:00",
   "description": "American actress",
@@ -2317,6 +2502,15 @@
   "knownFor": [],
   "qid": "Q19663468",
   "score": 2
+ },
+ "Kyle Beltran": {
+  "checkedAt": "2026-10-05T21:00:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "La MaMa": {
   "checkedAt": "2026-10-01T18:43:47+00:00",
@@ -2438,6 +2632,15 @@
   "qid": null,
   "score": 0
  },
+ "Letter-Writing Initiative": {
+  "checkedAt": "2026-10-05T21:00:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Liba Vaynberg": {
   "checkedAt": "2026-09-30T01:52:33+00:00",
   "description": null,
@@ -2549,6 +2752,15 @@
   "qid": "Q11833191",
   "score": 17
  },
+ "Lois Smith": {
+  "checkedAt": "2026-10-05T21:00:51+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q258246",
+  "score": 29
+ },
  "Lonely People": {
   "checkedAt": "2026-09-29T18:29:41+00:00",
   "description": null,
@@ -2615,6 +2827,15 @@
   "qid": "Q28533369",
   "score": 32
  },
+ "Lucille Lortel": {
+  "checkedAt": "2026-10-05T21:00:36+00:00",
+  "description": "American stage actress, artistic director, and theatrical producer (1900-1999)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6697293",
+  "score": 3
+ },
  "Lynn Nottage": {
   "checkedAt": "2026-09-25T17:55:46+00:00",
   "description": "American playwright (born 1964)",
@@ -2652,6 +2873,15 @@
   "knownFor": [],
   "qid": "Q17380672",
   "score": 56
+ },
+ "Marisa Tomei": {
+  "checkedAt": "2026-10-05T21:00:47+00:00",
+  "description": "American actress (born 1964)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q191828",
+  "score": 66
  },
  "Marlon Brando": {
   "checkedAt": "2026-09-25T17:57:26+00:00",
@@ -2746,6 +2976,15 @@
   "qid": null,
   "score": 0
  },
+ "Meet Maryam Basir": {
+  "checkedAt": "2026-10-05T21:00:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Megan Hilty": {
   "checkedAt": "2026-10-01T18:43:16+00:00",
   "description": "American musical theatre actress",
@@ -2781,6 +3020,24 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Messy Middle": {
+  "checkedAt": "2026-10-05T21:00:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Michael Cerveris": {
+  "checkedAt": "2026-10-05T21:00:02+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3308101",
+  "score": 14
  },
  "Michael Luwoye": {
   "checkedAt": "2026-09-28T20:01:33+00:00",
@@ -2889,6 +3146,15 @@
   "knownFor": [],
   "qid": "Q113687844",
   "score": 0
+ },
+ "Natalie Portman": {
+  "checkedAt": "2026-10-05T21:00:22+00:00",
+  "description": "Israeli-American actress (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q37876",
+  "score": 136
  },
  "Natasha Yvette Williams": {
   "checkedAt": "2026-10-03T17:00:41+00:00",
@@ -3474,6 +3740,15 @@
   "qid": null,
   "score": 0
  },
+ "Rob Morrow": {
+  "checkedAt": "2026-10-05T21:00:48+00:00",
+  "description": "American actor and director (born 1962)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q344567",
+  "score": 32
+ },
  "Rock Opera": {
   "checkedAt": "2026-10-01T18:43:40+00:00",
   "description": null,
@@ -3510,6 +3785,15 @@
   "qid": "Q230004",
   "score": 75
  },
+ "Rosanna Arquette": {
+  "checkedAt": "2026-10-05T21:00:50+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q109232",
+  "score": 62
+ },
  "Rose Byrne": {
   "checkedAt": "2026-10-03T17:00:49+00:00",
   "description": "Australian actress",
@@ -3542,6 +3826,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Rudy Pankow": {
+  "checkedAt": "2026-10-05T21:00:53+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q94993175",
+  "score": 24
  },
  "Run Extended": {
   "checkedAt": "2026-10-02T18:14:51+00:00",
@@ -3641,6 +3934,15 @@
  },
  "Sarah Pidgeon Named": {
   "checkedAt": "2026-09-30T18:18:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Savy Jackson": {
+  "checkedAt": "2026-10-05T21:00:16+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3770,6 +4072,15 @@
  },
  "Simply Be Together": {
   "checkedAt": "2026-09-25T17:48:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Slam Frank": {
+  "checkedAt": "2026-10-05T21:00:29+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4032,6 +4343,24 @@
   "qid": null,
   "score": 0
  },
+ "Through Spring": {
+  "checkedAt": "2026-10-05T21:00:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ticket Sales Through": {
+  "checkedAt": "2026-10-05T21:00:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Tim Crouch": {
   "checkedAt": "2026-09-25T18:43:09+00:00",
   "description": "English dramatist",
@@ -4161,6 +4490,15 @@
   "qid": null,
   "score": 0
  },
+ "Triple Threat": {
+  "checkedAt": "2026-10-05T21:00:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "True Original": {
   "checkedAt": "2026-10-02T18:14:38+00:00",
   "description": null,
@@ -4197,6 +4535,15 @@
   "qid": null,
   "score": 0
  },
+ "Two World Premieres": {
+  "checkedAt": "2026-10-05T21:00:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ty Taylor": {
   "checkedAt": "2026-10-02T02:02:14+00:00",
   "description": "American musician",
@@ -4217,6 +4564,15 @@
  },
  "Unveils Five Actors": {
   "checkedAt": "2026-10-03T01:45:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Unveils Full": {
+  "checkedAt": "2026-10-05T21:00:11+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4388,6 +4744,15 @@
   "qid": null,
   "score": 0
  },
+ "Wilson Central": {
+  "checkedAt": "2026-10-05T21:00:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Wish Come True": {
   "checkedAt": "2026-09-25T17:56:26+00:00",
   "description": null,
@@ -4462,6 +4827,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Zohran Mamdani": {
+  "checkedAt": "2026-10-05T21:00:43+00:00",
+  "description": "Mayor of New York City since 2026",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q28034971",
+  "score": 87
  },
  "Zoo Story": {
   "checkedAt": "2026-10-05T01:39:08+00:00",
