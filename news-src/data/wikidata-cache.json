@@ -1578,6 +1578,24 @@
   "qid": "Q19517962",
   "score": 30
  },
+ "Hairier Would": {
+  "checkedAt": "2026-10-05T01:39:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Hairy Ape": {
+  "checkedAt": "2026-10-05T01:39:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hamilton Hits": {
   "checkedAt": "2026-09-25T17:56:50+00:00",
   "description": null,
@@ -4438,6 +4456,15 @@
  },
  "Your Ear Off-": {
   "checkedAt": "2026-09-25T17:47:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Zoo Story": {
+  "checkedAt": "2026-10-05T01:39:08+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

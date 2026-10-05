@@ -339,7 +339,7 @@
    "show": null,
    "title": "The cast for Dolly Parton’s new Broadway musical has been revealed",
    "quote": "",
-   "quoteSource": "Townsvillebulletin",
+   "quoteSource": "Townsville Bulletin",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -354,7 +354,7 @@
    ],
    "sources": [
     {
-     "name": "Townsvillebulletin",
+     "name": "Townsville Bulletin",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeUw0U2NYUFZZd2Z6TVc2MjJKUk9wbzZXOXRlWk1hVktjcVlhUXYwanlrODlnaTcxSE9lcE14WWYwMVJkTU55NUFXLVJhRjFBY1lGQ0NyY3VVM2Vqc0xnYXMzQjllalQ3WHlRakJZaFBBaGdTaU5FenJ0NDFyNVNJd1U4N2VuZlVheTFEQU13ZWtsZ3lHUjgxOWNzUkZZbEVWME82bE9OajBONFYtYlY5MHJlT0pPNFp4UVdmcTdQcEZkRkdkSS1YYmYwdnRaZnE4dEVzQUVjRUl5alc5NEVVNXFKSGI3eUlfU1RCeGNSdUh0cHZ4RzZDZldIT0gtamg5",
      "feed": "gn-bway-casting"
     }
@@ -1522,8 +1522,8 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdMSXhmdms4VmU3ZTk4UFhnWjVnNThCZ3VyaVpMRlJwWnN4cE9qbE05bFloRzNBcDN5NTBLRUREbVpBN2VLRzJ0bWxHTWVSSjlyRGhzcEpMb3N3cnRrVHljLXJjeHF0QTJXemRodHpKVTRsVzJpZmRKWVN2T01oMVZTdTFTVnZ1RkhkTzNLaFpHeGFWa1FhWWJCdjgtdGhDWXd2c2NsMFIzWHdXTWI2a1habVViNGRfTFVTWjdFdDdYN28",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkViY2V1bVNuM0VuUUprejVyOXJsMVRuSDJwWk9OTkRGMzg0Qk83V2Q2b3BXVHNneENRbmpQb0o3aThnXzUwem1nTzJEQUtWdjFycWFPVzhNTmJGZEt2SkFkQjZ1Q0JseHJTNE85a3VqN2dQcmdyM0VtamVGemlNU2ZIemlsUUlKMEV4ajNJTU1iaGNOS3ZLNm1zTUNadGRYRWFtRWhVWXJNYVU1TFN6cGpKNUljUW9odlRSNGFrN1ZFdFBzczh3Xzk1T3h6UzdnYkN4dzNPaUpPQ0xsekJONFV2OUE1VGtVRVE",
      "feed": "gn-to-star"
     },
     {
@@ -1532,18 +1532,13 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObkViY2V1bVNuM0VuUUprejVyOXJsMVRuSDJwWk9OTkRGMzg0Qk83V2Q2b3BXVHNneENRbmpQb0o3aThnXzUwem1nTzJEQUtWdjFycWFPVzhNTmJGZEt2SkFkQjZ1Q0JseHJTNE85a3VqN2dQcmdyM0VtamVGemlNU2ZIemlsUUlKMEV4ajNJTU1iaGNOS3ZLNm1zTUNadGRYRWFtRWhVWXJNYVU1TFN6cGpKNUljUW9odlRSNGFrN1ZFdFBzczh3Xzk1T3h6UzdnYkN4dzNPaUpPQ0xsekJONFV2OUE1VGtVRVE",
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlBKMG10TmlsVFREU1N6U2xhN044bEVXNlp5R3JncnJHcUVjY3pBVW90eDhoeDZMc29sODkwU1dvWEJUQkUwbEh5ZTVsZG14NC1xYWdRLVg3UHdJY3VBY09DMVh1VXRDampFVUJUTlRnbnZEdHMteW54RGx5R01LZndPR1ZWYUsyOG4xdmJCemIzYndjQlJrTWZRUlVHUFdP",
      "feed": "gn-to-star"
     },
     {
      "name": "The Hollywood Reporter",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlA3SDFRc0ZOWE4wTEJidGNFUlV2NlVwVEFWLVVXN1NOVGoyMzhSRTNuRUNjQk94bEZaTkFPTzZjNG56R2o1d0R1cHNPSXJwTWk0bk1VdWd5R015dWFCa2hZOW1CMC1JLXdSRndrQTZIcGliaXNON3NjZUR1amVoTE1fWlZTNktKYWloRkN0VzJHRWZCOFBNX2Vrb0wxU0lnRDhST2hOaXdlZHZyNjV0Z0VLQ0xaU1BzeGZQS1dn",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlBKMG10TmlsVFREU1N6U2xhN044bEVXNlp5R3JncnJHcUVjY3pBVW90eDhoeDZMc29sODkwU1dvWEJUQkUwbEh5ZTVsZG14NC1xYWdRLVg3UHdJY3VBY09DMVh1VXRDampFVUJUTlRnbnZEdHMteW54RGx5R01LZndPR1ZWYUsyOG4xdmJCemIzYndjQlJrTWZRUlVHUFdP",
      "feed": "gn-to-star"
     },
     {
@@ -1560,6 +1555,11 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/neil-patrick-harris-julianne-hough-austin-scott-damn-yankees-1236713604/",
      "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDZNUFBsbU95ZldwRWpnYnBlVGNZcnV4U2hydEQ5a21QMkZFMFZIdkRRYzEwUjdYTmF0dEstLVNNdzdhVVRaY3dMR3k0RVJidzhwTG95ZXRGMnoxT3RxYXdyaHBUZmdrNDZqR2VKSldsZzY4ejgwd2IwWjBCQi1fOGc3a1JLUG1NVTRFOGJtbWtBeHAwd3pIN2FnMUZwc29jcEJhZVUwRVJHNlloaXBkekN1Z0dGbFBMbDZlLVd3QjlHaWN4bmdZc0xvdVJDdw",
+     "feed": "gn-to-star"
     },
     {
      "name": "Broadway In Boston",
@@ -2077,8 +2077,8 @@
    "type": "casting",
    "show": "Donnell To Join Broadway",
    "title": "Rosie O’Donnell To Join Broadway’s ‘Rocky Horror Show’ As Temporary Fill-In For Rachel Dratch",
-   "quote": "O'Donnell will play The Narrator from Oct. 6 through Oct.",
-   "quoteSource": "The Hollywood Reporter",
+   "quote": "",
+   "quoteSource": "Deadline",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2102,11 +2102,6 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUI4WGc2aTBHOVhsM2duUlpJN2VCdkI5QUVuVFV1cXZRQ2NLVU1NWXNZUTB3eXBYVkRveUNtNVR4VjdqdVlOTl96dDYtMm95LWRGRlRnWFVJUnQ2RXZRamhBX1dnSlFVTjNFMDBkZzBubzN6MlEzN1FxQTJvRDd5OGdrVHg2c3otSWc",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/rosie-odonnell-rocky-horror-on-broadway-rachel-dratch-1236703071/",
-     "feed": "thr-arts"
     }
    ],
    "status": "published"
@@ -2236,6 +2231,93 @@
    "status": "published"
   },
   {
+   "id": "6edbfdd546",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T00:00:00+00:00",
+   "published": "2026-10-05T00:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "Irish Repertory Theatre",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": null,
+   "title": "The Hairy Ape: The First Zoo Story",
+   "quote": "",
+   "quoteSource": "New York Stage Review",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Stage Review",
+     "url": "https://nystagereview.com/2026/10/04/the-hairy-ape-the-first-zoo-story/",
+     "feed": "ny-stage-review"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "3e293ff3b2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-04T23:59:59+00:00",
+   "published": "2026-10-04T23:59:59+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "The Hairy Ape: Hairier Would Be Scarier",
+   "quote": "",
+   "quoteSource": "New York Stage Review",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Stage Review",
+     "url": "https://nystagereview.com/2026/10/04/the-hairy-ape-hairier-would-be-scarier/",
+     "feed": "ny-stage-review"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "1729de3767",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T20:30:00+00:00",
+   "published": "2026-10-04T20:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Weekly Schedule of Current Broadway Shows",
+   "quote": "A rundown of current Broadway shows and their planned show times.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "68e7422c16",
    "priority": 3,
    "watched": [],
@@ -2292,6 +2374,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "4a88080262",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T19:46:35+00:00",
+   "published": "2026-10-03T22:28:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Oh, Mary!",
+   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "9898e41530",
@@ -2405,35 +2516,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2Q1UmZrNHM4dWxuR0lhMFBFMzNLZmxnRzM2MFJGU1BvMmx1UWVUNXJoMXJjb2w2YzRKTzF5MFRrUXhwRGJmWndra1RHS0FkaE1xcWloUlZITHNDc29oekZLMlpWSl85TGdEeG1kVHNCTDZxMDhtdEhCZ016Tl9BNFdsYlNSOEJaMWgxTUp4ZWFkVjkzOENDQzI4dFNsNzZncVBma1ktbjgySHhhV0F2U0x5VUN6R2kyT1p0dHdzWExiM0djRjBMZzBB",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "4a88080262",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-10-02T21:16:20+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -4307,7 +4389,7 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "DC Theater Arts",
+     "name": "Dctheaterarts",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybk9nU180ZmZGOWpPdXZTeEJGTVJfWFNqRVdFajdKQlZ3LXljWUdlQWxHXzdpU21pNXRuaml1OHZHVlBzOV9yWklfenM2S3h3dHhhMEgyczA1TmFfUmc",
      "feed": "gn-to-star"
     }
@@ -5765,35 +5847,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON2N1bHZfUE5CNUxqSDIwTHotUGFsamNtWlF3Q2VHRTRVNGpiaE9aVVhmcnVUNlNIRC1JRTJta2RTRmtSRFdzMmtlajk3QjN5NlhldnZVR2NFZ0x0VDg0Y3gyNXdXc3ZIdTlzb0ZyZHlyajFpX1RpUWJiNXNkbUtUZ3BxRWdXdDNTeVZ3TlhFdGkwZ3R1bDRHSnZldnY0UDhBa2RzQmstQVcyUjNvaWp2UQ",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "1729de3767",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T20:30:00+00:00",
-   "published": "2026-09-27T20:30:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Weekly Schedule of Current Broadway Shows",
-   "quote": "A rundown of current Broadway shows and their planned show times.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
-     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -8621,7 +8674,7 @@
    "show": null,
    "title": "“58th Anniversary Celebration of Equity Theater Excellence in Chicago”",
    "quote": "",
-   "quoteSource": "Aroundthetownchicago",
+   "quoteSource": "AROUND THE TOWN CHICAGO",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -8629,7 +8682,7 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Aroundthetownchicago",
+     "name": "AROUND THE TOWN CHICAGO",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlF0Nk9IUFJYWTYzNU1FMjBNZzJaX2FONHhIM1J5eHFfc2hPN0xuYmoxWEFRclVfU0VhaER2WV9FTnExSTIySTlzd1BUSjNESEFjaXltbjljcHg4eS00cUN5TFZCcDI0VDktbmFxWlJtZTRBRWRxcUZtRTdwXzdNaGlidkQtcXlQZUVzS2lYcGFjVDM4NDdHZnZEUTh6X05CUWdLRUEtWEpEQ2s",
      "feed": "gn-chicago-venues"
     }
