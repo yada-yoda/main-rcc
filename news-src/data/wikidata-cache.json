@@ -89,6 +89,17 @@
   "qid": null,
   "score": 0
  },
+ "Alex Brightman": {
+  "checkedAt": "2026-10-06T18:48:54+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "School of Rock"
+  ],
+  "qid": "Q23664061",
+  "score": 10
+ },
  "Alison Luff": {
   "checkedAt": "2026-09-29T02:30:22+00:00",
   "description": "American singer and stage actress",
@@ -115,6 +126,15 @@
   "knownFor": [],
   "qid": "Q102439922",
   "score": 1
+ },
+ "Amanda Seyfried Remembers": {
+  "checkedAt": "2026-10-06T18:48:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Amber Davies": {
   "checkedAt": "2026-09-25T17:56:30+00:00",
@@ -200,6 +220,15 @@
   "qid": "Q16738990",
   "score": 3
  },
+ "Ann Harada": {
+  "checkedAt": "2026-10-06T18:48:50+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4766434",
+  "score": 7
+ },
  "Anne Frank": {
   "checkedAt": "2026-10-02T02:02:18+00:00",
   "description": "German-born Dutch Jewish diarist and Holocaust victim (1929–1945)",
@@ -241,6 +270,15 @@
  },
  "Anthony Mackie Returning": {
   "checkedAt": "2026-10-05T21:00:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Anthony Mackie-Led Macbeth": {
+  "checkedAt": "2026-10-06T18:48:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -762,6 +800,15 @@
   "qid": "Q106925763",
   "score": 7
  },
+ "Carnation City Players": {
+  "checkedAt": "2026-10-06T18:48:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Carolee Carmello": {
   "checkedAt": "2026-10-03T01:45:48+00:00",
   "description": "American actress and singer",
@@ -917,6 +964,15 @@
  },
  "Comedy Bill Pay": {
   "checkedAt": "2026-09-25T17:56:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Comic Con": {
+  "checkedAt": "2026-10-06T18:48:57+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1421,6 +1477,15 @@
   "qid": null,
   "score": 0
  },
+ "Final Week": {
+  "checkedAt": "2026-10-06T18:49:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "First-Ever Holiday Spectacular": {
   "checkedAt": "2026-09-25T17:52:12+00:00",
   "description": null,
@@ -1583,6 +1648,15 @@
   "qid": null,
   "score": 0
  },
+ "Gab Pangilinan": {
+  "checkedAt": "2026-10-06T18:48:47+00:00",
+  "description": "Filipino actress and singer (born 1991)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q96676722",
+  "score": 3
+ },
  "Gabriel Ebert": {
   "checkedAt": "2026-09-30T01:52:22+00:00",
   "description": "American singer",
@@ -1591,6 +1665,24 @@
   "knownFor": [],
   "qid": "Q16201335",
   "score": 5
+ },
+ "Gabriela Silang": {
+  "checkedAt": "2026-10-06T18:48:49+00:00",
+  "description": "Filipina insurgent leader",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q464337",
+  "score": 22
+ },
+ "Gates Foundation": {
+  "checkedAt": "2026-10-06T18:49:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Gershwins Let Em": {
   "checkedAt": "2026-09-25T17:52:11+00:00",
@@ -1808,6 +1900,17 @@
   "qid": "Q5892520",
   "score": 3
  },
+ "Harvey Guillén": {
+  "checkedAt": "2026-10-06T18:48:51+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "What We Do in the Shadows"
+  ],
+  "qid": "Q55395897",
+  "score": 18
+ },
  "Hayley Atwell": {
   "checkedAt": "2026-09-30T01:52:26+00:00",
   "description": "English and American actress (born 1982)",
@@ -2001,6 +2104,15 @@
  },
  "Internet Jazz Singing": {
   "checkedAt": "2026-10-01T18:43:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Irish Repertory": {
+  "checkedAt": "2026-10-06T18:49:05+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2392,6 +2504,15 @@
   "qid": null,
   "score": 0
  },
+ "Juan Pablo Di": {
+  "checkedAt": "2026-10-06T18:49:12+00:00",
+  "description": "Ph.D. Almaty State University 2016",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q102561023",
+  "score": 0
+ },
  "Judy Kuhn": {
   "checkedAt": "2026-09-25T17:48:08+00:00",
   "description": "American actress, singer and activist",
@@ -2541,6 +2662,15 @@
  },
  "La Mirada": {
   "checkedAt": "2026-10-03T01:45:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Lampoons Nazis": {
+  "checkedAt": "2026-10-06T18:49:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2734,6 +2864,15 @@
   "qid": null,
   "score": 0
  },
+ "Lionsgate Among Producers": {
+  "checkedAt": "2026-10-06T18:49:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Lisa Rinna": {
   "checkedAt": "2026-10-01T18:43:22+00:00",
   "description": "actor, writer",
@@ -2742,6 +2881,15 @@
   "knownFor": [],
   "qid": "Q239576",
   "score": 25
+ },
+ "Little Michael": {
+  "checkedAt": "2026-10-06T18:49:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Little Shop": {
   "checkedAt": "2026-09-25T17:54:35+00:00",
@@ -2854,6 +3002,18 @@
   "qid": "Q6697293",
   "score": 3
  },
+ "Lucy Hale": {
+  "checkedAt": "2026-10-06T18:48:45+00:00",
+  "description": "American actress and singer (born 1989)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Pretty Little Liars",
+   "Life Sentence"
+  ],
+  "qid": "Q229940",
+  "score": 61
+ },
  "Lynn Nottage": {
   "checkedAt": "2026-09-25T17:55:46+00:00",
   "description": "American playwright (born 1964)",
@@ -2942,6 +3102,15 @@
  },
  "Massachusetts Tryouts": {
   "checkedAt": "2026-10-02T18:14:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Matching Donation": {
+  "checkedAt": "2026-10-06T18:49:07+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3066,6 +3235,15 @@
   "qid": "Q47491844",
   "score": 2
  },
+ "Michael Mayer": {
+  "checkedAt": "2026-10-06T18:49:19+00:00",
+  "description": "German actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1928565",
+  "score": 1
+ },
  "Michael Sheen": {
   "checkedAt": "2026-10-01T18:43:34+00:00",
   "description": "Welsh actor",
@@ -3156,6 +3334,15 @@
   "qid": null,
   "score": 0
  },
+ "Musicals Everyone Comes": {
+  "checkedAt": "2026-10-06T18:49:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "NaTasha Yvette Williams": {
   "checkedAt": "2026-09-30T01:52:19+00:00",
   "description": "American actor",
@@ -3230,6 +3417,15 @@
   "knownFor": [],
   "qid": "Q16229267",
   "score": 1
+ },
+ "Nick Blaemire": {
+  "checkedAt": "2026-10-06T18:49:03+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q124055257",
+  "score": 0
  },
  "Nick Mohammed": {
   "checkedAt": "2026-09-25T17:51:57+00:00",
@@ -3539,6 +3735,15 @@
   "qid": null,
   "score": 0
  },
+ "Populate Readings": {
+  "checkedAt": "2026-10-06T18:49:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Prayer Circle": {
   "checkedAt": "2026-09-25T17:57:35+00:00",
   "description": null,
@@ -3742,6 +3947,15 @@
  },
  "Revada Arts": {
   "checkedAt": "2026-09-29T02:30:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Reviews Sound Off": {
+  "checkedAt": "2026-10-06T18:49:04+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4277,6 +4491,15 @@
   "qid": null,
   "score": 0
  },
+ "Syndee Winters": {
+  "checkedAt": "2026-10-06T18:49:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Talk About Anne": {
   "checkedAt": "2026-10-01T01:50:04+00:00",
   "description": null,
@@ -4334,6 +4557,15 @@
   "qid": "Q134262",
   "score": 101
  },
+ "Terrible Audition": {
+  "checkedAt": "2026-10-06T18:48:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Their Summers": {
   "checkedAt": "2026-09-25T17:47:53+00:00",
   "description": null,
@@ -4388,6 +4620,15 @@
   "qid": null,
   "score": 0
  },
+ "Tiler Peck": {
+  "checkedAt": "2026-10-06T18:49:17+00:00",
+  "description": "American ballet dancer and choreographer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q29534059",
+  "score": 4
+ },
  "Tim Crouch": {
   "checkedAt": "2026-09-25T18:43:09+00:00",
   "description": "English dramatist",
@@ -4417,6 +4658,15 @@
   "knownFor": [],
   "qid": "Q35102351",
   "score": 2
+ },
+ "Tinseltown Tiptoe": {
+  "checkedAt": "2026-10-06T18:49:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Titanique Hits": {
   "checkedAt": "2026-09-25T17:56:43+00:00",
@@ -4688,6 +4938,15 @@
   "qid": null,
   "score": 0
  },
+ "Welcomes Cree-Silver Corley": {
+  "checkedAt": "2026-10-06T18:49:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Well-Tempered Bach": {
   "checkedAt": "2026-09-25T17:57:12+00:00",
   "description": null,
@@ -4816,6 +5075,15 @@
   "qid": null,
   "score": 0
  },
+ "World Premieres": {
+  "checkedAt": "2026-10-06T18:48:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Xolo Maridueña": {
   "checkedAt": "2026-09-29T18:29:17+00:00",
   "description": "American actor",
@@ -4827,6 +5095,15 @@
   ],
   "qid": "Q53870611",
   "score": 36
+ },
+ "Years Away": {
+  "checkedAt": "2026-10-06T18:48:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Yerin Ha": {
   "checkedAt": "2026-09-25T17:56:11+00:00",
