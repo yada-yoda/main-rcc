@@ -53,6 +53,15 @@
   "qid": null,
   "score": 0
  },
+ "Ailey Citigroup": {
+  "checkedAt": "2026-10-07T19:14:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ailing Wayne Brady": {
   "checkedAt": "2026-09-29T18:29:20+00:00",
   "description": null,
@@ -388,8 +397,26 @@
   "qid": null,
   "score": 0
  },
+ "Bea Arthur Documentary": {
+  "checkedAt": "2026-10-07T19:14:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Beautiful Noise": {
   "checkedAt": "2026-09-25T17:47:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Beautifully Broken": {
+  "checkedAt": "2026-10-07T19:14:30+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -459,6 +486,15 @@
   "knownFor": [],
   "qid": "Q25051164",
   "score": 7
+ },
+ "Big Bang Theory": {
+  "checkedAt": "2026-10-07T19:14:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Bill Pay": {
   "checkedAt": "2026-09-25T17:55:27+00:00",
@@ -699,6 +735,15 @@
  },
  "BroadwayWorld Classifieds": {
   "checkedAt": "2026-10-01T18:43:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Brought Him Back": {
+  "checkedAt": "2026-10-07T19:14:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1196,6 +1241,15 @@
   "qid": "Q26702160",
   "score": 10
  },
+ "Developmental Reading": {
+  "checkedAt": "2026-10-07T19:13:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Diana Vreeland": {
   "checkedAt": "2026-09-25T17:56:40+00:00",
   "description": "American magazine editor (1903–1989)",
@@ -1222,6 +1276,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Dionne Warwick": {
+  "checkedAt": "2026-10-07T19:14:26+00:00",
+  "description": "American singer (born 1940)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q234695",
+  "score": 53
  },
  "Dirty Dancing": {
   "checkedAt": "2026-09-25T17:57:19+00:00",
@@ -1396,6 +1459,15 @@
   "qid": null,
   "score": 0
  },
+ "Ethan Hawke": {
+  "checkedAt": "2026-10-07T19:14:20+00:00",
+  "description": "American actor and writer (born 1970)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q484615",
+  "score": 81
+ },
  "Eureka Day": {
   "checkedAt": "2026-09-25T17:57:22+00:00",
   "description": null,
@@ -1567,6 +1639,15 @@
   "qid": null,
   "score": 0
  },
+ "Former Pennsylvania Home": {
+  "checkedAt": "2026-10-07T19:14:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Former View Co-Host": {
   "checkedAt": "2026-09-25T17:54:17+00:00",
   "description": null,
@@ -1641,6 +1722,15 @@
  },
  "Full Gallop": {
   "checkedAt": "2026-09-25T17:55:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Full List": {
+  "checkedAt": "2026-10-07T19:13:58+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1855,6 +1945,15 @@
   "qid": null,
   "score": 0
  },
+ "Halloween Week": {
+  "checkedAt": "2026-10-07T19:14:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hamilton Hits": {
   "checkedAt": "2026-09-25T17:56:50+00:00",
   "description": null,
@@ -1866,6 +1965,15 @@
  },
  "Hammerstein Ballroom": {
   "checkedAt": "2026-09-25T17:47:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Hammerstein Museum Breaks": {
+  "checkedAt": "2026-10-07T19:14:10+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1939,6 +2047,15 @@
   ],
   "qid": "Q234959",
   "score": 58
+ },
+ "Heated Rivalry Pluribus": {
+  "checkedAt": "2026-10-07T19:14:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Here There": {
   "checkedAt": "2026-10-05T21:00:00+00:00",
@@ -2282,6 +2399,15 @@
   "qid": null,
   "score": 0
  },
+ "Jellicle Ball Liberation": {
+  "checkedAt": "2026-10-07T19:13:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jenn Colella": {
   "checkedAt": "2026-09-30T18:18:01+00:00",
   "description": "American actress",
@@ -2459,6 +2585,15 @@
   "qid": "Q108077820",
   "score": 0
  },
+ "Johnny Galecki Left": {
+  "checkedAt": "2026-10-07T19:14:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Joining Chadwick Stokes": {
   "checkedAt": "2026-10-01T18:43:39+00:00",
   "description": null,
@@ -2468,8 +2603,26 @@
   "qid": null,
   "score": 0
  },
+ "Jon Secada": {
+  "checkedAt": "2026-10-07T19:14:27+00:00",
+  "description": "American singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q946170",
+  "score": 23
+ },
  "Jonathan Bailey Exit": {
   "checkedAt": "2026-09-25T17:51:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Jonathan Groff Dazzles": {
+  "checkedAt": "2026-10-07T19:14:28+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2503,6 +2656,24 @@
   "knownFor": [],
   "qid": "Q1394422",
   "score": 19
+ },
+ "Jose Llana": {
+  "checkedAt": "2026-10-07T19:14:22+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6279421",
+  "score": 7
+ },
+ "Josh Sharp": {
+  "checkedAt": "2026-10-07T19:14:05+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q123169229",
+  "score": 1
  },
  "Joshua Henry": {
   "checkedAt": "2026-09-30T18:18:13+00:00",
@@ -2653,6 +2824,15 @@
  },
  "Kicking Off Paper": {
   "checkedAt": "2026-09-25T17:54:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kidman Carol": {
+  "checkedAt": "2026-10-07T19:14:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3097,6 +3277,15 @@
   "qid": "Q191828",
   "score": 66
  },
+ "Marla Mindelle": {
+  "checkedAt": "2026-10-07T19:14:04+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q62091828",
+  "score": 2
+ },
  "Marlon Brando": {
   "checkedAt": "2026-09-25T17:57:26+00:00",
   "description": "American actor (1924–2004)",
@@ -3108,6 +3297,15 @@
   ],
   "qid": "Q34012",
   "score": 158
+ },
+ "Martin Moran": {
+  "checkedAt": "2026-10-07T19:14:08+00:00",
+  "description": "Panamanian footballer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q114346856",
+  "score": 3
  },
  "Mary Jumps": {
   "checkedAt": "2026-09-25T17:56:44+00:00",
@@ -3454,6 +3652,15 @@
   "qid": "Q16229267",
   "score": 1
  },
+ "Nicholas Christopher": {
+  "checkedAt": "2026-10-07T19:14:00+00:00",
+  "description": "American writer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7025204",
+  "score": 3
+ },
  "Nick Blaemire": {
   "checkedAt": "2026-10-06T18:49:03+00:00",
   "description": "American actor",
@@ -3523,6 +3730,15 @@
   "qid": null,
   "score": 0
  },
+ "Non-Film Nominees List": {
+  "checkedAt": "2026-10-07T19:14:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Norah Nunes": {
   "checkedAt": "2026-10-02T18:14:47+00:00",
   "description": null,
@@ -3543,6 +3759,15 @@
  },
  "Oak Tree": {
   "checkedAt": "2026-09-25T17:51:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ogunquit Playhouse": {
+  "checkedAt": "2026-10-07T19:14:19+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3588,6 +3813,15 @@
  },
  "Original Rent": {
   "checkedAt": "2026-09-25T17:52:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Other Bodies": {
+  "checkedAt": "2026-10-07T19:14:09+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3853,6 +4087,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Rachel Hoffman": {
+  "checkedAt": "2026-10-07T19:14:23+00:00",
+  "description": "Quebecois political candidate",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q62579705",
   "score": 0
  },
  "Rachel Zegler": {
@@ -4545,6 +4788,15 @@
   "qid": null,
   "score": 0
  },
+ "Talia Suskauer": {
+  "checkedAt": "2026-10-07T19:14:17+00:00",
+  "description": "American stage actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q130305804",
+  "score": 1
+ },
  "Talk About Anne": {
   "checkedAt": "2026-10-01T01:50:04+00:00",
   "description": null,
@@ -4937,6 +5189,15 @@
   "knownFor": [],
   "qid": "Q16193218",
   "score": 2
+ },
+ "Viveca Chow": {
+  "checkedAt": "2026-10-07T19:14:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Wake Up": {
   "checkedAt": "2026-09-25T17:51:38+00:00",
