@@ -917,6 +917,15 @@
   "qid": "Q259064",
   "score": 28
  },
+ "Christine Ebersole": {
+  "checkedAt": "2026-10-07T02:08:34+00:00",
+  "description": "American actress (born 1953)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q437438",
+  "score": 29
+ },
  "Christopher Jackson Keeps": {
   "checkedAt": "2026-09-30T01:52:47+00:00",
   "description": null,
@@ -1810,6 +1819,15 @@
   "qid": "Q19517962",
   "score": 30
  },
+ "Grey Gardens": {
+  "checkedAt": "2026-10-07T02:08:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Grief Eater Near": {
   "checkedAt": "2026-10-05T21:00:12+00:00",
   "description": null,
@@ -2534,6 +2552,15 @@
   "qid": "Q232072",
   "score": 56
  },
+ "Julia Louis-Dreyfus Sells": {
+  "checkedAt": "2026-10-07T02:08:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Julia Roberts": {
   "checkedAt": "2026-09-25T17:56:00+00:00",
   "description": "American actress (born 1967)",
@@ -2641,6 +2668,15 @@
   "knownFor": [],
   "qid": "Q19663468",
   "score": 2
+ },
+ "Kristy Cates": {
+  "checkedAt": "2026-10-07T02:08:38+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q11873097",
+  "score": 3
  },
  "Kyle Beltran": {
   "checkedAt": "2026-10-05T21:00:14+00:00",
@@ -3963,6 +3999,15 @@
   "qid": null,
   "score": 0
  },
+ "Revisit Tony-Winning Role": {
+  "checkedAt": "2026-10-07T02:08:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Richard Thomas": {
   "checkedAt": "2026-09-25T17:55:16+00:00",
   "description": "American author",
@@ -4850,6 +4895,15 @@
  },
  "Unveils Full": {
   "checkedAt": "2026-10-05T21:00:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Unwitting Magician": {
+  "checkedAt": "2026-10-07T02:08:39+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
