@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "5fe21e1629",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-23T16:37:30+00:00",
+   "published": "2026-10-07T20:18:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Giant",
+   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "John Lithgow",
+     "knownFor": "American actor",
+     "score": 64,
+     "qid": "Q311271"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "28dbdb276a",
    "priority": 2,
    "watched": [],
@@ -117,15 +153,15 @@
    "published": "2026-10-07T13:00:14+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "Circle in the Square",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Just in Time",
    "title": "Nicholas Christopher to star in 'Just in Time' on Broadway",
-   "quote": "Tony nominee Nicholas Christopher will make his return to Broadway as Bobby Darin in JUST IN TIME, beginning Tuesday, November 10, 2026, at Circle in the Square Theatre. “Nicholas Christopher's performance as Anatoly Sergievsky in Chess last season showed the world that he has a remarkable voice and an extraordinary a…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-881c8743afdeda46a978daa780c593f3.jpg",
-   "imageCredit": "BroadwayWorld",
+   "quote": "He suits up for the role after Matthew Morrison completes his encore engagement on November 8.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/140531-11.jpg",
+   "imageCredit": "Broadway News",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -146,11 +182,6 @@
      "name": "West End Best Friend",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjBKal9wSHBHR0FjYTFtYkNNWmpoaWI2V1VUN216VlY1MF94emxrTkdsbndUcTdkUDkwQzFkZmo1YlkxSXZ3ZEVkSUZBWThOZDdvaXh5OTBRVS1nOGVja0k4SkVJSlE1Y3NlTkNWUFUxMkNNVHFzTnNlUTRyT3ZmOTg3anRURDQ1cWlqMDM0dUJrdWhuc2ZYc1VMaw",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Nicholas-Christopher-Will-Play-Bobby-Darin-in-JUST-IN-TIME-on-Broadway-20261007",
-     "feed": "broadwayworld"
     },
     {
      "name": "Broadway News",
@@ -515,6 +546,11 @@
      "feed": "gn-bway-casting"
     },
     {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1JGVzR5c1p6NlpqcnpJRUVKOXl0UEc4QXhBUTBubVZMUUhmYzFrTWtSVWptU1VhT25aRlJaSnRGZEJNVFRkNVZ1NEczSzdpaWJZX0k2MFlUOEVxMUl2YlgySlZGUUhQNEo4OS1Zcmd4NW9ORzl3NDZsMkZvRWxJZ19BLWhoWVJvWTB2eEFMT3VZNGdaYUw3RDlwTjJLcTlteV96QncyYzREUVE",
+     "feed": "gn-bway-casting"
+    },
+    {
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/here-there-are-blueberries-broadway-cast-1237145879/",
      "feed": "deadline-theater"
@@ -707,6 +743,52 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "c6e59b3625",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-02T18:44:20+00:00",
+   "published": "2026-10-02T18:44:20+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "In brief: Dolly Parton Broadway musical announces cast and more",
+   "quote": "",
+   "quoteSource": "Mycentraloregon",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Mycentraloregon",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3RGYUFiVDJvamhSRnU2OWpBbUxWamVhUW5PVFZJV3VlbWJXampEYzh6cmhMNEZIclNqaDdxV256TlBiS3dNeE95ZkpFNnZYTDY1STJPMGozNVpWZkhsSU9DZVpRRTFhbDhmMjRPbkxOQ0RNTjQ1N3VYMXhqOW9oMWlnSEhiTnQ3b3ZsazEzVjdwT1ZFSzUxX1N2ZnF3ejlScDllZzNyX21MQQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "9fd8fa0c82",
@@ -1362,6 +1444,11 @@
     {
      "name": "Aol",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUkydzZJdF9MeVZyaEdxTmx3N0VnZ1IyODJVcHJOdWRyMjAxb1otbWFreTR3UnRTNFM5QzY1eV9uN1p6Q1M3OVp4QnJlbTktcTBuQlJZdzFZUXh4cEV4czQxb2ZWYlgwUWtnV0dVRXc5UUhKMTdHcDVhM0FTZjZaQ1J0ZW8",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Parade Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUxKVVRzZlNYcXBRbEpsZmxqUl9hWWRfdFZvbTJvN1RJZXJOdlJmZENIUXVZSlJyaGllcGh4LV91NUkycDgxSTRrc3ZUWGhDcVU4VUNaNTB0b3Y4aS16X2hrNzliUUFseHJDTjFVZWg3VExzU0F3LTdwVkVmemJqbmZ1SklmS212bXM3ZEFUTVpIT0lkbXZ4N3Fra0NyZXp5Z3c",
      "feed": "gn-to-star"
     }
    ],
@@ -2020,42 +2107,6 @@
    "status": "published"
   },
   {
-   "id": "5fe21e1629",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-23T16:37:30+00:00",
-   "published": "2026-09-28T19:45:18+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Giant",
-   "title": "Full Cast Set for Broadway Transfer of ‘Giant’ Starring John Lithgow",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "John Lithgow",
-     "knownFor": "American actor",
-     "score": 64,
-     "qid": "Q311271"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNhUGJ2WHF2eUo2MFBqRDZ4RzZWbWJFVUl5YTBRMEh3Vk1nc2RxTGZfSGVGOGJMeE5iVWl3QjhuTkl5eWk1b3Q5TGhTMXc3ckxNWDMyNFI1TlN4ZGFzaklySW5CRk5jcWlDdEx3VnhSdXpTdUQ3RWFlVnZlZXhTN0hmWUk5ZmxTdV9TX2JZX0tSUGg3aGdDQjNpZ2gydG9LUzg5RQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "f653377e31",
    "priority": 2,
    "watched": [],
@@ -2582,6 +2633,214 @@
    "status": "published"
   },
   {
+   "id": "578a72da0f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T22:25:11+00:00",
+   "published": "2026-10-07T22:25:11+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Psychopathia Sexualis",
+   "title": "PSYCHOPATHIA SEXUALIS Cast Announced for Present Company's Inaugural Season",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMU5SM3lvaWc4d2h6U01za0pyMnB1c2VoZ3pOSjFvcG1jYU5mdXRaeFBfUzViNWNQRVRZcm1hbHo1VkpueXFWUW40LThjN1Z6aHBaNk9PY2JyTmZ4OVJ5R0U4bll3S2pSSjZ3YzBuUGRoME14TUx5TXA3OTNCSHMzREI5MVVqdFIzeG1zeVNjUlQyQ195bWpfWFNCNjRTdktHelhTbm43b1BjcFRzd2picDBqUmhPeWtjaFZsdDh3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a017479404",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T22:09:47+00:00",
+   "published": "2026-10-07T22:09:47+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "Encanto",
+   "title": "ENCANTO Stage Adaptation Will Premiere On Board the Disney Believe",
+   "quote": "Disney Cruise Line will invite guests on a journey inspired by courageous Disney characters who believe in themselves, in their dreams, and in the promise and possibility of new horizons when the fleet's new ship, the Disney Believe, sets sail December 18, 2027, from Port Everglades in Fort Lauderdale, Fla. The Disney…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-868a83c32c5ca25ea0c3a9f940864210.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/ENCANTO-Stage-Adaptation-Will-Premiere-On-Board-the-Disney-Believe-20261007",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "c8d9c86051",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T21:41:08+00:00",
+   "published": "2026-10-07T21:41:08+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Liberation,",
+   "title": "Casting directors of ‘Liberation,’ ‘Ragtime,’ ‘Schmigadoon!’ and more nominated for 42nd Artios Awards",
+   "quote": "The annual awards honor the contribution of casting professionals in theater, television and film.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/1766---Betsy-Aidem--Kristolyn-Lloyd--Irene-Sofia-Lucio--Adina-Verson--Audrey-Corsa-and-Susannah-Flood-in-the-Broadway-production-of-Liberation-by-Bess-Wohl--directed-by-Whitney-White---Little-Fang-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmczc2hScXlWOS1EdkU5Nk1rY0ZJVXJZOUpMMzZ4Qll4QW9nRUctWVJYM0pkV29POTFxSHN4aS15cUNZZFNKTml6MzRTWnBrcTVDNVNYRWF1bmFaZmNmQlJyM01qazllWWVVYm13TTI0SVM4eDJnb1BzRTRleFBKcGJtZjFyYzB6aHQwZVRQbEdoVlppQXhlbEhoTVNDZlZpX3k4OWJHbnR5NXpBdHMtbDY3bFY0bTlVWUNOSHdwZmU",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/casting-directors-of-liberation-ragtime-schmigadoon-and-more-nominated-for-42nd-artios-awards/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "5f07813779",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T21:39:14+00:00",
+   "published": "2026-10-07T21:39:14+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Studio 54",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "New York City Council Gives Roundabout Theatre Company $8.3 Million to Renovate Studio 54",
+   "quote": "The New York City Council presented Roundabout Theatre Company with $8,359,000 to help preserve and renovate Studio 54. Council Member Carl Wilson took to Instagram to share: The New York City Council was proud to present Roundabout Theatre Company with $8,359,000 to help preserve and revitalize the iconic Studio 54.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-54543cb69a65dfe6c61cf9cb4d74e921.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/New-York-City-Council-Gives-Roundabout-Theatre-Company-83-Million-to-Renovate-Studio-54-20261007",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "36ef712dd3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T20:52:55+00:00",
+   "published": "2026-10-07T20:52:55+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "Commercial Theater Institute announces agenda and speakers for 2026 Three-Day Intensive",
+   "quote": "Speakers will include Tony Award-winning producers, marketing and advertising professionals and other industry members.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/CTI-Picture-for-Homepage-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/commercial-theater-institute-announces-agenda-and-speakers-for-2026-three-day-intensive/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "def0744964",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T20:09:06+00:00",
+   "published": "2026-10-07T20:09:06+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway ad agency the Pekoe Group wins at the 2026 w3 Awards",
+   "quote": "The digital content awards have recognized Pekoe’s web videos and social media channels for multiple Broadway shows.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/3---1241_Sam-Tutty-and-Christiani-Pitts-in-TWO-STRANGERS--c--Matthew-Murphy-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadway-ad-agency-the-pekoe-group-wins-at-the-2026-w3-awards/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "ad7d646fc4",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T19:45:31+00:00",
+   "published": "2026-10-07T19:45:31+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "Into The Woods &",
+   "title": "INTO THE WOODS & More Set For Goodspeed Musicals 2027 Season",
+   "quote": "Two-time Tony Award-winning Goodspeed Musicals has announced its 2027 season at The Goodspeed, featuring two classic works and a musical inspired by the songs of Huey Lewis And The News. The season offers 'something for everyone with two beloved classics by musical theatre titans and a rockin' '80s summer escape.' The…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-73cacb309e555f281098b5491732df2a.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/INTO-THE-WOODS-More-Set-For-Goodspeed-Musicals-2027-Season-20261007",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "09335ae7b5",
    "priority": 3,
    "watched": [],
@@ -2698,35 +2957,6 @@
    "status": "review"
   },
   {
-   "id": "cb5c24d2e6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-07T17:28:10+00:00",
-   "published": "2026-10-07T17:28:10+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "A.J.",
-   "title": "Talia Suskauer and A.J. Shively to Lead Ogunquit Playhouse's MARY POPPINS",
-   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} Ogunquit Playhouse has revealed the principal cast for Disney and Cameron Mackintosh's Mary Poppins, playing December 2–20 at The Music Hall in Portsmouth, New Hampshire. Broadw…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-eda497046dbff28bb9728b3c64f6e852.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Talia-Suskauer-and-AJ-Shively-to-Lead-Ogunquit-Playhouses-MARY-POPPINS-20261007",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "6cd6f50f64",
    "priority": 3,
    "watched": [],
@@ -2751,6 +2981,98 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORm9WdVBOQWJXOFdxdzdiYV9fQmNndGVxNXNEVDRaNVpYajZwbF9CdXdRX1FiWXlBNWdwa2MybGJHVFk3VThwX2xwN25HdzZJbUlCcE81blk2amZxdGc1Yi1sTmlva2x6Z0YzTzF5U3d0TDJJZDZiQi1Mck1ZU2hwSkgzV202X3N4d0FCSmxQdjBGSFhlaXA2MVE0eGJHMjVtTmgtVTN3Mmkwbzk2X0phUmFncFFCRHlTSXdNYkZUVnFod2RIMUktVE4xRVA3UHRUYnRtOVZtN0YzMFJneXo2VlB6dVdhc2ZaZjAxQnNYN1I",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "cb5c24d2e6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T17:28:10+00:00",
+   "published": "2026-10-07T16:14:10+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "A.J.",
+   "title": "Talia Suskauer and A.J. Shively Will Lead Mary Poppins for Ogunquit Playhouse and Music Hall",
+   "quote": "The Disney and Cameron Mackintosh hit will fly into New Hampshire's Music Hall in December.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Talia-AJ.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/talia-suskauer-and-a-j-shively-will-lead-mary-poppins-for-ogunquit-playhouse-and-music-hall",
+     "feed": "playbill"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Talia-Suskauer-and-AJ-Shively-to-Lead-Ogunquit-Playhouses-MARY-POPPINS-20261007",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "bc856135bd",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T16:11:00+00:00",
+   "published": "2026-10-07T16:11:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "See the New Playbill Covers for Fall and Winter 2026",
+   "quote": "A new theatre season has begun!",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Pbill-covers-2026.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/see-the-new-playbill-covers-for-fall-2026",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "4f57f45e07",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T16:10:19+00:00",
+   "published": "2026-10-07T16:10:19+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "s Mark O",
+   "title": "A Morning With Ernie Bushmiller Will Play Brooklyn's Mark O'Donnell Theater",
+   "quote": "TV writer Tom Gammill, who penned the play, also stars.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Brooklyn2.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/a-morning-with-ernie-bushmiller-will-play-brooklyns-mark-odonnell-theater",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -2908,15 +3230,15 @@
    "published": "2026-10-07T14:03:13+00:00",
    "city": "New York",
    "tier": "Off-Broadway",
-   "venue": "New World Stages",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "A Kidman Carol",
    "title": "Marla Mindelle, Josh Sharp to star in 'A Kidman Carol' off Broadway",
-   "quote": "BroadwayWorld has just learned that following a sold-out developmental run last year, A Kidman Carol will open Off-Broadway this holiday season starring three-time Tony Award-nominee and Olivier Award-winner Marla Mindelle as Nicole Kidman and Drama Desk Award-nominee Josh Sharp as Cate Blanchett. Written by Kevin Zak…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-e124ef909eb0530676f7c2b40e6d882b.jpg",
-   "imageCredit": "BroadwayWorld",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -2925,11 +3247,6 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmExSm5UV01XVVpfaV9CV2tULXE2UW9rQXJJUjlrT1JFUW9lalRfZ3A2WF9nQldCMDAybW5YZmFTQmJ5QThYOFhfYnIzMFloX3FiUlN3RGtCa05jdkZ6Q3pldkhuS1FhT3NoOUloMWlXdDlmWU4tUnItZnRjbi1GdDVMbUxUYTdtQnJVNWczYmdtWmVDdGgzdmhfRF9qakdOMXpMeWZzLW5nVVdIOTdKTGNldERxU254cVE",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Marla-Mindelle-Josh-Sharp-Will-Lead-A-KIDMAN-CAROL-Off-Broadway-20261007",
-     "feed": "broadwayworld"
     }
    ],
    "status": "published"
@@ -3022,6 +3339,35 @@
    "status": "published"
   },
   {
+   "id": "9bac79dd90",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-24T17:16:40+00:00",
+   "published": "2026-10-07T12:32:21+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Galileo",
+   "title": "Raúl Esparza to Star in Broadway Run of ‘Galileo’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG12bFdyRWhRVjJJdXBDZHp3SWVxNFVraUhLeVJtbGo1dV9lbmNxQkw4RzZTMWVCeUNydnlNOUwwT0NZZWlYcUh6clkyNTRlaTVUMlhoQVRKTU5CLUpLSDUtbmZvSTBYTWQteTVCOUFaZGl3V1ltbXdMdlBCUXZuTlk4SmJkVzM4MTFN",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "4a88080262",
    "priority": 3,
    "watched": [],
@@ -3075,9 +3421,43 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWmFSUVRxa0Z4ckU1N01taW9CcmZsWkt5czR6MV9nT29qU0pEamoxQzVZb2lYdDlWUlBVbW9xTE11RldoT0RId1B4NmtzOEkzQ1JDRTl2Qmh6NEtwcTZ4TkJ2RjE5WUZJTmdhM0E4TUJnMDcxLVdudEJYSkdEd0lISkNSV20waVQ4SGpuWmhNMml1S3BCMXBKRENucGRlRVZocHo3ZkF3cGUxRjRGVlotaHo4Q2pyV2tzU3c",
      "feed": "gn-bway-casting"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQODVFZGxQSHRiRW8wRU9MMG1TTEpXaTdQNUk2N29Oa1NCbmRfMlVTb0VXVW5IQ1J5MTFVTnYydkZsLUIwZDU1TzZGV2Fzbl8yMjlJSEhxaFlDcmtaWGw1MkowLS1JX0tBMDVlYTRkM1pyWXZmaUpXSmZHWU1qOTl5TS1ZTUxhZHI2N3Zub3BKbnhreXFIQnJPMGxKNFJDeDRhNE5BaFpJNlFZMlF1NVE",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "939699fbf2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T13:52:46+00:00",
+   "published": "2026-10-07T11:46:53+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "2:22 – A Ghost Story",
+   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "1b64d897b8",
@@ -3220,35 +3600,6 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
      "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "939699fbf2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T13:52:46+00:00",
-   "published": "2026-10-06T18:03:09+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "2:22 – A Ghost Story",
-   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -4083,15 +4434,15 @@
    "published": "2026-10-05T19:08:59+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "Belasco Theatre",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Maybe Happy Ending",
    "title": "Savy Jackson to star in 'Maybe Happy Ending' on Broadway",
-   "quote": "Current Claire and original company member Hannah Kevitt will play her final performance at the Belasco Theatre on October 18.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143187-11.jpg",
-   "imageCredit": "Broadway News",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -4100,11 +4451,6 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVhIdXV0VWZOTk5DRnhZNlJ2SEMyaERBME5JR3BLeURyMW5kVldmaE5jYzI3blV2MEpYaWRfRFc1RkNkNXRnMUNqN1dnaHJlcU5rZGE3cUpId05UTmV6dlhBLVNGaTBLZE9lSGFFSVphWXZOUE9RTkNhWFN5RTg1b2VySW9xekhCcEZ4ZkxFb3UwNi1NZkdmTVVNd0hxMFFCM0xJYTlMdW55M1lt",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/savy-jackson-to-take-over-as-claire-in-broadways-maybe-happy-ending/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -4632,35 +4978,6 @@
    "status": "review"
   },
   {
-   "id": "9bac79dd90",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T17:16:40+00:00",
-   "published": "2026-10-05T14:34:42+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Galileo",
-   "title": "Raúl Esparza to Star in Broadway Run of ‘Galileo’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG12bFdyRWhRVjJJdXBDZHp3SWVxNFVraUhLeVJtbGo1dV9lbmNxQkw4RzZTMWVCeUNydnlNOUwwT0NZZWlYcUh6clkyNTRlaTVUMlhoQVRKTU5CLUpLSDUtbmZvSTBYTWQteTVCOUFaZGl3V1ltbXdMdlBCUXZuTlk4SmJkVzM4MTFN",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "9459293b5c",
    "priority": 3,
    "watched": [],
@@ -4714,6 +5031,35 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTJJNTM4TUdZaVRabzF4aTJwbVcyRkdFLTdmVTJVZHZfYmRINFFTX3ZNR2pKR3VjRk50ckVJZ1lXZEZudFJsMGRXRDM1ZTg1bG5rcWRWcG1yTElTOVVCa1c5a05vTjdvM2pVcXE0dldiT0VyVDA4aFRGRThmM2JqTkhCWXp5Y0QtYmQ2TXlXQ2JneWxJaHBiX01QanFRVncxcmdGX3JKaUR4VFRBNzBjM2owc2hCdw",
      "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "93c9915d2a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T11:00:00+00:00",
+   "published": "2026-10-05T11:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Anthony Mackie Playing Macbeth In Broadway After Long Theater Absence",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2NxRXJidWtjSnN4V05tZ0V3MnB5TG9HQm9uSlA0T3VwOVZLU011RW0wYmRSVHBUQW1EUnhoX1BFX0tGYktUV0hpNWg4bEpWV1hMU3BjVXAxQ1A3VzNWUmRGbnJrNzF3cS1CaGQzOHljOC1nRnU2T1M3YlZsYnpUbC1TNERHQm1hdFFQNEZWdw",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -5261,16 +5607,21 @@
    "venue": null,
    "placedBy": "words",
    "type": null,
-   "show": "Dolly: A True Original Musical",
-   "title": "Cast of ‘Dolly: A True Original Musical’ Broadway Production Revealed",
+   "show": "DOLLY: A True Original Musical",
+   "title": "Cast members for ‘DOLLY: A True Original Musical’ on Broadway discuss Tennessee icon’s legacy",
    "quote": "",
-   "quoteSource": "Billboard",
+   "quoteSource": "WKRN News 2",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
    "sources": [
+    {
+     "name": "WKRN News 2",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQelRZUDRLaEc4UXlwcE1vanl3UkJTV1F5ZlRzcjBvUmVmQnE2LUxfTUJYNVZUSEREaDRKR0ZQbTZiWDZxNmoxT0FmaEtzY3pzLWNPTUxDc2U1ZVN3Wi1VY0otemZ5TTdETElYaU85a1Npa3dwSmY4em9IdDNMMndiV0xYdWZMeE92c2t2UFlvQVJTT0JYeXhfNk9TZ1pXV3hjX1Y5ZHRYUTlhVDc5YkhXNWZKXzhEZnB3TmpDT2JfVGYyZ3ZyQXlRaGNha25qRk9yQUY40gHYAUFVX3lxTFBEZEItWFBiRFVlVTA4SEExb1Y1LVlEaTItUHdnTjNnSFltUC11WHVKeW5sOV9pSzFLVGF6UGtXVHFyX3I5eHJxVGpFekx1TFJiN3ZRa2o2YVhJSWR5YUdQazFrVVl0Wm1tSk5tSXNEMXJfeDVqUXA0TGhCQkxyVGdCN3R3X1M1bXd2SzdkZFFBbU5ZS1dRcXF3d2lTN0dQdERmTkExWEliVmQxSW9NWFlZT1BuVnZKMXdCLW5zWXcwdk1kM0hJSW1aTnN0RE50VTAwQzFqYzhZQQ",
+     "feed": "gn-bway-casting"
+    },
     {
      "name": "Billboard",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU29RUEdYSVBYYTJkUVFCNmxzVTdON0VZV1dLel9iSmRlYzJoalNiNGs0WldTNTVtdjd4S2NOcjJtTkZWX1pSRFMtSUMtcUFkbFY0XzlHZnhHMGxsTUNJaWJwcVZmQWhFcXF0MDFGVVVvSWhFWGI0NUtzVExPNzhiS2hQb193YnBYejNLcVBWaThtaHhaNy14Q2w3c0xWaDhrbG5FTmNkTjh0WlNBSUNtV0w3TQ",
@@ -5320,7 +5671,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "Dolly",
-   "title": "The Broadway Premiere of DOLLY: A True Original Musical Cast Announced",
+   "title": "The Broadway Premiere of DOLLY: A True Original Musical Cast Announced | Dolly Parton News & Updates",
    "quote": "",
    "quoteSource": "Dolly Parton Official Website",
    "image": null,
