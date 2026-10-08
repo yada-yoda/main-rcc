@@ -109,6 +109,15 @@
   "qid": "Q23664061",
   "score": 10
  },
+ "Alfred Molina": {
+  "checkedAt": "2026-10-08T19:10:36+00:00",
+  "description": "British actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q296028",
+  "score": 56
+ },
  "Alison Luff": {
   "checkedAt": "2026-09-29T02:30:22+00:00",
   "description": "American singer and stage actress",
@@ -152,6 +161,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q120614847",
+  "score": 0
+ },
+ "Among Line-Up": {
+  "checkedAt": "2026-10-08T19:10:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "And Be Present": {
@@ -219,6 +237,15 @@
   "knownFor": [],
   "qid": "Q4760876",
   "score": 12
+ },
+ "Andy Karl-Led A": {
+  "checkedAt": "2026-10-08T19:10:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Anika Larsen": {
   "checkedAt": "2026-10-02T18:15:15+00:00",
@@ -432,6 +459,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Bebe Neuwirth": {
+  "checkedAt": "2026-10-08T19:10:48+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q232985",
+  "score": 38
  },
  "Beginning Off-": {
   "checkedAt": "2026-09-25T17:47:32+00:00",
@@ -854,6 +890,15 @@
   "qid": "Q106925763",
   "score": 7
  },
+ "Carla Gugino": {
+  "checkedAt": "2026-10-08T19:10:20+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q228871",
+  "score": 60
+ },
  "Carnation City Players": {
   "checkedAt": "2026-10-06T18:48:40+00:00",
   "description": null,
@@ -934,6 +979,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Chilina Kennedy": {
+  "checkedAt": "2026-10-08T19:10:13+00:00",
+  "description": "Canadian actress and singer (b1978)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q131295764",
+  "score": 1
  },
  "Chose Herself": {
   "checkedAt": "2026-10-03T01:45:46+00:00",
@@ -1205,6 +1259,15 @@
   "qid": null,
   "score": 0
  },
+ "Daphne Rubin-Vega": {
+  "checkedAt": "2026-10-08T19:10:31+00:00",
+  "description": "Panamanian actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3015861",
+  "score": 13
+ },
  "Darren Buck": {
   "checkedAt": "2026-10-01T18:43:29+00:00",
   "description": "American entrepreneur and technologist, founder of Portal HomeHub",
@@ -1212,6 +1275,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q140560350",
+  "score": 0
+ },
+ "Dead Girl": {
+  "checkedAt": "2026-10-08T19:10:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Deadline Hollywood Dirty": {
@@ -1243,6 +1315,15 @@
  },
  "Delightful Details": {
   "checkedAt": "2026-10-03T17:00:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Delivering Aaron Sorkin": {
+  "checkedAt": "2026-10-08T19:10:39+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1738,6 +1819,15 @@
   "qid": "Q5481173",
   "score": 12
  },
+ "Fred Hechinger": {
+  "checkedAt": "2026-10-08T19:10:25+00:00",
+  "description": "American actor and director",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q104902570",
+  "score": 23
+ },
  "Free Student": {
   "checkedAt": "2026-10-02T18:14:45+00:00",
   "description": null,
@@ -1827,6 +1917,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "George Abud": {
+  "checkedAt": "2026-10-08T19:10:16+00:00",
+  "description": "Off-Broadway actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q112728707",
+  "score": 1
  },
  "Gershwins Let Em": {
   "checkedAt": "2026-09-25T17:52:11+00:00",
@@ -1938,6 +2037,15 @@
  },
  "Grand Auction": {
   "checkedAt": "2026-09-25T17:56:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Great Gatsby": {
+  "checkedAt": "2026-10-08T19:10:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2174,6 +2282,24 @@
   "qid": null,
   "score": 0
  },
+ "Hugh Dancy": {
+  "checkedAt": "2026-10-08T19:10:45+00:00",
+  "description": "English actor (born 1975)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q314603",
+  "score": 42
+ },
+ "Human Things": {
+  "checkedAt": "2026-10-08T19:10:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Iconic Hollywood Couple": {
   "checkedAt": "2026-10-01T18:43:26+00:00",
   "description": null,
@@ -2336,6 +2462,15 @@
   "qid": null,
   "score": 0
  },
+ "Jack Thorne A": {
+  "checkedAt": "2026-10-08T19:10:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jackera Davis": {
   "checkedAt": "2026-10-01T18:43:31+00:00",
   "description": null,
@@ -2352,6 +2487,24 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q77283105",
+  "score": 0
+ },
+ "James Hindman": {
+  "checkedAt": "2026-10-08T19:10:29+00:00",
+  "description": "Australian astronomer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q117743548",
+  "score": 0
+ },
+ "James Naughton": {
+  "checkedAt": "2026-10-08T19:10:49+00:00",
+  "description": "successful doctoral candidate at the University of York",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q126369058",
   "score": 0
  },
  "James Olivas": {
@@ -2558,6 +2711,15 @@
   "qid": "Q29452733",
   "score": 5
  },
+ "Jin Ha": {
+  "checkedAt": "2026-10-08T19:10:34+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q88834138",
+  "score": 7
+ },
  "Jocelyn Bioh": {
   "checkedAt": "2026-09-25T17:55:03+00:00",
   "description": "Ghanaian-American writer and actor",
@@ -2641,6 +2803,15 @@
  },
  "Johnny Galecki Left": {
   "checkedAt": "2026-10-07T19:14:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Joining Andy Karl": {
+  "checkedAt": "2026-10-08T19:10:43+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2813,6 +2984,15 @@
   "qid": "Q272518",
   "score": 24
  },
+ "Justin Bartha": {
+  "checkedAt": "2026-10-08T19:10:33+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q110379",
+  "score": 42
+ },
  "Kathleen Chalfant": {
   "checkedAt": "2026-10-05T21:00:07+00:00",
   "description": "American actress",
@@ -2911,6 +3091,15 @@
   "knownFor": [],
   "qid": "Q11873097",
   "score": 3
+ },
+ "Krysta Rodriguez": {
+  "checkedAt": "2026-10-08T19:10:38+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4845646",
+  "score": 12
  },
  "Kyle Beltran": {
   "checkedAt": "2026-10-05T21:00:14+00:00",
@@ -3103,6 +3292,18 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Lilli Cooper": {
+  "checkedAt": "2026-10-08T19:10:18+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Tootsie",
+   "Spring Awakening"
+  ],
+  "qid": "Q29324843",
+  "score": 5
  },
  "Lillias White": {
   "checkedAt": "2026-09-25T17:55:30+00:00",
@@ -3331,6 +3532,15 @@
   "qid": "Q17380672",
   "score": 56
  },
+ "Marin Ireland": {
+  "checkedAt": "2026-10-08T19:10:24+00:00",
+  "description": "American actress (born 1979)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q72749",
+  "score": 24
+ },
  "Marisa Tomei": {
   "checkedAt": "2026-10-05T21:00:47+00:00",
   "description": "American actress (born 1964)",
@@ -3450,6 +3660,15 @@
   "knownFor": [],
   "qid": "Q294812",
   "score": 41
+ },
+ "Max Monnig": {
+  "checkedAt": "2026-10-08T19:10:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Max Wolf Friedlich": {
   "checkedAt": "2026-09-28T20:01:24+00:00",
@@ -4359,6 +4578,15 @@
   "qid": "Q7329442",
   "score": 3
  },
+ "Riley Prior": {
+  "checkedAt": "2026-10-08T19:10:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Riotous One-Woman Show": {
   "checkedAt": "2026-10-01T01:50:08+00:00",
   "description": null,
@@ -4433,6 +4661,18 @@
   ],
   "qid": "Q228717",
   "score": 57
+ },
+ "Rosie O'Donnell": {
+  "checkedAt": "2026-10-08T19:10:51+00:00",
+  "description": "American comedian, producer, actress, and television personality",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "The Flintstones",
+   "Tarzan"
+  ],
+  "qid": "Q272929",
+  "score": 53
  },
  "Rosie O’Donnell": {
   "checkedAt": "2026-09-25T17:56:18+00:00",
@@ -4523,6 +4763,17 @@
   "knownFor": [],
   "qid": "Q30123034",
   "score": 3
+ },
+ "Sam Rockwell": {
+  "checkedAt": "2026-10-08T19:10:21+00:00",
+  "description": "American actor (born 1968)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "The Bad Guys"
+  ],
+  "qid": "Q316446",
+  "score": 64
  },
  "Sandra Dee": {
   "checkedAt": "2026-09-28T20:01:28+00:00",
@@ -4727,6 +4978,24 @@
  },
  "Snow Goose": {
   "checkedAt": "2026-10-02T18:14:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "So Good": {
+  "checkedAt": "2026-10-08T19:10:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Soho Playhouse": {
+  "checkedAt": "2026-10-08T19:10:30+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5154,6 +5423,15 @@
   "qid": null,
   "score": 0
  },
+ "Tom Pecinka": {
+  "checkedAt": "2026-10-08T19:10:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Topdog/Underdog Shows Why": {
   "checkedAt": "2026-10-01T18:43:50+00:00",
   "description": null,
@@ -5165,6 +5443,15 @@
  },
  "Town Hall": {
   "checkedAt": "2026-09-25T17:55:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Traitors Reality Show": {
+  "checkedAt": "2026-10-08T19:10:35+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
