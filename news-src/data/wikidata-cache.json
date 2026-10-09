@@ -1007,6 +1007,18 @@
   "qid": "Q131295764",
   "score": 1
  },
+ "China Anne McClain": {
+  "checkedAt": "2026-10-09T18:40:53+00:00",
+  "description": "American actress and singer (born 1998)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "A.N.T. Farm",
+   "Black Lightning"
+  ],
+  "qid": "Q230943",
+  "score": 44
+ },
  "Chose Herself": {
   "checkedAt": "2026-10-03T01:45:46+00:00",
   "description": null,
@@ -1198,6 +1210,15 @@
  },
  "Crisis Moment Pleads": {
   "checkedAt": "2026-10-05T21:00:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Crystal Kellogg": {
+  "checkedAt": "2026-10-09T18:40:49+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1657,6 +1678,15 @@
   "qid": null,
   "score": 0
  },
+ "Fair Lady": {
+  "checkedAt": "2026-10-09T18:40:59+00:00",
+  "description": "German spy (1887–1940)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q92044",
+  "score": 10
+ },
  "Fallen Angels Film": {
   "checkedAt": "2026-10-03T17:00:46+00:00",
   "description": null,
@@ -1704,6 +1734,15 @@
  },
  "Final Week": {
   "checkedAt": "2026-10-06T18:49:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Finds Full": {
+  "checkedAt": "2026-10-09T18:40:47+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1884,6 +1923,15 @@
  },
  "Full List": {
   "checkedAt": "2026-10-07T19:13:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Full-Circle Moment": {
+  "checkedAt": "2026-10-09T18:40:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2665,6 +2713,15 @@
  },
  "Jennifer Hudson Helps": {
   "checkedAt": "2026-09-27T17:33:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Jennifer Simard Says": {
+  "checkedAt": "2026-10-09T18:40:50+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3473,6 +3530,15 @@
   "qid": null,
   "score": 0
  },
+ "Losing Out": {
+  "checkedAt": "2026-10-09T18:40:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Love Story": {
   "checkedAt": "2026-09-25T17:53:58+00:00",
   "description": null,
@@ -3570,6 +3636,15 @@
   "knownFor": [],
   "qid": "Q17380672",
   "score": 56
+ },
+ "Maria Bilbao": {
+  "checkedAt": "2026-10-09T18:40:56+00:00",
+  "description": "Venezuelan artist",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q112198571",
+  "score": 0
  },
  "Maria-Christina Oliveras": {
   "checkedAt": "2026-10-09T02:49:27+00:00",
@@ -3817,6 +3892,15 @@
   "qid": "Q3308101",
   "score": 14
  },
+ "Michael Halling": {
+  "checkedAt": "2026-10-09T18:40:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q137139421",
+  "score": 0
+ },
  "Michael Luwoye": {
   "checkedAt": "2026-09-28T20:01:33+00:00",
   "description": "American actor of Nigerian descent",
@@ -3825,6 +3909,15 @@
   "knownFor": [],
   "qid": "Q47491844",
   "score": 2
+ },
+ "Michael Maliakel": {
+  "checkedAt": "2026-10-09T18:40:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Michael Mayer": {
   "checkedAt": "2026-10-06T18:49:19+00:00",
@@ -4080,6 +4173,15 @@
  },
  "Night Only": {
   "checkedAt": "2026-09-25T17:54:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Nina Howland Didn’t": {
+  "checkedAt": "2026-10-09T18:41:01+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4454,6 +4556,15 @@
  },
  "Public Adds What": {
   "checkedAt": "2026-10-01T01:50:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Pursue Singing Then": {
+  "checkedAt": "2026-10-09T18:41:02+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5847,6 +5958,15 @@
  },
  "Wilson Central": {
   "checkedAt": "2026-10-05T21:00:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Winter Miller Willed": {
+  "checkedAt": "2026-10-09T18:41:03+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
