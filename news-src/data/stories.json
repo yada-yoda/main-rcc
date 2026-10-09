@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "d47633d3cf",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-08T22:13:01+00:00",
+   "published": "2026-10-08T22:13:01+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Own Closets",
+   "title": "Idina Menzel Reveals the Original Broadway Rent Cast’s Costumes All Came from Their ‘Own Closets’",
+   "quote": "",
+   "quoteSource": "People",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Idina Menzel",
+     "knownFor": "Rent, Wicked",
+     "score": 55,
+     "qid": "Q157400"
+    }
+   ],
+   "sources": [
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFJhazZadWthSnZNN3ZiQkVDOXY1REdVRzZ5TWkwTkJnbjZXUWFwWGcyWGtkaktLVmxhQ0ZqV0Zka2NNZ0VmSjRYZDlFQ2hSS1BwSlFjdThwRURFNTNKVzk1bjV0QzJTODljN2xlR2xfVGlqTl9Gc0F5U0RLanV6U0NSMERPWnhaUTY1QnNCTkIyUmZqMnVIeFFWSTFYLXNka1NHLVhCNDVjMUFJc2U2UW9B",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "981b479128",
    "priority": 2,
    "watched": [],
@@ -14,7 +50,7 @@
    "type": "casting",
    "show": "Hour Plays On Broadway",
    "title": "Hugh Dancy, Justin Bartha and More to Join 24 HOUR PLAYS ON BROADWAY",
-   "quote": "​The 24 Hour Plays on Broadway has revealed its initial cast and creative team for the annual one-night-only benefit, returning to Broadway's Todd Haimes Theatre on Monday, November 2 at 7 PM. This year's event honors Tony Award-winning director and Kennedy Center honoree Thomas Kail, bringing together artists from ac…",
+   "quote": "The 24 Hour Plays on Broadway has revealed its initial cast and creative team for the annual one-night-only benefit, returning to Broadway's Todd Haimes Theatre on Monday, November 2 at 7 PM. This year's event honors Tony Award-winning director and Kennedy Center honoree Thomas Kail, bringing together artists from acr…",
    "quoteSource": "BroadwayWorld",
    "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-1815793131291240ab90430bedfe8b73.jpg",
    "imageCredit": "BroadwayWorld",
@@ -42,6 +78,42 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "c99cad725d",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-08T18:00:00+00:00",
+   "published": "2026-10-08T18:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "s",
+   "title": "Carla Gugino, Fred Hechinger, Tom Pecinka & Riley Prior Join Off Broadway's 'A View From The Bridge'",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Carla Gugino",
+     "knownFor": "American actress",
+     "score": 60,
+     "qid": "Q228871"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGJWUDhTNDRRY3pxZm5uY3BEVmFrbFE0QmhpOVZBWnZiNjlEUTlldVB2OFEtQXg2MjVubV9UUFVLNHR4Ym1pXzZ4cE5XZ3BtQ01nQlc2ZUEwSnIzbDFWX0Zadi1IQWRUeElZMmhsWDZXeTBTN1dQNXhPVzVreHRDSENXdlUtQQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "f716a9ece7",
@@ -94,6 +166,42 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "21cb1bcb4b",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-08T17:32:30+00:00",
+   "published": "2026-10-08T17:32:30+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Correspondent",
+   "title": "THE CORRESPONDENT to Star Richard Roxburgh as Journalist Peter Greste",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Richard Roxburgh",
+     "knownFor": "Rake, Romulus, My Father",
+     "score": 31,
+     "qid": "Q361630"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0dORGVIWnZoUUQwQVpYcGVzMVFqcDBIOFJGVHgtQUpseXZ0SmNuZDBQTGFfamcyVDByVmlia285eE41djc2a2l5eTVsUVdzUzlscGo4VU1GU3lERW5qV1pFTzVNNFBKYlBOaUd1WlFkSFI3eUVCTHpwaldrdDd2Z0hEMFdBTHdNLVhzYUFoQjNXOU9WVElMLUFySVJ0cXZtVHh2WTVUYUNxYlZZbThkbHpvSWZFUW01c3R0YmtVaw",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "5953a0aa4d",
@@ -627,6 +735,42 @@
    "status": "review"
   },
   {
+   "id": "b470fa3916",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-06T02:57:49+00:00",
+   "published": "2026-10-06T02:57:49+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Here There Are Blueberries,",
+   "title": "Brandon Flynn to Make Broadway Debut in Acclaimed Play 'Here There Are Blueberries,' Full Cast Revealed",
+   "quote": "",
+   "quoteSource": "Just Jared",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Brandon Flynn",
+     "knownFor": "13 Reasons Why",
+     "score": 37,
+     "qid": "Q29168300"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHlZQWQtZ0JUbUJiVGl2cXZ0dU5TejI0X3VjT3RjYXlEakp6LWxIN21WcENyNFBMdnV1cTJyeHFobzdhSFRqWW83alhpLWdKdXRmbU9mSE5iaWJHRVlVeElOMFp5czhrcXVZSkRub2Y4elN1SVFpdDNfNVREYUNVR2J3WmZ5RnJFMHozNkhmN2hwdnFQVFNQaHF4TnFNVFIxUEc2VVhuZmxtN3hPTk1ud0FsM0lIYlBoaVlNV2NmUW5WTDZMdDVHLTFnYXJ3MWVyUUxOZQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "7fd8335d68",
    "priority": 2,
    "watched": [],
@@ -767,7 +911,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "casting",
+   "type": null,
    "show": "Here There Are Blueberries",
    "title": "'Here There Are Blueberries' Sets Broadway Cast",
    "quote": "EXCLUSIVE: Here There Are Blueberries, the acclaimed play and Pulitzer finalist by Moisés Kaufman and Amanda Gronich, has found its lead cast for its limited run on Broadway, producers said Monday. The ensemble cast includes, Kathleen Chalfant (Angels in America), Michael Cerveris (Assassins), Brandon Flynn (Kowalski,…",
@@ -791,8 +935,8 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX1hPX0dKRXpWb2FZU1NCMUJiaUNNTTBuYU12Y3JNQU9ZY2dXT0s4Q2NBbnNsd2pPeG9nVVR5ZTVlNV96RWFfQlRGWVQzN3ZlM0t5bU1MQllVNWhWcC1WWjlTWkdsWmZtbHl4MjBZSGZJSS1PeWptOHJGM0JpN0xHbU9HLUdjMEM5R3NfeEFrc3I5M1lZRnBtUVNhR3k1RjRXVlZZbHdZenVpMkU0VkpOZU84WTBoQ25ZZzhuREJkZkN2eEJNQ1YxNlFKTUN4aFprbFY1NW43ZVZ0LTFieFpjWk1hNHBCRVNmNldEZmZKSUR2SHVjdDNpWjNHaTUzdXhyVW9F",
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkN5WDNGN0gzSXdBTmRIeVZ2Rk5naFVIUjhycHo4ano0akRNZVBwUm5HNEJURDI1dnlBYjF1WnFvZVJMNFpGTmp4R3Bid2FaNlBFdm1IOHpfUlpELXVJN0N5bDFRVF9IRGNwU2pES092enhXOWtTSkQtbTRkY0VEMHNDUndQRTZfamNMUjBheUs0N3BHYTZjZVRUWmY2c3NVa0ZuM0I0YVN1UnVuSEpLMG5sSmIzT2ZqSWViZVQyRQ",
      "feed": "gn-bway-casting"
     },
     {
@@ -806,7 +950,7 @@
      "feed": "deadline-theater"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "ad15a4c0f2",
@@ -1136,8 +1280,8 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Mycentraloregon",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3RGYUFiVDJvamhSRnU2OWpBbUxWamVhUW5PVFZJV3VlbWJXampEYzh6cmhMNEZIclNqaDdxV256TlBiS3dNeE95ZkpFNnZYTDY1STJPMGozNVpWZkhsSU9DZVpRRTFhbDhmMjRPbkxOQ0RNTjQ1N3VYMXhqOW9oMWlnSEhiTnQ3b3ZsazEzVjdwT1ZFSzUxX1N2ZnF3ejlScDllZzNyX21MQQ",
+     "name": "Mix 98.7",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFdUcnVyX3lFRUF0TlM4NXM3bjZJdldRRDk5czdsSHAzMDdSTnlpUGhjdlF1aVVXUjBiQW9wb3JwOFJlRUdnSHQ2YmItUGZ0VngwejZHUEdBUE0ycllOajh0dmZRSTZCaHVVY2IwQng2aFdmZFM0NV96WmdnNnlKaGxjeXdYS2FiRWZiQVFTTVgwYWdtU25iNG0tbmxKZ3F2SEdQNWUyZw",
      "feed": "gn-bway-casting"
     },
     {
@@ -1513,11 +1657,6 @@
     {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtuVi1FejFXLWp6TGM2SnI5T0xKdUZrWlJNLURJQXd5d2pJc3RULXpFczZ4R0cxMnhjZFROc0oyU2QwNmYyTnY1Tkt3WlV0WGxUSklHc1JjV2VkZzBraXk0NlFTTmFPOE1adGd1andJb0IxcnFSQkpZWTYtTGlCQlhzVFd4RHVTT00zZWkzMTM5ZUhRdUxrZWtnSWhBMThheVE",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMkhoWDJ2N2hQaDV4TTJoNlpKNHBqdlN4ZDBRdzhTYW84UEg3WExtMGxKNkYyNHNBQXlkWjNFT2hDYlFEREFrOW9tb3pVZG5ZemdvWFdnVVNnQmFwZzE5cDl4R04",
      "feed": "gn-to-star"
     },
     {
@@ -2796,6 +2935,93 @@
    "status": "review"
   },
   {
+   "id": "714eeb75b8",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T00:26:09+00:00",
+   "published": "2026-10-09T00:26:09+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "This Is Crazy!",
+   "title": "Natasha Rothwell Joins V’s ‘This Is Crazy!’ NAMI Benefit Performance In L.A.",
+   "quote": "Following the show’s one-night-only debut last year in New York City, This Is Crazy! is coming to Los Angeles with some new faces for a performance benefitting the National Alliance on Mental Illness.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/P104EQLG-e1791504058361.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/natasha-rothwell-this-is-crazy-nami-benefit-performance-1237150666/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "4612de61f5",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T21:43:39+00:00",
+   "published": "2026-10-08T21:43:39+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Frozen",
+   "title": "Marie Eife and Ali Funkhouser to Star in FROZEN at FPAC",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVW5oY2o3SjRaTGE4UG03TnlKMGxvaTd5dVhoTEdUekZSSVhPaVBjY3BBVjlzR3ZfZXEtUmNPYnU3WDNSNGk0blVmWEdhbDNuNTlhVXBFUkJfWjNFY284MzNDb3NqSmtWSG5vVWZZcWZIanRhNzNxaXVoUmhpNXlSZWNGbzZVNGJXM2UyZ2Rrb0Vab2ExeXVhYVpmbnJuVW9rNkxRaWFaMkJZdExHWVE",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9cb03cafc6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-24T14:01:38+00:00",
+   "published": "2026-10-08T21:38:41+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Chicago",
+   "title": "Broadway’s ‘Chicago’ to celebrate 30th anniversary with special benefit performance",
+   "quote": "Guests will include original company members Bebe Neuwirth and James Naughton.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/CHIBWAY_SEP26_2314_RWeaver_LDeGuzman_Roxie-Velma-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadways-chicago-to-celebrate-30th-anniversary-with-special-benefit-performance/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "54e1931a99",
    "priority": 3,
    "watched": [],
@@ -2877,6 +3103,35 @@
     {
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmM1Z0gydjR2WDg3aHRYTE5wTnotRVhpb2s0QmRxLWI3Wm9BTk1wbzF1WGJzVDZKNkpGN0pkV25DeHVZeTY0M2lmTEoxQ3M5dl9Ub0FEM1FWYVpFTk1xV2wwX25GNENRdXVuNVZjZS1COTFlWEtkVG93d2xoUExaUjMyRlhpaVZhbGExeFhXcHUxUml0ejBNNmVTQ29abjRO",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "9459293b5c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T20:59:54+00:00",
+   "published": "2026-10-08T18:00:46+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Titaniqué",
+   "title": "‘Titaniqué’ Announces New Casting for Limited Broadway Engagement",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2IxQXhqTTBWeFFXOWF2ZXlCQlpoQ1RWWVY2R0IzOUdjVlRjc2ZRbjRWd01UZk4tRTlwamVndmJ1MXF2MXdQaXNybkFCa2toOEdHZm1XWERpR1NQVzlFQmZtdzZXOFZBVnZXRllUejVjREdxdGFyNUk5MHpaS1BmT19MNFRBXzk4ajFxcVZEVFhDTDRJZm9CWTRxRTFlS1FD",
      "feed": "gn-bway-casting"
     }
    ],
@@ -3464,6 +3719,35 @@
    "status": "review"
   },
   {
+   "id": "939699fbf2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T13:52:46+00:00",
+   "published": "2026-10-07T20:14:15+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "2:22 – A Ghost Story",
+   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "def0744964",
    "priority": 3,
    "watched": [],
@@ -3904,6 +4188,35 @@
    "status": "review"
   },
   {
+   "id": "5f6fd6a05c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T15:57:38+00:00",
+   "published": "2026-10-07T15:57:38+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Stir",
+   "title": "Maria-Christina Oliveras and More to Star in STIR at Two River Theater",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFBadElMNlE5aGlRRnNvZEE5VHNVblg1THgtYWJYdlhQVS00WHh6Q0p2ZlJQcWZzVGVKeWM3emZHMzdDTlRPamNhVV9ObzVHXzFMRUVNVWR4RnNLdDVadUpOTlJuSE5uMEw1ejEwYTl1ZnhndGh3QnE4OW11LTdYU05ZYlI0SVNfNDNHVUd3a1pNcjZ0dVh5bnBGakVBMm16X1VIZWlHdHAzR2FlLUZqRFZzV0Q2WFhDYVNTc2NoRXIyeEt0MW84",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "a85fec7cd6",
    "priority": 3,
    "watched": [],
@@ -4049,6 +4362,35 @@
    "status": "review"
   },
   {
+   "id": "b157bacd43",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T14:00:18+00:00",
+   "published": "2026-10-07T14:00:18+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Nicholas Christopher Will Be Broadway’s Next Bobby Darin in Just In Time",
+   "quote": "",
+   "quoteSource": "Broadway Direct",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcElETHFfbm9FX29VMV9aQjB2dWxJSDJOZ01mbUpTajZscU1sdFBNcUxkX29Rd2laQzd4TG1DbGE5YWozTUhfdVFDVVpYNXJnV2RLTXZhblZxY09ub0EtUlBKVC01a1VjRFZIRk53cm5JczVrUlJ3azl4T1MxRlpFQ0pNSVFKVGIwSFBZZ2s4MzAxWHgtSGc3eW13UUs0dWRE",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "df3e347c46",
    "priority": 3,
    "watched": [],
@@ -4134,35 +4476,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "939699fbf2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T13:52:46+00:00",
-   "published": "2026-10-07T11:46:53+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "2:22 – A Ghost Story",
-   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "1b64d897b8",
@@ -4467,10 +4780,10 @@
    "type": "casting",
    "show": "Schmigadoon!",
    "title": "Juan Pablo Di Pace to join 'Schmigadoon!' Broadway cast for limited run",
-   "quote": "He will join the company for a limited run through November 22, while original Broadway cast member Ivan Hernandez takes a scheduled leave of absence.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Copy-of-Situation-Pro-to-BN-Template--5-.png",
-   "imageCredit": "Broadway News",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -4479,11 +4792,6 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3p3M1JoRTBjV0RyaEowdzFMMmphckktT2RmOC1mZEk0YXlBd1ZWM3FyWXcyVnFlUC16QkJBRGhiT0FBTWZ5RFhkdlZnUFpRY2Zkamd6UEdjbHhCdy04WkZTeUNBR19Xel9wTHV1MVhEU2NIZTZLOVF4QXBFU2pJeU1wQlhOS0VMLUNQM003RjJwei1oRThqR1Z1WTdOM05DWjZodWJHTHZMU0JyaDFYVFV4aEZwZ1NlelJPVHFPVQ",
      "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/juan-pablo-di-pace-to-make-broadway-debut-in-schmigadoon/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -4933,7 +5241,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-06T01:48:57+00:00",
-   "published": "2026-10-06T01:48:57+00:00",
+   "published": "2026-10-06T03:01:34+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -4952,7 +5260,7 @@
     {
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1h0YldZRW1MTEo1YzJrYUZ1MkZRWkFOdTdPZ3prWVU2MVpiUWx5cmZ3UlhUdlRlcG5tWDhIa1czZVg0RUNmZzVuc21veVRVc29ReVBiRzVvbUFYMlF0QUlIMGVOeDdDSFY0RWhPZXJ2bGF4WEE2UFVWMUdYRHFZWFQ0bGNQemdaZXVyNTBMYXBHV05wUXVzS2JpbHN3MldtTFlEdGxoY2JTYTVBZ1JJUUxfRzhycC1SMHpPWm1meUM3REtocWVmZGNB",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -5681,35 +5989,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "9459293b5c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-30T20:59:54+00:00",
-   "published": "2026-10-05T13:58:02+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Titaniqué",
-   "title": "‘Titaniqué’ Announces New Casting for Limited Broadway Engagement",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2IxQXhqTTBWeFFXOWF2ZXlCQlpoQ1RWWVY2R0IzOUdjVlRjc2ZRbjRWd01UZk4tRTlwamVndmJ1MXF2MXdQaXNybkFCa2toOEdHZm1XWERpR1NQVzlFQmZtdzZXOFZBVnZXRllUejVjREdxdGFyNUk5MHpaS1BmT19MNFRBXzk4ajFxcVZEVFhDTDRJZm9CWTRxRTFlS1FD",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "4f6a30944a",
@@ -7428,35 +7707,6 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/TRIUMPH-World-Premiere-and-More-Set-for-The-Public-Theaters-SpringSummer-2026-27-Season-20260930",
      "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9cb03cafc6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T14:01:38+00:00",
-   "published": "2026-09-30T19:20:06+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Chicago",
-   "title": "‘Chicago’ will make its India debut in 2027",
-   "quote": "The long-running revival staging is coming to Mumbai for a limited run.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/CHIBWAY_SUMMER26_2910_KrystaRodriguez-1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/chicago-will-make-its-india-debut-in-2027/",
-     "feed": "broadway-news"
     }
    ],
    "status": "review"
@@ -10821,6 +11071,35 @@
    "status": "review"
   },
   {
+   "id": "f31ad4bea2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T16:00:13+00:00",
+   "published": "2026-09-23T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A Christmas Carol",
+   "title": "Andy Karl to star in 'A Christmas Carol' off Broadway; additional cast named",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "a5b6f34c99",
    "priority": 3,
    "watched": [],
@@ -10845,35 +11124,6 @@
      "name": "TheaterMania",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDJaLUd0bmdWTUI0TGwxSGZVSGJFMUFrdmo4eXpvWHFfQWRkNnJGdjBNb1QwaVp0a244b191QU1lUWtFdVR2eUk1ZmJacEs4X0FMZVRyMEQxWlhIUXI5UnVKZDFId3J0TE9fN05nTHItbE8yRmJHb1RkLVh6bXdxY2JLU3dmYjYzODZBZzd5TmZ4bWpTVWtER0RHd3l0MmNxT3FERy1CTUl1WHFSZWtjNmM4QmlLVjZvaTM2dXd6MDg",
      "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "f31ad4bea2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T16:00:13+00:00",
-   "published": "2026-09-23T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A Christmas Carol",
-   "title": "Andy Karl to star in 'A Christmas Carol' off Broadway",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -11583,35 +11833,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "b32238628d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-17T17:48:48+00:00",
-   "published": "2026-09-17T17:48:48+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Broadway In Chicago",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": null,
-   "title": "Jekyll & Hyde returns at Broadway Playhouse",
-   "quote": "David Moreland (center) stars in Jekyll &#038; Hyde with Kokandy Productions at the Broadway Playhouse \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Jekyll-Hyde_-BIC-3-Photo-by-Amy-Boyle-Photography-scaled-e1789666776591.jpg?fit=780%2C519&ssl=1\" /> Jekyll & Hyde , through 11/8, Koka…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Jekyll-Hyde_-BIC-3-Photo-by-Amy-Boyle-Photography-scaled-e1789666776591.jpg?fit=1024%2C681&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/jekyll-and-hyde-kokandy-productions-broadway-in-chicago/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "532fc9594a",

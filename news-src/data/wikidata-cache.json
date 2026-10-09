@@ -118,6 +118,15 @@
   "qid": "Q296028",
   "score": 56
  },
+ "Ali Funkhouser": {
+  "checkedAt": "2026-10-09T02:49:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Alison Luff": {
   "checkedAt": "2026-09-29T02:30:22+00:00",
   "description": "American singer and stage actress",
@@ -628,6 +637,15 @@
  },
  "Blue Violinist": {
   "checkedAt": "2026-09-25T17:53:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Blueberries Full": {
+  "checkedAt": "2026-10-09T02:49:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2309,6 +2327,18 @@
   "qid": null,
   "score": 0
  },
+ "Idina Menzel": {
+  "checkedAt": "2026-10-09T02:49:12+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Rent",
+   "Wicked"
+  ],
+  "qid": "Q157400",
+  "score": 55
+ },
  "Ilene Graff": {
   "checkedAt": "2026-10-03T17:00:42+00:00",
   "description": "American actress (1949-)",
@@ -2911,6 +2941,15 @@
  },
  "José Candelita Iglesias": {
   "checkedAt": "2026-09-27T01:07:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Journalist Peter Greste": {
+  "checkedAt": "2026-10-09T02:49:26+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3532,6 +3571,24 @@
   "qid": "Q17380672",
   "score": 56
  },
+ "Maria-Christina Oliveras": {
+  "checkedAt": "2026-10-09T02:49:27+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q17466570",
+  "score": 2
+ },
+ "Marie Eife": {
+  "checkedAt": "2026-10-09T02:49:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Marin Ireland": {
   "checkedAt": "2026-10-08T19:10:24+00:00",
   "description": "American actress (born 1979)",
@@ -3904,6 +3961,15 @@
   "qid": "Q37876",
   "score": 136
  },
+ "Natasha Rothwell": {
+  "checkedAt": "2026-10-09T02:49:30+00:00",
+  "description": "American actress and writer (born 1980)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q62007121",
+  "score": 18
+ },
  "Natasha Yvette Williams": {
   "checkedAt": "2026-10-03T17:00:41+00:00",
   "description": "American actor",
@@ -3924,6 +3990,15 @@
   ],
   "qid": "Q485310",
   "score": 72
+ },
+ "Next Bobby Darin": {
+  "checkedAt": "2026-10-09T02:49:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Next List": {
   "checkedAt": "2026-09-30T18:18:16+00:00",
@@ -4167,6 +4242,15 @@
  },
  "Outlaw Sisters Pass": {
   "checkedAt": "2026-09-25T17:56:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Own Closets": {
+  "checkedAt": "2026-10-09T02:49:18+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4568,6 +4652,18 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Richard Roxburgh": {
+  "checkedAt": "2026-10-09T02:49:24+00:00",
+  "description": "Australian actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Rake",
+   "Romulus, My Father"
+  ],
+  "qid": "Q361630",
+  "score": 31
  },
  "Richard Thomas": {
   "checkedAt": "2026-09-25T17:55:16+00:00",
@@ -5479,6 +5575,15 @@
  },
  "Twelfth Night": {
   "checkedAt": "2026-09-25T17:57:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Two River": {
+  "checkedAt": "2026-10-09T02:49:29+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
