@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "a567f11793",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-09T13:24:01+00:00",
+   "published": "2026-10-09T13:24:01+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Rocky Horror Show",
+   "title": "Rosie O'Donnell Returns To Broadway After 20 Years In THE ROCKY HORROR SHOW",
+   "quote": "Rosie O'Donnell is back on Broadway! After a 20 year absence, the Tony Award winner is filling in for Rachel Dratch as the 'Narrator' in The Rocky Horror Show.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-af403768d13f27420a4d692535022f15.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Rosie O'Donnell",
+     "knownFor": "The Flintstones, Tarzan",
+     "score": 53,
+     "qid": "Q272929"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Photos-Rosie-ODonnell-Joins-the-Cast-of-THE-ROCKY-HORROR-SHOW-20261009",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "6ebb5d7127",
    "priority": 2,
    "watched": [],
@@ -495,15 +531,15 @@
    "published": "2026-10-07T07:00:00+00:00",
    "city": "New York",
    "tier": "Off-Broadway",
-   "venue": "La MaMa",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "A View From the Bridge",
    "title": "Carla Gugino and more to join Sam Rockwell in 'A View From the Bridge' off Broadway; Marin Ireland departs",
-   "quote": "Producers Mark Berger and Sam Rockwell announced today additional cast for the new production of Arthur Miller’s seminal work, A View from the Bridge, off-Broadway at the historic Ellen Stewart Theatre at La MaMa. Carla Gugino (Beatrice), Fred Hechinger (Rodolpho), Tony Award nominee Tom Pecinka (Marco), and Riley Pri…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-9612848d618197222142d3eb99e10a21.jpg",
-   "imageCredit": "BroadwayWorld",
+   "quote": "Additional cast for the upcoming Off Broadway revival of Arthur Miller’s A View from the Bridge has been announced. Joining previously announced Sam Rockwell and Alfred Molina will be Carla Gugino, Fred Hechinger, Tom Pecinka and Riley Prior.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/getty-images-portrait-studio-presented-by-imdb-and-imdbpro-a-1000x667-1.jpg",
+   "imageCredit": "Deadline",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -527,11 +563,6 @@
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Carla-Gugino-Fred-Hechinger-Tom-Pecinka-and-Riley-Prior-Join-A-VIEW-FROM-THE-BRIDGE-at-La-MaMa-20261008",
-     "feed": "broadwayworld"
-    },
-    {
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/view-from-the-bridge-off-broadway-cast-1237150022/",
      "feed": "deadline-theater"
@@ -549,9 +580,9 @@
    "tier": "Broadway",
    "venue": "St. James Theatre",
    "placedBy": "words",
-   "type": "opening",
+   "type": "new production",
    "show": "DOLLY: A True Original Musical",
-   "title": "Meet the Cast of Dolly Parton’s Broadway Show ‘DOLLY: A True Original Musical’",
+   "title": "Dolly Parton’s ‘DOLLY: A True Original Musical’ announces complete Broadway cast",
    "quote": "The musical inspired by the late Dolly Parton’s life begins performances at the St. James Theatre on December 7, with opening night taking place on what would have been Parton’s 81st birthday: January 19, 2027.",
    "quoteSource": "Broadway News",
    "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143287-17.jpg",
@@ -567,6 +598,11 @@
     }
    ],
    "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1h2ZFFMaGlWZ2lLSFk0YnFPcFBxLV9XU2tLOWZwT2IxS3g1ajl4eW5JMURIWUZpal9KYTcxZU82dTNRQm54OTlKX3ppemswUnFQOVh0dHVqWjVEMlNmWV9mVDNFeWVCeUFXM0U3SzdJOEF2eGtnV1c4TndxWXJpYzFJUjFOSUVYXzZ0QVRqZTVOYTRnM0hkYkRjOFRhQmwxMFA5VFJJM09GZw",
+     "feed": "gn-bway-casting"
+    },
     {
      "name": "Taste of Country",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MXVRMWJjdktGcEJucncxb00wLUM3V2NHdy1wMTh4TFpXUElSdHA3bWJaUURvVXY4WEUxV2ZVOUxPUkFEM3F3M21EaEN3RXVfNkpPZ0ExN2hfdVFaSF93NVEya04tNllYaGxpRTZiM1VWUmZSa2c",
@@ -968,11 +1004,6 @@
     {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVZKdWh4VzEyVGlQSXlvYW5BU2twY2hiZGRuRGFVR19kN0RKSFZpUUZ0ek5rV3BFczdoaFpreUgxSDEydnNTRmZDTjdJb2JaRENLcF9tRXpDMUNoNWp1R3BHMThKMzVibFJEbzQ1ZzlYU0swaVFRdGktMWk5aE11VVhFc19ENXc1",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkN5WDNGN0gzSXdBTmRIeVZ2Rk5naFVIUjhycHo4ano0akRNZVBwUm5HNEJURDI1dnlBYjF1WnFvZVJMNFpGTmp4R3Bid2FaNlBFdm1IOHpfUlpELXVJN0N5bDFRVF9IRGNwU2pES092enhXOWtTSkQtbTRkY0VEMHNDUndQRTZfamNMUjBheUs0N3BHYTZjZVRUWmY2c3NVa0ZuM0I0YVN1UnVuSEpLMG5sSmIzT2ZqSWViZVQyRQ",
      "feed": "gn-bway-casting"
     },
     {
@@ -1891,6 +1922,11 @@
     {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtuVi1FejFXLWp6TGM2SnI5T0xKdUZrWlJNLURJQXd5d2pJc3RULXpFczZ4R0cxMnhjZFROc0oyU2QwNmYyTnY1Tkt3WlV0WGxUSklHc1JjV2VkZzBraXk0NlFTTmFPOE1adGd1andJb0IxcnFSQkpZWTYtTGlCQlhzVFd4RHVTT00zZWkzMTM5ZUhRdUxrZWtnSWhBMThheVE",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMkhoWDJ2N2hQaDV4TTJoNlpKNHBqdlN4ZDBRdzhTYW84UEg3WExtMGxKNkYyNHNBQXlkWjNFT2hDYlFEREFrOW9tb3pVZG5ZemdvWFdnVVNnQmFwZzE5cDl4R04",
      "feed": "gn-to-star"
     },
     {
@@ -2972,6 +3008,69 @@
    "status": "review"
   },
   {
+   "id": "fd705288b3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-10T09:00:00+00:00",
+   "published": "2026-10-10T09:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Quiz: Can You Name These Superhero Stars on Broadway?",
+   "quote": "The superhero cinematic universe seems to be taking over the stage this season.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/image_2026-10-09-160655_oapj.jpeg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/superhero-broadway-quiz",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "438caf0b06",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-10T06:36:50+00:00",
+   "published": "2026-10-10T06:36:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A Few Good Men",
+   "title": "Tom Blyth Makes Broadway Debut, Takes First Bow in ‘A Few Good Men’ Play",
+   "quote": "",
+   "quoteSource": "IMDb",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mR2MwWTdESUZGX2EzcUw1Y1FIb1RiUG1QOFBsc3Z6WHRwdUFpalBnN01vTlNCWmdLNlh0dHRxRTJsdTE1azhUWlQ2TnRJVDk0RF9wRW1qNndyVG91UHNBS29YSjRMYUtPeGc",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVC1uZzkwVWpIS1ZNM2ctaXJtM1NuTjBNWHd4VTRPVFlhV0xtTFBYZmM4NFdjLTdIREVFOWpLcHdpaWR4OTVBTXE0NlhNUmczX3hFa0ZxM1lDYkFlR21OZjBVbW55ZFR4eDc4RXpXYV9ON3FmNTNqeWVrT0ZYMHY4WlBXV191VlAyQXFGUWRuQ0NSb29BU0FLRGpqMExvOEV5dl81UExaS0M4SXc",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "3a548dd5cb",
    "priority": 3,
    "watched": [],
@@ -3146,6 +3245,35 @@
    "status": "review"
   },
   {
+   "id": "c77320bfd0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T14:13:46+00:00",
+   "published": "2026-10-09T15:13:46+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "St. James Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Dolly",
+   "title": "Crystal Kellogg and More Join the Cast of DOLLY: A TRUE ORIGINAL MUSICAL",
+   "quote": "Complete casting has been announced for the Broadway premiere of DOLLY: A True Original Musical, opening at the St. James Theatre this winter.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-863ea856c9b4dcba72d7b9a3989b26d3.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Crystal-Kellogg-and-More-Join-the-Cast-of-DOLLY-A-TRUE-ORIGINAL-MUSICAL-20261009",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "6e3c824b3a",
    "priority": 3,
    "watched": [],
@@ -3175,22 +3303,22 @@
    "status": "review"
   },
   {
-   "id": "c77320bfd0",
+   "id": "3307260800",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-09T14:13:46+00:00",
    "published": "2026-10-09T14:13:46+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "St. James Theatre",
-   "placedBy": "none",
-   "type": "casting",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
    "show": "Dolly",
-   "title": "Crystal Kellogg and More Join the Cast of DOLLY: A TRUE ORIGINAL MUSICAL",
-   "quote": "Complete casting has been announced for the Broadway premiere of DOLLY: A True Original Musical, opening at the St. James Theatre this winter.",
+   "title": "Broadway's DOLLY: A TRUE ORIGINAL MUSICAL Announces Full Ensemble and Cast Details",
+   "quote": "",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-863ea856c9b4dcba72d7b9a3989b26d3.jpg",
-   "imageCredit": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -3199,10 +3327,34 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEV5TFlUUDlyMXRHNF9hcnJCbVR1eFBaWW00QU8wbS1WUTFfX3JsSm5CXzBoX0tUZFcweEk5RFAwbk9jWENpZi1VaFloeEhCRnJBeGtEYWQ2dGhwV0lIR2l4dVdFYzNiM0ZFNjJFamJYak9iU00tVFo5NkhqRVE2WmNkTzgzWXBRa19tOExwaGtZbTdheHk2OXBsS3B1TXltZ2Rqb3lJV21XaXFDdDVlUG5odzRjVG9CcWc",
      "feed": "gn-bway-casting"
-    },
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "66f3ce9b26",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T14:00:23+00:00",
+   "published": "2026-10-09T14:00:23+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "August Wilson Theatre",
+   "placedBy": "venue",
+   "type": "extension",
+   "show": "Paranormal Activity",
+   "title": "PARANORMAL ACTIVITY Extends Broadway Run Through February 2027",
+   "quote": "PARANORMAL ACTIVITY will continue to haunt Broadway for eight additional weeks due to popular demand. Written by Levi Holloway, and directed by Felix Barrett, PARANORMAL ACTIVITY will now play at Broadway’s August Wilson Theatre through February 28, 2027.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-db50a366d2b65279b1143a9732bca60b.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
     {
      "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Crystal-Kellogg-and-More-Join-the-Cast-of-DOLLY-A-TRUE-ORIGINAL-MUSICAL-20261009",
+     "url": "https://www.broadwayworld.com/article/PARANORMAL-ACTIVITY-Extends-Through-February-2027-20261009",
      "feed": "broadwayworld"
     }
    ],
@@ -3217,7 +3369,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "August Wilson Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "Paranormal Activity",
    "title": "PARANORMAL ACTIVITY Adds 8 Weeks to Broadway Run",
@@ -3262,6 +3414,35 @@
      "name": "American Theatre",
      "url": "https://www.americantheatre.org/2026/10/09/winter-miller-willed-theatre-into-her-existence/",
      "feed": "american-theatre"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "ada61f668e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T12:00:00+00:00",
+   "published": "2026-10-09T12:00:00+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": "Goodman Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": "Dead Girl’s Quinceañera",
+   "title": "“Dead Girl’s Quinceañera” Is a Teenage Search Party",
+   "quote": "Playwright Phanésia Pharel’s work is ambitious and loaded at Goodman Theatre.",
+   "quoteSource": "Newcity Stage",
+   "image": "https://www.newcitystage.com/wp-content/uploads/2026/10/bK0WJ28g-1024x683.jpeg",
+   "imageCredit": "Newcity Stage",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Newcity Stage",
+     "url": "https://www.newcitystage.com/2026/10/09/dead-girls-quinceanera-is-a-teenage-search-party/",
+     "feed": "newcity-stage"
     }
    ],
    "status": "review"
@@ -3415,6 +3596,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "ef65c3a94d",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T14:22:39+00:00",
+   "published": "2026-10-08T19:04:02+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Great Gatsby",
+   "title": "Chilina Kennedy and Max Monnig join Broadway’s ‘The Great Gatsby’",
+   "quote": "Kennedy returns to the musical while Monnig makes his Broadway debut on October 14.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143264-8.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/chilina-kennedy-and-max-monnig-join-broadways-the-great-gatsby/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "54e1931a99",
@@ -3712,40 +3922,6 @@
    "status": "review"
   },
   {
-   "id": "ef65c3a94d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-08T14:22:39+00:00",
-   "published": "2026-10-08T14:22:39+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Great Gatsby",
-   "title": "Chilina Kennedy, Max Monnig to join 'The Great Gatsby' Broadway cast",
-   "quote": "Kennedy returns to the musical while Monnig makes his Broadway debut on October 14.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143264-8.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlQtNXdPODlZOTlEVFdWY29iOG0wa0NOajI3cHlHT3JnREFKUUpSaDBSVlVwdGMxU3RoQllGUTd5OGJjVkxIUjdQd3A2YVhqcnhLd2N4em03RUd2Z1FtbzAwZnhYdEFRUVhaTzltNXZJUlVJM3lJQzdSNmJOS0stZWc2LWlBYzhmVmtkdW9HakRERktadDZ0WFZqZVhnRlBxOXZyT3BiVE5RSV9tdFBvLVdUaE9SanRycFc4",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/chilina-kennedy-and-max-monnig-join-broadways-the-great-gatsby/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "b0676f157d",
    "priority": 3,
    "watched": [],
@@ -3978,6 +4154,35 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/see-whos-joining-andy-karl-in-jack-thorne-a-christmas-carol-off-broadway",
      "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9b414dd952",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-22T07:00:00+00:00",
+   "published": "2026-10-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Schedule of Upcoming Off-Broadway Shows",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WTNIMHVFLU9vcUJJWnJXdTMyaHMxWk4tQkU3bUVzUnpRSHJid0RZamhxQlZTSjRqWXpTYkR5aGRRLURwNEllT0ctX1hVdEx2eFNWdG5jcE81THcxZldkNlM0c1JOMjVFMWtRUy1xdjg3emdWd3p1eHV3",
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -6545,40 +6750,6 @@
    "status": "review"
   },
   {
-   "id": "9b414dd952",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T07:00:00+00:00",
-   "published": "2026-10-05T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Schedule of Upcoming Off-Broadway Shows",
-   "quote": "Due to the expansive nature of Off-Broadway, this list is not comprehensive.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/off-broadway_upcoming_2025-10-07-153008_zxgv.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WTNIMHVFLU9vcUJJWnJXdTMyaHMxWk4tQkU3bUVzUnpRSHJid0RZamhxQlZTSjRqWXpTYkR5aGRRLURwNEllT0ctX1hVdEx2eFNWdG5jcE81THcxZldkNlM0c1JOMjVFMWtRUy1xdjg3emdWd3p1eHV3",
-     "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/schedule-of-upcoming-off-broadway-shows-2",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "83044a0f37",
    "priority": 3,
    "watched": [],
@@ -7048,35 +7219,6 @@
    "status": "review"
   },
   {
-   "id": "4566a89244",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T15:08:49+00:00",
-   "published": "2026-10-02T15:08:49+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Dolly",
-   "title": "The Broadway Premiere of DOLLY: A True Original Musical Cast Announced",
-   "quote": "",
-   "quoteSource": "Dolly Parton Official Website",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Dolly Parton Official Website",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWw1VHA3Q1pmSG5MbVU5UERBa0ZjUjN5amo5U2IxQkprWkREdUUtdkszbnBfMS1LZC16cm9uSkNxdnc2VF9TOGZiZGUzMHIyUG0yQzUwOFdZN0hZcHRlN21ZbEo4N29xRnJuWWlhSVU4QUJqLTBaT3F4V09UTmJtWEV6ZXV1V3V0Nzlva2xnajRIaGxuSWZobDl6dHpMc0YxUXlhWQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "2b695fdd07",
    "priority": 3,
    "watched": [],
@@ -7510,6 +7652,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "4566a89244",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-02T15:08:49+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Dolly",
+   "title": "The Broadway Premiere of DOLLY: A True Original Musical Cast Announced",
+   "quote": "",
+   "quoteSource": "Dolly Parton Official Website",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Dolly Parton Official Website",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWw1VHA3Q1pmSG5MbVU5UERBa0ZjUjN5amo5U2IxQkprWkREdUUtdkszbnBfMS1LZC16cm9uSkNxdnc2VF9TOGZiZGUzMHIyUG0yQzUwOFdZN0hZcHRlN21ZbEo4N29xRnJuWWlhSVU4QUJqLTBaT3F4V09UTmJtWEV6ZXV1V3V0Nzlva2xnajRIaGxuSWZobDl6dHpMc0YxUXlhWQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "308cb853ca",
@@ -12005,64 +12176,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "1ae769c23b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-16T07:00:00+00:00",
-   "published": "2026-09-18T07:58:46+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Spring Awakening",
-   "title": "‘Spring Awakening’ Revival Reveals Complete Off-Broadway Cast",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3R2WnRZd2hRdmF3UW9OY3dTZ1cwNlF6Ykx0UjRXOFo4cXBhOEpXQlRkR0hkY2F3QmN2a3Bsd2tzMXY1a1c5Y05IMFVYWHJybFE1MnZ5NElVN1hzTmRMalZYUmpwOWxHZ0Rwa2t2R1oyaHFqdDdMOEpnc2lES1cwOHptV2NSREFMX0tTX0k0R1dVX3E2MU0tdUZLWQ",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "e6ee220117",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-18T10:01:04+00:00",
-   "published": "2026-09-18T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Drag star Alaska Thunderf*ck, a Provincetown favorite, to star in Broadway hit",
-   "quote": "",
-   "quoteSource": "Yahoo",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmt4cmlqVVMwOElzQ1lGOG5heVdFeVJLR3FwNGF2dWF4U0gwcHVtUDlXQTI3ZTVTRXNUSXRDdW1LMmRuM3diY1JueGVYV1lhcHNLbGMwY1RUem1CanlRbHBCLUhPR25fVGY3XzBldGZTcUpJZ196bGtyMjdJVEVpQUFZc2N1alpISHFSM1hCRGtiVk9sRlE",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
   }
  ]
 }

@@ -1714,6 +1714,15 @@
   "qid": null,
   "score": 0
  },
+ "Few Good Men": {
+  "checkedAt": "2026-10-10T17:40:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Film Version": {
   "checkedAt": "2026-09-25T17:55:54+00:00",
   "description": null,
@@ -1914,6 +1923,15 @@
  },
  "Fugue Off": {
   "checkedAt": "2026-09-25T17:57:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Full Ensemble": {
+  "checkedAt": "2026-10-10T17:40:27+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4081,6 +4099,15 @@
   "qid": "Q113687844",
   "score": 0
  },
+ "Name These Superhero": {
+  "checkedAt": "2026-10-10T17:40:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Names Rick Canny": {
   "checkedAt": "2026-10-10T02:08:21+00:00",
   "description": null,
@@ -4992,6 +5019,15 @@
   "qid": null,
   "score": 0
  },
+ "Run Through": {
+  "checkedAt": "2026-10-10T17:40:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Rural Tenderness": {
   "checkedAt": "2026-09-25T17:57:07+00:00",
   "description": null,
@@ -5480,6 +5516,15 @@
   "qid": null,
   "score": 0
  },
+ "Teenage Search Party": {
+  "checkedAt": "2026-10-10T17:40:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Temporary Fill-In": {
   "checkedAt": "2026-09-25T17:56:22+00:00",
   "description": null,
@@ -5674,6 +5719,15 @@
   "knownFor": [],
   "qid": "Q16205820",
   "score": 16
+ },
+ "Tom Blyth": {
+  "checkedAt": "2026-10-10T17:40:29+00:00",
+  "description": "English actor (born 1995)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q105887530",
+  "score": 24
  },
  "Tom Felton": {
   "checkedAt": "2026-09-30T01:52:45+00:00",
