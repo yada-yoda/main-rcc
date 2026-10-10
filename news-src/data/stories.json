@@ -152,58 +152,6 @@
    "status": "review"
   },
   {
-   "id": "f716a9ece7",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-08T18:00:00+00:00",
-   "published": "2026-10-08T18:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "La MaMa",
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A View From the Bridge",
-   "title": "Carla Gugino and more to join Sam Rockwell in 'A View From the Bridge' off Broadway; Marin Ireland departs",
-   "quote": "Producers Mark Berger and Sam Rockwell announced today additional cast for the new production of Arthur Miller’s seminal work, A View from the Bridge, off-Broadway at the historic Ellen Stewart Theatre at La MaMa. Carla Gugino (Beatrice), Fred Hechinger (Rodolpho), Tony Award nominee Tom Pecinka (Marco), and Riley Pri…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-9612848d618197222142d3eb99e10a21.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Sam Rockwell",
-     "knownFor": "The Bad Guys",
-     "score": 64,
-     "qid": "Q316446"
-    },
-    {
-     "name": "Carla Gugino",
-     "knownFor": "American actress",
-     "score": 60,
-     "qid": "Q228871"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnY1V3dXQ1Myal9uZGc2X1VjczlFdG1ycUZEeWNZQ1FHV094TmlaMDJPcDVPM3FxVG9ENWtoaHFNR3NwTC1ZRk9qLURMQXdta3dRbmRsaENxR3Y0MnNnRHUzd1pCZUtkeVJIdjRYRk1KcnJMTjRVc2lrNjgtTzhFZlVGRjJSc1BEZEpUWEFsSFZIREkwR0pFdjVqUDhHTEtfRXUzN3ltTU9ZNWVSZ29YVDJNYUxRVDBxYXNhcU5UQXR6bGNZcUZ0WENudS1seDZ0OHVhQlJ4eUZaZ2JtMHVyZlh4NVZadGVrSl9DRk1R",
-     "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Carla-Gugino-Fred-Hechinger-Tom-Pecinka-and-Riley-Prior-Join-A-VIEW-FROM-THE-BRIDGE-at-La-MaMa-20261008",
-     "feed": "broadwayworld"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/view-from-the-bridge-off-broadway-cast-1237150022/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "21cb1bcb4b",
    "priority": 2,
    "watched": [],
@@ -248,14 +196,14 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
-   "placedBy": "none",
+   "placedBy": "words",
    "type": "new production",
    "show": "Chicago",
-   "title": "Bebe Neuwirth, James Naughton, and More Will Reunite For CHICAGO 30th Anniversary Celebration",
-   "quote": "The Broadway company of CHICAGO will celebrate 30 years on Broadway this November, with a special star-studded one-night-only event on Monday, November 16th at 7pm. Featuring a lineup of special guests, the evening will benefit the Entertainment Community Fund's programs serving dancers.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-4c6118ab7331e91c2f40f59adac8439f.jpg",
-   "imageCredit": "BroadwayWorld",
+   "title": "Bebe Neuwirth, Whitney Leavitt, Reece Weaver & More Among Line-Up For One-Night-Only ‘Chicago’ Anniversary Performance On Broadway",
+   "quote": "Broadway’s recording-breaking revival of Chicago will welcome back some old friends to celebrate the show’s 30th anniversary on Broadway this November, with former cast members including Bebe Neuwirth, James Naughton, Robyn Hurder, Whitney Leavitt, Ariana Madix and Alex Newell joining the current “Roxie Hart,” Reece W…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/CHIBWAY_SEP26_3484_ReeceWeaver_ThoseAreMyBoys.jpg",
+   "imageCredit": "Deadline",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -267,11 +215,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Bebe-Neuwirth-James-Naughton-and-More-Will-Reunite-For-CHICAGO-30th-Anniversary-Celebration-20261008",
-     "feed": "broadwayworld"
-    },
     {
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/chicago-broadway-anniversary-bebe-neuwirth-whitney-leavitt-1237149959/",
@@ -545,47 +488,53 @@
    "status": "review"
   },
   {
-   "id": "193bf51ccf",
+   "id": "f716a9ece7",
    "priority": 2,
    "watched": [],
-   "firstSeen": "2026-10-07T13:00:14+00:00",
-   "published": "2026-10-07T13:00:14+00:00",
+   "firstSeen": "2026-10-08T18:00:00+00:00",
+   "published": "2026-10-07T07:00:00+00:00",
    "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
+   "tier": "Off-Broadway",
+   "venue": "La MaMa",
    "placedBy": "words",
    "type": "casting",
-   "show": "Just in Time",
-   "title": "Nicholas Christopher to star in 'Just in Time' on Broadway",
-   "quote": "He suits up for the role after Matthew Morrison completes his encore engagement on November 8.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/140531-11.jpg",
-   "imageCredit": "Broadway News",
+   "show": "A View From the Bridge",
+   "title": "Carla Gugino and more to join Sam Rockwell in 'A View From the Bridge' off Broadway; Marin Ireland departs",
+   "quote": "Producers Mark Berger and Sam Rockwell announced today additional cast for the new production of Arthur Miller’s seminal work, A View from the Bridge, off-Broadway at the historic Ellen Stewart Theatre at La MaMa. Carla Gugino (Beatrice), Fred Hechinger (Rodolpho), Tony Award nominee Tom Pecinka (Marco), and Riley Pri…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-9612848d618197222142d3eb99e10a21.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
     {
-     "name": "Bobby Darin",
-     "knownFor": "American singer and actor (1936–1973)",
-     "score": 48,
-     "qid": "Q311267"
+     "name": "Sam Rockwell",
+     "knownFor": "The Bad Guys",
+     "score": 64,
+     "qid": "Q316446"
+    },
+    {
+     "name": "Carla Gugino",
+     "knownFor": "American actress",
+     "score": 60,
+     "qid": "Q228871"
     }
    ],
    "sources": [
     {
      "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0Z2RzVjY05vQ05rRlI1MjFtMzVYRmUxWTJabnpIVzdQZkUtem9FSng3Vm9mYWZJajlJY3hLT3ZPMWdMOUJPdjFaam9wSXVROVNHYkVZMmRnazF0VHlZQmJXVXBKTW9FWEFjdHlLNTc1eEs1MXpNUl9HNVNJckV1elA2Q0JOQXRSUXpXeDhmWDU1bUZJNkhRVU15cDEwSG1mRXJOR0lZSURSaElSUGln",
-     "feed": "gn-to-star"
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnY1V3dXQ1Myal9uZGc2X1VjczlFdG1ycUZEeWNZQ1FHV094TmlaMDJPcDVPM3FxVG9ENWtoaHFNR3NwTC1ZRk9qLURMQXdta3dRbmRsaENxR3Y0MnNnRHUzd1pCZUtkeVJIdjRYRk1KcnJMTjRVc2lrNjgtTzhFZlVGRjJSc1BEZEpUWEFsSFZIREkwR0pFdjVqUDhHTEtfRXUzN3ltTU9ZNWVSZ29YVDJNYUxRVDBxYXNhcU5UQXR6bGNZcUZ0WENudS1seDZ0OHVhQlJ4eUZaZ2JtMHVyZlh4NVZadGVrSl9DRk1R",
+     "feed": "gn-offbway-casting"
     },
     {
-     "name": "West End Best Friend",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjBKal9wSHBHR0FjYTFtYkNNWmpoaWI2V1VUN216VlY1MF94emxrTkdsbndUcTdkUDkwQzFkZmo1YlkxSXZ3ZEVkSUZBWThOZDdvaXh5OTBRVS1nOGVja0k4SkVJSlE1Y3NlTkNWUFUxMkNNVHFzTnNlUTRyT3ZmOTg3anRURDQ1cWlqMDM0dUJrdWhuc2ZYc1VMaw",
-     "feed": "gn-to-star"
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Carla-Gugino-Fred-Hechinger-Tom-Pecinka-and-Riley-Prior-Join-A-VIEW-FROM-THE-BRIDGE-at-La-MaMa-20261008",
+     "feed": "broadwayworld"
     },
     {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/nicholas-christopher-is-broadways-next-bobby-darin-in-just-in-time/",
-     "feed": "broadway-news"
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/view-from-the-bridge-off-broadway-cast-1237150022/",
+     "feed": "deadline-theater"
     }
    ],
    "status": "published"
@@ -598,15 +547,15 @@
    "published": "2026-10-06T20:35:25+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": null,
+   "venue": "St. James Theatre",
    "placedBy": "words",
-   "type": null,
+   "type": "opening",
    "show": "DOLLY: A True Original Musical",
    "title": "Meet the Cast of Dolly Parton’s Broadway Show ‘DOLLY: A True Original Musical’",
-   "quote": "",
-   "quoteSource": "Taste of Country",
-   "image": null,
-   "imageCredit": null,
+   "quote": "The musical inspired by the late Dolly Parton’s life begins performances at the St. James Theatre on December 7, with opening night taking place on what would have been Parton’s 81st birthday: January 19, 2027.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143287-17.jpg",
+   "imageCredit": "Broadway News",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -622,9 +571,14 @@
      "name": "Taste of Country",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MXVRMWJjdktGcEJucncxb00wLUM3V2NHdy1wMTh4TFpXUElSdHA3bWJaUURvVXY4WEUxV2ZVOUxPUkFEM3F3M21EaEN3RXVfNkpPZ0ExN2hfdVFaSF93NVEya04tNllYaGxpRTZiM1VWUmZSa2c",
      "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/dolly-partons-dolly-a-true-original-musical-announces-complete-broadway-cast/",
+     "feed": "broadway-news"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "d89131a2dc",
@@ -769,6 +723,52 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "193bf51ccf",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-07T13:00:14+00:00",
+   "published": "2026-10-06T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Just in Time",
+   "title": "Nicholas Christopher to star in 'Just in Time' on Broadway",
+   "quote": "He suits up for the role after Matthew Morrison completes his encore engagement on November 8.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/140531-11.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Bobby Darin",
+     "knownFor": "American singer and actor (1936–1973)",
+     "score": 48,
+     "qid": "Q311267"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0Z2RzVjY05vQ05rRlI1MjFtMzVYRmUxWTJabnpIVzdQZkUtem9FSng3Vm9mYWZJajlJY3hLT3ZPMWdMOUJPdjFaam9wSXVROVNHYkVZMmRnazF0VHlZQmJXVXBKTW9FWEFjdHlLNTc1eEs1MXpNUl9HNVNJckV1elA2Q0JOQXRSUXpXeDhmWDU1bUZJNkhRVU15cDEwSG1mRXJOR0lZSURSaElSUGln",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "West End Best Friend",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjBKal9wSHBHR0FjYTFtYkNNWmpoaWI2V1VUN216VlY1MF94emxrTkdsbndUcTdkUDkwQzFkZmo1YlkxSXZ3ZEVkSUZBWThOZDdvaXh5OTBRVS1nOGVja0k4SkVJSlE1Y3NlTkNWUFUxMkNNVHFzTnNlUTRyT3ZmOTg3anRURDQ1cWlqMDM0dUJrdWhuc2ZYc1VMaw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/nicholas-christopher-is-broadways-next-bobby-darin-in-just-in-time/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "b470fa3916",
@@ -973,11 +973,6 @@
     {
      "name": "Broadway News",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkN5WDNGN0gzSXdBTmRIeVZ2Rk5naFVIUjhycHo4ano0akRNZVBwUm5HNEJURDI1dnlBYjF1WnFvZVJMNFpGTmp4R3Bid2FaNlBFdm1IOHpfUlpELXVJN0N5bDFRVF9IRGNwU2pES092enhXOWtTSkQtbTRkY0VEMHNDUndQRTZfamNMUjBheUs0N3BHYTZjZVRUWmY2c3NVa0ZuM0I0YVN1UnVuSEpLMG5sSmIzT2ZqSWViZVQyRQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1JGVzR5c1p6NlpqcnpJRUVKOXl0UEc4QXhBUTBubVZMUUhmYzFrTWtSVWptU1VhT25aRlJaSnRGZEJNVFRkNVZ1NEczSzdpaWJZX0k2MFlUOEVxMUl2YlgySlZGUUhQNEo4OS1Zcmd4NW9ORzl3NDZsMkZvRWxJZ19BLWhoWVJvWTB2eEFMT3VZNGdaYUw3RDlwTjJLcTlteV96QncyYzREUVE",
      "feed": "gn-bway-casting"
     },
     {
@@ -1316,8 +1311,8 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Sandhills Express",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmZfNFVFUExrcFRNSmRGblZBT0ZhR3ZXVTcwM0xPMnQtc1IyQUk0N3NjV1JHTEVoN1JoTWhzMXZ0OC1uamw0cGJSNjBWS1NmeTFGQVozbHphWHJodnM1aElKc2Z2WUx1WUxpdjh0QWd6N2Ytb1NXS1ZqbFItZWk1a2Z1Y2E5QnFQYklkWDVnNjQtYWRJUkFRengweE1lNVJmcW9QRUwxaWI4ZTh2X3pVenl4M2FsVElBdXJLSE8wTDVTQQ",
+     "name": "The Music Universe",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnduN0poclFfZGRlMC1pRzBoM3NaVXpiUzdhYkhHTzYwSUVYS1J6aEhBN2d4cnZMWXFUM0wyelV3eFNCRF9PNVNaelVVY0c0cW9CSG0wMUN5Tm82U2QwRV9wQXhLaVdsajlYVHlNek9hcWdyLXJjQ2Z3ZjBFeFU3SW42VmowR2JkNXpiQlNtTzV5aFJzVVJRdUNKamJBOWFkWjIweHF3",
      "feed": "gn-bway-casting"
     },
     {
@@ -1658,52 +1653,6 @@
    "status": "review"
   },
   {
-   "id": "6b3d591620",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-01T16:31:00+00:00",
-   "published": "2026-10-01T16:31:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "It",
-   "title": "Andrew Rannells, Megan Hilty and Tituss Burgess to star in Broadway’s ‘It’s A Wonderful Life: A Live Radio Play’",
-   "quote": "The show, “a live radio play,” will run during this year’s holiday season. The cast includes Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin and Lisa Rinna.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/01cul-wonderful-life-bhpg/01cul-wonderful-life-bhpg-mediumSquareAt3X.jpg",
-   "imageCredit": "Chris Delmas/Agence France-Presse &mdash; Getty Images",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [
-    {
-     "name": "Andrew Rannells",
-     "knownFor": "American actor",
-     "score": 27,
-     "qid": "Q560516"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWQ2b2l4R1VoSHBKV0owdEdsWEFVdWtVY29MREJjNXpXbjFUdVJSQngySVg4bXZidVlLd3FyazJqUDMzcUtzVW5yYmpjTzIzZnZFN1RSLURmSVNqN3ZwWWpBVWpTM21pMmZFcWhXSG1JbTlocjdZN2ZzNzF5d01ZVHc3UjFaMDN1LVgyXzVrenBEUV9rOVRIOTVjeWU5aEdjSXJmRS1rM2FjZEVsSk53X2RNbzF0Ym5FV3pwMV8xcDRyZFZjaXVwTWQyTTR0anNvMFE",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtuVi1FejFXLWp6TGM2SnI5T0xKdUZrWlJNLURJQXd5d2pJc3RULXpFczZ4R0cxMnhjZFROc0oyU2QwNmYyTnY1Tkt3WlV0WGxUSklHc1JjV2VkZzBraXk0NlFTTmFPOE1adGd1andJb0IxcnFSQkpZWTYtTGlCQlhzVFd4RHVTT00zZWkzMTM5ZUhRdUxrZWtnSWhBMThheVE",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/10/01/theater/its-a-wonderful-life-broadway-andrew-rannells.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "ce3b448894",
    "priority": 2,
    "watched": [],
@@ -1901,6 +1850,52 @@
     {
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/10/01/theater/andrew-scott-off-broadway-october.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "6b3d591620",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-01T16:31:00+00:00",
+   "published": "2026-10-01T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "It",
+   "title": "Andrew Rannells, Megan Hilty and Tituss Burgess to star in Broadway’s ‘It’s A Wonderful Life: A Live Radio Play’",
+   "quote": "The show, “a live radio play,” will run during this year’s holiday season. The cast includes Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin and Lisa Rinna.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/01cul-wonderful-life-bhpg/01cul-wonderful-life-bhpg-mediumSquareAt3X.jpg",
+   "imageCredit": "Chris Delmas/Agence France-Presse &mdash; Getty Images",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [
+    {
+     "name": "Andrew Rannells",
+     "knownFor": "American actor",
+     "score": 27,
+     "qid": "Q560516"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWQ2b2l4R1VoSHBKV0owdEdsWEFVdWtVY29MREJjNXpXbjFUdVJSQngySVg4bXZidVlLd3FyazJqUDMzcUtzVW5yYmpjTzIzZnZFN1RSLURmSVNqN3ZwWWpBVWpTM21pMmZFcWhXSG1JbTlocjdZN2ZzNzF5d01ZVHc3UjFaMDN1LVgyXzVrenBEUV9rOVRIOTVjeWU5aEdjSXJmRS1rM2FjZEVsSk53X2RNbzF0Ym5FV3pwMV8xcDRyZFZjaXVwTWQyTTR0anNvMFE",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtuVi1FejFXLWp6TGM2SnI5T0xKdUZrWlJNLURJQXd5d2pJc3RULXpFczZ4R0cxMnhjZFROc0oyU2QwNmYyTnY1Tkt3WlV0WGxUSklHc1JjV2VkZzBraXk0NlFTTmFPOE1adGd1andJb0IxcnFSQkpZWTYtTGlCQlhzVFd4RHVTT00zZWkzMTM5ZUhRdUxrZWtnSWhBMThheVE",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/10/01/theater/its-a-wonderful-life-broadway-andrew-rannells.html",
      "feed": "nyt-theater"
     }
    ],
@@ -2977,6 +2972,122 @@
    "status": "review"
   },
   {
+   "id": "3a548dd5cb",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T19:02:15+00:00",
+   "published": "2026-10-09T19:02:15+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "Kennedy Center Names Rick Canny Artistic Director",
+   "quote": "The John F. Kennedy Center for the Performing Arts has named Rick Canny as its artistic director, according to The New York Times.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-f305a16e1d4eb74c74ef0dbff966565c.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Kennedy-Center-Names-Rick-Canny-Artistic-Director-20261009",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "65a0bb0e93",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-19T04:02:53+00:00",
+   "published": "2026-10-09T18:54:04+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "extension",
+   "show": "Paranormal Activity",
+   "title": "‘Paranormal Activity’ scares up an eight-week extension on Broadway",
+   "quote": "Originally set to run through January 3, the horror play has extended through February 28, 2027.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/142450-11--1--2.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/paranormal-activity-scares-up-an-eight-week-extension-on-broadway/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "6d2bf81b80",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T17:53:58+00:00",
+   "published": "2026-10-09T17:53:58+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Headless",
+   "title": "Kyle Selig, Katerina McCrimmon, Cody Jamison Strand & Joshua Boone to Star in HEADLESS Concert",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQVJUV1UxM3RCUmtoWjRZWWE5bmpzemVoV3ZjQnJFdVU0dkpQN2Q4V09zbGtlUHZIbkJURG1nNFN4clE3bzVfd2VSWUZiVV9rYzh0N3ZZVjh1LWU5RS1iOEJRZHVjc24tRHZPNDc1YzQ3RXhjZFdUSzdkUTZPNG1DUzRlaS0xTGEzMUlxNVBtM0dKYjdFMGFJY0xpaC1OdWF2aWtkNUM2WjVKcTJXbzdtOEZIMFp5bzh4c0pvc29xb01iUF9NYndHRWVFVllYWGJrOXkyR1RnMTNUbzBUN0Jya2tn",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "4a88080262",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T19:46:35+00:00",
+   "published": "2026-10-09T17:27:03+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Oh, Mary!",
+   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "231aa04915",
    "priority": 3,
    "watched": [],
@@ -3035,6 +3146,35 @@
    "status": "review"
   },
   {
+   "id": "6e3c824b3a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T14:59:00+00:00",
+   "published": "2026-10-09T14:59:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Broadway Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Meet the Winners of The Great Gatsby's Old Sport Karaoke Fan Competition",
+   "quote": "The musical adaptation of F. Scott Fitzgerald's seminal novel continues at the Broadway Theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/4-Naturi-Naughton-Lewis-in-The-Great-Gatsby-credit-Evan-Zimmerman-for-MurphyMade.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/meet-the-winners-of-the-great-gatsbys-old-sport-karaoke-fan-competition",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "c77320bfd0",
    "priority": 3,
    "watched": [],
@@ -3078,9 +3218,9 @@
    "tier": "Broadway",
    "venue": "August Wilson Theatre",
    "placedBy": "venue",
-   "type": "extension",
+   "type": "casting",
    "show": "Paranormal Activity",
-   "title": "PARANORMAL ACTIVITY Extends Through February 2027",
+   "title": "PARANORMAL ACTIVITY Adds 8 Weeks to Broadway Run",
    "quote": "PARANORMAL ACTIVITY will continue to haunt Broadway for eight additional weeks due to popular demand. Written by Levi Holloway, and directed by Felix Barrett, PARANORMAL ACTIVITY will now play at Broadway’s August Wilson Theatre through February 28, 2027.",
    "quoteSource": "BroadwayWorld",
    "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-db50a366d2b65279b1143a9732bca60b.jpg",
@@ -3416,26 +3556,26 @@
     {
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
   },
   {
-   "id": "4a88080262",
+   "id": "90ae940b1c",
    "priority": 3,
    "watched": [],
-   "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-10-08T17:45:38+00:00",
-   "city": "New York",
-   "tier": "Broadway",
+   "firstSeen": "2026-10-08T17:49:43+00:00",
+   "published": "2026-10-08T17:49:43+00:00",
+   "city": null,
+   "tier": null,
    "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
+   "placedBy": "none",
+   "type": "casting",
+   "show": "It'S A Wonderful Life",
+   "title": "Cast Set for IT'S A WONDERFUL LIFE: A LIVE RADIO PLAY at Oil Lamp Theater",
    "quote": "",
-   "quoteSource": "TicketNews",
+   "quoteSource": "BroadwayWorld",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3443,8 +3583,8 @@
    "celebs": [],
    "sources": [
     {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlFHMDVsMTJSTFRCaTh3R25DcnVidXFjell4S3hTZGFxU21ad1F6WEFqYmNWWFNYTTFUNXdFdUVtbHpjcG9EakFjc0hEQ0REZmVkTGtuZTI1WTNIajN5V1NPRldoS3VHOTRRaEJSYVd6QTZuQUx0YVlSZi02UGJidEhCZ0VkbV9XUG5ybFZIMFFvblFveWRxamJlWk82bmtadWZWODRIWUhXZEtrcUdyd3lUMXVRdFpwdFlmR2NmV2djd2hO",
      "feed": "gn-bway-casting"
     }
    ],
@@ -3522,7 +3662,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Walter Kerr Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "new production",
    "show": "Falsettos",
    "title": "FALSETTOS Will Be Available to Stream on BroadwayHD",
@@ -3579,15 +3719,15 @@
    "published": "2026-10-08T14:22:39+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "Broadway Theatre",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "The Great Gatsby",
    "title": "Chilina Kennedy, Max Monnig to join 'The Great Gatsby' Broadway cast",
-   "quote": "Chilina Kennedy (Beautiful, Paradise Square) will step back into the role of Myrtle Wilson, and Max Monnig (Glory of the World) will make his Broadway debut as Tom Buchanan, beginning October 14, 2026 in the Broadway musical adaptation of F. Scott Fitzgerald's novel The Great Gatsby.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-5acea220e53d4daaf538904fc0c4d618.jpg",
-   "imageCredit": "BroadwayWorld",
+   "quote": "Kennedy returns to the musical while Monnig makes his Broadway debut on October 14.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143264-8.jpg",
+   "imageCredit": "Broadway News",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -3596,11 +3736,6 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlQtNXdPODlZOTlEVFdWY29iOG0wa0NOajI3cHlHT3JnREFKUUpSaDBSVlVwdGMxU3RoQllGUTd5OGJjVkxIUjdQd3A2YVhqcnhLd2N4em03RUd2Z1FtbzAwZnhYdEFRUVhaTzltNXZJUlVJM3lJQzdSNmJOS0stZWc2LWlBYzhmVmtkdW9HakRERktadDZ0WFZqZVhnRlBxOXZyT3BiVE5RSV9tdFBvLVdUaE9SanRycFc4",
      "feed": "gn-bway-casting"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Chilina-Kennedy-and-Max-Monnig-Will-Join-THE-GREAT-GATSBY-on-Broadway-20261008",
-     "feed": "broadwayworld"
     },
     {
      "name": "Broadway News",
@@ -4022,6 +4157,35 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/commercial-theater-institute-announces-agenda-and-speakers-for-2026-three-day-intensive/",
      "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f62121fd2c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T20:15:50+00:00",
+   "published": "2026-10-07T20:15:50+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The SpongeBob Musical",
+   "title": "Now Casting: ‘The SpongeBob Musical’ Needs Talent + 3 More Gigs",
+   "quote": "",
+   "quoteSource": "Backstage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Backstage",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOazA4TjA0N2l6dDNDVERtRUc5SWU5djltY2tiN3lCaEprSE5EVjh1eGJmeGtVdlpYZGtEOWN0NUFwUEZqa0M4Tmt2Nk0xXzhxU3c5eVdaWjNIMU5vaS1xbTJCVU9DVjVma3VneGtCTXVfbWFDWVZRTXFlRlZWdUhaNEFKdE43QQ",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -6294,35 +6458,6 @@
    "status": "review"
   },
   {
-   "id": "93c9915d2a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T11:00:00+00:00",
-   "published": "2026-10-05T11:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Anthony Mackie Playing Macbeth In Broadway After Long Theater Absence",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2NxRXJidWtjSnN4V05tZ0V3MnB5TG9HQm9uSlA0T3VwOVZLU011RW0wYmRSVHBUQW1EUnhoX1BFX0tGYktUV0hpNWg4bEpWV1hMU3BjVXAxQ1A3VzNWUmRGbnJrNzF3cS1CaGQzOHljOC1nRnU2T1M3YlZsYnpUbC1TNERHQm1hdFFQNEZWdw",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "efb55b130e",
    "priority": 3,
    "watched": [],
@@ -6350,6 +6485,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "93c9915d2a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T11:00:00+00:00",
+   "published": "2026-10-05T11:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Anthony Mackie Playing Macbeth In Broadway After Long Theater Absence",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2NxRXJidWtjSnN4V05tZ0V3MnB5TG9HQm9uSlA0T3VwOVZLU011RW0wYmRSVHBUQW1EUnhoX1BFX0tGYktUV0hpNWg4bEpWV1hMU3BjVXAxQ1A3VzNWUmRGbnJrNzF3cS1CaGQzOHljOC1nRnU2T1M3YlZsYnpUbC1TNERHQm1hdFFQNEZWdw",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "4b5d6f1d97",
@@ -8102,35 +8266,6 @@
    "status": "published"
   },
   {
-   "id": "aabd98c3e7",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-30T16:03:21+00:00",
-   "published": "2026-09-30T16:03:21+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Elf The Musical 2026",
-   "title": "Jack Ducat and More to Star in ELF THE MUSICAL 2026 Tour",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUVCWjFJbkxNTmVYMEVWYi1sUTBSaHpUWWRkcGs2OFNTd2FtdVJfd19JS2tjQ1RVUjBOR1dPNloxVEZhTHFNTmF3MmRrUzhkX243aWRucE43MUxaRE1oY014R1VXdEdOOWVNdXpONVRod1ZlTFFiUVlFVVBuNUhnUE83cjFPbDZXOFBwV2JFcS16OHhOR0ZlaWdrVzl4N1dIQU5LRmhR",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "7787493ead",
    "priority": 3,
    "watched": [],
@@ -8357,6 +8492,35 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkU1Nm1iX3hjNk1qbFZGY1BJX2RfM1ZYeWNIX2hBTjI5SlNsZk5jSWYwMHp3dnpTZmJBSW1jc3U5ekxJelVva2pNZmxUQ2c1elg0NS1idkY1SGoyLXBqNHlvU1ZieG9HZ1ZCXzFTei1QR256eU91a01WbGhXVFNPc2dqQ05hbkxOUXRUVkVFeUhqeF95ZmRBLVpOUlZEU0NUUWJzZDFpWmxoNHJJTkgwSTlnS1pHNHlhVnAzNHNVNThwekR5eER0Rl9McklabVoxaVhxakFwUU83dw",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "aabd98c3e7",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T16:03:21+00:00",
+   "published": "2026-09-30T07:00:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Elf The Musical 2026",
+   "title": "Jack Ducat and More to Star in ELF THE MUSICAL 2026 Tour",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUVCWjFJbkxNTmVYMEVWYi1sUTBSaHpUWWRkcGs2OFNTd2FtdVJfd19JS2tjQ1RVUjBOR1dPNloxVEZhTHFNTmF3MmRrUzhkX243aWRucE43MUxaRE1oY014R1VXdEdOOWVNdXpONVRod1ZlTFFiUVlFVVBuNUhnUE83cjFPbDZXOFBwV2JFcS16OHhOR0ZlaWdrVzl4N1dIQU5LRmhR",
      "feed": "gn-to-star"
     }
    ],
@@ -11843,93 +12007,6 @@
    "status": "review"
   },
   {
-   "id": "65a0bb0e93",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-19T04:02:53+00:00",
-   "published": "2026-09-19T04:02:53+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Paranormal Activity",
-   "title": "‘Paranormal Activity’ Reveals Full Cast for Broadway Engagement",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzRZMmtJWnl5TGhvOG1felI3XzdrTHVHc2k5eVZ5UW5iOUZMV1JlMzFvVnlTTi1PV2dhcFdYQnJoR21zZ2h5cmJzRGVxYjNJWnJNc2M1eE9hSUZwUjhrbjc4aWlJOEx3LWF3cUNudi1FUEVSMUg2eG5hUE95Mk12bExYUk9aM2xnb0hXNXE4cUxMemhXUzItT3Y5eG0tQQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "ea3d6d2918",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-19T01:21:31+00:00",
-   "published": "2026-09-19T01:21:31+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
-   "quote": "A one-woman show about the perils of authoritarianism draws on a memoir by the Hungarian-American writer Kati Marton. Under Viktor Orban’s government, it might not have happened.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16hungary-enemies-01-vfcl/16hungary-enemies-01-vfcl-mediumSquareAt3X.jpg",
-   "imageCredit": "Akos Stiller for The New York Times",
-   "imageWidth": 1800,
-   "imageHeight": 1801,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "e834239122",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-18T19:12:05+00:00",
-   "published": "2026-09-18T19:12:05+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Beaches",
-   "title": "Full Cast Announced for Broadway’s ‘Beaches’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUUzWXhDWjJ1ZDRkQWpjUDc1N05yZ1QxZXhGaUcwQmZWd1BrOTA1ZnZDX01Bam9NOGJRcEsxQk5VVS1pa0hDTHZBTlMyUFQzQVd0YjFUS1BvS1lWVEExSjlCdGlmeUd5SW5FcnljbUx3Q3ZlQ3RPUHZ5eWJscDQyYlotNA",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "1ae769c23b",
    "priority": 3,
    "watched": [],
@@ -11986,35 +12063,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "6ada44c0f0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-17T20:08:12+00:00",
-   "published": "2026-09-17T20:08:12+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Goodman Theatre",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "The Attic celebrates circus arts and human resilience",
-   "quote": "Anna Kichtchenko (suspended by silks), Santiago Rivera Laugerud (seated L), and Tyler Meredith (center in bed) in The Attic: Things I&#8217;ve Seen While Lying on My Back , presented by 7 Fingers at the Goodman Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/8_The-Attic-Produc…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/8_The-Attic-Production-Photos-scaled-e1789675036330.jpg?fit=1024%2C683&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/attic-goodman-theatre-7-fingers/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
   }
  ]
 }

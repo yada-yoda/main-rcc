@@ -1118,6 +1118,15 @@
   "qid": "Q33084529",
   "score": 23
  },
+ "Cody Jamison Strand": {
+  "checkedAt": "2026-10-10T02:08:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Comedy Bill Pay": {
   "checkedAt": "2026-09-25T17:56:25+00:00",
   "description": null,
@@ -2987,6 +2996,15 @@
   "qid": "Q123169229",
   "score": 1
  },
+ "Joshua Boone": {
+  "checkedAt": "2026-10-10T02:08:18+00:00",
+  "description": "Ph.D. Southern Illinois University at Carbondale 2013",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q102424811",
+  "score": 0
+ },
  "Joshua Henry": {
   "checkedAt": "2026-09-30T18:18:13+00:00",
   "description": "Canadian-American actor and singer (born 1984)",
@@ -3088,6 +3106,15 @@
   "knownFor": [],
   "qid": "Q110379",
   "score": 42
+ },
+ "Katerina McCrimmon": {
+  "checkedAt": "2026-10-10T02:08:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Kathleen Chalfant": {
   "checkedAt": "2026-10-05T21:00:07+00:00",
@@ -3205,6 +3232,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Kyle Selig": {
+  "checkedAt": "2026-10-10T02:08:15+00:00",
+  "description": "American actor, dancer, and singer (born 1992)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q59811996",
+  "score": 3
  },
  "La MaMa": {
   "checkedAt": "2026-10-01T18:43:47+00:00",
@@ -4045,6 +4081,15 @@
   "qid": "Q113687844",
   "score": 0
  },
+ "Names Rick Canny": {
+  "checkedAt": "2026-10-10T02:08:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Natalie Portman": {
   "checkedAt": "2026-10-05T21:00:22+00:00",
   "description": "Israeli-American actress (born 1981)",
@@ -4070,6 +4115,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q113687844",
+  "score": 0
+ },
+ "Needs Talent": {
+  "checkedAt": "2026-10-10T02:08:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Neil Patrick Harris": {
@@ -4254,6 +4308,24 @@
  },
  "Ogunquit Playhouse": {
   "checkedAt": "2026-10-07T19:14:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Oil Lamp": {
+  "checkedAt": "2026-10-10T02:08:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Old Sport Karaoke": {
+  "checkedAt": "2026-10-10T02:08:20+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
