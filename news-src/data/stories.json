@@ -582,7 +582,7 @@
    "placedBy": "words",
    "type": "new production",
    "show": "DOLLY: A True Original Musical",
-   "title": "Meet the Cast of Dolly Parton’s Broadway Show ‘DOLLY: A True Original Musical’",
+   "title": "Dolly Parton’s ‘DOLLY: A True Original Musical’ announces complete Broadway cast",
    "quote": "The musical inspired by the late Dolly Parton’s life begins performances at the St. James Theatre on December 7, with opening night taking place on what would have been Parton’s 81st birthday: January 19, 2027.",
    "quoteSource": "Broadway News",
    "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143287-17.jpg",
@@ -599,13 +599,13 @@
    ],
    "sources": [
     {
-     "name": "Taste of Country",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MXVRMWJjdktGcEJucncxb00wLUM3V2NHdy1wMTh4TFpXUElSdHA3bWJaUURvVXY4WEUxV2ZVOUxPUkFEM3F3M21EaEN3RXVfNkpPZ0ExN2hfdVFaSF93NVEya04tNllYaGxpRTZiM1VWUmZSa2c",
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1h2ZFFMaGlWZ2lLSFk0YnFPcFBxLV9XU2tLOWZwT2IxS3g1ajl4eW5JMURIWUZpal9KYTcxZU82dTNRQm54OTlKX3ppemswUnFQOVh0dHVqWjVEMlNmWV9mVDNFeWVCeUFXM0U3SzdJOEF2eGtnV1c4TndxWXJpYzFJUjFOSUVYXzZ0QVRqZTVOYTRnM0hkYkRjOFRhQmwxMFA5VFJJM09GZw",
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1h2ZFFMaGlWZ2lLSFk0YnFPcFBxLV9XU2tLOWZwT2IxS3g1ajl4eW5JMURIWUZpal9KYTcxZU82dTNRQm54OTlKX3ppemswUnFQOVh0dHVqWjVEMlNmWV9mVDNFeWVCeUFXM0U3SzdJOEF2eGtnV1c4TndxWXJpYzFJUjFOSUVYXzZ0QVRqZTVOYTRnM0hkYkRjOFRhQmwxMFA5VFJJM09GZw",
+     "name": "Taste of Country",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MXVRMWJjdktGcEJucncxb00wLUM3V2NHdy1wMTh4TFpXUElSdHA3bWJaUURvVXY4WEUxV2ZVOUxPUkFEM3F3M21EaEN3RXVfNkpPZ0ExN2hfdVFaSF93NVEya04tNllYaGxpRTZiM1VWUmZSa2c",
      "feed": "gn-bway-casting"
     },
     {
@@ -1453,42 +1453,6 @@
    "status": "review"
   },
   {
-   "id": "a9f7fce270",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T14:46:52+00:00",
-   "published": "2026-10-02T14:46:52+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Dolly Parton Broadway Musical Reveals Lead Cast, Offers 30,000 Free Student Tickets",
-   "quote": "",
-   "quoteSource": "Consequence of Sound",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Consequence of Sound",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGFVM0xfR0pacUxuMTBINXNVa1RQdUFqNDM5R1BrWUxUb2Y3SDVmekNoUG13MS15b25maEpNbnRLbHBlQk9JLTZnTHNHSHVaaWdXTXl4UTZaakFkYVVHcVFIX1lEZ3owd3VxSEc1emtfdXdGUlVlNEE4d1k4SnJ4bFJKemQzSGpHNEZz",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "d415593ab3",
    "priority": 2,
    "watched": [],
@@ -1607,10 +1571,10 @@
    "venue": null,
    "placedBy": "words",
    "type": "casting",
-   "show": "It",
-   "title": "Dolly Parton musical announces complete casting for its Broadway premiere",
+   "show": null,
+   "title": "Cast Announced for Dolly Parton Musical’s Broadway Run in New York",
    "quote": "",
-   "quoteSource": "The Music Universe",
+   "quoteSource": "Rutherford Source",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1625,6 +1589,11 @@
    ],
    "sources": [
     {
+     "name": "Rutherford Source",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmY3VzhqLXczeVBZSkwwSU90SVZ1VU5YMl8tMGt6WE10aFI4S0VQS2ZtM1YyQ1ViUEhXOXJ5cElHYWV6SUFNVXpjT0V0S1drY1dVX00yUDNWMk13UEVHTUg0YmttTVl1WkNzNFdBN2tEY1VaY1FWSzBiSFpCbE1DMzRiT183dUpOLWcyUzIyTTJpc1FCcjV1LUZrQQ",
+     "feed": "gn-bway-casting"
+    },
+    {
      "name": "The Music Universe",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnduN0poclFfZGRlMC1pRzBoM3NaVXpiUzdhYkhHTzYwSUVYS1J6aEhBN2d4cnZMWXFUM0wyelV3eFNCRF9PNVNaelVVY0c0cW9CSG0wMUN5Tm82U2QwRV9wQXhLaVdsajlYVHlNek9hcWdyLXJjQ2Z3ZjBFeFU3SW42VmowR2JkNXpiQlNtTzV5aFJzVVJRdUNKamJBOWFkWjIweHF3",
      "feed": "gn-bway-casting"
@@ -1638,11 +1607,6 @@
      "name": "IMDb",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsdFBkT2JwaXFLZ0lGLTFEWnhKb203UmVqcndvamNhWlpBb1pFRzNyXzlUV0dUNXF3cnJBUFpjTE1wTDlFY3BfQTkwQ2g",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -1678,6 +1642,42 @@
     {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2dwZFdrU01XeG14UUhvS0syQUZwaTl6WmRFRjVQMDN6QmJFRjJWMW9nbWg3Ump5Wk03NzZwTkdUcEZnQVI4YU8wdXRWbU1vMzdGaFd1UXNpWTVpam9LdjZnaWxpU2UxaUdIR3dMcS1Yc0s4QU1qUDVLLTJnUGQwbWd4TzM1V3pNZ1RrUVFIRUdmODFGbDZkd0JPc1pTUTA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a9f7fce270",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-02T14:46:52+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Dolly Parton Broadway Musical Reveals Lead Cast, Offers 30,000 Free Student Tickets",
+   "quote": "",
+   "quoteSource": "Consequence of Sound",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Consequence of Sound",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGFVM0xfR0pacUxuMTBINXNVa1RQdUFqNDM5R1BrWUxUb2Y3SDVmekNoUG13MS15b25maEpNbnRLbHBlQk9JLTZnTHNHSHVaaWdXTXl4UTZaakFkYVVHcVFIX1lEZ3owd3VxSEc1emtfdXdGUlVlNEE4d1k4SnJ4bFJKemQzSGpHNEZz",
      "feed": "gn-bway-casting"
     }
    ],
@@ -1977,13 +1977,13 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "Parade Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUxKVVRzZlNYcXBRbEpsZmxqUl9hWWRfdFZvbTJvN1RJZXJOdlJmZENIUXVZSlJyaGllcGh4LV91NUkycDgxSTRrc3ZUWGhDcVU4VUNaNTB0b3Y4aS16X2hrNzliUUFseHJDTjFVZWg3VExzU0F3LTdwVkVmemJqbmZ1SklmS212bXM3ZEFUTVpIT0lkbXZ4N3Fra0NyZXp5Z3c",
+     "name": "Aol",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUkydzZJdF9MeVZyaEdxTmx3N0VnZ1IyODJVcHJOdWRyMjAxb1otbWFreTR3UnRTNFM5QzY1eV9uN1p6Q1M3OVp4QnJlbTktcTBuQlJZdzFZUXh4cEV4czQxb2ZWYlgwUWtnV0dVRXc5UUhKMTdHcDVhM0FTZjZaQ1J0ZW8",
      "feed": "gn-to-star"
     },
     {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUkydzZJdF9MeVZyaEdxTmx3N0VnZ1IyODJVcHJOdWRyMjAxb1otbWFreTR3UnRTNFM5QzY1eV9uN1p6Q1M3OVp4QnJlbTktcTBuQlJZdzFZUXh4cEV4czQxb2ZWYlgwUWtnV0dVRXc5UUhKMTdHcDVhM0FTZjZaQ1J0ZW8",
+     "name": "Parade Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUxKVVRzZlNYcXBRbEpsZmxqUl9hWWRfdFZvbTJvN1RJZXJOdlJmZENIUXVZSlJyaGllcGh4LV91NUkycDgxSTRrc3ZUWGhDcVU4VUNaNTB0b3Y4aS16X2hrNzliUUFseHJDTjFVZWg3VExzU0F3LTdwVkVmemJqbmZ1SklmS212bXM3ZEFUTVpIT0lkbXZ4N3Fra0NyZXp5Z3c",
      "feed": "gn-to-star"
     }
    ],
@@ -2373,42 +2373,6 @@
    "status": "review"
   },
   {
-   "id": "0c32b81c56",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-29T15:37:08+00:00",
-   "published": "2026-09-29T15:37:08+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Cobra Kai",
-   "title": "Deadline Hollywood. Dirty Dave · Afflictions. ‘Cobra Kai’ and ‘Blue Beetle’ star Xolo Maridueña will make his Broadway debut when he joins ‘Buena Vista Social Club’ for seven weeks beginning Tuesday, November 17. Read more details at the link in bio. (Vid",
-   "quote": "",
-   "quoteSource": "Facebook",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Xolo Maridueña",
-     "knownFor": "Cobra Kai, Blue Beetle",
-     "score": 36,
-     "qid": "Q53870611"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRHFOdmw4TW05WEdjUjBjUnBKSGptNjVoLUMtNmx4bEZTbmpQclo0TmtRVm5FbUg1VHNyWllEUEdZNXVhUXRzSWt5cUtreHFnWXlXVGpNZ20wQlNkbHdmTHdzSHUzQnVPZVhYdnpCUG5hcGVkNXROejY5OGVMUEctU18wRGhwN3I3M0lfZHJsbkFIVHV5VUg5akFWX0ViTmc2TWp6UlVKOGM0cjYwYkNEZmFDY0oxX0dKUnNvNHJyZ2Y1d0dKQzFnZTBHSTJ5Z2xMQy1xV2NEQ1FhWjRl",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "75104e1c26",
    "priority": 2,
    "watched": [],
@@ -2440,6 +2404,42 @@
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGt4Y2ZsTDNzSGxyaVZGb0lycXZUOG5Tem9QS2QzT1Rqa2g5bGdyenV5cU9BSkg0WE50UlFfRkdfWTZic01vb1JKYTl6VHBGVEJxNXVYRTdpejcxeXYxSHhYZERTc3VaT0NhTjI5dmx0eW1VQVBOeGhjQ19aOXNtR2pSMXI2MEluMEhVOGZ0aDJmUjlKUUZOR3oxcVhBNzNMUkNKTFREOW5YTWhqRUVLTVU5aWFNWlho",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "0c32b81c56",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-29T15:37:08+00:00",
+   "published": "2026-09-29T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Cobra Kai",
+   "title": "Deadline Hollywood. Dirty Dave · Afflictions. ‘Cobra Kai’ and ‘Blue Beetle’ star Xolo Maridueña will make his Broadway debut when he joins ‘Buena Vista Social Club’ for seven weeks beginning Tuesday, November 17. Read more details at the link in bio. (Vid",
+   "quote": "",
+   "quoteSource": "Facebook",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Xolo Maridueña",
+     "knownFor": "Cobra Kai, Blue Beetle",
+     "score": 36,
+     "qid": "Q53870611"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRHFOdmw4TW05WEdjUjBjUnBKSGptNjVoLUMtNmx4bEZTbmpQclo0TmtRVm5FbUg1VHNyWllEUEdZNXVhUXRzSWt5cUtreHFnWXlXVGpNZ20wQlNkbHdmTHdzSHUzQnVPZVhYdnpCUG5hcGVkNXROejY5OGVMUEctU18wRGhwN3I3M0lfZHJsbkFIVHV5VUg5akFWX0ViTmc2TWp6UlVKOGM0cjYwYkNEZmFDY0oxX0dKUnNvNHJyZ2Y1d0dKQzFnZTBHSTJ5Z2xMQy1xV2NEQ1FhWjRl",
+     "feed": "gn-bway-debut"
     }
    ],
    "status": "published"
@@ -3044,6 +3044,93 @@
    "status": "review"
   },
   {
+   "id": "4688a378ae",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-11T14:00:24+00:00",
+   "published": "2026-10-11T14:00:24+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Play BroadwayWorld's Sunday Crossword: October 11, 2026",
+   "quote": "This week's grid is smaller than usual but no less packed. Fifteen answers fill a 17x17 board: three people, eight shows, two venues and two theatre terms, all pulled from a week of Broadway and regional news.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/logo-300-preview.png",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Play-BroadwayWorlds-Sunday-Crossword-October-11-2026-20261011",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "08b1ddc07f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-11T00:00:00+00:00",
+   "published": "2026-10-11T00:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New World Stages",
+   "placedBy": "venue",
+   "type": "extension",
+   "show": null,
+   "title": "Off-Broadway's Heathers, Spelling Bee Take Final Bows October 11",
+   "quote": "Both musical revivals have enjoyed multi-extended runs at New World Stages.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Heathers-and-Spelling-Bee.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/off-broadways-heathers-spelling-bee-take-final-bows-october-11",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "32ba7b3653",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-10T16:48:20+00:00",
+   "published": "2026-10-10T16:48:20+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "The Public Theater",
+   "placedBy": "venue",
+   "type": "opening",
+   "show": "Good Time Charlie",
+   "title": "Ryan J. Haddad's GOOD TIME CHARLIE Opens at The Public Theater With Star-Studded Cast",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzJ0aU9PTkZHV1J5dkdtb3Z1Wl94NjVJbmptb2x6Xzh2VGNoeFFEdnkxa05aLUtoNUpQNmtWNnMzXzAtWXR1czg0VkdfSHV0WlRlQzFOZkZXajVsUHJvSDlKN3p6d2x6dVppbHBGazlQY3NDWF9jeXdNeVk4TWNsbkx2a2lWNkNtVUN0NzIxcGZ5NUhjZE1NeEJ2d1RDNHpxX2pyWHBJN1BOSWFmb19N",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "fd705288b3",
    "priority": 3,
    "watched": [],
@@ -3105,6 +3192,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "4a88080262",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T19:46:35+00:00",
+   "published": "2026-10-09T21:39:02+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Oh, Mary!",
+   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "3a548dd5cb",
@@ -3194,64 +3310,6 @@
    "status": "review"
   },
   {
-   "id": "4a88080262",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-10-09T17:27:03+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "939699fbf2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T13:52:46+00:00",
-   "published": "2026-10-09T17:24:31+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "2:22 – A Ghost Story",
-   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "231aa04915",
    "priority": 3,
    "watched": [],
@@ -3310,7 +3368,7 @@
    "status": "review"
   },
   {
-   "id": "c77320bfd0",
+   "id": "3307260800",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-09T14:13:46+00:00",
@@ -3321,7 +3379,7 @@
    "placedBy": "venue",
    "type": "casting",
    "show": "Dolly",
-   "title": "Crystal Kellogg and More Join the Cast of DOLLY: A TRUE ORIGINAL MUSICAL",
+   "title": "Broadway's DOLLY: A TRUE ORIGINAL MUSICAL Announces Full Ensemble and Cast Details",
    "quote": "Complete casting has been announced for the Broadway premiere of DOLLY: A True Original Musical, opening at the St. James Theatre this winter.",
    "quoteSource": "BroadwayWorld",
    "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-863ea856c9b4dcba72d7b9a3989b26d3.jpg",
@@ -3368,22 +3426,22 @@
    "status": "review"
   },
   {
-   "id": "3307260800",
+   "id": "c77320bfd0",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-09T14:13:46+00:00",
    "published": "2026-10-09T14:13:46+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "St. James Theatre",
-   "placedBy": "words",
-   "type": "new production",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
    "show": "Dolly",
-   "title": "Broadway's DOLLY: A TRUE ORIGINAL MUSICAL Announces Full Ensemble and Cast Details",
-   "quote": "Complete casting has been announced for the Broadway premiere of DOLLY: A True Original Musical, opening at the St. James Theatre this winter.",
+   "title": "Crystal Kellogg and More Join the Cast of DOLLY: A TRUE ORIGINAL MUSICAL",
+   "quote": "",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-863ea856c9b4dcba72d7b9a3989b26d3.jpg",
-   "imageCredit": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -3392,14 +3450,9 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEV5TFlUUDlyMXRHNF9hcnJCbVR1eFBaWW00QU8wbS1WUTFfX3JsSm5CXzBoX0tUZFcweEk5RFAwbk9jWENpZi1VaFloeEhCRnJBeGtEYWQ2dGhwV0lIR2l4dVdFYzNiM0ZFNjJFamJYak9iU00tVFo5NkhqRVE2WmNkTzgzWXBRa19tOExwaGtZbTdheHk2OXBsS3B1TXltZ2Rqb3lJV21XaXFDdDVlUG5odzRjVG9CcWc",
      "feed": "gn-bway-casting"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Crystal-Kellogg-and-More-Join-the-Cast-of-DOLLY-A-TRUE-ORIGINAL-MUSICAL-20261009",
-     "feed": "broadwayworld"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "66f3ce9b26",
@@ -3545,6 +3598,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "939699fbf2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T13:52:46+00:00",
+   "published": "2026-10-09T10:54:13+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "2:22 – A Ghost Story",
+   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "21a3f22c03",
@@ -4103,40 +4185,6 @@
    "status": "published"
   },
   {
-   "id": "6fc371299a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-08T13:05:18+00:00",
-   "published": "2026-10-08T13:05:18+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Spring Awakening",
-   "title": "George Abud and Lilli Cooper Join SPRING AWAKENING Off-Broadway Cast",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJzS1YtQVhlb093MGdkZEtXUTMtbkExWGlDYVpfMmpMQ0d2c2tadF9wX2diLVZLbm1nSHJ1d2VCWjlqd0Y5V3VMSHBMOW5ucWYzMXV3bUJNUUFTSFJ3bHI2NmZzTkJUSHZCRHl1bkNjWTRQT1dvc0xjb3ZPQjZBdVM1WDhjaGxEZm9lYVJBWEJiNXh2cWRwVXhFZjVhb09sQWRlclk1NGRnYjVDNThYT1RBeC1tQQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1ZSd3Z6cDN3ZTI5TjJhc1Atd3BiNUJGWUNULVZzZE1LdGQtRktQS1FOV2FwRXc1cUdjWFJyWkJLbG55MXBSVnJ2alpMMEFZaVhEeS04VDZldW82M2ZhOHJUTmtCNVVhQ19qQklGbTFrZmN5elJkdjcyelBRSjI0V3k5RE1KVTFOMU85Z1p5bGtmMXplNTR5WFpvTzY3WkhPanlLV3NKWVgxbzNkb3YyM1JaWkVkYXFkM3c",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "12f3487265",
    "priority": 3,
    "watched": [],
@@ -4389,11 +4437,6 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmczc2hScXlWOS1EdkU5Nk1rY0ZJVXJZOUpMMzZ4Qll4QW9nRUctWVJYM0pkV29POTFxSHN4aS15cUNZZFNKTml6MzRTWnBrcTVDNVNYRWF1bmFaZmNmQlJyM01qazllWWVVYm13TTI0SVM4eDJnb1BzRTRleFBKcGJtZjFyYzB6aHQwZVRQbEdoVlppQXhlbEhoTVNDZlZpX3k4OWJHbnR5NXpBdHMtbDY3bFY0bTlVWUNOSHdwZmU",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/casting-directors-of-liberation-ragtime-schmigadoon-and-more-nominated-for-42nd-artios-awards/",
@@ -5215,6 +5258,40 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadway-pipeline-october-7-2026/",
      "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "6fc371299a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T13:05:18+00:00",
+   "published": "2026-10-07T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Spring Awakening",
+   "title": "George Abud and Lilli Cooper Join SPRING AWAKENING Off-Broadway Cast",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJzS1YtQVhlb093MGdkZEtXUTMtbkExWGlDYVpfMmpMQ0d2c2tadF9wX2diLVZLbm1nSHJ1d2VCWjlqd0Y5V3VMSHBMOW5ucWYzMXV3bUJNUUFTSFJ3bHI2NmZzTkJUSHZCRHl1bkNjWTRQT1dvc0xjb3ZPQjZBdVM1WDhjaGxEZm9lYVJBWEJiNXh2cWRwVXhFZjVhb09sQWRlclk1NGRnYjVDNThYT1RBeC1tQQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1ZSd3Z6cDN3ZTI5TjJhc1Atd3BiNUJGWUNULVZzZE1LdGQtRktQS1FOV2FwRXc1cUdjWFJyWkJLbG55MXBSVnJ2alpMMEFZaVhEeS04VDZldW82M2ZhOHJUTmtCNVVhQ19qQklGbTFrZmN5elJkdjcyelBRSjI0V3k5RE1KVTFOMU85Z1p5bGtmMXplNTR5WFpvTzY3WkhPanlLV3NKWVgxbzNkb3YyM1JaWkVkYXFkM3c",
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -11745,35 +11822,6 @@
    "status": "review"
   },
   {
-   "id": "f31ad4bea2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T16:00:13+00:00",
-   "published": "2026-09-23T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A Christmas Carol",
-   "title": "Andy Karl to star in 'A Christmas Carol' off Broadway; additional cast named",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "a5b6f34c99",
    "priority": 3,
    "watched": [],
@@ -11798,6 +11846,35 @@
      "name": "TheaterMania",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDJaLUd0bmdWTUI0TGwxSGZVSGJFMUFrdmo4eXpvWHFfQWRkNnJGdjBNb1QwaVp0a244b191QU1lUWtFdVR2eUk1ZmJacEs4X0FMZVRyMEQxWlhIUXI5UnVKZDFId3J0TE9fN05nTHItbE8yRmJHb1RkLVh6bXdxY2JLU3dmYjYzODZBZzd5TmZ4bWpTVWtER0RHd3l0MmNxT3FERy1CTUl1WHFSZWtjNmM4QmlLVjZvaTM2dXd6MDg",
      "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "f31ad4bea2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T16:00:13+00:00",
+   "published": "2026-09-23T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A Christmas Carol",
+   "title": "Andy Karl to star in 'A Christmas Carol' off Broadway; additional cast named",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRZT0xNNWVjRG1lT1ZFX3EyNVNhNXRMOGNTMVBQOW5XWmpUcGRHUWV1SmZ4MzBMTUdaTEtMTXA5RTVreVBxX2txS3B2QTZxbzBxY01EaXVtU1ZOTG5aWmZJc0c4QTJFZ1QzOHZESFRYVWJIN2x2emlxaHZKb3N4OG9Va3ZyWmZHM1VCXzRFOG9PQjVvQ1lRLV81VnRjaEMyWkJHUEpNdGk",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
