@@ -188,6 +188,53 @@
    "status": "review"
   },
   {
+   "id": "f716a9ece7",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-08T18:00:00+00:00",
+   "published": "2026-10-08T18:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A View From the Bridge",
+   "title": "Carla Gugino and more to join Sam Rockwell in 'A View From the Bridge' off Broadway; Marin Ireland departs",
+   "quote": "Additional cast for the upcoming Off Broadway revival of Arthur Miller’s A View from the Bridge has been announced. Joining previously announced Sam Rockwell and Alfred Molina will be Carla Gugino, Fred Hechinger, Tom Pecinka and Riley Prior.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/getty-images-portrait-studio-presented-by-imdb-and-imdbpro-a-1000x667-1.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Sam Rockwell",
+     "knownFor": "The Bad Guys",
+     "score": 64,
+     "qid": "Q316446"
+    },
+    {
+     "name": "Carla Gugino",
+     "knownFor": "American actress",
+     "score": 60,
+     "qid": "Q228871"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnY1V3dXQ1Myal9uZGc2X1VjczlFdG1ycUZEeWNZQ1FHV094TmlaMDJPcDVPM3FxVG9ENWtoaHFNR3NwTC1ZRk9qLURMQXdta3dRbmRsaENxR3Y0MnNnRHUzd1pCZUtkeVJIdjRYRk1KcnJMTjRVc2lrNjgtTzhFZlVGRjJSc1BEZEpUWEFsSFZIREkwR0pFdjVqUDhHTEtfRXUzN3ltTU9ZNWVSZ29YVDJNYUxRVDBxYXNhcU5UQXR6bGNZcUZ0WENudS1seDZ0OHVhQlJ4eUZaZ2JtMHVyZlh4NVZadGVrSl9DRk1R",
+     "feed": "gn-offbway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/view-from-the-bridge-off-broadway-cast-1237150022/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "21cb1bcb4b",
    "priority": 2,
    "watched": [],
@@ -524,53 +571,6 @@
    "status": "review"
   },
   {
-   "id": "f716a9ece7",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-08T18:00:00+00:00",
-   "published": "2026-10-07T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A View From the Bridge",
-   "title": "Carla Gugino and more to join Sam Rockwell in 'A View From the Bridge' off Broadway; Marin Ireland departs",
-   "quote": "Additional cast for the upcoming Off Broadway revival of Arthur Miller’s A View from the Bridge has been announced. Joining previously announced Sam Rockwell and Alfred Molina will be Carla Gugino, Fred Hechinger, Tom Pecinka and Riley Prior.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/10/getty-images-portrait-studio-presented-by-imdb-and-imdbpro-a-1000x667-1.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Sam Rockwell",
-     "knownFor": "The Bad Guys",
-     "score": 64,
-     "qid": "Q316446"
-    },
-    {
-     "name": "Carla Gugino",
-     "knownFor": "American actress",
-     "score": 60,
-     "qid": "Q228871"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnY1V3dXQ1Myal9uZGc2X1VjczlFdG1ycUZEeWNZQ1FHV094TmlaMDJPcDVPM3FxVG9ENWtoaHFNR3NwTC1ZRk9qLURMQXdta3dRbmRsaENxR3Y0MnNnRHUzd1pCZUtkeVJIdjRYRk1KcnJMTjRVc2lrNjgtTzhFZlVGRjJSc1BEZEpUWEFsSFZIREkwR0pFdjVqUDhHTEtfRXUzN3ltTU9ZNWVSZ29YVDJNYUxRVDBxYXNhcU5UQXR6bGNZcUZ0WENudS1seDZ0OHVhQlJ4eUZaZ2JtMHVyZlh4NVZadGVrSl9DRk1R",
-     "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/view-from-the-bridge-off-broadway-cast-1237150022/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "bc49b0a16a",
    "priority": 2,
    "watched": [],
@@ -582,7 +582,7 @@
    "placedBy": "words",
    "type": "new production",
    "show": "DOLLY: A True Original Musical",
-   "title": "Dolly Parton’s ‘DOLLY: A True Original Musical’ announces complete Broadway cast",
+   "title": "Meet the Cast of Dolly Parton’s Broadway Show ‘DOLLY: A True Original Musical’",
    "quote": "The musical inspired by the late Dolly Parton’s life begins performances at the St. James Theatre on December 7, with opening night taking place on what would have been Parton’s 81st birthday: January 19, 2027.",
    "quoteSource": "Broadway News",
    "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143287-17.jpg",
@@ -599,13 +599,13 @@
    ],
    "sources": [
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1h2ZFFMaGlWZ2lLSFk0YnFPcFBxLV9XU2tLOWZwT2IxS3g1ajl4eW5JMURIWUZpal9KYTcxZU82dTNRQm54OTlKX3ppemswUnFQOVh0dHVqWjVEMlNmWV9mVDNFeWVCeUFXM0U3SzdJOEF2eGtnV1c4TndxWXJpYzFJUjFOSUVYXzZ0QVRqZTVOYTRnM0hkYkRjOFRhQmwxMFA5VFJJM09GZw",
+     "name": "Taste of Country",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MXVRMWJjdktGcEJucncxb00wLUM3V2NHdy1wMTh4TFpXUElSdHA3bWJaUURvVXY4WEUxV2ZVOUxPUkFEM3F3M21EaEN3RXVfNkpPZ0ExN2hfdVFaSF93NVEya04tNllYaGxpRTZiM1VWUmZSa2c",
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Taste of Country",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MXVRMWJjdktGcEJucncxb00wLUM3V2NHdy1wMTh4TFpXUElSdHA3bWJaUURvVXY4WEUxV2ZVOUxPUkFEM3F3M21EaEN3RXVfNkpPZ0ExN2hfdVFaSF93NVEya04tNllYaGxpRTZiM1VWUmZSa2c",
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1h2ZFFMaGlWZ2lLSFk0YnFPcFBxLV9XU2tLOWZwT2IxS3g1ajl4eW5JMURIWUZpal9KYTcxZU82dTNRQm54OTlKX3ppemswUnFQOVh0dHVqWjVEMlNmWV9mVDNFeWVCeUFXM0U3SzdJOEF2eGtnV1c4TndxWXJpYzFJUjFOSUVYXzZ0QVRqZTVOYTRnM0hkYkRjOFRhQmwxMFA5VFJJM09GZw",
      "feed": "gn-bway-casting"
     },
     {
@@ -1309,57 +1309,6 @@
    "status": "review"
   },
   {
-   "id": "d5401fa2fa",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T12:44:53+00:00",
-   "published": "2026-10-02T17:11:29+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "It",
-   "title": "Video Broadway unveils new casting for Dolly Parton musical and 'It's a Wonderful Life' - ABC News",
-   "quote": "",
-   "quoteSource": "ABC News - Breaking News, Latest News and Videos",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsdFBkT2JwaXFLZ0lGLTFEWnhKb203UmVqcndvamNhWlpBb1pFRzNyXzlUV0dUNXF3cnJBUFpjTE1wTDlFY3BfQTkwQ2g",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "The Music Universe",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnduN0poclFfZGRlMC1pRzBoM3NaVXpiUzdhYkhHTzYwSUVYS1J6aEhBN2d4cnZMWXFUM0wyelV3eFNCRF9PNVNaelVVY0c0cW9CSG0wMUN5Tm82U2QwRV9wQXhLaVdsajlYVHlNek9hcWdyLXJjQ2Z3ZjBFeFU3SW42VmowR2JkNXpiQlNtTzV5aFJzVVJRdUNKamJBOWFkWjIweHF3",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "db1f64bb45",
    "priority": 2,
    "watched": [],
@@ -1390,42 +1339,6 @@
     {
      "name": "Thoughtcatalog",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZlJrakdnWDVJR29uTUNHRUExVDRTV1RLN09XV2EzbTZHSUR5UVIyRFQtSFh0eHFldklSVVJkallvX3kxZEt5Z1oxZC16b0xtMHdOd0NLTDlJVHl5YlhNN2c3WmtSZ0VjSVJqOUc2UDU0VkttZ25EZXRuUGtyNDJNSm5pbklWZUYtMFhwaHZuS1Z3Z2hNcmN0dHBUU0NURDhGUzNEaGdnSkI5VWI0MW5MS2dfTmpDZDBiakVDQi1Ud28yVlQyNVNXZlV6aWxNQ0twM3l3MFBQVWtsQURBNEFfZGdKWjU3M0FhYWRmMFUxY0t1Y0Jq",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "fb5026fbf0",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T16:01:00+00:00",
-   "published": "2026-10-02T16:01:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Dolly Parton Broadway Musical Sets Its Lead Cast With Katie Rose Clarke As Dolly",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2dwZFdrU01XeG14UUhvS0syQUZwaTl6WmRFRjVQMDN6QmJFRjJWMW9nbWg3Ump5Wk03NzZwTkdUcEZnQVI4YU8wdXRWbU1vMzdGaFd1UXNpWTVpam9LdjZnaWxpU2UxaUdIR3dMcS1Yc0s4QU1qUDVLLTJnUGQwbWd4TzM1V3pNZ1RrUVFIRUdmODFGbDZkd0JPc1pTUTA",
      "feed": "gn-bway-casting"
     }
    ],
@@ -1678,6 +1591,93 @@
     {
      "name": "People",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2FqOUZzVDdfNXQwOVh2bTRsRm9Kb3ZEb1M5WkJmbV9mZi1qR3NRSE9EMFNhVV9aZ1FpeEl3Z2JkMWh3YXdtVDQ3UkZnSDVyYUttUkRCQzNIdHhuMkVoY3hpY2xvd2JxVGlnQS1MRWp3ZmhrOTdnYklONTk4WlFuVEtUVi1wNzlMcW5EdVZRa0pOQm41c1N1T0g4TDFBejMtYTdwTlVtTW12SXY0VHc",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "c6e59b3625",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-02T07:00:00+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "It",
+   "title": "Dolly Parton musical announces complete casting for its Broadway premiere",
+   "quote": "",
+   "quoteSource": "The Music Universe",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Music Universe",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnduN0poclFfZGRlMC1pRzBoM3NaVXpiUzdhYkhHTzYwSUVYS1J6aEhBN2d4cnZMWXFUM0wyelV3eFNCRF9PNVNaelVVY0c0cW9CSG0wMUN5Tm82U2QwRV9wQXhLaVdsajlYVHlNek9hcWdyLXJjQ2Z3ZjBFeFU3SW42VmowR2JkNXpiQlNtTzV5aFJzVVJRdUNKamJBOWFkWjIweHF3",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsdFBkT2JwaXFLZ0lGLTFEWnhKb203UmVqcndvamNhWlpBb1pFRzNyXzlUV0dUNXF3cnJBUFpjTE1wTDlFY3BfQTkwQ2g",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "fb5026fbf0",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-02T16:01:00+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Dolly Parton Broadway Musical Sets Its Lead Cast With Katie Rose Clarke As Dolly",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2dwZFdrU01XeG14UUhvS0syQUZwaTl6WmRFRjVQMDN6QmJFRjJWMW9nbWg3Ump5Wk03NzZwTkdUcEZnQVI4YU8wdXRWbU1vMzdGaFd1UXNpWTVpam9LdjZnaWxpU2UxaUdIR3dMcS1Yc0s4QU1qUDVLLTJnUGQwbWd4TzM1V3pNZ1RrUVFIRUdmODFGbDZkd0JPc1pTUTA",
      "feed": "gn-bway-casting"
     }
    ],
@@ -2900,6 +2900,42 @@
    "status": "published"
   },
   {
+   "id": "ac28f9fb82",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T07:00:00+00:00",
+   "published": "2026-09-22T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Evita",
+   "title": "‘Evita’ On Broadway: Rachel Zegler To Be Joined By London Co-Stars Diego Rodriguez & James Olivas",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Rachel Zegler",
+     "knownFor": "American actress",
+     "score": 53,
+     "qid": "Q61693947"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdF9sRVQ2dDdrNFVJU2dnQURTRTZIY2pLYXBjZkgyN1FwcnNuTm1VT2o3Z1p0dlJEMUdWMG9XVW45aXBvTVpXaTEyY0paemhUbXZybzYxa0dWVERRSi0wc1YtM2hQXy14MkhXaGpOWExIVDZmMmJTSERwVFRiQWs",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "77fa7a2204",
    "priority": 2,
    "watched": [],
@@ -3050,7 +3086,7 @@
    "show": "A Few Good Men",
    "title": "Tom Blyth Makes Broadway Debut, Takes First Bow in ‘A Few Good Men’ Play",
    "quote": "",
-   "quoteSource": "IMDb",
+   "quoteSource": "Just Jared",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3058,13 +3094,13 @@
    "celebs": [],
    "sources": [
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mR2MwWTdESUZGX2EzcUw1Y1FIb1RiUG1QOFBsc3Z6WHRwdUFpalBnN01vTlNCWmdLNlh0dHRxRTJsdTE1azhUWlQ2TnRJVDk0RF9wRW1qNndyVG91UHNBS29YSjRMYUtPeGc",
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVC1uZzkwVWpIS1ZNM2ctaXJtM1NuTjBNWHd4VTRPVFlhV0xtTFBYZmM4NFdjLTdIREVFOWpLcHdpaWR4OTVBTXE0NlhNUmczX3hFa0ZxM1lDYkFlR21OZjBVbW55ZFR4eDc4RXpXYV9ON3FmNTNqeWVrT0ZYMHY4WlBXV191VlAyQXFGUWRuQ0NSb29BU0FLRGpqMExvOEV5dl81UExaS0M4SXc",
      "feed": "gn-bway-debut"
     },
     {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVC1uZzkwVWpIS1ZNM2ctaXJtM1NuTjBNWHd4VTRPVFlhV0xtTFBYZmM4NFdjLTdIREVFOWpLcHdpaWR4OTVBTXE0NlhNUmczX3hFa0ZxM1lDYkFlR21OZjBVbW55ZFR4eDc4RXpXYV9ON3FmNTNqeWVrT0ZYMHY4WlBXV191VlAyQXFGUWRuQ0NSb29BU0FLRGpqMExvOEV5dl81UExaS0M4SXc",
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NNGdhVkhDc3ZIY2VRSlZpWkJuUnlkdGNnX1RxenlmVm9PRmNVMGlnVnJnT1dhYl83XzVDUVVIRFdnbVJHMVRMZnZKVkVJS1F4cE9xOEVHVmFtSGE3Y0N5ajFlUkE",
      "feed": "gn-bway-debut"
     }
    ],
@@ -3185,6 +3221,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "939699fbf2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T13:52:46+00:00",
+   "published": "2026-10-09T17:24:31+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "2:22 – A Ghost Story",
+   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "231aa04915",
@@ -3310,15 +3375,15 @@
    "published": "2026-10-09T14:13:46+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": null,
+   "venue": "St. James Theatre",
    "placedBy": "words",
    "type": "new production",
    "show": "Dolly",
    "title": "Broadway's DOLLY: A TRUE ORIGINAL MUSICAL Announces Full Ensemble and Cast Details",
-   "quote": "",
+   "quote": "Complete casting has been announced for the Broadway premiere of DOLLY: A True Original Musical, opening at the St. James Theatre this winter.",
    "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-863ea856c9b4dcba72d7b9a3989b26d3.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -3327,6 +3392,11 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEV5TFlUUDlyMXRHNF9hcnJCbVR1eFBaWW00QU8wbS1WUTFfX3JsSm5CXzBoX0tUZFcweEk5RFAwbk9jWENpZi1VaFloeEhCRnJBeGtEYWQ2dGhwV0lIR2l4dVdFYzNiM0ZFNjJFamJYak9iU00tVFo5NkhqRVE2WmNkTzgzWXBRa19tOExwaGtZbTdheHk2OXBsS3B1TXltZ2Rqb3lJV21XaXFDdDVlUG5odzRjVG9CcWc",
      "feed": "gn-bway-casting"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Crystal-Kellogg-and-More-Join-the-Cast-of-DOLLY-A-TRUE-ORIGINAL-MUSICAL-20261009",
+     "feed": "broadwayworld"
     }
    ],
    "status": "published"
@@ -3388,6 +3458,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "a4abc6fcec",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T12:27:00+00:00",
+   "published": "2026-10-09T12:27:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "A Few Good Men",
+   "title": "A FEW GOOD MEN Cast And Creative Team Photo Call Ahead Of Broadway Opening",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHh2ZnpTekhOSkt2ZWdZdElWSjJjeU5DYWhWUE1KZUdNNUJCVGxXbkgxMGFnTWo5RXEwR2dsczZ2eWZ6eW10V3hlX1g0eGhQZU5PSS1lQW93dUFCOFZpZV9pWjBJRDdLdmVocWhYd3pvU3VyX2R1SnVmRXdnQ2I2WGJidjhMeVZKa3BpYmN3dV9fMHJvRmUxQkh3Z29QNTlKSmZkQUw2SWRMMFVnYWVoeGZJZw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "4530979e58",
@@ -3743,35 +3842,6 @@
    "status": "published"
   },
   {
-   "id": "939699fbf2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T13:52:46+00:00",
-   "published": "2026-10-08T17:57:15+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "2:22 – A Ghost Story",
-   "title": "‘2:22 – A Ghost Story’ Sets Cast for Off-Broadway Premiere",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "90ae940b1c",
    "priority": 3,
    "watched": [],
@@ -3842,10 +3912,10 @@
    "type": "casting",
    "show": "The Exhibitionist",
    "title": "Jeff Hiller To Star In James Hindman's THE EXHIBITIONIST At Soho Playhouse",
-   "quote": "A limited engagement of James Hindman's The Exhibitionist starring Emmy Award Winner Jeff Hiller ('Somebody Somewhere,' 'Widow's Bay') will be presented Off-Broadway. Andrew Russell will direct.",
+   "quote": "",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-923d0bf22915b63ce7eec23670981a4a.jpg",
-   "imageCredit": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -3854,11 +3924,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEgzNGYtbjNJaDByVTIyU0txTkpTaVdlakdLOVI4dUtoMHVDOGVxUU1GWmlWZUxvbFRPaDBWQ1lJcThsdUt5Vl9MWXFuUGF0cDR3RXdXTS1mR0l3dWtWVVBNUEptdURDQmdrX19xOVQ2VV9TUXpVZDFXUHR1UzVQR1c1N1lSbm1YaWJEN1dFT3liQU5HdWZXRDBTOWNnRWZ5OFVUX0pKX0tSU1MwdUZOak9zLUlDeTVvY0xGQg",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Jeff-Hiller-To-Star-In-James-Hindmans-THE-EXHIBITIONIST-At-Soho-Playhouse-20261008",
-     "feed": "broadwayworld"
     }
    ],
    "status": "published"
@@ -4211,6 +4276,35 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDRVLW5RcU1LNENzQldtVDJXY25YUUpkelVTcko1ZTg2Q3hWN3NfeDFobzdKYUYyaDZTUF93WFQ4ZTB6OWpWeTdYT0hvb2RyVE0wQVZKUm1QaWFVRmpPbWYySU1FNHRoVDVlWnlNRHZfOXk2aHRaUEpWQ3FEWjAzbk1zRm02QnprQTdWOVNnUlhsNnlzby00OTR2aTVtLWxXWHJsSA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "26d9cd8e12",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T22:36:38+00:00",
+   "published": "2026-10-07T22:36:38+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Lizzie",
+   "title": "Cast Set for LIZZIE at Bridgetown Conservatory of Musical Theatre",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkFhZFNxXzY2OExsNDIyWnFtZElNcTNaX0FSTHFjRkdrTkx5VnYyTFYtQ2otOG5reUkyMmxUZWd3LUF2NjRYWEdZSjluRXFNZHptNU1CZTU2NVU3NHpDMzJXeUtsVExNVUMwNWhBc0pHQ3U2RTVIR2RkRkZvOW9aOTZPQ3NTWk5YTmlRTUhmcHRfeXBGWmVqN0tsNjdtNnpGMlV1QkRlS3RITVhxUk9maTcwU1A1OV9NamdFOHJR",
      "feed": "gn-bway-casting"
     }
    ],
@@ -7156,40 +7250,6 @@
    "status": "published"
   },
   {
-   "id": "0e8017a9a7",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T13:49:34+00:00",
-   "published": "2026-10-02T16:50:55+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Dolly: A True Original Musical",
-   "title": "'Dolly: A True Original Musical' completes Broadway cast",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1BHcWIxRDdHaTBxLVk2c1JwMndJaHo3MFlDVm1rVG5adjNKaTc5MHQxZG9JSEJJbzFxU3R2aVR6T0k2d3hGVDA0VzllXzRBWmpUT2I4MG1TWGJZMkdBb3E4ck83Yl9MbHhjOW1xT2NId0poOXNnQmM2cGpQNFdWTk5ETkVuNm95Uzc5eTJ2YnZ1ekJLbGdkWUFQUmlENGFfdkc2b1kwSjFKRXc",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Billboard",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU29RUEdYSVBYYTJkUVFCNmxzVTdON0VZV1dLel9iSmRlYzJoalNiNGs0WldTNTVtdjd4S2NOcjJtTkZWX1pSRFMtSUMtcUFkbFY0XzlHZnhHMGxsTUNJaWJwcVZmQWhFcXF0MDFGVVVvSWhFWGI0NUtzVExPNzhiS2hQb193YnBYejNLcVBWaThtaHhaNy14Q2w3c0xWaDhrbG5FTmNkTjh0WlNBSUNtV0w3TQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "7a71d5b818",
    "priority": 3,
    "watched": [],
@@ -7648,6 +7708,40 @@
     {
      "name": "1420 WBSM",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMeG10MkJ0dWpObHBzX28zSGNRQVFCazR2NXNxT2FkWlBFaG53Y08tZGxnWTExaDFEWkZ4cjFCOElFSkFmN1lxTG5nTHVvWFpMUGZtVjVtdzhPRDJNazBWaQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "0e8017a9a7",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-02T13:49:34+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Dolly: A True Original Musical",
+   "title": "'Dolly: A True Original Musical' completes Broadway cast",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1BHcWIxRDdHaTBxLVk2c1JwMndJaHo3MFlDVm1rVG5adjNKaTc5MHQxZG9JSEJJbzFxU3R2aVR6T0k2d3hGVDA0VzllXzRBWmpUT2I4MG1TWGJZMkdBb3E4ck83Yl9MbHhjOW1xT2NId0poOXNnQmM2cGpQNFdWTk5ETkVuNm95Uzc5eTJ2YnZ1ekJLbGdkWUFQUmlENGFfdkc2b1kwSjFKRXc",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Billboard",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU29RUEdYSVBYYTJkUVFCNmxzVTdON0VZV1dLel9iSmRlYzJoalNiNGs0WldTNTVtdjd4S2NOcjJtTkZWX1pSRFMtSUMtcUFkbFY0XzlHZnhHMGxsTUNJaWJwcVZmQWhFcXF0MDFGVVVvSWhFWGI0NUtzVExPNzhiS2hQb193YnBYejNLcVBWaThtaHhaNy14Q2w3c0xWaDhrbG5FTmNkTjh0WlNBSUNtV0w3TQ",
      "feed": "gn-bway-casting"
     }
    ],

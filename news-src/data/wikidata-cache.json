@@ -757,6 +757,15 @@
   "qid": "Q55314770",
   "score": 2
  },
+ "Bridgetown Conservatory": {
+  "checkedAt": "2026-10-11T01:35:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Bringing Draco Malfoy": {
   "checkedAt": "2026-09-25T17:55:11+00:00",
   "description": null,
@@ -861,6 +870,15 @@
  },
  "Cake Across": {
   "checkedAt": "2026-09-25T17:56:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Call Ahead": {
+  "checkedAt": "2026-10-11T01:35:26+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
