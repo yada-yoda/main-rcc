@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "4171783255",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-11T21:34:50+00:00",
+   "published": "2026-10-11T21:34:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "opening",
+   "show": null,
+   "title": "Billy Crystal Opens Up About Losses Inspiring New Broadway Show",
+   "quote": "Tony Award winner Billy Crystal recently opened up about finding humor amid personal tragedy and bringing his experiences to Broadway in his new one-man show, 860, during an interview with Tracy Smith for CBS News Sunday Morning. The production, currently in previews, recounts the devastating loss of Crystal's longtim…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-cdc3ba4914b5647652c431b9c2faf5f3.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Billy Crystal",
+     "knownFor": "Monsters, Inc.",
+     "score": 62,
+     "qid": "Q186485"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Billy-Crystal-Opens-Up-About-Losses-Inspiring-New-Broadway-Show-20261011",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "a567f11793",
    "priority": 2,
    "watched": [],
@@ -118,7 +154,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Todd Haimes Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "Hour Plays On Broadway",
    "title": "Hugh Dancy, Justin Bartha and More to Join 24 HOUR PLAYS ON BROADWAY",
@@ -571,6 +607,47 @@
    "status": "review"
   },
   {
+   "id": "193bf51ccf",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-07T13:00:14+00:00",
+   "published": "2026-10-07T13:00:14+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Just in Time",
+   "title": "Nicholas Christopher to star in 'Just in Time' on Broadway",
+   "quote": "He suits up for the role after Matthew Morrison completes his encore engagement on November 8.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/140531-11.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Bobby Darin",
+     "knownFor": "American singer and actor (1936–1973)",
+     "score": 48,
+     "qid": "Q311267"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0Z2RzVjY05vQ05rRlI1MjFtMzVYRmUxWTJabnpIVzdQZkUtem9FSng3Vm9mYWZJajlJY3hLT3ZPMWdMOUJPdjFaam9wSXVROVNHYkVZMmRnazF0VHlZQmJXVXBKTW9FWEFjdHlLNTc1eEs1MXpNUl9HNVNJckV1elA2Q0JOQXRSUXpXeDhmWDU1bUZJNkhRVU15cDEwSG1mRXJOR0lZSURSaElSUGln",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/nicholas-christopher-is-broadways-next-bobby-darin-in-just-in-time/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "bc49b0a16a",
    "priority": 2,
    "watched": [],
@@ -759,52 +836,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "193bf51ccf",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-07T13:00:14+00:00",
-   "published": "2026-10-06T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Just in Time",
-   "title": "Nicholas Christopher to star in 'Just in Time' on Broadway",
-   "quote": "He suits up for the role after Matthew Morrison completes his encore engagement on November 8.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/140531-11.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Bobby Darin",
-     "knownFor": "American singer and actor (1936–1973)",
-     "score": 48,
-     "qid": "Q311267"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0Z2RzVjY05vQ05rRlI1MjFtMzVYRmUxWTJabnpIVzdQZkUtem9FSng3Vm9mYWZJajlJY3hLT3ZPMWdMOUJPdjFaam9wSXVROVNHYkVZMmRnazF0VHlZQmJXVXBKTW9FWEFjdHlLNTc1eEs1MXpNUl9HNVNJckV1elA2Q0JOQXRSUXpXeDhmWDU1bUZJNkhRVU15cDEwSG1mRXJOR0lZSURSaElSUGln",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "West End Best Friend",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjBKal9wSHBHR0FjYTFtYkNNWmpoaWI2V1VUN216VlY1MF94emxrTkdsbndUcTdkUDkwQzFkZmo1YlkxSXZ3ZEVkSUZBWThOZDdvaXh5OTBRVS1nOGVja0k4SkVJSlE1Y3NlTkNWUFUxMkNNVHFzTnNlUTRyT3ZmOTg3anRURDQ1cWlqMDM0dUJrdWhuc2ZYc1VMaw",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/nicholas-christopher-is-broadways-next-bobby-darin-in-just-in-time/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "b470fa3916",
@@ -1574,7 +1605,7 @@
    "show": null,
    "title": "Cast Announced for Dolly Parton Musical’s Broadway Run in New York",
    "quote": "",
-   "quoteSource": "Rutherford Source",
+   "quoteSource": "Williamson Source",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -1589,8 +1620,8 @@
    ],
    "sources": [
     {
-     "name": "Rutherford Source",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmY3VzhqLXczeVBZSkwwSU90SVZ1VU5YMl8tMGt6WE10aFI4S0VQS2ZtM1YyQ1ViUEhXOXJ5cElHYWV6SUFNVXpjT0V0S1drY1dVX00yUDNWMk13UEVHTUg0YmttTVl1WkNzNFdBN2tEY1VaY1FWSzBiSFpCbE1DMzRiT183dUpOLWcyUzIyTTJpc1FCcjV1LUZrQQ",
+     "name": "Williamson Source",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzJfQlM1RWVrQnhzb1VTclNUYnM1aUpTc1RvU2RQUnlpVmVXWkZKa1REX0FaQ1dCcHZmNjdsTm90S251UnlJQW50MEZLNERlX21EVjhyZnVVVXN1Q1AtTEtGV2hYX3BXNEdWTzJNTU5wVHIwbllwN1F0akVObDNSbVlydVdfT0ZEZzhKbVVmOXJWY0pBZW5UV0RBNA",
      "feed": "gn-bway-casting"
     },
     {
@@ -1605,7 +1636,7 @@
     },
     {
      "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN2RhRlFEM3ZiZVFNVW93ZThublc2MnFpVnU2ZEo0bDJHUVFQQ1AwY0NFNG1ha09rQlBHWkZUazNUWFFvTS11cFQ3NGR4WWY3Q0hUTFQ3U05UQWxGSXNUdnNtWU1yWDhFbHc",
      "feed": "gn-to-star"
     }
    ],
@@ -1898,7 +1929,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "It",
-   "title": "Andrew Rannells, Megan Hilty and Tituss Burgess to star in Broadway’s ‘It’s A Wonderful Life: A Live Radio Play’",
+   "title": "Andrew Rannells, Megan Hilty, Titus Burgess To Star In Broadway’s ‘It’s A Wonderful Life: A Live Radio Play’",
    "quote": "The show, “a live radio play,” will run during this year’s holiday season. The cast includes Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin and Lisa Rinna.",
    "quoteSource": "The New York Times",
    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/01cul-wonderful-life-bhpg/01cul-wonderful-life-bhpg-mediumSquareAt3X.jpg",
@@ -1915,18 +1946,13 @@
    ],
    "sources": [
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWQ2b2l4R1VoSHBKV0owdEdsWEFVdWtVY29MREJjNXpXbjFUdVJSQngySVg4bXZidVlLd3FyazJqUDMzcUtzVW5yYmpjTzIzZnZFN1RSLURmSVNqN3ZwWWpBVWpTM21pMmZFcWhXSG1JbTlocjdZN2ZzNzF5d01ZVHc3UjFaMDN1LVgyXzVrenBEUV9rOVRIOTVjeWU5aEdjSXJmRS1rM2FjZEVsSk53X2RNbzF0Ym5FV3pwMV8xcDRyZFZjaXVwTWQyTTR0anNvMFE",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtuVi1FejFXLWp6TGM2SnI5T0xKdUZrWlJNLURJQXd5d2pJc3RULXpFczZ4R0cxMnhjZFROc0oyU2QwNmYyTnY1Tkt3WlV0WGxUSklHc1JjV2VkZzBraXk0NlFTTmFPOE1adGd1andJb0IxcnFSQkpZWTYtTGlCQlhzVFd4RHVTT00zZWkzMTM5ZUhRdUxrZWtnSWhBMThheVE",
      "feed": "gn-to-star"
     },
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMkhoWDJ2N2hQaDV4TTJoNlpKNHBqdlN4ZDBRdzhTYW84UEg3WExtMGxKNkYyNHNBQXlkWjNFT2hDYlFEREFrOW9tb3pVZG5ZemdvWFdnVVNnQmFwZzE5cDl4R04",
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWQ2b2l4R1VoSHBKV0owdEdsWEFVdWtVY29MREJjNXpXbjFUdVJSQngySVg4bXZidVlLd3FyazJqUDMzcUtzVW5yYmpjTzIzZnZFN1RSLURmSVNqN3ZwWWpBVWpTM21pMmZFcWhXSG1JbTlocjdZN2ZzNzF5d01ZVHc3UjFaMDN1LVgyXzVrenBEUV9rOVRIOTVjeWU5aEdjSXJmRS1rM2FjZEVsSk53X2RNbzF0Ym5FV3pwMV8xcDRyZFZjaXVwTWQyTTR0anNvMFE",
      "feed": "gn-to-star"
     },
     {
@@ -2649,12 +2675,12 @@
    "type": "casting",
    "show": "Damn Yankees",
    "title": "Neil Patrick Harris to Star in ‘Damn Yankees’ Revival on Broadway",
-   "quote": "The Tony- and Emmy-winning actor will portray the Devil in a new production of the 1955 musical, performing alongside Julianne Hough and Austin Scott.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/08/11/arts/11cul-damn-yankees-grid/11cul-damn-yankees-grid-mediumSquareAt3X.jpg",
-   "imageCredit": "From left: Mike Coppola/Getty Images for Tony Awards Pro; Kena Betancur/Agence France-Presse — Getty Images; Dia Dipasupil/Getty Images",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
+   "quote": "This is the first Broadway revival of Damn Yankees in more than 30 years.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
    "celebs": [
     {
      "name": "Neil Patrick Harris",
@@ -2689,11 +2715,6 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlBKMG10TmlsVFREU1N6U2xhN044bEVXNlp5R3JncnJHcUVjY3pBVW90eDhoeDZMc29sODkwU1dvWEJUQkUwbEh5ZTVsZG14NC1xYWdRLVg3UHdJY3VBY09DMVh1VXRDampFVUJUTlRnbnZEdHMteW54RGx5R01LZndPR1ZWYUsyOG4xdmJCemIzYndjQlJrTWZRUlVHUFdP",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/09/27/theater/damn-yankees-broadway-neil-patrick-harris.html",
-     "feed": "nyt-theater"
     },
     {
      "name": "The Hollywood Reporter",
@@ -3008,37 +3029,30 @@
    "status": "published"
   },
   {
-   "id": "405179a038",
-   "priority": 2,
+   "id": "1729de3767",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-09-20T21:54:51+00:00",
-   "published": "2026-09-20T21:54:51+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Lookingglass Theatre Company",
-   "placedBy": "venue",
+   "firstSeen": "2026-09-27T20:30:00+00:00",
+   "published": "2026-10-11T20:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
    "type": null,
    "show": null,
-   "title": "Kowalski Brings Tennessee Williams, Marlon Brando, and All Their Drama to Lookingglass",
-   "quote": "Review by Savannah Brooks Photo by Michael Brosilow The imagined version of Tennessee Williams (Johnny Galecki) and Marlon Brando (Jacob Moskovitz) in […]",
-   "quoteSource": "Chicago Onstage",
-   "image": null,
-   "imageCredit": null,
+   "title": "Weekly Schedule of Current Broadway Shows",
+   "quote": "A rundown of current Broadway shows and their planned show times.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
+   "imageCredit": "Playbill",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Marlon Brando",
-     "knownFor": "The Godfather, Apocalypse Now",
-     "score": 158,
-     "qid": "Q34012"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "Chicago Onstage",
-     "url": "https://www.chicagoonstage.com/kowalski-brings-tennessee-williams-marlon-brando-and-all-their-drama-to-lookingglass/",
-     "feed": "chicago-onstage"
+     "name": "Playbill",
+     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3187,8 +3201,66 @@
     },
     {
      "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NNGdhVkhDc3ZIY2VRSlZpWkJuUnlkdGNnX1RxenlmVm9PRmNVMGlnVnJnT1dhYl83XzVDUVVIRFdnbVJHMVRMZnZKVkVJS1F4cE9xOEVHVmFtSGE3Y0N5ajFlUkE",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mR2MwWTdESUZGX2EzcUw1Y1FIb1RiUG1QOFBsc3Z6WHRwdUFpalBnN01vTlNCWmdLNlh0dHRxRTJsdTE1azhUWlQ2TnRJVDk0RF9wRW1qNndyVG91UHNBS29YSjRMYUtPeGc",
      "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "9459293b5c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T20:59:54+00:00",
+   "published": "2026-10-09T23:18:41+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Titaniqué",
+   "title": "‘Titaniqué’ Announces New Casting for Limited Broadway Engagement",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2IxQXhqTTBWeFFXOWF2ZXlCQlpoQ1RWWVY2R0IzOUdjVlRjc2ZRbjRWd01UZk4tRTlwamVndmJ1MXF2MXdQaXNybkFCa2toOEdHZm1XWERpR1NQVzlFQmZtdzZXOFZBVnZXRllUejVjREdxdGFyNUk5MHpaS1BmT19MNFRBXzk4ajFxcVZEVFhDTDRJZm9CWTRxRTFlS1FD",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a30e2be867",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-22T17:23:24+00:00",
+   "published": "2026-10-09T22:46:02+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Maids",
+   "title": "Yerin Ha to Star in Off-Broadway Revival of ‘The Maids’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORlZNd21hcWd0MlBoVE9tMnUzNWhmM0JWRjdReXNUM0ZkTElUcWh1V2RnQWFQdUtDT3NVSER5MXFaSGdZTXZNdmhERVVnbl9RbTcycV9VSjFLZ3p1YlFoZ1hqNkR6Z2dyS0c5X21PRTYzak94MkRsdjdqbnY5Q3hEY29UR1JwV0lETERiTWdJWUUydjA",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -3198,7 +3270,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-10-09T21:39:02+00:00",
+   "published": "2026-10-09T21:05:59+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -3426,6 +3498,35 @@
    "status": "review"
   },
   {
+   "id": "21a3f22c03",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-09T10:27:00+00:00",
+   "published": "2026-10-09T14:27:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Broadway's Dolly Musical Finds Full Casting",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByYm9oNTlzVjNIeEpaSFdxeTZXQnFsSXZ1UVVSUUJWdW80SHd3Um5Sb2ZZV0FyZDVqaDN0Mm5DT09ac2UzMjl1VlJZbjZjWVdMbFNWOElLRnRtclI2bzY2TnFocFFWb1l1TWhZQWNWYVJUdXNwcEJFWGtyWQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "c77320bfd0",
    "priority": 3,
    "watched": [],
@@ -3624,40 +3725,6 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGVXd1BIT3R6a2l1M2RHVVdlQ1Vab2daX2FpQ1duUDU3VEdLQ2lIYUxhYWo1Zk5COHhyNnBDRV9IYW00cDNjdld4V01jM1dwcE0zdFFablM4WmZzZVZBN3FDeno4dFh1b1RYaXAtVjFKSkttNmxFRjlucFE1TFlNM3NMRVhzNTItTmlzd2lpTHVRc00",
      "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "21a3f22c03",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-09T10:27:00+00:00",
-   "published": "2026-10-09T10:27:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Broadway's Dolly Musical Finds Full Casting",
-   "quote": "See which Broadway favorites will be singing your favorite Dolly Parton hits at the St. James this winter.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Dolly-Parton_2026-07-06-202352_triy.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByYm9oNTlzVjNIeEpaSFdxeTZXQnFsSXZ1UVVSUUJWdW80SHd3Um5Sb2ZZV0FyZDVqaDN0Mm5DT09ac2UzMjl1VlJZbjZjWVdMbFNWOElLRnRtclI2bzY2TnFocFFWb1l1TWhZQWNWYVJUdXNwcEJFWGtyWQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadways-dolly-musical-finds-full-casting",
-     "feed": "playbill"
     }
    ],
    "status": "published"
@@ -3889,35 +3956,6 @@
     {
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmM1Z0gydjR2WDg3aHRYTE5wTnotRVhpb2s0QmRxLWI3Wm9BTk1wbzF1WGJzVDZKNkpGN0pkV25DeHVZeTY0M2lmTEoxQ3M5dl9Ub0FEM1FWYVpFTk1xV2wwX25GNENRdXVuNVZjZS1COTFlWEtkVG93d2xoUExaUjMyRlhpaVZhbGExeFhXcHUxUml0ejBNNmVTQ29abjRO",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "9459293b5c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-30T20:59:54+00:00",
-   "published": "2026-10-08T18:00:46+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Titaniqué",
-   "title": "‘Titaniqué’ Announces New Casting for Limited Broadway Engagement",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2IxQXhqTTBWeFFXOWF2ZXlCQlpoQ1RWWVY2R0IzOUdjVlRjc2ZRbjRWd01UZk4tRTlwamVndmJ1MXF2MXdQaXNybkFCa2toOEdHZm1XWERpR1NQVzlFQmZtdzZXOFZBVnZXRllUejVjREdxdGFyNUk5MHpaS1BmT19MNFRBXzk4ajFxcVZEVFhDTDRJZm9CWTRxRTFlS1FD",
      "feed": "gn-bway-casting"
     }
    ],
@@ -7008,35 +7046,6 @@
    "status": "review"
   },
   {
-   "id": "1729de3767",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T20:30:00+00:00",
-   "published": "2026-10-04T20:30:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Weekly Schedule of Current Broadway Shows",
-   "quote": "A rundown of current Broadway shows and their planned show times.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "68e7422c16",
    "priority": 3,
    "watched": [],
@@ -8341,35 +8350,6 @@
     {
      "name": "DC Theater Arts",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybk9nU180ZmZGOWpPdXZTeEJGTVJfWFNqRVdFajdKQlZ3LXljWUdlQWxHXzdpU21pNXRuaml1OHZHVlBzOV9yWklfenM2S3h3dHhhMEgyczA1TmFfUmc",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a30e2be867",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T17:23:24+00:00",
-   "published": "2026-09-30T21:14:05+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Maids",
-   "title": "Yerin Ha to Star in Off-Broadway Revival of ‘The Maids’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORlZNd21hcWd0MlBoVE9tMnUzNWhmM0JWRjdReXNUM0ZkTElUcWh1V2RnQWFQdUtDT3NVSER5MXFaSGdZTXZNdmhERVVnbl9RbTcycV9VSjFLZ3p1YlFoZ1hqNkR6Z2dyS0c5X21PRTYzak94MkRsdjdqbnY5Q3hEY29UR1JwV0lETERiTWdJWUUydjA",
      "feed": "gn-to-star"
     }
    ],
