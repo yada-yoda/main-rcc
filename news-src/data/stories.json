@@ -38,6 +38,47 @@
    "status": "published"
   },
   {
+   "id": "bc49b0a16a",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-06T20:35:25+00:00",
+   "published": "2026-10-09T21:49:28+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "St. James Theatre",
+   "placedBy": "words",
+   "type": "new production",
+   "show": "DOLLY: A True Original Musical",
+   "title": "Dolly Parton’s ‘DOLLY: A True Original Musical’ announces complete Broadway cast",
+   "quote": "The musical inspired by the late Dolly Parton’s life begins performances at the St. James Theatre on December 7, with opening night taking place on what would have been Parton’s 81st birthday: January 19, 2027.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143287-17.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1h2ZFFMaGlWZ2lLSFk0YnFPcFBxLV9XU2tLOWZwT2IxS3g1ajl4eW5JMURIWUZpal9KYTcxZU82dTNRQm54OTlKX3ppemswUnFQOVh0dHVqWjVEMlNmWV9mVDNFeWVCeUFXM0U3SzdJOEF2eGtnV1c4TndxWXJpYzFJUjFOSUVYXzZ0QVRqZTVOYTRnM0hkYkRjOFRhQmwxMFA5VFJJM09GZw",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/dolly-partons-dolly-a-true-original-musical-announces-complete-broadway-cast/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "a567f11793",
    "priority": 2,
    "watched": [],
@@ -219,48 +260,6 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGJWUDhTNDRRY3pxZm5uY3BEVmFrbFE0QmhpOVZBWnZiNjlEUTlldVB2OFEtQXg2MjVubV9UUFVLNHR4Ym1pXzZ4cE5XZ3BtQ01nQlc2ZUEwSnIzbDFWX0Zadi1IQWRUeElZMmhsWDZXeTBTN1dQNXhPVzVreHRDSENXdlUtQQ",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f716a9ece7",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-08T18:00:00+00:00",
-   "published": "2026-10-08T18:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A View From the Bridge",
-   "title": "Carla Gugino and more to join Sam Rockwell in 'A View From the Bridge' off Broadway; Marin Ireland departs",
-   "quote": "Additional cast for the upcoming Off Broadway revival of Arthur Miller’s A View from the Bridge has been announced. Joining previously announced Sam Rockwell and Alfred Molina will be Carla Gugino, Fred Hechinger, Tom Pecinka and Riley Prior.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/10/getty-images-portrait-studio-presented-by-imdb-and-imdbpro-a-1000x667-1.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Sam Rockwell",
-     "knownFor": "The Bad Guys",
-     "score": 64,
-     "qid": "Q316446"
-    },
-    {
-     "name": "Carla Gugino",
-     "knownFor": "American actress",
-     "score": 60,
-     "qid": "Q228871"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnY1V3dXQ1Myal9uZGc2X1VjczlFdG1ycUZEeWNZQ1FHV094TmlaMDJPcDVPM3FxVG9ENWtoaHFNR3NwTC1ZRk9qLURMQXdta3dRbmRsaENxR3Y0MnNnRHUzd1pCZUtkeVJIdjRYRk1KcnJMTjRVc2lrNjgtTzhFZlVGRjJSc1BEZEpUWEFsSFZIREkwR0pFdjVqUDhHTEtfRXUzN3ltTU9ZNWVSZ29YVDJNYUxRVDBxYXNhcU5UQXR6bGNZcUZ0WENudS1seDZ0OHVhQlJ4eUZaZ2JtMHVyZlh4NVZadGVrSl9DRk1R",
-     "feed": "gn-offbway-casting"
     },
     {
      "name": "Deadline",
@@ -268,7 +267,7 @@
      "feed": "deadline-theater"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "21cb1bcb4b",
@@ -648,52 +647,6 @@
    "status": "published"
   },
   {
-   "id": "bc49b0a16a",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-06T20:35:25+00:00",
-   "published": "2026-10-06T20:35:25+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "St. James Theatre",
-   "placedBy": "words",
-   "type": "new production",
-   "show": "DOLLY: A True Original Musical",
-   "title": "Dolly Parton’s ‘DOLLY: A True Original Musical’ announces complete Broadway cast",
-   "quote": "The musical inspired by the late Dolly Parton’s life begins performances at the St. James Theatre on December 7, with opening night taking place on what would have been Parton’s 81st birthday: January 19, 2027.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143287-17.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1h2ZFFMaGlWZ2lLSFk0YnFPcFBxLV9XU2tLOWZwT2IxS3g1ajl4eW5JMURIWUZpal9KYTcxZU82dTNRQm54OTlKX3ppemswUnFQOVh0dHVqWjVEMlNmWV9mVDNFeWVCeUFXM0U3SzdJOEF2eGtnV1c4TndxWXJpYzFJUjFOSUVYXzZ0QVRqZTVOYTRnM0hkYkRjOFRhQmwxMFA5VFJJM09GZw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Taste of Country",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MXVRMWJjdktGcEJucncxb00wLUM3V2NHdy1wMTh4TFpXUElSdHA3bWJaUURvVXY4WEUxV2ZVOUxPUkFEM3F3M21EaEN3RXVfNkpPZ0ExN2hfdVFaSF93NVEya04tNllYaGxpRTZiM1VWUmZSa2c",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/dolly-partons-dolly-a-true-original-musical-announces-complete-broadway-cast/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "d89131a2dc",
    "priority": 2,
    "watched": [],
@@ -874,6 +827,42 @@
    "status": "published"
   },
   {
+   "id": "7801cb045c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-05T14:27:38+00:00",
+   "published": "2026-10-06T00:43:05+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Anthony Mackie Returns to His Roots to Star as Macbeth on Broadway",
+   "quote": "",
+   "quoteSource": "The Quintessential Gentleman",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Anthony Mackie",
+     "knownFor": "American actor",
+     "score": 55,
+     "qid": "Q511554"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Quintessential Gentleman",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVh6Smp4TWNnZGxUT1A5eUZ6d1hYajVsTFZZWk9JNndzVEZmMm1fZzg3OTNsa3NSZzM3RjJTZ0pOZ1RyLVI2YWd6N3hjOXRpdk5PS2dJRWp1NExPM255NEdWMXlZZTAtaVFWWG0tU1JGUS1yZjBqSGVudGpMQ2tBNHJqUmZDRmFZWmVicG5lNEI2T3liY0dxNVJyZ0tMdFZwbERmMFkxaVptcFlBVkhn",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "7fd8335d68",
    "priority": 2,
    "watched": [],
@@ -962,47 +951,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "7801cb045c",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-05T14:27:38+00:00",
-   "published": "2026-10-05T14:27:38+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Anthony Mackie Returns to His Roots to Star as Macbeth on Broadway",
-   "quote": "",
-   "quoteSource": "The Quintessential Gentleman",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Anthony Mackie",
-     "knownFor": "American actor",
-     "score": 55,
-     "qid": "Q511554"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The Quintessential Gentleman",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVh6Smp4TWNnZGxUT1A5eUZ6d1hYajVsTFZZWk9JNndzVEZmMm1fZzg3OTNsa3NSZzM3RjJTZ0pOZ1RyLVI2YWd6N3hjOXRpdk5PS2dJRWp1NExPM255NEdWMXlZZTAtaVFWWG0tU1JGUS1yZjBqSGVudGpMQ2tBNHJqUmZDRmFZWmVicG5lNEI2T3liY0dxNVJyZ0tMdFZwbERmMFkxaVptcFlBVkhn",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Blex Media",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnVUdEw2ZDFSUVBsRDdtUFc0WjFYSkpzdTZWdS1UYmtHZ2Q0XzlCU0hVdWRrTjZzRUdqNl94LTdBYjhwMnVFZmg2aUlBc0JUOExIaXcxRldRSGVjbk5oaHpHeWFScjc3bE1rVHRPS1preU5taEtsWnZJb2YwSjM1ZXBpa3pEQzZpcEJiUGE4NVVJdGxlUHM5ZE1IaDg",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "73d3b9d16a",
@@ -1632,51 +1580,10 @@
     {
      "name": "Just Jared",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN2RhRlFEM3ZiZVFNVW93ZThublc2MnFpVnU2ZEo0bDJHUVFQQ1AwY0NFNG1ha09rQlBHWkZUazNUWFFvTS11cFQ3NGR4WWY3Q0hUTFQ3U05UQWxGSXNUdnNtWU1yWDhFbHc",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "fb5026fbf0",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T16:01:00+00:00",
-   "published": "2026-10-02T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Dolly Parton Broadway Musical Sets Its Lead Cast With Katie Rose Clarke As Dolly",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2dwZFdrU01XeG14UUhvS0syQUZwaTl6WmRFRjVQMDN6QmJFRjJWMW9nbWg3Ump5Wk03NzZwTkdUcEZnQVI4YU8wdXRWbU1vMzdGaFd1UXNpWTVpam9LdjZnaWxpU2UxaUdIR3dMcS1Yc0s4QU1qUDVLLTJnUGQwbWd4TzM1V3pNZ1RrUVFIRUdmODFGbDZkd0JPc1pTUTA",
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "a9f7fce270",
@@ -1709,6 +1616,42 @@
     {
      "name": "Consequence of Sound",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGFVM0xfR0pacUxuMTBINXNVa1RQdUFqNDM5R1BrWUxUb2Y3SDVmekNoUG13MS15b25maEpNbnRLbHBlQk9JLTZnTHNHSHVaaWdXTXl4UTZaakFkYVVHcVFIX1lEZ3owd3VxSEc1emtfdXdGUlVlNEE4d1k4SnJ4bFJKemQzSGpHNEZz",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "fb5026fbf0",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-02T16:01:00+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Dolly Parton Broadway Musical Sets Its Lead Cast With Katie Rose Clarke As Dolly",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2dwZFdrU01XeG14UUhvS0syQUZwaTl6WmRFRjVQMDN6QmJFRjJWMW9nbWg3Ump5Wk03NzZwTkdUcEZnQVI4YU8wdXRWbU1vMzdGaFd1UXNpWTVpam9LdjZnaWxpU2UxaUdIR3dMcS1Yc0s4QU1qUDVLLTJnUGQwbWd4TzM1V3pNZ1RrUVFIRUdmODFGbDZkd0JPc1pTUTA",
      "feed": "gn-bway-casting"
     }
    ],
@@ -1799,89 +1742,6 @@
    "status": "review"
   },
   {
-   "id": "4c6848a888",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-01T15:00:21+00:00",
-   "published": "2026-10-01T15:00:21+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "It",
-   "title": "Lisa Rinna, Harry Hamlin, Andrew Rannells, Tituss Burgess, Megan Hilty to star in ‘It’s a Wonderful Life’ on Broadway this winter",
-   "quote": "It’s A Wonderful Life: A Live Radio Play is set to make its Broadway premiere this holiday season. Directed by Tony Award winner Jerry Zaks, it stars Andrew Rannells (Gutenberg!), Megan Hilty (Death Becomes Her), Tituss Burgess (Oh, Mary!), Harry Hamlin (Anne Rice’s Mayfair Witches) and Lisa Rinna (Days of Our Lives).",
-   "quoteSource": "Deadline",
-   "image": "https://static01.nyt.com/images/2026/10/02/multimedia/01cul-wonderful-life-bhpg/01cul-wonderful-life-bhpg-mediumSquareAt3X.jpg",
-   "imageCredit": "Chris Delmas/Agence France-Presse &mdash; Getty Images",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [
-    {
-     "name": "Harry Hamlin",
-     "knownFor": "American actor",
-     "score": 31,
-     "qid": "Q567830"
-    },
-    {
-     "name": "Andrew Rannells",
-     "knownFor": "American actor",
-     "score": 27,
-     "qid": "Q560516"
-    },
-    {
-     "name": "Lisa Rinna",
-     "knownFor": "actor, writer",
-     "score": 25,
-     "qid": "Q239576"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR2VBTkU2TGd3OG9wajQtR01EM2czSUJMVHhZWXlaRUhvVjZieTBON3Y5WGlKYXl6eVItMmE0Y2xSY2I3Y1djTEJ6blJPU3dydThyOVhNQUFST1VFcHZ4UlpLN2tRME0yYUlrVjlaRmJ1eWlYbnQyeGExdXZUY2dyM2UxbTF5MFBYUWJuOTE1X3VQMEc2aWVpQXlQMHV4WmVabGZORk41SV9veG1icXVXOTk2YnZwSkJfRWU1UzY1NWIyRzh5YU0xOWpONkhVT09YN2NsZ19ya0R5dENYNlc3VTB3QXRzb3VTenQ3ek91T2FhOU41dWIySFZBRTlSTWVUdkdGRS1jVQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUkydzZJdF9MeVZyaEdxTmx3N0VnZ1IyODJVcHJOdWRyMjAxb1otbWFreTR3UnRTNFM5QzY1eV9uN1p6Q1M3OVp4QnJlbTktcTBuQlJZdzFZUXh4cEV4czQxb2ZWYlgwUWtnV0dVRXc5UUhKMTdHcDVhM0FTZjZaQ1J0ZW8",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWQ2b2l4R1VoSHBKV0owdEdsWEFVdWtVY29MREJjNXpXbjFUdVJSQngySVg4bXZidVlLd3FyazJqUDMzcUtzVW5yYmpjTzIzZnZFN1RSLURmSVNqN3ZwWWpBVWpTM21pMmZFcWhXSG1JbTlocjdZN2ZzNzF5d01ZVHc3UjFaMDN1LVgyXzVrenBEUV9rOVRIOTVjeWU5aEdjSXJmRS1rM2FjZEVsSk53X2RNbzF0Ym5FV3pwMV8xcDRyZFZjaXVwTWQyTTR0anNvMFE",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtuVi1FejFXLWp6TGM2SnI5T0xKdUZrWlJNLURJQXd5d2pJc3RULXpFczZ4R0cxMnhjZFROc0oyU2QwNmYyTnY1Tkt3WlV0WGxUSklHc1JjV2VkZzBraXk0NlFTTmFPOE1adGd1andJb0IxcnFSQkpZWTYtTGlCQlhzVFd4RHVTT00zZWkzMTM5ZUhRdUxrZWtnSWhBMThheVE",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSk1ZRDVoZVIwYWptZ0phSEpjZVk3NXdBWEUtOTRRZEl5TlFkcWtQQnBXdG1tOE5oaWZqWVV6MmhjLUJjeFlJS3ZQX1o2VGRSX2EtNEZfTjBMVmY0bzNhc2lSWjlnQWFN",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/its-a-wonderful-life-a-live-radio-play-broadway-megan-hilty-1237144438/",
-     "feed": "deadline-theater"
-    },
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/10/01/theater/its-a-wonderful-life-broadway-andrew-rannells.html",
-     "feed": "nyt-theater"
-    },
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHd2TDBieHRFNjVBSEZ6aEM2dVFWNkdGQV9oaWwxbEQ3bGpDVC12cXNEQzFGa0RyNkt6VFpISFk4RmRjdldIVUtkNnBpUkZwUl9lb0FPcEFxbTlkOEdSWkRCTFZFV1VzcGY2MnVKWEYyOWZ6cUtpSW5iY3hmM3ZMVlJBc3MtNDN1WVN1VGJCR21ITndHYkJYeWJzSThFZndObFVPWVlKYXBPSFJBYXdKTk1XWVV1bTQ0M0pnQVBMMA",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "e2e0fad365",
    "priority": 2,
    "watched": [],
@@ -1929,7 +1789,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "It",
-   "title": "Andrew Rannells, Megan Hilty, Titus Burgess To Star In Broadway’s ‘It’s A Wonderful Life: A Live Radio Play’",
+   "title": "Andrew Rannells, Megan Hilty and Tituss Burgess to star in Broadway’s ‘It’s A Wonderful Life: A Live Radio Play’",
    "quote": "The show, “a live radio play,” will run during this year’s holiday season. The cast includes Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin and Lisa Rinna.",
    "quoteSource": "The New York Times",
    "image": "https://static01.nyt.com/images/2026/10/02/multimedia/01cul-wonderful-life-bhpg/01cul-wonderful-life-bhpg-mediumSquareAt3X.jpg",
@@ -1946,13 +1806,18 @@
    ],
    "sources": [
     {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWQ2b2l4R1VoSHBKV0owdEdsWEFVdWtVY29MREJjNXpXbjFUdVJSQngySVg4bXZidVlLd3FyazJqUDMzcUtzVW5yYmpjTzIzZnZFN1RSLURmSVNqN3ZwWWpBVWpTM21pMmZFcWhXSG1JbTlocjdZN2ZzNzF5d01ZVHc3UjFaMDN1LVgyXzVrenBEUV9rOVRIOTVjeWU5aEdjSXJmRS1rM2FjZEVsSk53X2RNbzF0Ym5FV3pwMV8xcDRyZFZjaXVwTWQyTTR0anNvMFE",
+     "feed": "gn-to-star"
+    },
+    {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWtuVi1FejFXLWp6TGM2SnI5T0xKdUZrWlJNLURJQXd5d2pJc3RULXpFczZ4R0cxMnhjZFROc0oyU2QwNmYyTnY1Tkt3WlV0WGxUSklHc1JjV2VkZzBraXk0NlFTTmFPOE1adGd1andJb0IxcnFSQkpZWTYtTGlCQlhzVFd4RHVTT00zZWkzMTM5ZUhRdUxrZWtnSWhBMThheVE",
      "feed": "gn-to-star"
     },
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWQ2b2l4R1VoSHBKV0owdEdsWEFVdWtVY29MREJjNXpXbjFUdVJSQngySVg4bXZidVlLd3FyazJqUDMzcUtzVW5yYmpjTzIzZnZFN1RSLURmSVNqN3ZwWWpBVWpTM21pMmZFcWhXSG1JbTlocjdZN2ZzNzF5d01ZVHc3UjFaMDN1LVgyXzVrenBEUV9rOVRIOTVjeWU5aEdjSXJmRS1rM2FjZEVsSk53X2RNbzF0Ym5FV3pwMV8xcDRyZFZjaXVwTWQyTTR0anNvMFE",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR2VBTkU2TGd3OG9wajQtR01EM2czSUJMVHhZWXlaRUhvVjZieTBON3Y5WGlKYXl6eVItMmE0Y2xSY2I3Y1djTEJ6blJPU3dydThyOVhNQUFST1VFcHZ4UlpLN2tRME0yYUlrVjlaRmJ1eWlYbnQyeGExdXZUY2dyM2UxbTF5MFBYUWJuOTE1X3VQMEc2aWVpQXlQMHV4WmVabGZORk41SV9veG1icXVXOTk2YnZwSkJfRWU1UzY1NWIyRzh5YU0xOWpONkhVT09YN2NsZ19ya0R5dENYNlc3VTB3QXRzb3VTenQ3ek91T2FhOU41dWIySFZBRTlSTWVUdkdGRS1jVQ",
      "feed": "gn-to-star"
     },
     {
@@ -2675,8 +2540,8 @@
    "type": "casting",
    "show": "Damn Yankees",
    "title": "Neil Patrick Harris to Star in ‘Damn Yankees’ Revival on Broadway",
-   "quote": "This is the first Broadway revival of Damn Yankees in more than 30 years.",
-   "quoteSource": "The Hollywood Reporter",
+   "quote": "",
+   "quoteSource": "The New York Times",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2710,16 +2575,6 @@
      "name": "The Hollywood Reporter",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlA3SDFRc0ZOWE4wTEJidGNFUlV2NlVwVEFWLVVXN1NOVGoyMzhSRTNuRUNjQk94bEZaTkFPTzZjNG56R2o1d0R1cHNPSXJwTWk0bk1VdWd5R015dWFCa2hZOW1CMC1JLXdSRndrQTZIcGliaXNON3NjZUR1amVoTE1fWlZTNktKYWloRkN0VzJHRWZCOFBNX2Vrb0wxU0lnRDhST2hOaXdlZHZyNjV0Z0VLQ0xaU1BzeGZQS1dn",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlBKMG10TmlsVFREU1N6U2xhN044bEVXNlp5R3JncnJHcUVjY3pBVW90eDhoeDZMc29sODkwU1dvWEJUQkUwbEh5ZTVsZG14NC1xYWdRLVg3UHdJY3VBY09DMVh1VXRDampFVUJUTlRnbnZEdHMteW54RGx5R01LZndPR1ZWYUsyOG4xdmJCemIzYndjQlJrTWZRUlVHUFdP",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/neil-patrick-harris-julianne-hough-austin-scott-damn-yankees-1236713604/",
-     "feed": "thr-arts"
     },
     {
      "name": "Theatrely",
@@ -2952,38 +2807,7 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdF9sRVQ2dDdrNFVJU2dnQURTRTZIY2pLYXBjZkgyN1FwcnNuTm1VT2o3Z1p0dlJEMUdWMG9XVW45aXBvTVpXaTEyY0paemhUbXZybzYxa0dWVERRSi0wc1YtM2hQXy14MkhXaGpOWExIVDZmMmJTSERwVFRiQWs",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "77fa7a2204",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-22T15:00:00+00:00",
-   "published": "2026-09-22T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Evita with Rachel Zegler announces Broadway casting with returning West End stars",
-   "quote": "",
-   "quoteSource": "WhatsOnStage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Rachel Zegler",
-     "knownFor": "American actress",
-     "score": 53,
-     "qid": "Q61693947"
-    }
-   ],
-   "sources": [
+    },
     {
      "name": "WhatsOnStage",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk80N3dHOFprdnUwMi1qOHY0SHR0WUdST2tmbHpQaUpYUG9nQzQ0LWJEd0dzOVYzbWhTZlhPX2VGM0NfaXZlVXkxWkZZNlRDTHUyR1czeDVkSExHMlpjVEJjNW9lRDBtTmx3c05ZVC1HQVhFTUFENkhRbWlySng0SXliUElZeHdVQzhjTlIzeHNrcmFOVkh6SlJQLS1sRkEyVlNVWV9fNTJUVzhvbWlaRXRHMHhsX2xQSzZ5NzNOaWtXZw",
@@ -2993,47 +2817,185 @@
    "status": "published"
   },
   {
-   "id": "e14a41f552",
-   "priority": 2,
+   "id": "4f73852de9",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-09-22T06:47:21+00:00",
-   "published": "2026-09-21T07:00:00+00:00",
+   "firstSeen": "2026-10-12T16:57:41+00:00",
+   "published": "2026-10-12T16:57:41+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Booth Theatre",
+   "placedBy": "venue",
+   "type": "transfer",
+   "show": "Downstate",
+   "title": "DOWNSTATE Delays Start of Broadway Previews",
+   "quote": "Downstate is headed to Broadway a bit later than originally planned. According to Telecharge, previews will now begin on Monday, October 19.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-8d8ef546092c7461c5d0d8919d6328a1.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/DOWNSTATE-Delays-Start-of-Broadway-Previews-20261012",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "9456695055",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-12T16:53:54+00:00",
+   "published": "2026-10-12T16:53:54+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": "casting",
-   "show": "Warriors",
-   "title": "Now Casting: Join the Broadway Cast of Eisa Davis and Lin-Manuel Miranda’s ‘Warriors’ + 3 More Gigs",
+   "show": "Game for Movie Stars",
+   "title": "Betty Gilpin Describes State of Broadway as a ‘Game for Movie Stars’ to ‘Get Butts in Seats’",
+   "quote": "Even Betty Gilpin didn’t think she was a big enough star to be on Broadway. In a New Yorker interview published Sunday, October 11, the Emmy Award winner recalled making her Broadway debut in 2025 as the first performer to take on the role of Mary Todd Lincoln following creator Cole Escola in Oh, Mary!.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-0312d3b97a86506b1b2aff8222ba609a.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Betty-Gilpin-Describes-State-of-Broadway-as-a-Game-for-Movie-Stars-to-Get-Butts-in-Seats-20261012",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "501ccefc7b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-12T16:53:00+00:00",
+   "published": "2026-10-12T16:53:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "See Who's Starring in The Steel Man Off-Broadway",
+   "quote": "Joe Brancato will direct the Penguin Rep Theatre production of Cary Gitter's plays.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Off-Broadway-The-Steel-Man-Key-Art.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/casting-revealed-for-the-steel-man-at-59e59-theaters",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "b63574ae12",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-12T16:01:00+00:00",
+   "published": "2026-10-12T16:01:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Downstate Delays 1st Broadway Preview",
+   "quote": "The Bruce Norris play, about sex offenders, has pushed back its start date.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/26fbcd34a8b19ef55c44f746d0fd0eed-downstate-steppenwolf-production-photo-2018-downstate-712-hr.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/downstate-delays-first-broadway-preview",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "25a5720171",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-12T15:34:21+00:00",
+   "published": "2026-10-12T15:34:21+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Hadestown",
+   "title": "Now Casting: Broadway’s ‘Hadestown’ Needs Talent + 3 More Gigs",
    "quote": "",
    "quoteSource": "Backstage",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
      "name": "Backstage",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUJKdnBSYWZoRndYaUtfbUVhTHdQMzZuNVJ6c2tZWnpKUnVlSlRrRDRicFBvRDRuTWF4dGtrbWhMUWNsOVl5U3piWlJrRkY2T0VtYnJuZHNSTmJTc21WbE0zMUZhdzY1QnhVU0VFQzgzYnEwTm1CMEZ2M2lKUFJVMXNGYi1RcEYzY1ZpY2d2eE8xZzczRVBlTndNZUYxRXN1NTFqcExQelJDSE1jNGc",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdy1RcFVBVEE1QUY0SFhiS05nSkV4RldrcHlLbS1FSG5kSldFOGZRNlZmaUJUeUF4TW1oS0NiRUVDOE9YalJMNWtkQ0ZoN2xlOHQzRnc2T01sUGRPUnFpNmprang0LTZsSk9ZRFFOWmZGLTVLeEQ5SnRUdV9Vc0M5czRqRmNEalE",
      "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
   },
   {
+   "id": "603a20f1e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T19:30:00+00:00",
+   "published": "2026-10-12T15:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
+   "quote": "Keep track of the shows booked into each Broadway theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-real-estate",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "1729de3767",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-09-27T20:30:00+00:00",
-   "published": "2026-10-11T20:00:00+00:00",
+   "published": "2026-10-12T15:30:00+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -3053,6 +3015,35 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
      "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f41d8ff80d",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-12T15:27:50+00:00",
+   "published": "2026-10-12T15:27:50+00:00",
+   "city": "Chicago",
+   "tier": "Chicago storefront",
+   "venue": "Theater Wit",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Vladimir at Theater Wit Wants You To Make a Difference",
+   "quote": "Photo by Jeff Kurys A man in power desperate to keep it. A society that seemingly has no idea how to prevent […]",
+   "quoteSource": "Chicago Onstage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Chicago Onstage",
+     "url": "https://www.chicagoonstage.com/vladimir-at-theater-wit-wants-you-to-make-a-difference/",
+     "feed": "chicago-onstage"
     }
    ],
    "status": "review"
@@ -3095,7 +3086,7 @@
    "city": "New York",
    "tier": "Off-Broadway",
    "venue": "New World Stages",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "extension",
    "show": null,
    "title": "Off-Broadway's Heathers, Spelling Bee Take Final Bows October 11",
@@ -3201,7 +3192,7 @@
     },
     {
      "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mR2MwWTdESUZGX2EzcUw1Y1FIb1RiUG1QOFBsc3Z6WHRwdUFpalBnN01vTlNCWmdLNlh0dHRxRTJsdTE1azhUWlQ2TnRJVDk0RF9wRW1qNndyVG91UHNBS29YSjRMYUtPeGc",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jdm10UUlLYUNlMGVIcjBHQ1BKN1lwSmtHdkg4QklmZ1hlN0x0MVMzS3ZLS0VQbmkzelpHc0tGemFpSE9OQl9CV0ZhSXBUbWpLUkhjanB2amtHYjRPazRuUDF2SGV5U2Fp",
      "feed": "gn-bway-debut"
     }
    ],
@@ -3448,8 +3439,8 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "St. James Theatre",
-   "placedBy": "venue",
-   "type": "casting",
+   "placedBy": "words",
+   "type": "new production",
    "show": "Dolly",
    "title": "Broadway's DOLLY: A TRUE ORIGINAL MUSICAL Announces Full Ensemble and Cast Details",
    "quote": "Complete casting has been announced for the Broadway premiere of DOLLY: A True Original Musical, opening at the St. James Theatre this winter.",
@@ -3564,7 +3555,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "August Wilson Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "extension",
    "show": "Paranormal Activity",
    "title": "PARANORMAL ACTIVITY Extends Broadway Run Through February 2027",
@@ -3812,35 +3803,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVW5oY2o3SjRaTGE4UG03TnlKMGxvaTd5dVhoTEdUekZSSVhPaVBjY3BBVjlzR3ZfZXEtUmNPYnU3WDNSNGk0blVmWEdhbDNuNTlhVXBFUkJfWjNFY284MzNDb3NqSmtWSG5vVWZZcWZIanRhNzNxaXVoUmhpNXlSZWNGbzZVNGJXM2UyZ2Rrb0Vab2ExeXVhYVpmbnJuVW9rNkxRaWFaMkJZdExHWVE",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9cb03cafc6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T14:01:38+00:00",
-   "published": "2026-10-08T21:38:41+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Chicago",
-   "title": "Broadway’s ‘Chicago’ to celebrate 30th anniversary with special benefit performance",
-   "quote": "Guests will include original company members Bebe Neuwirth and James Naughton.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/CHIBWAY_SEP26_2314_RWeaver_LDeGuzman_Roxie-Velma-1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/broadways-chicago-to-celebrate-30th-anniversary-with-special-benefit-performance/",
-     "feed": "broadway-news"
     }
    ],
    "status": "review"
@@ -4221,6 +4183,40 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "6fc371299a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T13:05:18+00:00",
+   "published": "2026-10-08T13:05:18+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Spring Awakening",
+   "title": "George Abud and Lilli Cooper Join SPRING AWAKENING Off-Broadway Cast",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJzS1YtQVhlb093MGdkZEtXUTMtbkExWGlDYVpfMmpMQ0d2c2tadF9wX2diLVZLbm1nSHJ1d2VCWjlqd0Y5V3VMSHBMOW5ucWYzMXV3bUJNUUFTSFJ3bHI2NmZzTkJUSHZCRHl1bkNjWTRQT1dvc0xjb3ZPQjZBdVM1WDhjaGxEZm9lYVJBWEJiNXh2cWRwVXhFZjVhb09sQWRlclk1NGRnYjVDNThYT1RBeC1tQQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1ZSd3Z6cDN3ZTI5TjJhc1Atd3BiNUJGWUNULVZzZE1LdGQtRktQS1FOV2FwRXc1cUdjWFJyWkJLbG55MXBSVnJ2alpMMEFZaVhEeS04VDZldW82M2ZhOHJUTmtCNVVhQ19qQklGbTFrZmN5elJkdjcyelBRSjI0V3k5RE1KVTFOMU85Z1p5bGtmMXplNTR5WFpvTzY3WkhPanlLV3NKWVgxbzNkb3YyM1JaWkVkYXFkM3c",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "12f3487265",
@@ -5266,7 +5262,7 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQODVFZGxQSHRiRW8wRU9MMG1TTEpXaTdQNUk2N29Oa1NCbmRfMlVTb0VXVW5IQ1J5MTFVTnYydkZsLUIwZDU1TzZGV2Fzbl8yMjlJSEhxaFlDcmtaWGw1MkowLS1JX0tBMDVlYTRkM1pyWXZmaUpXSmZHWU1qOTl5TS1ZTUxhZHI2N3Zub3BKbnhreXFIQnJPMGxKNFJDeDRhNE5BaFpJNlFZMlF1NVE",
-     "feed": "gn-bway-casting"
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -5296,40 +5292,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadway-pipeline-october-7-2026/",
      "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "6fc371299a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-08T13:05:18+00:00",
-   "published": "2026-10-07T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Spring Awakening",
-   "title": "George Abud and Lilli Cooper Join SPRING AWAKENING Off-Broadway Cast",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJzS1YtQVhlb093MGdkZEtXUTMtbkExWGlDYVpfMmpMQ0d2c2tadF9wX2diLVZLbm1nSHJ1d2VCWjlqd0Y5V3VMSHBMOW5ucWYzMXV3bUJNUUFTSFJ3bHI2NmZzTkJUSHZCRHl1bkNjWTRQT1dvc0xjb3ZPQjZBdVM1WDhjaGxEZm9lYVJBWEJiNXh2cWRwVXhFZjVhb09sQWRlclk1NGRnYjVDNThYT1RBeC1tQQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1ZSd3Z6cDN3ZTI5TjJhc1Atd3BiNUJGWUNULVZzZE1LdGQtRktQS1FOV2FwRXc1cUdjWFJyWkJLbG55MXBSVnJ2alpMMEFZaVhEeS04VDZldW82M2ZhOHJUTmtCNVVhQ19qQklGbTFrZmN5elJkdjcyelBRSjI0V3k5RE1KVTFOMU85Z1p5bGtmMXplNTR5WFpvTzY3WkhPanlLV3NKWVgxbzNkb3YyM1JaWkVkYXFkM3c",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -6872,35 +6834,6 @@
    "status": "review"
   },
   {
-   "id": "efb55b130e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T11:00:00+00:00",
-   "published": "2026-10-05T11:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Breaking Baz: Anthony Mackie Returning To Broadway To Play Macbeth After 16-Year Absence From The Stage",
-   "quote": "EXCLUSIVE: Anthony Mackie, who plays Sam Wilson aka Captan America in the big-screen Marvel movies, will return to Broadway to take on William Shakespeare’s most notorious villain, Macbeth. He will take on the role from spring 2027 after an absence from the boards of 16 years, the actor reveals to Deadline.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/10/IMG_8534.jpeg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/anthony-mackie-macbeth-broadway-avengers-star-1237146358/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "93c9915d2a",
    "priority": 3,
    "watched": [],
@@ -6928,6 +6861,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "efb55b130e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T11:00:00+00:00",
+   "published": "2026-10-05T11:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Breaking Baz: Anthony Mackie Returning To Broadway To Play Macbeth After 16-Year Absence From The Stage",
+   "quote": "EXCLUSIVE: Anthony Mackie, who plays Sam Wilson aka Captan America in the big-screen Marvel movies, will return to Broadway to take on William Shakespeare’s most notorious villain, Macbeth. He will take on the role from spring 2027 after an absence from the boards of 16 years, the actor reveals to Deadline.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/IMG_8534.jpeg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/anthony-mackie-macbeth-broadway-avengers-star-1237146358/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "4b5d6f1d97",
@@ -8293,35 +8255,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExiYmJZcE1yQ1ZidVZuUnR0cE1oY2ttempobUtmcnpKZmNIOHlmYVM5S1B5RUg0VDZBTlRRYUtJeHVLcVdESEp6U2hOQzljVjZINEViSngyWUhTb3JNckg3UFVHc3pqNjFuRWdkbkxNM2VqQi1ueWFWUW5nR1RrN3l0OFJHVGtWY3hZeVBhdWp2bW5JNTQ1eEZGSQ",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "603a20f1e0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T19:30:00+00:00",
-   "published": "2026-10-01T11:27:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
-   "quote": "Keep track of the shows booked into each Broadway theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-real-estate",
-     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -11391,6 +11324,40 @@
    "status": "review"
   },
   {
+   "id": "9cb03cafc6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-24T14:01:38+00:00",
+   "published": "2026-09-24T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Chicago",
+   "title": "How ‘Chicago’ Is Bringing a New Reality to Broadway — And Reaping the Rewards",
+   "quote": "Guests will include original company members Bebe Neuwirth and James Naughton.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/CHIBWAY_SEP26_2314_RWeaver_LDeGuzman_Roxie-Velma-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Billboard",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHJQTTBCZ044THBvMmxHV1lmRjc4Zmg1eWp2LUNJbjlXNzdwOWR0U2s3OVU3bGdON0dDa0Zlb0pabWZYazFMMEY1UXlyYmZrTldGa3hfVy1NWjg3M2gzNHBXQlc2UU1ib1JFLUZsSVAyM3NUUVVxTWRMQUVlaFhfcWVaazdkWHItdHhGVldyMA",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadways-chicago-to-celebrate-30th-anniversary-with-special-benefit-performance/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "cb1dde3ddb",
    "priority": 3,
    "watched": [],
@@ -12213,64 +12180,6 @@
    "status": "review"
   },
   {
-   "id": "7616a02da5",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-21T20:37:08+00:00",
-   "published": "2026-09-21T20:37:08+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Galileo",
-   "title": "‘Galileo’ Announces Full Broadway Cast Ahead of November Opening",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3dQWFRHT0EzS0kyeGZKTE1Ic3hlZXZrYXNsUko5S2tjdXdOVXNnaHFfWV9pVlJNa2dNbUFqYjVEWnJQR2l0ajFtdjRidFdFRWR5V1RrWjhWbS1iVDJPVDF5cWR4UU5IUkxWN3RoVERDbDVIWDM0a3FCUjVkal9QUkdYN3NaX1dTMTVtZFk0WmdUWkZsdVFXTC1iTk9aM3c",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "4318448da2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-21T18:54:46+00:00",
-   "published": "2026-09-21T18:54:46+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": null,
-   "title": "Eureka Day is a funny, explosive and provocative opening for the Citadel Theatre’s new season",
-   "quote": "Photo credit: North Shore Camera Club The Citadel Theatre opens its 2026-27 Theatre Season by doing what they do best: taking a […]",
-   "quoteSource": "Chicago Onstage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Onstage",
-     "url": "https://www.chicagoonstage.com/eureka-day-is-a-funny-explosive-and-provocative-opening-for-the-citadel-theatres-new-season/",
-     "feed": "chicago-onstage"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "2931690252",
    "priority": 3,
    "watched": [],
@@ -12295,35 +12204,6 @@
      "name": "American Theatre",
      "url": "https://www.americantheatre.org/2026/09/21/rural-tenderness-in-horsegirl-cowdaddy/",
      "feed": "american-theatre"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "c8d5114109",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-21T14:08:18+00:00",
-   "published": "2026-09-21T14:08:18+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Complete Cast Set for SIX: The Musical North American Tour",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3JaakI5Y3BRUXhLTGRDbFJRaHA5SnMzbjRGVDJJNU1IM3hHakxKLWMtU3c1YnhnM3lmRUpLZ2ktNEczRlFHaktXUW9MOU9BMDBzY0xYU3BCWEdxV3hGS01Da2hmMWRNeVRxR2xEcWwycm1wbERqakhCRHozdkotbmhNMjRHdWxwVE0xM0pSakk3QnBoeFpIaFV3OA",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"

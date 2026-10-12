@@ -541,6 +541,15 @@
   "qid": "Q25051164",
   "score": 7
  },
+ "Betty Gilpin Describes": {
+  "checkedAt": "2026-10-12T21:35:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Big Bang Theory": {
   "checkedAt": "2026-10-07T19:14:12+00:00",
   "description": null,
@@ -1517,6 +1526,15 @@
   "qid": null,
   "score": 0
  },
+ "Downstate Delays": {
+  "checkedAt": "2026-10-12T21:35:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Dream Evaporates": {
   "checkedAt": "2026-10-02T18:15:13+00:00",
   "description": null,
@@ -2193,6 +2211,15 @@
  },
  "Grief Eater Near": {
   "checkedAt": "2026-10-05T21:00:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Hadestown Needs Talent": {
+  "checkedAt": "2026-10-12T21:34:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5435,6 +5462,15 @@
   "qid": null,
   "score": 0
  },
+ "Steel Man": {
+  "checkedAt": "2026-10-12T21:35:00+00:00",
+  "description": "Mexican general and politician (1891-1965)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2349562",
+  "score": 5
+ },
  "Stella Cole": {
   "checkedAt": "2026-10-01T18:43:27+00:00",
   "description": "American singer (born 1999)",
@@ -6147,6 +6183,15 @@
  },
  "Wish Come True": {
   "checkedAt": "2026-09-25T17:56:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Wit Wants": {
+  "checkedAt": "2026-10-12T21:35:04+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
