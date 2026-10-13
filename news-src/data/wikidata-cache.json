@@ -127,6 +127,15 @@
   "qid": null,
   "score": 0
  },
+ "Alicia Keys": {
+  "checkedAt": "2026-10-13T19:46:44+00:00",
+  "description": "American singer-songwriter and pianist (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q121507",
+  "score": 98
+ },
  "Alison Luff": {
   "checkedAt": "2026-09-29T02:30:22+00:00",
   "description": "American singer and stage actress",
@@ -396,6 +405,15 @@
   "knownFor": [],
   "qid": "Q210547",
   "score": 54
+ },
+ "Austin Colby": {
+  "checkedAt": "2026-10-13T19:46:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Austin Scott": {
   "checkedAt": "2026-09-28T01:26:14+00:00",
@@ -745,6 +763,15 @@
   "qid": "Q29168300",
   "score": 37
  },
+ "Breaks Lyceum": {
+  "checkedAt": "2026-10-13T19:46:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Brian Cox": {
   "checkedAt": "2026-09-25T17:57:09+00:00",
   "description": "English physicist and musician",
@@ -917,6 +944,15 @@
  },
  "Capital One Arena": {
   "checkedAt": "2026-10-03T01:45:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Cares Board": {
+  "checkedAt": "2026-10-13T19:46:25+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1208,6 +1244,15 @@
   "qid": "Q1917605",
   "score": 13
  },
+ "Controversial Downstate Delays": {
+  "checkedAt": "2026-10-13T19:46:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Corey Fogelmanis": {
   "checkedAt": "2026-09-25T17:55:57+00:00",
   "description": "American actor",
@@ -1289,6 +1334,15 @@
   "qid": null,
   "score": 0
  },
+ "Cyrus Veyssi": {
+  "checkedAt": "2026-10-13T19:46:14+00:00",
+  "description": "American influencer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q140882332",
+  "score": 1
+ },
  "Dallas Cowboys Cheerleader": {
   "checkedAt": "2026-09-27T17:33:07+00:00",
   "description": null,
@@ -1325,6 +1379,15 @@
   "qid": null,
   "score": 0
  },
+ "Dan Klimko": {
+  "checkedAt": "2026-10-13T19:46:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Daniel Fish-Directed Elektra": {
   "checkedAt": "2026-10-01T01:49:59+00:00",
   "description": null,
@@ -1351,6 +1414,15 @@
   "knownFor": [],
   "qid": "Q140560350",
   "score": 0
+ },
+ "David Corenswet": {
+  "checkedAt": "2026-10-13T19:46:50+00:00",
+  "description": "American actor (born 1993)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q70954450",
+  "score": 38
  },
  "Dead Girl": {
   "checkedAt": "2026-10-08T19:10:54+00:00",
@@ -1750,6 +1822,24 @@
   "qid": null,
   "score": 0
  },
+ "Favorite Tichina Arnold": {
+  "checkedAt": "2026-10-13T19:46:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Female Student": {
+  "checkedAt": "2026-10-13T19:46:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Few Good Men": {
   "checkedAt": "2026-10-10T17:40:30+00:00",
   "description": null,
@@ -1779,6 +1869,15 @@
  },
  "Final Sing-Along Performance": {
   "checkedAt": "2026-09-29T18:29:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Final Two Weeks": {
+  "checkedAt": "2026-10-13T19:46:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1929,6 +2028,15 @@
   "knownFor": [],
   "qid": "Q5481173",
   "score": 12
+ },
+ "François Arnaud": {
+  "checkedAt": "2026-10-13T19:46:49+00:00",
+  "description": "Québécois actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q970787",
+  "score": 27
  },
  "Fred Hechinger": {
   "checkedAt": "2026-10-08T19:10:25+00:00",
@@ -2402,6 +2510,15 @@
   "qid": null,
   "score": 0
  },
+ "Host Performance Benefiting": {
+  "checkedAt": "2026-10-13T19:46:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "How School Girls": {
   "checkedAt": "2026-09-29T02:30:13+00:00",
   "description": null,
@@ -2486,6 +2603,15 @@
   "qid": null,
   "score": 0
  },
+ "Immediate Capital": {
+  "checkedAt": "2026-10-13T19:46:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Important Importants": {
   "checkedAt": "2026-10-02T18:15:12+00:00",
   "description": null,
@@ -2551,6 +2677,15 @@
  },
  "Inhabit Little Shop": {
   "checkedAt": "2026-09-25T17:54:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Innovative Rights Deal": {
+  "checkedAt": "2026-10-13T19:46:42+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2648,6 +2783,15 @@
   "qid": "Q117743548",
   "score": 0
  },
+ "James Monroe Iglehart": {
+  "checkedAt": "2026-10-13T19:46:13+00:00",
+  "description": "American actor (born 1974)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16844494",
+  "score": 8
+ },
  "James Naughton": {
   "checkedAt": "2026-10-08T19:10:49+00:00",
   "description": "successful doctoral candidate at the University of York",
@@ -2718,6 +2862,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q112526488",
+  "score": 0
+ },
+ "Jay Gatsby": {
+  "checkedAt": "2026-10-13T19:46:18+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Jay Michaels": {
@@ -3161,6 +3314,15 @@
   "qid": "Q272518",
   "score": 24
  },
+ "Juliet Tonight": {
+  "checkedAt": "2026-10-13T19:46:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Justin Bartha": {
   "checkedAt": "2026-10-08T19:10:33+00:00",
   "description": "American actor",
@@ -3169,6 +3331,15 @@
   "knownFor": [],
   "qid": "Q110379",
   "score": 42
+ },
+ "Kara Young": {
+  "checkedAt": "2026-10-13T19:46:22+00:00",
+  "description": "American model and actress",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6367560",
+  "score": 6
  },
  "Katerina McCrimmon": {
   "checkedAt": "2026-10-10T02:08:16+00:00",
@@ -3260,6 +3431,15 @@
   "qid": null,
   "score": 0
  },
+ "Kristin Chenoweth Teaming": {
+  "checkedAt": "2026-10-13T19:46:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Kristoffer Diaz": {
   "checkedAt": "2026-09-29T18:29:27+00:00",
   "description": "American writer",
@@ -3286,6 +3466,24 @@
   "knownFor": [],
   "qid": "Q4845646",
   "score": 12
+ },
+ "Kurt Musser": {
+  "checkedAt": "2026-10-13T19:46:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kurt Mussner": {
+  "checkedAt": "2026-10-13T19:46:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Kyle Beltran": {
   "checkedAt": "2026-10-05T21:00:14+00:00",
@@ -4360,6 +4558,15 @@
   "qid": null,
   "score": 0
  },
+ "Now Available": {
+  "checkedAt": "2026-10-13T19:46:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Now Playing": {
   "checkedAt": "2026-09-25T17:53:48+00:00",
   "description": null,
@@ -4635,6 +4842,15 @@
   "qid": null,
   "score": 0
  },
+ "Pod U Guys-": {
+  "checkedAt": "2026-10-13T19:46:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Popinjay Cavalier": {
   "checkedAt": "2026-09-25T17:51:54+00:00",
   "description": null,
@@ -4664,6 +4880,24 @@
  },
  "Prayer Circle": {
   "checkedAt": "2026-09-25T17:57:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Presidential Crowd Work": {
+  "checkedAt": "2026-10-13T19:46:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Preview Due": {
+  "checkedAt": "2026-10-13T19:46:47+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5171,6 +5405,17 @@
   "qid": null,
   "score": 0
  },
+ "Sarah Mantell": {
+  "checkedAt": "2026-10-13T19:46:31+00:00",
+  "description": "American playwright",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [
+   "In the Amazon Warehouse Parking Lot"
+  ],
+  "qid": "Q139076426",
+  "score": 1
+ },
  "Sarah Paulson": {
   "checkedAt": "2026-09-25T17:56:04+00:00",
   "description": "American actress",
@@ -5279,6 +5524,15 @@
   "qid": null,
   "score": 0
  },
+ "See Wanted": {
+  "checkedAt": "2026-10-13T19:46:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sherri Shepherd": {
   "checkedAt": "2026-09-25T17:54:22+00:00",
   "description": "American actress, comedian, author and television personality",
@@ -5302,6 +5556,15 @@
  },
  "Short Stint": {
   "checkedAt": "2026-09-25T17:56:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Shows Adds Android": {
+  "checkedAt": "2026-10-13T19:46:10+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5516,6 +5779,15 @@
   "qid": null,
   "score": 0
  },
+ "Sullivan Players": {
+  "checkedAt": "2026-10-13T19:46:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sweet Caroline": {
   "checkedAt": "2026-09-25T17:51:35+00:00",
   "description": null,
@@ -5579,6 +5851,15 @@
   "qid": null,
   "score": 0
  },
+ "Tape Archive": {
+  "checkedAt": "2026-10-13T19:46:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ted Lasso": {
   "checkedAt": "2026-09-25T17:51:55+00:00",
   "description": null,
@@ -5627,6 +5908,15 @@
   "qid": null,
   "score": 0
  },
+ "Texas High School": {
+  "checkedAt": "2026-10-13T19:46:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Their Summers": {
   "checkedAt": "2026-09-25T17:47:53+00:00",
   "description": null,
@@ -5654,8 +5944,26 @@
   "qid": "Q3525542",
   "score": 22
  },
+ "Three Days": {
+  "checkedAt": "2026-10-13T19:46:48+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Three-Day Intensive": {
   "checkedAt": "2026-10-08T02:34:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Through Digital Lottery": {
+  "checkedAt": "2026-10-13T19:46:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5680,6 +5988,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Tichina Arnold": {
+  "checkedAt": "2026-10-13T19:46:11+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q456894",
+  "score": 22
  },
  "Ticket Sales Through": {
   "checkedAt": "2026-10-05T21:00:44+00:00",
@@ -5999,6 +6316,15 @@
   "qid": null,
   "score": 0
  },
+ "Very Happy Hour": {
+  "checkedAt": "2026-10-13T19:46:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Victoria Livengood": {
   "checkedAt": "2026-09-29T02:30:18+00:00",
   "description": "American opera singer",
@@ -6282,6 +6608,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Yvonne Strahovski": {
+  "checkedAt": "2026-10-13T19:46:52+00:00",
+  "description": "Australian actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q231891",
+  "score": 50
  },
  "Zohran Mamdani": {
   "checkedAt": "2026-10-05T21:00:43+00:00",
