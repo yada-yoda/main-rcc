@@ -17,6 +17,24 @@
   "qid": null,
   "score": 0
  },
+ "Adds Eden Choi": {
+  "checkedAt": "2026-10-14T17:49:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Adds Emmy-Winning Choreographer": {
+  "checkedAt": "2026-10-14T17:49:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Adrian Danchig-Waring Says": {
   "checkedAt": "2026-10-14T01:37:34+00:00",
   "description": null,
@@ -405,6 +423,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Ashby Florence": {
+  "checkedAt": "2026-10-14T17:49:01+00:00",
+  "description": "Comedian (born 2000)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q140106560",
+  "score": 1
  },
  "Asolo Rep": {
   "checkedAt": "2026-09-30T18:18:00+00:00",
@@ -838,6 +865,15 @@
   "qid": "Q55314770",
   "score": 2
  },
+ "Bridges Fall": {
+  "checkedAt": "2026-10-14T17:49:18+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Bridgetown Conservatory": {
   "checkedAt": "2026-10-11T01:35:27+00:00",
   "description": null,
@@ -1126,6 +1162,15 @@
   ],
   "qid": "Q230943",
   "score": 44
+ },
+ "Choreograph La La": {
+  "checkedAt": "2026-10-14T17:49:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Chose Herself": {
   "checkedAt": "2026-10-03T01:45:46+00:00",
@@ -1549,6 +1594,15 @@
   "knownFor": [],
   "qid": "Q26702160",
   "score": 10
+ },
+ "Design Team": {
+  "checkedAt": "2026-10-14T17:49:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Developmental Reading": {
   "checkedAt": "2026-10-07T19:13:59+00:00",
@@ -2157,6 +2211,15 @@
  },
  "Fugue Off": {
   "checkedAt": "2026-09-25T17:57:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Full Creative Team": {
+  "checkedAt": "2026-10-14T17:49:20+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3656,6 +3719,15 @@
   "qid": null,
   "score": 0
  },
+ "Last Chance": {
+  "checkedAt": "2026-10-14T17:49:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Last Flight": {
   "checkedAt": "2026-09-28T20:01:36+00:00",
   "description": null,
@@ -4052,6 +4124,15 @@
   "knownFor": [],
   "qid": "Q17385680",
   "score": 28
+ },
+ "Mandy Moore": {
+  "checkedAt": "2026-10-14T17:49:09+00:00",
+  "description": "American actress and singer (born 1984)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q187832",
+  "score": 63
  },
  "Mare Winningham": {
   "checkedAt": "2026-09-28T20:01:13+00:00",
@@ -4722,6 +4803,15 @@
   "qid": null,
   "score": 0
  },
+ "Offer Digital Ticket": {
+  "checkedAt": "2026-10-14T17:49:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ogunquit Playhouse": {
   "checkedAt": "2026-10-07T19:14:19+00:00",
   "description": null,
@@ -5236,6 +5326,15 @@
  },
  "Rehearsing Oedipus": {
   "checkedAt": "2026-09-25T17:57:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Renfrew County": {
+  "checkedAt": "2026-10-14T17:49:04+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5808,6 +5907,15 @@
   "qid": null,
   "score": 0
  },
+ "Special Guests": {
+  "checkedAt": "2026-10-14T17:49:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Spelling Bee Take": {
   "checkedAt": "2026-10-11T17:55:40+00:00",
   "description": null,
@@ -5927,6 +6035,15 @@
  },
  "Stranger Things Gaten": {
   "checkedAt": "2026-09-26T16:53:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Stratford Festival": {
+  "checkedAt": "2026-10-14T17:49:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6435,6 +6552,15 @@
   "qid": null,
   "score": 0
  },
+ "Union/Guild Members": {
+  "checkedAt": "2026-10-14T17:49:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Unveils Five Actors": {
   "checkedAt": "2026-10-03T01:45:41+00:00",
   "description": null,
@@ -6781,6 +6907,15 @@
   "knownFor": [],
   "qid": "Q111367314",
   "score": 16
+ },
+ "Yollin Lee": {
+  "checkedAt": "2026-10-14T17:49:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Young Marlon Brando": {
   "checkedAt": "2026-09-25T17:57:15+00:00",
