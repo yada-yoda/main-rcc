@@ -2,6 +2,54 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "98d8df31c1",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-13T20:11:45+00:00",
+   "published": "2026-10-13T20:11:45+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "Girls",
+   "title": "Andrew Rannells Joins GIRLS Revival at HBO With Lena Dunham, Allison Williams",
+   "quote": "Andrew Rannells will be joining the upcoming return of Girls at HBO. The Tony nominee will be reprising the role of 'Elijah Krantz' for the five episode return, going into production in 2027.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-37c964a1a050260ca31e683a20c040ef.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Lena Dunham",
+     "knownFor": "Delusional Downtown Divas",
+     "score": 54,
+     "qid": "Q288359"
+    },
+    {
+     "name": "Allison Williams",
+     "knownFor": "American actress and producer",
+     "score": 32,
+     "qid": "Q4455554"
+    },
+    {
+     "name": "Andrew Rannells",
+     "knownFor": "American actor",
+     "score": 27,
+     "qid": "Q560516"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Andrew-Rannells-Joins-GIRLS-Reboot-at-HBO-With-Lena-Dunham-Allison-Williams-20261013",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "d8d894c3b8",
    "priority": 2,
    "watched": [],
@@ -2932,11 +2980,214 @@
    "status": "published"
   },
   {
+   "id": "4e4110b78e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T21:30:25+00:00",
+   "published": "2026-10-13T21:30:25+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "A Christmas Carol",
+   "title": "Cast Set for A CHRISTMAS CAROL at Guthrie Theater This Holiday Season",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSl9ubmFVem5wcmxEemtDY3QzanJNVGU0alFSOFlraGpYbXFpMUw2dEpIMU5vM0pKbGRzbmNONkw1NURzLVA3bDMtM3RLNC1zSE85OHFLcXhJdF9QX1k3SkpmRlhTRDBlR2Y2cXp1UmtkbHdYMHFCeEVZUGd6MUN3VUo0anlZYUtZVjRLS2YtbEcya2xDekE3OHpOVDJzMi1PZjVwZDRIUUQ0NGFqcG9sS1NvQmZfMXpvc19tZTJqYllXMWwtZzdZ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9a7514dd61",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T21:13:12+00:00",
+   "published": "2026-10-13T21:13:12+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Bridges returns for fall 2026 semester",
+   "quote": "See which Broadway shows will participate in the program, offering $10 tickets to New York City public school students.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Broadway-Bridges--3--1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadway-bridges-returns-for-fall-2026-semester/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a41267fde1",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T21:10:08+00:00",
+   "published": "2026-10-13T21:10:08+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Broadway Cares adds new members to its board of trustees",
+   "quote": "New members include two-time Tony Award nominee Jeremy Jordan and two-time Tony winner Kara Young.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Untitled-Design-2.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadway-cares-adds-new-members-to-its-board-of-trustees/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "ae9ed53488",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T21:06:49+00:00",
+   "published": "2026-10-13T21:06:49+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Other Desert Cities,",
+   "title": "Broadway Box Office: Star-Studded ‘Other Desert Cities,’ ‘A Few Good Men,’ ‘860’ Draw Crowds",
+   "quote": "Celebrity-driven shows, including Bowen Yang in 'Oh, Mary!' jolted the industry last week.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-star-other-desert-cities-a-few-good-men-860-1236729226/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a88502642f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-29T19:41:27+00:00",
+   "published": "2026-10-13T21:03:10+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "opening",
+   "show": null,
+   "title": "Broadway Grosses: Week Ending 10/11/26",
+   "quote": "Click below to access all the Broadway grosses from all the shows for the week ending 10/11/2026 in BroadwayWorld's grosses section. Also, you will find information on each show's historical grosses, cumulative grosses and other statistics on how each show stacked up this week and in the past.",
+   "quoteSource": "Box Office Soars 27% to $35.3 Million",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/680-076a41098774814880e8a2e6168285d9.jpg",
+   "imageCredit": "Box Office Soars 27% to $35.3 Million",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Box Office Soars 27% to $35.3 Million",
+     "url": "https://www.broadwayworld.com/article/Broadway-Grosses-Week-Ending-101126-20261013",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "7731238004",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T20:42:59+00:00",
+   "published": "2026-10-13T20:42:59+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New World Stages",
+   "placedBy": "venue",
+   "type": "extension",
+   "show": "Heathers The Musical",
+   "title": "HEATHERS THE MUSICAL Breaks All-Time House Record at New World Stages",
+   "quote": "96 Heathers The Musical broke the all-time house record at New World Stages for the week ending October 11, 2026 in its final week of performances. The fan-favorite production had previously set the house record on four other occasions in its extended run.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-a9b614d6f65193d2592c3f689e12718d.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/HEATHERS-THE-MUSICAL-Breaks-All-Time-House-Record-at-New-World-Stages-20261013",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "4a88080262",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T19:46:35+00:00",
+   "published": "2026-10-13T20:24:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Oh, Mary!",
+   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "6b203aaf5f",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-13T19:45:48+00:00",
-   "published": "2026-10-13T19:45:48+00:00",
+   "published": "2026-10-13T20:16:03+00:00",
    "city": null,
    "tier": null,
    "venue": null,
@@ -2956,6 +3207,156 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/OTHER-DESERT-CITIES-to-Host-Performance-Benefiting-Entertainment-Community-Fund-20261013",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "34884178fe",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T20:07:00+00:00",
+   "published": "2026-10-13T20:07:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "A Few Good Men",
+   "title": "‘A Few Good Men’ Broadway Show Dates, Star-Studded Cast & Ticket Prices",
+   "quote": "A Few Good Men and Other Desert Cities, starry new revivals on the Broadway stage, sold out their performances last week, with the latter production (starring Julia Louis-Dreyfus, Ed Harris, Allison Janney, Joe Keery and Lily Rabe) hitting the upper reaches of the box office chart with a gross in excess of $2 million.…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/A-Few-Good-Men-first-preview_Emilio-Madrid_3155.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Hollywood Life",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzlGUUxWZVkweldNSVlvQW5OOFc5RWZHaHJqT1RCNGFKalZzaHNaRXlkWGROWVRiVWxVY3plTl9wM0tpX1lRSk9aZE5wa2VRR0JER1ExaWpLVWZIMGVKZ0JfX2g5VjY5NjdhSnpqRUh2MUItOXViYThlclBSY2NFeC1HV2RMM2tHVGZPTVZB0gGTAUFVX3lxTFA1cGFGaE9SUVRwUGJ1VGJJRHlRY3ZGSDM1Qm1mN3MwYjZUMHhnaktqNlF3NjBZb3J2ZmJNTDF3Rl8wVENXMUVUWGNZWGtEcVZFOEoxZE1DOVhwMTljZXdJdW5qdHV4MFNhaEUtcy1KdFJUeFZES0ZwUTZoQjZNc2RRQ0RDTnBpUmZaaHAwQVVxOFJzRQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/broadway-box-office-few-good-men-oh-mary-1237155667/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "f4757f46ab",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T20:04:06+00:00",
+   "published": "2026-10-13T20:04:06+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Evita,",
+   "title": "Where to Buy Tickets for Broadway’s Biggest Shows Through 2027: ‘Evita,’ ‘A Few Good Men,’ ‘Much Ado About Nothing’ and More",
+   "quote": "Broadway is gearing up for a star-studded season, with Hollywood heavyweights, buzzy West End transfers and a slate of high-profile revivals headed to New York stages through 2027. Among the biggest draws are Julia Louis-Dreyfus, making her Broadway debut alongside Ed Harris and Allison Janney in “Other Desert Cities”…",
+   "quoteSource": "Variety",
+   "image": "https://variety.com/wp-content/uploads/2026/09/Evita-West-End-1.jpg",
+   "imageCredit": "Variety",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/shop/broadway-show-tickets-where-to-buy-1234970196/",
+     "feed": "variety-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "051e0aa13a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T19:24:36+00:00",
+   "published": "2026-10-13T19:24:36+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "On Broadway: Dirty Dancing, Three Days of Rain dates, Dolly casting, Wanted lottery. Stageworthy News of the Week.",
+   "quote": "",
+   "quoteSource": "Newyorktheater",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Newyorktheater",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14TDNrdGh2OTRnM096YUlnVmdaSExYc1diMDJIbkppaVVpeDFqU0tNUmpTV1d4clJhOTZDQTg2N1A0ZkFpMW85a09mbGJvYXpEdGhOSkdqWGNCZHRGX2ZQSV83UkJCSUp0",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "04400a3adf",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-15T07:00:00+00:00",
+   "published": "2026-10-13T18:51:45+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "The Best Shows Coming to Broadway in 2026 and 2027",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "2f4bc3a94e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T18:45:25+00:00",
+   "published": "2026-10-13T18:45:25+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Diamonds And Rust",
+   "title": "Andréa Burns to Star in Joan Baez Tribute DIAMONDS AND RUST at 92NY",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNME5UQThrbjVXMklYbHppMWZMSlJPZ05VSkVWWS1CbXpzdWpPOUFhZzU3OTR6alFpX3o2SGMwaU5fLUVEMl9JdU9XZnRsWkdORko4S09VZDZ6MHFVUzhwY2hIbl9tNGNUd1BYRXlDUGR6dnllRFhQUy1IMHd1WF9LVDhrYTdod1dRUEhZbjlzNFh5OWhScmRiUUdTdUtkN1pzbVhvcDR0bTZfNGczQy0zay1RRXNMUHF1NUZPRjJNMFh6bmNn",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -3014,6 +3415,35 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Exclusive-Oh-My-Pod-U-Guys-Women-On-The-Edge-of-Democracy-with-Sarah-Mantell-20261013",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "346ce49c0f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T17:34:53+00:00",
+   "published": "2026-10-13T17:34:53+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "closing",
+   "show": null,
+   "title": "Adrian Danchig-Waring Says Goodbye to New York City Ballet, Using George Balanchine",
+   "quote": "The principal dancer will give his final performance October 18, with a program he curated.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/AdrianDanchig-Waring_Credit-James-Emmerman.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/adrian-danchig-waring-says-goodbye-to-new-york-city-ballet-using-george-balanchine",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3145,6 +3575,64 @@
    "status": "review"
   },
   {
+   "id": "f978d1f90f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T16:23:12+00:00",
+   "published": "2026-10-13T16:23:12+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "transfer",
+   "show": null,
+   "title": "Step Into Rehearsals for Tom Hiddleston- and Hayley Atwell-Led Much Ado About Nothing",
+   "quote": "The Broadway transfer of the Jamie Lloyd production begins performances later this month.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/JM_01909_BW.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/step-into-rehearsals-for-tom-hiddleston-and-hayley-atwell-led-much-ado-about-nothing",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "2481bf2316",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T16:21:21+00:00",
+   "published": "2026-10-13T16:21:21+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "opening",
+   "show": null,
+   "title": "David Cromer Will Direct Peter Friedman in Hanukkah Spectacular World Premiere",
+   "quote": "Max Posner's comedy will begin at the Woolly Mammoth Theatre in November.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/David-Cromer-and-Peter-Friedman.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/david-cromer-will-direct-peter-friedman-in-hanukkah-spectacular-world-premiere",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "7d2dfef453",
    "priority": 3,
    "watched": [],
@@ -3169,6 +3657,35 @@
      "name": "American Theatre",
      "url": "https://www.americantheatre.org/2026/10/13/presidential-crowd-work-in-fdrs-very-happy-hour/",
      "feed": "american-theatre"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "36af440d40",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T16:04:08+00:00",
+   "published": "2026-10-13T16:04:08+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Fantasticks",
+   "title": "Meet the cast of 'The Fantasticks' on Broadway",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzE1ZDRuSDg2QVpsNXRmRk1jbkh3SW5nZENXYjRkTnRWTzNWcTBLcURydVgxTmMyTEFOSGJOWDdCelVPNFZCN3N2NlJrUWRHX253QXRlMGlTWG0xaUc5R2FUN2RUOGl6VWxVY1VTRjY1cG9RZF9KRUxCUlBuRGVpMFVrZk93UVRzRW5ldzNfTlNsMEdUMmtzYlNGc1FJWms",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -3207,7 +3724,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-13T14:50:42+00:00",
-   "published": "2026-10-13T14:50:42+00:00",
+   "published": "2026-10-13T14:52:13+00:00",
    "city": null,
    "tier": null,
    "venue": null,
@@ -3416,35 +3933,6 @@
    "status": "review"
   },
   {
-   "id": "603a20f1e0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T19:30:00+00:00",
-   "published": "2026-10-13T10:40:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
-   "quote": "Keep track of the shows booked into each Broadway theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-real-estate",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "a7143c06b9",
    "priority": 3,
    "watched": [],
@@ -3469,6 +3957,35 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/what-broadway-can-learn-from-a-potentially-bad-cup-of-coffee/",
      "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "603a20f1e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T19:30:00+00:00",
+   "published": "2026-10-13T10:40:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
+   "quote": "Keep track of the shows booked into each Broadway theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-real-estate",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3646,35 +4163,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "4a88080262",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-10-12T18:28:12+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "4f73852de9",
@@ -4981,7 +5469,7 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJzS1YtQVhlb093MGdkZEtXUTMtbkExWGlDYVpfMmpMQ0d2c2tadF9wX2diLVZLbm1nSHJ1d2VCWjlqd0Y5V3VMSHBMOW5ucWYzMXV3bUJNUUFTSFJ3bHI2NmZzTkJUSHZCRHl1bkNjWTRQT1dvc0xjb3ZPQjZBdVM1WDhjaGxEZm9lYVJBWEJiNXh2cWRwVXhFZjVhb09sQWRlclk1NGRnYjVDNThYT1RBeC1tQQ",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     },
     {
      "name": "New York Theatre Guide",
@@ -5077,6 +5565,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "e228176616",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-29T18:04:58+00:00",
+   "published": "2026-10-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Wicked",
+   "title": "Now Casting: Join the Broadway or Touring Productions of ‘Wicked’ + 3 More Gigs",
+   "quote": "",
+   "quoteSource": "Backstage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Backstage",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZldUX05zZV8wUUZnd3ZlelUtbEducmY4Tzd1Ulp5SThqVUxLSkR2dkZTb0tVeFdVU1lzVERPSEFhdXJqRnBfVFVqT21EMmNuN0JlSHBxSVRQVTBFRkNKeTd1aGc0SUpLUUtmNlBUWG1SX0JnX2E5OE5ZenppTF9PdTVxQ1VlSDRDdV90UjJOVEJUdw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "9b414dd952",
@@ -6128,35 +6645,6 @@
    "status": "published"
   },
   {
-   "id": "a88502642f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-29T19:41:27+00:00",
-   "published": "2026-10-06T19:12:41+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "opening",
-   "show": null,
-   "title": "Broadway Grosses: Week Ending 10/4/26",
-   "quote": "Click below to access all the Broadway grosses from all the shows for the week ending 10/04/2026 in BroadwayWorld's grosses section. Also, you will find information on each show's historical grosses, cumulative grosses and other statistics on how each show stacked up this week and in the past.",
-   "quoteSource": "Grosses Rise 15% to $27.7 Million",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/680-076a41098774814880e8a2e6168285d9.jpg",
-   "imageCredit": "Grosses Rise 15% to $27.7 Million",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Grosses Rise 15% to $27.7 Million",
-     "url": "https://www.broadwayworld.com/article/Broadway-Grosses-Week-Ending-10426-20261006",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "7d4096a39f",
    "priority": 3,
    "watched": [],
@@ -6418,35 +6906,6 @@
    "status": "review"
   },
   {
-   "id": "9feba454bc",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-17T12:00:00+00:00",
-   "published": "2026-10-06T14:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Dirty Dancing",
-   "title": "‘Dirty Dancing’ Musical Heading To Broadway This Winter With Lionsgate Among Producers",
-   "quote": "Dirty Dancing: The Musical, a new stage production based on the 1987 film, will arrive on Broadway this winter for a limited seven-month engagement, producers announced today. The musical, which will be directed by Lonny Price (Sunset Boulevard, Sweeney Todd), who played Neil Kellerman in the original film, and choreo…",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/10/DIRTY-DANCING-THE-MUSICAL-2026-TOUR-PHOTO-4-e1791292498807.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/dirty-dancing-musical-broadway-lionsgate-1237147780/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "af3e120334",
    "priority": 3,
    "watched": [],
@@ -6471,6 +6930,35 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/dirty-dancing-the-musical-coming-broadway-1236722969/",
      "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "9feba454bc",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-17T12:00:00+00:00",
+   "published": "2026-10-06T14:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Dirty Dancing",
+   "title": "‘Dirty Dancing’ Musical Heading To Broadway This Winter With Lionsgate Among Producers",
+   "quote": "Dirty Dancing: The Musical, a new stage production based on the 1987 film, will arrive on Broadway this winter for a limited seven-month engagement, producers announced today. The musical, which will be directed by Lonny Price (Sunset Boulevard, Sweeney Todd), who played Neil Kellerman in the original film, and choreo…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/DIRTY-DANCING-THE-MUSICAL-2026-TOUR-PHOTO-4-e1791292498807.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/dirty-dancing-musical-broadway-lionsgate-1237147780/",
+     "feed": "deadline-theater"
     }
    ],
    "status": "published"
@@ -6766,35 +7254,6 @@
    "status": "review"
   },
   {
-   "id": "04400a3adf",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-15T07:00:00+00:00",
-   "published": "2026-10-06T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "The Best Shows Coming to Broadway in 2026 and 2027",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHI1bXoyVHhzeGFRYnBsdThBZXBpUUN0SEo5bnpPWEZfNmhhT0U4V3duV2lxUnpCRTJjblZmVVlNNnN0OUJyeVFEVVUtTTQ2TXZxUndtYXIyZE9LcW42TFpaOFNwTjlEdTlhb0NxRDRNQ3RmcUVEME9pbHRXMUg5YjJiSQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "21166e3174",
    "priority": 3,
    "watched": [],
@@ -7080,35 +7539,6 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/OH-MARY-to-Return-for-Second-Tour-Year-Beginning-Fall-2027-20261005",
      "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "9c70de972a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T17:20:42+00:00",
-   "published": "2026-10-05T17:20:42+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Grief Eater Near North Bender",
-   "title": "Cast set for 'The Grief Eater Near North Bender' off Broadway",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEJkcUxzUmV5dzMwcm1IdElxNzB0cnVUM1dRVnpDTFVqb1h6d0NGNXNxQW9aZGtUTkI5Rk5KNC1Tc2lMS29yQ1dvZjJmd3dKTm1UX2xwTkw2NHd5R3AxM3NwcEQtMFpKbk44c243RTk2cU12ZmI2TzlaS3o0Z1R5bzhSZFAwQzdfQXRudk9KRGFBa2lubVhjMW9lOU9abUhYdGhOcFdNWkZ0OFNmYTd2Q0dTOA",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -7578,35 +8008,6 @@
    "status": "review"
   },
   {
-   "id": "73d3b9d16a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T12:00:00+00:00",
-   "published": "2026-10-05T12:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Here There Are Blueberries",
-   "title": "'Here There Are Blueberries' Sets Broadway Cast",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVZKdWh4VzEyVGlQSXlvYW5BU2twY2hiZGRuRGFVR19kN0RKSFZpUUZ0ek5rV3BFczdoaFpreUgxSDEydnNTRmZDTjdJb2JaRENLcF9tRXpDMUNoNWp1R3BHMThKMzVibFJEbzQ1ZzlYU0swaVFRdGktMWk5aE11VVhFc19ENXc1",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "93c9915d2a",
    "priority": 3,
    "watched": [],
@@ -7694,6 +8095,35 @@
    "status": "review"
   },
   {
+   "id": "73d3b9d16a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T12:00:00+00:00",
+   "published": "2026-10-05T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Here There Are Blueberries",
+   "title": "'Here There Are Blueberries' Sets Broadway Cast",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVZKdWh4VzEyVGlQSXlvYW5BU2twY2hiZGRuRGFVR19kN0RKSFZpUUZ0ek5rV3BFczdoaFpreUgxSDEydnNTRmZDTjdJb2JaRENLcF9tRXpDMUNoNWp1R3BHMThKMzVibFJEbzQ1ZzlYU0swaVFRdGktMWk5aE11VVhFc19ENXc1",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "6eda1da907",
    "priority": 3,
    "watched": [],
@@ -7721,6 +8151,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "9c70de972a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T17:20:42+00:00",
+   "published": "2026-10-05T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Grief Eater Near North Bender",
+   "title": "Cast set for 'The Grief Eater Near North Bender' off Broadway",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEJkcUxzUmV5dzMwcm1IdElxNzB0cnVUM1dRVnpDTFVqb1h6d0NGNXNxQW9aZGtUTkI5Rk5KNC1Tc2lMS29yQ1dvZjJmd3dKTm1UX2xwTkw2NHd5R3AxM3NwcEQtMFpKbk44c243RTk2cU12ZmI2TzlaS3o0Z1R5bzhSZFAwQzdfQXRudk9KRGFBa2lubVhjMW9lOU9abUhYdGhOcFdNWkZ0OFNmYTd2Q0dTOA",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "83044a0f37",
@@ -8564,6 +9023,35 @@
    "status": "review"
   },
   {
+   "id": "4566a89244",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-02T15:08:49+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Dolly",
+   "title": "The Broadway Premiere of DOLLY: A True Original Musical Cast Announced",
+   "quote": "",
+   "quoteSource": "Dolly Parton Official Website",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Dolly Parton Official Website",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWw1VHA3Q1pmSG5MbVU5UERBa0ZjUjN5amo5U2IxQkprWkREdUUtdkszbnBfMS1LZC16cm9uSkNxdnc2VF9TOGZiZGUzMHIyUG0yQzUwOFdZN0hZcHRlN21ZbEo4N29xRnJuWWlhSVU4QUJqLTBaT3F4V09UTmJtWEV6ZXV1V3V0Nzlva2xnajRIaGxuSWZobDl6dHpMc0YxUXlhWQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "0e8017a9a7",
    "priority": 3,
    "watched": [],
@@ -8596,35 +9084,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "4566a89244",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T15:08:49+00:00",
-   "published": "2026-10-02T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Dolly",
-   "title": "The Broadway Premiere of DOLLY: A True Original Musical Cast Announced",
-   "quote": "",
-   "quoteSource": "Dolly Parton Official Website",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Dolly Parton Official Website",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWw1VHA3Q1pmSG5MbVU5UERBa0ZjUjN5amo5U2IxQkprWkREdUUtdkszbnBfMS1LZC16cm9uSkNxdnc2VF9TOGZiZGUzMHIyUG0yQzUwOFdZN0hZcHRlN21ZbEo4N29xRnJuWWlhSVU4QUJqLTBaT3F4V09UTmJtWEV6ZXV1V3V0Nzlva2xnajRIaGxuSWZobDl6dHpMc0YxUXlhWQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "308cb853ca",
@@ -9785,35 +10244,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "e228176616",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-29T18:04:58+00:00",
-   "published": "2026-09-29T18:04:58+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Wicked",
-   "title": "WICKED Broadway and Tour to Hold Open Call for Singers in Boston",
-   "quote": "The Telsey Office is holding an open call for singers for the Broadway and National Touring Company of Wicked. They are seeking singers who move well, ages 18+, any ethnicity and any gender, with fantastic voices and wide vocal ranges, for principal and ensemble roles.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-349772714a135d85612225aab6054896.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/WICKED-Broadway-and-Tour-to-Hold-Open-Call-for-Singers-in-Boston-20260929",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "cdbb2bddd8",
@@ -12740,93 +13170,6 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6QVpZd2g5YnZUN3dFSUstU1FiSzlkc0h6cEpXeVZtVHdFemg2VmRyVklHMHJZcWRHaDBuSzJUQWxfNlFEaHNwbzJKekpkX0I1cU1zRDVsWTlrTWkxSHVsbzNNeDdWeVBDcGtEb0ZZdzhJT1g2LWZqa3RaZk9HUQ",
      "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "91ef7723eb",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T23:16:25+00:00",
-   "published": "2026-09-22T23:16:25+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "The Ceiling",
-   "title": "THE CEILING Cast Announced; Musical to Open at Le Poisson Rouge",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOURwWThWbV83OHFXZS0tb01KaG5fLS1XVFJzOVQyWXZWVlpBbGVXNnd2UU1LWXdwYXlzbUNjSVhDN3EtY0hReEtVSWpVbXdmcXFXSVpWQVY0NlV1ZC1pRkVGellyQUdtUHdwN2lLWnlIRUI5QVM2WHhWLW5nUGlhWGlCNExUb3NvWXRiTEZ1cUFxN3J0NGl2ck8yR01jNjdXb3FBbmdMTFVYTVVkdV9UQTJZWmVUM0t0bmlBSG9uYw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "90265cc31f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T22:15:18+00:00",
-   "published": "2026-09-22T22:15:18+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Northlight Theatre",
-   "placedBy": "venue",
-   "type": "opening",
-   "show": null,
-   "title": "Northlight opens its new home with a classic Chicago comedy",
-   "quote": "Photo by Michael Brosilow Northlight Theatre returns to Evanston with the first show in its new home, a lively and entertaining (and, […]",
-   "quoteSource": "Chicago Onstage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Onstage",
-     "url": "https://www.chicagoonstage.com/northlight-opens-its-new-home-with-a-classic-chicago-comedy/",
-     "feed": "chicago-onstage"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "491ffd6f74",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T20:34:02+00:00",
-   "published": "2026-09-22T20:34:02+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Bowen Yang Boosts ‘Oh, Mary!’, Reece Weaver Cheers ‘Chicago’ And ‘Titanique’ Sails Off On High Note – Broadway Box Office",
-   "quote": "Broadway enjoyed a crisp upturn last week as autumn peeked around the corner, with a few shows benefiting from popular new cast members and one production seeing a final-week boost from last-chancers. In the former category were Oh, Mary!, a sell-out with newly arrived Bowen Yang in the lead, for a big gross of $1,517…",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/09/Bowen-Yang-in-OH-MARY-on-Broadway-—-photo-credit-Emilio-Madrid-1-e1790105201201.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/09/broadway-box-office-bowen-yang-reece-weaver-titanique-1237110108/",
-     "feed": "deadline-theater"
     }
    ],
    "status": "review"
