@@ -53,6 +53,15 @@
   "qid": "Q4685725",
   "score": 11
  },
+ "Adrienne Warren-Led": {
+  "checkedAt": "2026-10-15T17:38:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Afflictions Cobra Kai": {
   "checkedAt": "2026-09-30T18:17:47+00:00",
   "description": null,
@@ -414,6 +423,15 @@
   ],
   "qid": "Q151892",
   "score": 141
+ },
+ "Arielle Jacobs": {
+  "checkedAt": "2026-10-15T17:38:43+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4790493",
+  "score": 7
  },
  "Artistic Home": {
   "checkedAt": "2026-09-29T02:30:28+00:00",
@@ -1694,6 +1712,15 @@
   "qid": null,
   "score": 0
  },
+ "Director Recalls Feeling": {
+  "checkedAt": "2026-10-15T17:38:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Dirty Dancing": {
   "checkedAt": "2026-09-25T17:57:19+00:00",
   "description": null,
@@ -2092,6 +2119,15 @@
   "qid": null,
   "score": 0
  },
+ "Finally Opened": {
+  "checkedAt": "2026-10-15T17:38:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Finds Full": {
   "checkedAt": "2026-10-09T18:40:47+00:00",
   "description": null,
@@ -2108,6 +2144,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Flaco Navaja": {
+  "checkedAt": "2026-10-15T17:38:45+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q97999916",
   "score": 0
  },
  "Flea Market": {
@@ -2227,6 +2272,15 @@
   "qid": "Q5481173",
   "score": 12
  },
+ "Frankie Loyal": {
+  "checkedAt": "2026-10-15T17:38:48+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q26197578",
+  "score": 1
+ },
  "François Arnaud": {
   "checkedAt": "2026-10-13T19:46:49+00:00",
   "description": "Québécois actor",
@@ -2319,6 +2373,15 @@
  },
  "Full-Time Claire": {
   "checkedAt": "2026-10-05T21:00:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Fully Loaded": {
+  "checkedAt": "2026-10-15T17:38:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3320,6 +3383,15 @@
   "qid": "Q6210465",
   "score": 3
  },
+ "Joel Waggoner": {
+  "checkedAt": "2026-10-15T17:38:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "John Behlmann": {
   "checkedAt": "2026-10-02T18:14:46+00:00",
   "description": "American actor",
@@ -3340,6 +3412,15 @@
  },
  "John Legend Score": {
   "checkedAt": "2026-09-25T17:55:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "John Legend-Lynn Nottage": {
+  "checkedAt": "2026-10-15T17:38:36+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3550,6 +3631,15 @@
  },
  "Julia Louis-Dreyfus Sells": {
   "checkedAt": "2026-10-07T02:08:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Julia Mattison": {
+  "checkedAt": "2026-10-15T17:38:57+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3967,6 +4057,15 @@
   "qid": null,
   "score": 0
  },
+ "Life Finds Full": {
+  "checkedAt": "2026-10-15T17:38:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Life Off": {
   "checkedAt": "2026-09-25T17:55:49+00:00",
   "description": null,
@@ -4008,6 +4107,15 @@
  },
  "Limited Engagement": {
   "checkedAt": "2026-09-25T17:56:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Limited Runs": {
+  "checkedAt": "2026-10-15T17:38:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4117,8 +4225,26 @@
   "qid": null,
   "score": 0
  },
+ "Los Angeles": {
+  "checkedAt": "2026-10-15T17:38:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Los Angeles Goldrich": {
   "checkedAt": "2026-10-02T02:02:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Los Angeles World": {
+  "checkedAt": "2026-10-15T17:38:49+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4929,6 +5055,15 @@
   "qid": null,
   "score": 0
  },
+ "Olivia Edward": {
+  "checkedAt": "2026-10-15T17:38:47+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q26923247",
+  "score": 5
+ },
  "Olivia Williams": {
   "checkedAt": "2026-09-25T17:51:43+00:00",
   "description": "British actress (born 1968)",
@@ -4949,6 +5084,15 @@
  },
  "One-night-only Bill Pay": {
   "checkedAt": "2026-09-25T17:55:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Onyekachi Iwu": {
+  "checkedAt": "2026-10-15T17:38:52+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5122,6 +5266,15 @@
   ],
   "qid": "Q276525",
   "score": 78
+ },
+ "Paula Vogel Playwriting": {
+  "checkedAt": "2026-10-15T17:38:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Pekoe Group": {
   "checkedAt": "2026-09-25T17:57:03+00:00",
@@ -5498,6 +5651,15 @@
   "qid": "Q7329442",
   "score": 3
  },
+ "Rick Gonzalez": {
+  "checkedAt": "2026-10-15T17:38:44+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1370072",
+  "score": 25
+ },
  "Riley Prior": {
   "checkedAt": "2026-10-08T19:10:28+00:00",
   "description": null,
@@ -5683,6 +5845,15 @@
   ],
   "qid": "Q29055",
   "score": 79
+ },
+ "Sadie Dickerson": {
+  "checkedAt": "2026-10-15T17:38:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Sails Off On": {
   "checkedAt": "2026-09-25T17:48:25+00:00",
@@ -6617,6 +6788,15 @@
  },
  "Triple Threat": {
   "checkedAt": "2026-10-05T21:00:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Tristen Buettel": {
+  "checkedAt": "2026-10-15T17:38:39+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
