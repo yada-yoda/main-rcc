@@ -559,8 +559,26 @@
   "qid": null,
   "score": 0
  },
+ "Ben Vereen": {
+  "checkedAt": "2026-10-15T01:14:44+00:00",
+  "description": "American actor, dancer, and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q770841",
+  "score": 19
+ },
  "Benefit Concerts Starring": {
   "checkedAt": "2026-09-25T17:48:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Benvenuto Don Giovanni": {
+  "checkedAt": "2026-10-15T01:14:58+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -864,6 +882,15 @@
   "knownFor": [],
   "qid": "Q55314770",
   "score": 2
+ },
+ "Brian Stokes Mitchell": {
+  "checkedAt": "2026-10-15T01:14:43+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3644511",
+  "score": 14
  },
  "Bridges Fall": {
   "checkedAt": "2026-10-14T17:49:18+00:00",
@@ -1225,6 +1252,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Christopher Sieber": {
+  "checkedAt": "2026-10-15T01:14:45+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5113238",
+  "score": 5
  },
  "Chulpan Khamatova": {
   "checkedAt": "2026-09-25T17:56:33+00:00",
@@ -1781,6 +1817,15 @@
   "qid": "Q5335944",
   "score": 1
  },
+ "Eden Choi": {
+  "checkedAt": "2026-10-15T01:14:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Eisa Davis": {
   "checkedAt": "2026-09-25T17:53:52+00:00",
   "description": "American playwright, actress, singer-songwriter (born 1971)",
@@ -1860,6 +1905,15 @@
  },
  "Encores You’re A": {
   "checkedAt": "2026-09-25T17:52:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Entertainment Community Fund": {
+  "checkedAt": "2026-10-15T01:14:54+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2636,6 +2690,15 @@
   "qid": null,
   "score": 0
  },
+ "Heated Rivalry": {
+  "checkedAt": "2026-10-15T01:14:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Heated Rivalry Pluribus": {
   "checkedAt": "2026-10-07T19:14:32+00:00",
   "description": null,
@@ -2764,6 +2827,15 @@
   "knownFor": [],
   "qid": "Q5997569",
   "score": 20
+ },
+ "Illusion Spectacular Now": {
+  "checkedAt": "2026-10-15T01:14:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Imaginary Invalid": {
   "checkedAt": "2026-09-26T01:13:42+00:00",
@@ -3374,6 +3446,15 @@
   "qid": null,
   "score": 0
  },
+ "Jordan Tyson": {
+  "checkedAt": "2026-10-15T01:14:46+00:00",
+  "description": "American basketball player (born 1995)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q100938900",
+  "score": 0
+ },
  "Jose Iglesias": {
   "checkedAt": "2026-09-26T16:53:55+00:00",
   "description": "Spanish football player/manager (1926–2007)",
@@ -3556,6 +3637,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Kathryn Hahn": {
+  "checkedAt": "2026-10-15T01:14:48+00:00",
+  "description": "American actress (born 1973)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q271986",
+  "score": 50
  },
  "Katie Rose Clarke": {
   "checkedAt": "2026-10-02T18:14:41+00:00",
@@ -4848,6 +4938,15 @@
   "qid": "Q231163",
   "score": 48
  },
+ "One Uneven": {
+  "checkedAt": "2026-10-15T01:14:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "One-night-only Bill Pay": {
   "checkedAt": "2026-09-25T17:55:39+00:00",
   "description": null,
@@ -5751,6 +5850,15 @@
   "qid": null,
   "score": 0
  },
+ "See Me Live": {
+  "checkedAt": "2026-10-15T01:14:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "See Sweet Family": {
   "checkedAt": "2026-10-02T18:15:11+00:00",
   "description": null,
@@ -5799,6 +5907,15 @@
   "qid": null,
   "score": 0
  },
+ "Shoshana Bean": {
+  "checkedAt": "2026-10-15T01:14:41+00:00",
+  "description": "American theater actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q530077",
+  "score": 8
+ },
  "Shows Adds Android": {
   "checkedAt": "2026-10-13T19:46:10+00:00",
   "description": null,
@@ -5819,6 +5936,15 @@
  },
  "Simply Be Together": {
   "checkedAt": "2026-09-25T17:48:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Singing Waiters": {
+  "checkedAt": "2026-10-15T01:14:52+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5898,6 +6024,15 @@
   "qid": null,
   "score": 0
  },
+ "Sound Than Fury": {
+  "checkedAt": "2026-10-15T01:14:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sparks Fly When": {
   "checkedAt": "2026-09-25T17:57:13+00:00",
   "description": null,
@@ -5918,6 +6053,15 @@
  },
  "Spelling Bee Take": {
   "checkedAt": "2026-10-11T17:55:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Spirit Day": {
+  "checkedAt": "2026-10-15T01:14:49+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6491,6 +6635,24 @@
  },
  "Twelfth Night": {
   "checkedAt": "2026-09-25T17:57:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Two Americas": {
+  "checkedAt": "2026-10-15T01:14:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Two Diners": {
+  "checkedAt": "2026-10-15T01:14:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
