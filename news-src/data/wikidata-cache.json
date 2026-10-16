@@ -244,6 +244,15 @@
   "qid": null,
   "score": 0
  },
+ "Anderson Cooper": {
+  "checkedAt": "2026-10-16T01:01:35+00:00",
+  "description": "American journalist (born 1967)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q316997",
+  "score": 41
+ },
  "Andrew Heinze": {
   "checkedAt": "2026-09-27T01:07:05+00:00",
   "description": null,
@@ -976,6 +985,15 @@
   "qid": null,
   "score": 0
  },
+ "Brooklyn Academy": {
+  "checkedAt": "2026-10-16T01:01:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Brought Him Back": {
   "checkedAt": "2026-10-07T19:14:15+00:00",
   "description": null,
@@ -1676,6 +1694,15 @@
   "qid": "Q450619",
   "score": 25
  },
+ "Diane Paulus-Directed Rhinoceros": {
+  "checkedAt": "2026-10-16T01:01:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Diego Rodriguez": {
   "checkedAt": "2026-09-25T17:53:53+00:00",
   "description": "Mexican mathematician and astronomer",
@@ -1883,6 +1910,15 @@
   "qid": "Q230209",
   "score": 51
  },
+ "Elliot Goldenthal": {
+  "checkedAt": "2026-10-16T01:01:48+00:00",
+  "description": "American composer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q264565",
+  "score": 30
+ },
  "Else Went": {
   "checkedAt": "2026-10-02T18:15:01+00:00",
   "description": "American playwright",
@@ -1957,6 +1993,15 @@
   "qid": "Q506141",
   "score": 8
  },
+ "Erotic Julie Taymor": {
+  "checkedAt": "2026-10-16T01:01:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ethan Hawke": {
   "checkedAt": "2026-10-07T19:14:20+00:00",
   "description": "American actor and writer (born 1970)",
@@ -2020,6 +2065,15 @@
   "qid": null,
   "score": 0
  },
+ "Exquisite Corpse": {
+  "checkedAt": "2026-10-16T01:01:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Fair Lady": {
   "checkedAt": "2026-10-09T18:40:59+00:00",
   "description": "German spy (1887–1940)",
@@ -2049,6 +2103,15 @@
  },
  "Favorite Tichina Arnold": {
   "checkedAt": "2026-10-13T19:46:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Fellow Travelers Opera": {
+  "checkedAt": "2026-10-16T01:01:43+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2355,6 +2418,15 @@
  },
  "Full List": {
   "checkedAt": "2026-10-07T19:13:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Full Monty": {
+  "checkedAt": "2026-10-16T01:01:33+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3455,6 +3527,18 @@
   "qid": "Q108077820",
   "score": 0
  },
+ "John Turturro": {
+  "checkedAt": "2026-10-16T01:01:29+00:00",
+  "description": "American actor (born 1957)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "The Big Lebowski",
+   "Barton Fink"
+  ],
+  "qid": "Q244234",
+  "score": 58
+ },
  "Johnny Galecki Left": {
   "checkedAt": "2026-10-07T19:14:14+00:00",
   "description": null,
@@ -3665,6 +3749,15 @@
   "qid": "Q232646",
   "score": 36
  },
+ "Julie Taymor": {
+  "checkedAt": "2026-10-16T01:01:47+00:00",
+  "description": "American film and theatre director (born 1952)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q240490",
+  "score": 29
+ },
  "Juliet Stevenson": {
   "checkedAt": "2026-09-25T17:51:41+00:00",
   "description": "English actor (born 1956)",
@@ -3763,6 +3856,18 @@
   "knownFor": [],
   "qid": "Q4328796",
   "score": 18
+ },
+ "Ken Burns": {
+  "checkedAt": "2026-10-16T01:01:36+00:00",
+  "description": "American documentarian and filmmaker (born 1953)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Brooklyn Bridge",
+   "The Statue of Liberty"
+  ],
+  "qid": "Q616886",
+  "score": 41
  },
  "Kendall Edwards": {
   "checkedAt": "2026-09-25T17:57:01+00:00",
@@ -4722,6 +4827,15 @@
   "qid": null,
   "score": 0
  },
+ "Moidah Manor": {
+  "checkedAt": "2026-10-16T01:01:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Mormon Becomes": {
   "checkedAt": "2026-09-25T19:53:50+00:00",
   "description": null,
@@ -5357,6 +5471,15 @@
   "qid": null,
   "score": 0
  },
+ "Post-Show Talkback": {
+  "checkedAt": "2026-10-16T01:01:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Prayer Circle": {
   "checkedAt": "2026-09-25T17:57:35+00:00",
   "description": null,
@@ -5623,6 +5746,15 @@
  },
  "Revisit Tony-Winning Role": {
   "checkedAt": "2026-10-07T02:08:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Rhinoceros Comes": {
+  "checkedAt": "2026-10-16T01:01:50+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6003,6 +6135,15 @@
   "qid": null,
   "score": 0
  },
+ "School Girls Answers": {
+  "checkedAt": "2026-10-16T01:01:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "School Girls Starts": {
   "checkedAt": "2026-09-25T17:56:53+00:00",
   "description": null,
@@ -6011,6 +6152,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Scott Bakula": {
+  "checkedAt": "2026-10-16T01:01:45+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q311699",
+  "score": 39
  },
  "Sea Wall": {
   "checkedAt": "2026-09-25T17:55:53+00:00",
@@ -6446,6 +6596,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Tatiana Maslany": {
+  "checkedAt": "2026-10-16T01:01:27+00:00",
+  "description": "Canadian actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7688099",
+  "score": 46
  },
  "Ted Lasso": {
   "checkedAt": "2026-09-25T17:51:55+00:00",

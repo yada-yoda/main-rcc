@@ -2,6 +2,314 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "5a114be7b3",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T21:58:40+00:00",
+   "published": "2026-10-15T21:58:40+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Here There Are Blueberries",
+   "title": "Anderson Cooper, Ken Burns among participants in Broadway’s ‘Here There Are Blueberries’ talkback series",
+   "quote": "Seven talkbacks with luminaries of history, journalism and advocacy are currently scheduled.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/GettyImages-2216184180.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Anderson Cooper",
+     "knownFor": "American journalist",
+     "score": 41,
+     "qid": "Q316997"
+    },
+    {
+     "name": "Ken Burns",
+     "knownFor": "Brooklyn Bridge, The Statue of Liberty",
+     "score": 41,
+     "qid": "Q616886"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/anderson-cooper-ken-burns-among-participants-in-broadways-here-there-are-blueberries-talkback-series/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "c78d18e712",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T21:18:34+00:00",
+   "published": "2026-10-15T21:18:34+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Julie Taymor and Elliot Goldenthal’s new musical sets New York world premiere",
+   "quote": "Titled “The Grand Delusion,” the new musical will play at BAM in spring 2027.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Taymor-Goldenthal.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Elliot Goldenthal",
+     "knownFor": "American composer",
+     "score": 30,
+     "qid": "Q264565"
+    },
+    {
+     "name": "Julie Taymor",
+     "knownFor": "American film and theatre director",
+     "score": 29,
+     "qid": "Q240490"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/julie-taymor-and-elliot-goldenthals-new-musical-sets-new-york-world-premiere/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "51b52d3f38",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T19:00:00+00:00",
+   "published": "2026-10-15T19:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Todd Haimes Theatre",
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Rhinoceros",
+   "title": "Tatiana Maslany, Tony Shalhoub & John Turturro Set For ‘Rhinoceros’ Broadway Revival This Spring",
+   "quote": "Emmy winners Tatiana Maslany and John Turturro and Tony winner Tony Shalhoub will take to the Broadway stage this spring in a Roundabout Theatre Company revival of Eugène Ionesco’s absurdist classic Rhinoceros, last seen on Broadway in 1961. To be directed by Diane Paulus, Rhinoceros will begin previews at Roundabout’…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/split-3-split-a-1000x667-1-2.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "John Turturro",
+     "knownFor": "The Big Lebowski, Barton Fink",
+     "score": 58,
+     "qid": "Q244234"
+    },
+    {
+     "name": "Tatiana Maslany",
+     "knownFor": "Canadian actress",
+     "score": 46,
+     "qid": "Q7688099"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGNCRWoyb0FlNEs2bHBpcHRXUkxka3IzQWRYR3BpdUFHU1JjdjBJLUVQTGVpM0xGWDFFMUVKSFFQRmZOdlhrSHVINVk3OHlnNExTNDBvblhRM3lGNFpPc1dXWlVPd1RHajhvNmExR3RydFhtYnRsc2kwaGhodGpMWTJkSTBRYjlCRTJrcGNrTTVDTlhaQ01qSmkzQm1mOVVyeWRqUmp0VQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/rhinoceros-broadway-tatiana-maslany-tony-shalhoub-john-turturro-1237158434/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "7dd14ad5f8",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T18:59:08+00:00",
+   "published": "2026-10-15T18:59:08+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Rhinoceros",
+   "title": "John Turturro, Tony Shalhoub, and Tatiana Maslany to Star on Broadway in Rhinoceros",
+   "quote": "The creative team for “Rhinoceros” includes scenic design by Riccardo Hernández, costume design by Anita Yavich, lighting design by Jen Schriever, and sound design by Fitz Patton.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143375-9.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "John Turturro",
+     "knownFor": "The Big Lebowski, Barton Fink",
+     "score": 58,
+     "qid": "Q244234"
+    },
+    {
+     "name": "Tatiana Maslany",
+     "knownFor": "Canadian actress",
+     "score": 46,
+     "qid": "Q7688099"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzlyeDJfcTRZa0lqV2VkRl8zemF6aUpJdGtvRmJJUHI0VnFUdjBfRU02N3hPWjgzWlNxMjZQTVRTUkk2eXM4UWlJanJqVU92TXY0WWY4anl1WE5ES0czcXdUa29PeGZFdnIwZkROUldnaGxfbDJmcGtONFotQXJiclBCMnNBR3JJMnJnbzJ5azZrRVhsVkRpQkVVaEtuZzZrdWFBTU5rd0JBaFRDNU40dS1xSGlHeURUdU54NTd0Y2k",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQXBjcXJybnd0Y1dBbE9GT0wtOUFsYzZmaWNST2p2QUdGUE5PcnVldFR3dVRQaTJuR05rcFI1SGFEX0ZydThzcEFFNEtRTE5EMXhsWnFCTzA2UDJLcTgxcUlEUS1WcllyYTQtZTg0clhMR21JUlJaRVBEWkRnQUlOWi11ZV9Bb2hLYzF5ZDNPb2pKYVFfd2ZFZkllNGRvVTh3QnRJZld2NlBoSXBZb3Q5ZmxiODR2aThNMEVXcTQ2bnJ4dHY5cFo2RHk4bkNtR0prNE1LWTNPUWNhU3Z1MmdKWUJzWk8xTXZGeFp1dTJfUDRJUmYyVE1v",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGJQVFQ3N0ZwZEFYUHVucndYQTBTb0VEVnVFOGlDSHgzZm1HM3ZncFFhbGdJRHZWR0phQzdfc0owUmxsdDJDT2RTOHd4WHI0d2w2SnRYLWVZR2djNXA4UFpfU25CUWlXRTNBa1A1blktTjBuOUlJWV9lVHhPdUFNd2ZKUjZFYXJLRDRPNVgzOW9KMnFzZ3lFdnVpVnNBSFlfSkNUTWM5VmtJTmV1c2lVN0ppVGY0azlrZjY5S1BKT1Zldi1PTUZwU2ZOMW9NMzgwcWNpSVZ0VQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/tony-shalhoub-john-turturro-and-tatiana-maslany-to-star-in-broadways-rhinoceros-as-the-full-monty-is-postponed/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "b40b20528a",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T17:38:01+00:00",
+   "published": "2026-10-15T17:38:01+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "opening",
+   "show": "The Grand Delusion",
+   "title": "Julie Taymor & Elliot Goldenthal's THE GRAND DELUSION and More Set for BAM Winter/Spring 2027 Season",
+   "quote": "​BAM has revealed its programming across dance, theater, opera, music, poetry, and more, from world premieres to cherished community traditions. From two singular visionaries of the stage, BAM's Winter/Spring 2027 season will bring the world premiere of Julie Taymor and Elliot Goldenthal's The Grand Delusion, an eroti…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-635ce7b9db123c12dc2a5da26fd92157.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Elliot Goldenthal",
+     "knownFor": "American composer",
+     "score": 30,
+     "qid": "Q264565"
+    },
+    {
+     "name": "Julie Taymor",
+     "knownFor": "American film and theatre director",
+     "score": 29,
+     "qid": "Q240490"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/THE-GRAND-DELUSION-World-Premiere-VOLLMOND-and-More-Set-for-BAM-WinterSpring-2027-Season-20261015",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a3c6a33d7f",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T16:42:00+00:00",
+   "published": "2026-10-15T16:42:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Anderson Cooper, Ken Burns, More Will Join Post-Show Talkback Series at Here There Are Blueberries on Broadway",
+   "quote": "Widening the Lens will feature special guests from the worlds of journalism, history, human rights, and faith.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Anderson-Cooper.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Anderson Cooper",
+     "knownFor": "American journalist",
+     "score": 41,
+     "qid": "Q316997"
+    },
+    {
+     "name": "Ken Burns",
+     "knownFor": "Brooklyn Bridge, The Statue of Liberty",
+     "score": 41,
+     "qid": "Q616886"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/anderson-cooper-ken-burns-more-will-join-post-show-talkback-series-at-here-there-are-blueberries-on-broadway",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "65a8baf632",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T14:53:04+00:00",
+   "published": "2026-10-15T14:53:04+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "Scott Bakula Joins LA Opera's Candide",
+   "quote": "The Quantum Leap star joins the previously-announced Patti LuPone in Bernstein's comic opera.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Scott-Bakula-credit-Randee-St.-Nicholas.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Scott Bakula",
+     "knownFor": "American actor",
+     "score": 39,
+     "qid": "Q311699"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/scott-bakula-joins-la-operas-candide",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "458a015b68",
    "priority": 2,
    "watched": [],
@@ -43,17 +351,17 @@
    "watched": [],
    "firstSeen": "2026-10-15T13:00:10+00:00",
    "published": "2026-10-15T13:00:10+00:00",
-   "city": null,
-   "tier": null,
+   "city": "New York",
+   "tier": "Broadway",
    "venue": null,
    "placedBy": "none",
    "type": "casting",
    "show": "Just in Time",
    "title": "Sadie Dickerson and Tristen Buettel to star as Sandra Dee in 'Just in Time'",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
+   "quote": "Current Sandra Dee Carrie St. Louis plays her final performance on October 18.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143356-9.jpg",
+   "imageCredit": "Broadway News",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -69,9 +377,14 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkFtM200MW5ZY0JQZi12UUIyNmxmNm96M0lhS08wY29DSjFlX1Bvek15bTFSUnlHM1JvN0xBLTZBNjN0WlV5cTRueTlUYWdleldKZnpOYUZmUVVvQ3M3MWdQdjlxQzczNkc4ZjNqNjJFeTBBdFpiNlM2YXpsQzdSYzdBS1JDeWpaUjBSSkVUajNhN1NZbG5CVk9hUmZaaG4yY1hlWnYtLWdzVlFjcFZCdWI2LU1qeXlncjhyb1BlZ1pWMjEwNmc",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/sadie-dickerson-returns-to-broadways-just-in-time-following-tristen-buettel-as-sandra-dee/",
+     "feed": "broadway-news"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "aa2447de86",
@@ -176,7 +489,7 @@
     {
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFaM2FoQ1JZZW5nc3pWcmFPYzNMWDZpbm5wc3YtZkZaZHpmV3pUUUlxa0lka2ZOVmlMZXQ0ZldkNm1EOG53U1p3SnZnbFBpSVBxcTdjdl81eVlManp2elh2YTU5blVMRWhMeGFaV0JyY0lwRy1XNnJvaDFLY2Y3V0RUTWJQLXBrVXJkSzJIaUx0Qk1qZ1ZiRmF6OXpRQnNTR29vRmpzalZnQ2h0bXlKVGRLRmpJSmNieW1xaEt3",
-     "feed": "gn-offbway-casting"
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -489,11 +802,6 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/three-days-of-rain-broadway-opening-date-1237153700/",
      "feed": "deadline-theater"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/broadways-three-days-of-rain-sets-longacre-theatre-dates-and-announces-creative-team/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -788,11 +1096,6 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGJWUDhTNDRRY3pxZm5uY3BEVmFrbFE0QmhpOVZBWnZiNjlEUTlldVB2OFEtQXg2MjVubV9UUFVLNHR4Ym1pXzZ4cE5XZ3BtQ01nQlc2ZUEwSnIzbDFWX0Zadi1IQWRUeElZMmhsWDZXeTBTN1dQNXhPVzVreHRDSENXdlUtQQ",
      "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/view-from-the-bridge-off-broadway-cast-1237150022/",
-     "feed": "deadline-theater"
     }
    ],
    "status": "review"
@@ -1914,47 +2217,6 @@
    "status": "review"
   },
   {
-   "id": "c6e59b3625",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T07:00:00+00:00",
-   "published": "2026-10-02T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Cast Announced for Dolly Parton Musical’s Broadway Run in New York",
-   "quote": "",
-   "quoteSource": "Williamson Source",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Williamson Source",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzJfQlM1RWVrQnhzb1VTclNUYnM1aUpTc1RvU2RQUnlpVmVXWkZKa1REX0FaQ1dCcHZmNjdsTm90S251UnlJQW50MEZLNERlX21EVjhyZnVVVXN1Q1AtTEtGV2hYX3BXNEdWTzJNTU5wVHIwbllwN1F0akVObDNSbVlydVdfT0ZEZzhKbVVmOXJWY0pBZW5UV0RBNA",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "a9f7fce270",
    "priority": 2,
    "watched": [],
@@ -1989,6 +2251,42 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "c6e59b3625",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-02T07:00:00+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Dolly Parton's Broadway Musical Unveils Five Actors She Chose to Star in the Upcoming Show",
+   "quote": "",
+   "quoteSource": "Just Jared",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "fb5026fbf0",
@@ -2990,6 +3288,180 @@
    "status": "published"
   },
   {
+   "id": "dd9f303f49",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T20:31:51+00:00",
+   "published": "2026-10-15T20:31:51+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "School Girls",
+   "title": "Broadway’s ‘School Girls’ launches collaboration with Smithsonian museum",
+   "quote": "The Smithsonian National Museum of African American History and Culture will present post-show talkbacks and develop educational resources for audiences.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/0127---Dene--e-Benton-and-Jasmine-Amy-Rogers-in-School-Girls_-Or--The-African-Mean-Girls-Play---Matthew-Murphy-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadways-school-girls-launches-collaboration-with-smithsonian-museum/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "1a88158431",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T20:00:23+00:00",
+   "published": "2026-10-15T20:00:23+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Todd Haimes Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Rhinoceros",
+   "title": "RHINOCEROS to Open in Roundabout's Broadway Season; THE FULL MONTY Postponed",
+   "quote": "Rhinoceros by Eugène Ionesco and directed by Diane Paulus will join the 2026-2027 Roundabout Theatre Company season, beginning performances on Broadway this spring at the Todd Haimes Theatre. The production’s initial casting includes Emmy Award winner Tatiana Maslany as “Daisy”, Tony Award winner Tony Shalhoub as “Jea…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-015b975a8a88b3f2087416a90568c95f.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/RHINOCEROS-to-Open-in-Roundabouts-Broadway-Season-THE-FULL-MONTY-Postponed-20261015",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "4b2908fbfe",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T19:00:05+00:00",
+   "published": "2026-10-15T19:00:05+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Full Monty",
+   "title": "‘The Full Monty’ Is Postponed as ‘Rhinoceros’ Comes to Broadway",
+   "quote": "John Turturro, Tatiana Maslany and Tony Shalhoub will star in a spring production of the satirical Ionesco drama.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/15/arts/15cul-monty-rhinoceros-grid/15cul-monty-rhinoceros-grid-mediumSquareAt3X.jpg",
+   "imageCredit": "From left: John Macdougall/Agence France-Presse — Getty Images; Andy Kropa/Invision, via Associated Press; Pascal Le Segretain/Getty Images",
+   "imageWidth": 1648,
+   "imageHeight": 1648,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/10/15/theater/full-monty-postponed-rhinoceros-broadway.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "9d6790587b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T18:39:18+00:00",
+   "published": "2026-10-15T18:39:18+00:00",
+   "city": "Chicago",
+   "tier": "Chicago storefront",
+   "venue": "The Annoyance Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Mayhem and malarkey at Moidah Manor",
+   "quote": "",
+   "quoteSource": "Chicago Reader",
+   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Moidah-Tech_026-scaled-e1792034856963.jpg?fit=1024%2C819&ssl=1",
+   "imageCredit": "Chicago Reader",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Chicago Reader",
+     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/murder-at-moidah-manor-annoyance-theatre/",
+     "feed": "chicago-reader"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "72bd923725",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T18:16:38+00:00",
+   "published": "2026-10-15T18:16:38+00:00",
+   "city": "Chicago",
+   "tier": "Chicago storefront",
+   "venue": "Theater Wit",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Vladimir needs to get beyond headlines to find the drama",
+   "quote": "The ensemble of Vladimir at Shattered Globe Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Vladimir-11.-Photo-by-Michael-Brosilow-e1792036394539.jpg?fit=780%2C460&ssl=1\" /> Vladimir , through 11/14, Shattered Globe Theatre at Theater Wit The post Vladimir needs to get beyond…",
+   "quoteSource": "Chicago Reader",
+   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/Vladimir-11.-Photo-by-Michael-Brosilow-e1792036394539.jpg?fit=1024%2C604&ssl=1",
+   "imageCredit": "Chicago Reader",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Chicago Reader",
+     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/vladimir-shattered-globe-theatre/",
+     "feed": "chicago-reader"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "0bee6e166a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T17:45:37+00:00",
+   "published": "2026-10-15T17:45:37+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": "Steppenwolf Theatre Company",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "House of the Exquisite Corpse VI: Lullabies welcomes us to the nightmare",
+   "quote": "House of the Exquisite Corpse VI: Lullabies at Rough House Puppet Arts \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/ExquisiteCorpseVI_Set_credit-Greg-Inda-e1792086022289.jpg?fit=780%2C520&ssl=1\" /> House of the Exquisite Corpse VI: Lullabies , through 11/1, Rough House Puppet Arts…",
+   "quoteSource": "Chicago Reader",
+   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/ExquisiteCorpseVI_Set_credit-Greg-Inda-e1792086022289.jpg?fit=1024%2C683&ssl=1",
+   "imageCredit": "Chicago Reader",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Chicago Reader",
+     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/house-of-the-exquisite-corpse-vi-lullabies-rough-house-puppet-arts/",
+     "feed": "chicago-reader"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "5e045449b5",
    "priority": 3,
    "watched": [],
@@ -3017,6 +3489,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "eba36a5dc6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T17:20:06+00:00",
+   "published": "2026-10-15T17:20:06+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Imitation Of Life Off-Broadway Announces Complete Cast",
+   "quote": "",
+   "quoteSource": "Broadway Direct",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWNrbm9hbmtMd3UyNm82Nm1TNTNRYVJJejNfODdYeEFzdEFIbzl5Q3VUZnR6dlZ5d0NCLUNlZk1LZS11aWcxQVJSR2EwQ3VsYWhmWWVacDVTX1VkZkFHUDNrS0ROUHEzVEllenQ5SGd2dVBxa0loc3lxazJZYTNyZ2tzWE9qQVhFYXc",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "c39c6ef9be",
@@ -3106,6 +3607,93 @@
    "status": "review"
   },
   {
+   "id": "603a20f1e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T19:30:00+00:00",
+   "published": "2026-10-15T16:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
+   "quote": "Keep track of the shows booked into each Broadway theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-real-estate",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "828ae4bb63",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T15:35:00+00:00",
+   "published": "2026-10-15T15:35:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "Brooklyn Academy of Music",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": "Erotic",
+   "title": "Brooklyn Academy of Music to Premiere 'Erotic' Julie Taymor Musical and Fellow Travelers Opera",
+   "quote": "The performance venue has announced its 2026–2027 season.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/3a68b04c8560c9b7e7bb01c58fd2b586-julie-taymor-sardis-portrait-2017-17-hr.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/brooklyn-academy-of-music-to-premiere-erotic-julie-taymor-musical-and-fellow-travelers-opera",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "fcb28e0917",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T14:59:00+00:00",
+   "published": "2026-10-15T14:59:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Diane Paulus-Directed Rhinoceros Replaces The Full Monty Revival in Roundabout Broadway Season",
+   "quote": "The production has now been postponed indefinitely due to cast availability.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Tatiana-Maslany-Tony-Shalhoub-and-John-Turturro.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/diane-paulus-directed-rhinoceros-replaces-the-full-monty-revival-in-roundabout-broadway-season",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "13d4ab78be",
    "priority": 3,
    "watched": [],
@@ -3162,6 +3750,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "cb8c040ab1",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T10:43:00+00:00",
+   "published": "2026-10-15T14:43:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "John Legend-Lynn Nottage Musical Imitation of Life Finds Full Casting",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk3WmZBSml3ZUJ0b3J0MkFON0NQRFR1WWxaRlBmTm02V3lKZm1VUkFGa3ZodFhQQUdrekQ0cmVvSUhKWllTRkZFWmhaRmxLVk5Jb2QzSlMzR3I5SWNMcVJNdnRQY2g5RC03cEVleVBWVEtWdnV6TkFSakJYNHZ1bzNCZGNrSm56bUVrUXFsQ3BJbXpDWmsxZFR2aXNnMlU",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "08d5d91b66",
@@ -3309,69 +3926,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/three-broadway-costume-designers-trace-their-favorite-technological-advancements/",
      "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "cb8c040ab1",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-15T10:43:00+00:00",
-   "published": "2026-10-15T10:43:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "John Legend-Lynn Nottage Musical Imitation of Life Finds Full Casting",
-   "quote": "See who's joining previously announced stars Adrienne Warren, Jessica Vosk, and more at Off-Broadway's The Shed.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/John-Legend-and-Lynn-Nottage.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk3WmZBSml3ZUJ0b3J0MkFON0NQRFR1WWxaRlBmTm02V3lKZm1VUkFGa3ZodFhQQUdrekQ0cmVvSUhKWllTRkZFWmhaRmxLVk5Jb2QzSlMzR3I5SWNMcVJNdnRQY2g5RC03cEVleVBWVEtWdnV6TkFSakJYNHZ1bzNCZGNrSm56bUVrUXFsQ3BJbXpDWmsxZFR2aXNnMlU",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/john-legend-lynn-nottage-musical-imitation-of-life-finds-full-casting",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f569ad4d83",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-15T10:29:00+00:00",
-   "published": "2026-10-15T10:29:00+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "The Second City",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Megasquirt: Fully Loaded Sets NYC, London Bows",
-   "quote": "Sam Pinkleton and George Strus are producing the Edinburgh Fringe favorite, from Second City alums Ashley Blair and Drew Reilly.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/some_400_c_41_45250_143006_318787_000084070016.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/megasquirt-fully-loaded-sets-nyc-london-bows",
-     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3701,6 +4255,64 @@
    "status": "published"
   },
   {
+   "id": "22c06e86be",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-14T20:22:18+00:00",
+   "published": "2026-10-14T20:22:18+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "School Girls",
+   "title": "The Broadway Cast Of 'School Girls' Answers Real Pageant Questions",
+   "quote": "",
+   "quoteSource": "Bustle",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Bustle",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0lJRkNmS3puOWZtRVZxNTRGd2ROSWZ6V0RrbXE4dy1DRWhBSUkwamprR2tqaTBMN2ZPbFJDLTFySmlBZC1yWHhwTEp6Q2sxV1MwVFJXb0dVYTJiMjI5SGJyT25ZR3VVbjQ5bDh3TzZhc24zMC1vZjRYejR1RWJYVUR1WnFITHVER1RoaGRkWjAweTg",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9459293b5c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-30T20:59:54+00:00",
+   "published": "2026-10-14T19:54:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Titaniqué",
+   "title": "‘Titaniqué’ Announces New Casting for Limited Broadway Engagement",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2IxQXhqTTBWeFFXOWF2ZXlCQlpoQ1RWWVY2R0IzOUdjVlRjc2ZRbjRWd01UZk4tRTlwamVndmJ1MXF2MXdQaXNybkFCa2toOEdHZm1XWERpR1NQVzlFQmZtdzZXOFZBVnZXRllUejVjREdxdGFyNUk5MHpaS1BmT19MNFRBXzk4ajFxcVZEVFhDTDRJZm9CWTRxRTFlS1FD",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "4a88080262",
    "priority": 3,
    "watched": [],
@@ -3967,6 +4579,35 @@
    "status": "published"
   },
   {
+   "id": "2e92c0a4e5",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-14T15:21:02+00:00",
+   "published": "2026-10-14T15:21:02+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Juliet",
+   "title": "Watch Cyrus Veyssi's First Bow in & JULIET on Broadway",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazdUZXc4aDBXcjJrZWg3bHhKVWJXUlpHYVpDWHdEX254T21UTUtsMHpjaWhRRDZxM1J4YzV3Tnloam5faE9kdjlrazBxX0FzNGVTb3BsNFJzd1RoTXdkeGx3SzBCaUl4VGw0eVFlZC1teTNHR1pFSXIzaXNGSmlHZnVLbGhPOXlqUkJDSUpMaUtSdFIyNkozUmwwUno",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "4f73a5fdca",
    "priority": 3,
    "watched": [],
@@ -4112,35 +4753,6 @@
    "status": "review"
   },
   {
-   "id": "9b414dd952",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T07:00:00+00:00",
-   "published": "2026-10-14T12:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Schedule of Upcoming Off-Broadway Shows",
-   "quote": "Due to the expansive nature of Off-Broadway, this list is not comprehensive.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/off-broadway_upcoming_2025-10-07-153008_zxgv.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/schedule-of-upcoming-off-broadway-shows-2",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "836cabfcc2",
    "priority": 3,
    "watched": [],
@@ -4165,6 +4777,35 @@
      "name": "Newcity Stage",
      "url": "https://www.newcitystage.com/2026/10/14/benvenuto-don-giovanni/",
      "feed": "newcity-stage"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9b414dd952",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-22T07:00:00+00:00",
+   "published": "2026-10-14T12:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Schedule of Upcoming Off-Broadway Shows",
+   "quote": "Due to the expansive nature of Off-Broadway, this list is not comprehensive.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/off-broadway_upcoming_2025-10-07-153008_zxgv.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/schedule-of-upcoming-off-broadway-shows-2",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -4668,40 +5309,6 @@
    "status": "review"
   },
   {
-   "id": "989b51386b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T17:30:35+00:00",
-   "published": "2026-10-13T18:38:05+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "& Juliet",
-   "title": "Tichina Arnold makes Broadway debut in ‘& Juliet’ as James Monroe Iglehart returns",
-   "quote": "Current cast members Jeannette Bayardelle and Joey Fatone will play their final performances on November 1.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143333-13.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/tichina-arnold-makes-broadway-debut-in-juliet-as-james-monroe-iglehart-returns/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "dde64bd1dc",
    "priority": 3,
    "watched": [],
@@ -4710,7 +5317,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Booth Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": null,
    "show": "Downstate",
    "title": "Bruce Norris’ ‘Downstate’ postpones first Broadway preview due to illness",
@@ -4874,6 +5481,40 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "989b51386b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T17:30:35+00:00",
+   "published": "2026-10-13T16:30:35+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "& Juliet",
+   "title": "Tichina Arnold makes Broadway debut in ‘& Juliet’ as James Monroe Iglehart returns",
+   "quote": "",
+   "quoteSource": "Broadway News",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2E3TTJYNHhoX3VxeXpmQ2hXYW5reGtzQ2g0XzduOFU2NS1yWW8xdENQanoxN3I2MXJ3WEl5bmpGYjgwUzNlMnNzU1VQS1k3NWtudWpNLUdfVTgzSzAxRFZVT3RGa2RTTFpWTWJ0WWhBeHNBbWVlMC1OTTZCa0RVZ2RYTkpudUthanpVc2tkbkh4ZWVBOUhDOTM4ME83Wnk0ZTdONnoxM0xVRk00THNpU2lOcmpsMTFRY2hKamI5WGp0ZFQ0",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "f978d1f90f",
@@ -5093,8 +5734,8 @@
    "title": "Reece Weaver, Dallas Cowboys Cheerleaders Breakout Star, Extends Role in Broadway’s ‘Chicago’ (Exclusive)",
    "quote": "Weaver, who became a fan favorite on Netflix’s 'America’s Sweethearts: Dallas Cowboys Cheerleaders,' will continue in her role as Roxie Hart for two more weeks.",
    "quoteSource": "The Hollywood Reporter",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/142788-16.jpg",
-   "imageCredit": "Broadway News",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -5103,11 +5744,6 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/reece-weaver-dallas-cowboys-cheerleaders-chicago-extension-1236728514/",
      "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/reece-weaver-extends-her-broadway-run-in-chicago-for-a-second-and-final-time/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -5253,35 +5889,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/what-broadway-can-learn-from-a-potentially-bad-cup-of-coffee/",
      "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "603a20f1e0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T19:30:00+00:00",
-   "published": "2026-10-13T10:40:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
-   "quote": "Keep track of the shows booked into each Broadway theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-real-estate",
-     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -5809,35 +6416,6 @@
      "name": "IMDb",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yQThMNzNNZjltUlc1T2RaZ3lMTnlaYjlNU2lOTTRycnNPdW4xR1FwRE1sOER4QlAzM1JnQ0hCenVlWEQwZHJGejk1WUxrTFZhcERBcUl6d0h4NGJhcmVYaUwtMXVreWZjTFE",
      "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "9459293b5c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-30T20:59:54+00:00",
-   "published": "2026-10-09T23:18:41+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Titaniqué",
-   "title": "‘Titaniqué’ Announces New Casting for Limited Broadway Engagement",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2IxQXhqTTBWeFFXOWF2ZXlCQlpoQ1RWWVY2R0IzOUdjVlRjc2ZRbjRWd01UZk4tRTlwamVndmJ1MXF2MXdQaXNybkFCa2toOEdHZm1XWERpR1NQVzlFQmZtdzZXOFZBVnZXRllUejVjREdxdGFyNUk5MHpaS1BmT19MNFRBXzk4ajFxcVZEVFhDTDRJZm9CWTRxRTFlS1FD",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -10401,6 +10979,11 @@
      "name": "Dolly Parton Official Website",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWw1VHA3Q1pmSG5MbVU5UERBa0ZjUjN5amo5U2IxQkprWkREdUUtdkszbnBfMS1LZC16cm9uSkNxdnc2VF9TOGZiZGUzMHIyUG0yQzUwOFdZN0hZcHRlN21ZbEo4N29xRnJuWWlhSVU4QUJqLTBaT3F4V09UTmJtWEV6ZXV1V3V0Nzlva2xnajRIaGxuSWZobDl6dHpMc0YxUXlhWQ",
      "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Dolly Parton Official Website",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3FaVGJfdkY0WjYtNzg4T3p5RVlWNlVfTlM4NzVKMjJUZW5HYzVXanhlTW50RlVZY3Y0WGg2NkhodFJLOTVwT0VhRmd6a1FzTGRkeTUzVmtYdUx1OUNWd1puWjV0Y2ltWXZnalBSNURXd3pCbnJ1ZHJlYk01bmFFMlg5X0dqa3VsTGthMUtxOVZvVWFWWjQ2aGkyYXVNWjRfNnZMZ0xFMFVhdV80anBQbENONHBrUQ",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -13561,147 +14144,6 @@
    "status": "review"
   },
   {
-   "id": "00e14e6dd9",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T22:15:54+00:00",
-   "published": "2026-09-24T22:15:54+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Chicago Shakespeare Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Play On! Burns Down Chicago Shakespeare Theater",
-   "quote": "Photo by Kyle Flubaker Somewhere in the middle of Play On!, Sheldon Epp’s brilliant reimagining of Twelfth Night, now onstage at Chicago […]",
-   "quoteSource": "Chicago Onstage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Onstage",
-     "url": "https://www.chicagoonstage.com/play-on-burns-down-chicago-shakespeare-theater/",
-     "feed": "chicago-onstage"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "2213557228",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T20:36:15+00:00",
-   "published": "2026-09-24T20:36:15+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "opening",
-   "show": "Broadway Schnacks",
-   "title": "Exclusive: Sophie Carmen-Jones Sits Down at Schmackary's For BROADWAY SCHNACKS",
-   "quote": "Broadway and West End darling Sophie Carmen-Jones joins Zachary Schmahl at the Schmackary's shop for a brand new edition of Broadway Schnacks. The new video also features a special cameo by some of the biggest names on Broadway!",
-   "quoteSource": "BroadwayWorld",
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Exclusive-Sophie-Carmen-Jones-Sits-Down-at-Schmackarys-For-BROADWAY-SCHNACKS-20260924",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a81ff71c20",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T20:15:00+00:00",
-   "published": "2026-09-24T20:15:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Jason Isaacs Praises Harry Potter Son Tom Felton for Bringing Draco Malfoy to Broadway in Sweet 39th Birthday Tribute",
-   "quote": "",
-   "quoteSource": "People",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY05qWmxCS1loRW9NTVJSODJ1VUdEZzM0ZWhyWGtqSXZjelJhRmVvcU56b1VxZTVza0tLdkljVXl3UVVjNWFIdFRQNi1iOGhucWtLeFZ1NU52TTVLY25kbkctdTFkOUY2azNtMjEtT0RjQkhRX2ZsRnBsbW8wX3VvNHRxMFMzMXVNQWtyRnhhM3FuV0hudXpabHk4Y195Y3A1UGk5OWNWbGEzSDZXVGVYM1dMQ0MxTm0tdl81WFVCVFVvcVBXVXQxYnh3dDNrVHV5SG9jVkY5V1JtREcyN3c",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "a5bd18d43f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T19:08:31+00:00",
-   "published": "2026-09-24T19:08:31+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Rags",
-   "title": "Complete Cast Set for RAGS Benefit Concerts Starring Judy Kuhn and More",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHVqRDF5WE9hdnJWVlpaZm9id19kVDVOeEk4b3pXck5jSWNmTFVrOVUyUjFKdC0yUzF1OWNVUFFoeVRvbklSUHNwTERLRUxVVDE1VGd1T2JNSzhoUUlvelBpRFI5TTVlaVhDQmJaMmxVbHB5MUI0aWhtbVZXYW5HOGJQTjc4Q2NLWVZSVlZPN1lVMm9ZeEEzbHJfS2hBbXFNQXctN09USXZ0Vmh6Q2phZTViQ0pVbTNUV2c",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "a49d1d53c2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T18:45:39+00:00",
-   "published": "2026-09-24T18:45:39+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Steppenwolf Theatre Company",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": "Adirondack Chair Circle",
-   "title": "Katrina Lenk and More to Star in ADIRONDACK CHAIR CIRCLE World Premiere at Steppenwolf Theatre",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYWlQXy12TjVsZFRCNkNrX1hyYU5qV3E5cDRFdEZsU0hqVExoQk1ZSnc4UmxmOXNnN3NXTko3VDhkNkVrM2VkYVczZmpFV1NPRDBfd2lWTkswUjZjMHg5OHlmXzlIVWFxZ1RwMzJHd1pLdVdQSnhZTFZYZmtqR3FzM2Q0MDYzUzdtdHZ5N3dNcHVZTkpNakF3Z1l1b1pFSXZ5WWRYMzRENTJnaGRVUzFSZmczZFhXNWhjYzZDekJMVzRsX1B2eVpUaHI1QjdyUC11LWhfOVpoOFlFNkFMLU1zSFI2SQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "e2165cbe14",
    "priority": 3,
    "watched": [],
@@ -13842,64 +14284,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGFCdUZ4cFlmaXhpWnRhalAyN3VudHR0SmdxSmpuSWNSdEF3eEtYYzdWd3ZmRnF4WENVWGI3MklLRHpGa0pqX0MwdG1fTDZYRGN1UExEQXBSaWxwOUVYdDZtT2d3d3RzaG4tMDBXZ2hSR1d6cFdTeU03UVA5MkFKcTQ1bkVwcUN4YVlFSk12U01FX2M0UlVqSjZXZ3ltbkFickxrUmdZaU1FWXdTcmowWGE1d2dCbkJrYzVqTm9xcDJjZw",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f959266e1c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T18:15:31+00:00",
-   "published": "2026-09-23T18:15:31+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Northlight Theatre",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "The Front Page is a rollicking love letter to Chicago theater and journalism",
-   "quote": "Kelan Smith (L), Mark David Kaplan, Joe Dempsey, Guy Van Swearingen, and Kate Fry in The Front Page at Northlight Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Kelan-Smith-Mark-David-Kaplan-Joe-Dempsey-Guy-Van-Swearingen-Kate-Fry-1-scaled-e1790186696517.jpg?fit=780%2C520&ssl…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/Kelan-Smith-Mark-David-Kaplan-Joe-Dempsey-Guy-Van-Swearingen-Kate-Fry-1-scaled-e1790186696517.jpg?fit=1024%2C683&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/front-page-northlight-theatre/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "c1e74c116d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T17:41:49+00:00",
-   "published": "2026-09-23T17:41:49+00:00",
-   "city": "Chicago",
-   "tier": "Chicago storefront",
-   "venue": "Redtwist Theatre",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Prayer Circle looks at the power of faith turned deadly",
-   "quote": "The ensemble of Prayer Circle at Redtwist Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/PrayerCircle_RedtwistTheatre_PhotoBy_Tom-McGrath_TCMCG_Photography_5-e1790184978300.jpg?fit=780%2C520&ssl=1\" /> Prayer Circle , through 11/8 at Redtwist Theatre The post Prayer Circle loo…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/09/PrayerCircle_RedtwistTheatre_PhotoBy_Tom-McGrath_TCMCG_Photography_5-e1790184978300.jpg?fit=1024%2C683&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/prayer-circle-redtwist-theatre/",
-     "feed": "chicago-reader"
     }
    ],
    "status": "review"
