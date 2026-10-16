@@ -98,6 +98,15 @@
   "qid": null,
   "score": 0
  },
+ "Ailing J Harrison": {
+  "checkedAt": "2026-10-16T17:12:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ailing Wayne Brady": {
   "checkedAt": "2026-09-29T18:29:20+00:00",
   "description": null,
@@ -208,6 +217,15 @@
   "qid": "Q102439922",
   "score": 1
  },
+ "Amanda Jenks": {
+  "checkedAt": "2026-10-16T17:12:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Amanda Seyfried Remembers": {
   "checkedAt": "2026-10-06T18:48:41+00:00",
   "description": null,
@@ -225,6 +243,15 @@
   "knownFor": [],
   "qid": "Q120614847",
   "score": 0
+ },
+ "Amir Arison": {
+  "checkedAt": "2026-10-16T17:11:44+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16150323",
+  "score": 20
  },
  "Among Line-Up": {
   "checkedAt": "2026-10-08T19:10:50+00:00",
@@ -734,6 +761,15 @@
   "qid": null,
   "score": 0
  },
+ "Blaize Adler-Ivanbrook": {
+  "checkedAt": "2026-10-16T17:11:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Blue Beetle": {
   "checkedAt": "2026-09-30T18:17:48+00:00",
   "description": null,
@@ -985,6 +1021,15 @@
   "qid": null,
   "score": 0
  },
+ "BroadwayWorld Store": {
+  "checkedAt": "2026-10-16T17:12:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Brooklyn Academy": {
   "checkedAt": "2026-10-16T01:01:40+00:00",
   "description": null,
@@ -1178,6 +1223,15 @@
   "qid": null,
   "score": 0
  },
+ "Catherine Tate": {
+  "checkedAt": "2026-10-16T17:12:10+00:00",
+  "description": "English comedian, actress and writer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q254766",
+  "score": 39
+ },
  "Celebrate Hispanic Heritage": {
   "checkedAt": "2026-09-30T01:52:37+00:00",
   "description": null,
@@ -1225,6 +1279,15 @@
   ],
   "qid": "Q230943",
   "score": 44
+ },
+ "Chloe Lukasiak": {
+  "checkedAt": "2026-10-16T17:12:14+00:00",
+  "description": "American actress, dancer and model",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q18325614",
+  "score": 12
  },
  "Choreograph La La": {
   "checkedAt": "2026-10-14T17:49:11+00:00",
@@ -1498,6 +1561,15 @@
  },
  "Cursed Child Rebounds": {
   "checkedAt": "2026-09-30T01:52:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Cynthia Erivo-Led": {
+  "checkedAt": "2026-10-16T17:12:11+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1814,6 +1886,15 @@
   "qid": null,
   "score": 0
  },
+ "Dorothy Kilgallen": {
+  "checkedAt": "2026-10-16T17:11:42+00:00",
+  "description": "American journalist, television personality (1913-1965)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q273177",
+  "score": 19
+ },
  "Downstate Delays": {
   "checkedAt": "2026-10-12T21:35:01+00:00",
   "description": null,
@@ -2110,6 +2191,15 @@
   "qid": null,
   "score": 0
  },
+ "Feature Christiani Pitts": {
+  "checkedAt": "2026-10-16T17:12:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Fellow Travelers Opera": {
   "checkedAt": "2026-10-16T01:01:43+00:00",
   "description": null,
@@ -2256,6 +2346,15 @@
  },
  "Fly Away": {
   "checkedAt": "2026-09-28T20:01:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Following Medical Leave": {
+  "checkedAt": "2026-10-16T17:11:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2490,6 +2589,15 @@
  },
  "Gates Foundation": {
   "checkedAt": "2026-10-06T18:49:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Gender-Bending Roles": {
+  "checkedAt": "2026-10-16T17:11:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2776,6 +2884,24 @@
   "qid": "Q19665738",
   "score": 23
  },
+ "Harrison Ghee": {
+  "checkedAt": "2026-10-16T17:11:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Harrison Ghee Exits": {
+  "checkedAt": "2026-10-16T17:11:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Harry Hamlin": {
   "checkedAt": "2026-10-01T18:43:23+00:00",
   "description": "American actor",
@@ -2818,6 +2944,15 @@
  },
  "Hayley Atwell-Led Much": {
   "checkedAt": "2026-10-14T01:37:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Health Recovery": {
+  "checkedAt": "2026-10-16T17:11:53+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2872,6 +3007,15 @@
  },
  "Honor Thomas Kail": {
   "checkedAt": "2026-09-25T17:47:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Horror-Filled Labyrinth": {
+  "checkedAt": "2026-10-16T17:12:20+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3428,6 +3572,15 @@
   "qid": null,
   "score": 0
  },
+ "Joanna Ampil": {
+  "checkedAt": "2026-10-16T17:11:47+00:00",
+  "description": "Musical theatre actress from the Philippines",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6205766",
+  "score": 7
+ },
  "Jocelyn Bioh": {
   "checkedAt": "2026-09-25T17:55:03+00:00",
   "description": "Ghanaian-American writer and actor",
@@ -3539,6 +3692,15 @@
   "qid": "Q244234",
   "score": 58
  },
+ "John-Andrew Morrison": {
+  "checkedAt": "2026-10-16T17:12:18+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q125763269",
+  "score": 0
+ },
  "Johnny Galecki Left": {
   "checkedAt": "2026-10-07T19:14:14+00:00",
   "description": null,
@@ -3583,6 +3745,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Jonathan Groff": {
+  "checkedAt": "2026-10-16T17:12:06+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q556644",
+  "score": 43
  },
  "Jonathan Groff Dazzles": {
   "checkedAt": "2026-10-07T19:14:28+00:00",
@@ -3785,6 +3956,15 @@
   "qid": "Q110379",
   "score": 42
  },
+ "Kailey Boyle": {
+  "checkedAt": "2026-10-16T17:11:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Kara Young": {
   "checkedAt": "2026-10-13T19:46:22+00:00",
   "description": "American model and actress",
@@ -3976,6 +4156,18 @@
   "knownFor": [],
   "qid": "Q59811996",
   "score": 3
+ },
+ "Kylie Minogue": {
+  "checkedAt": "2026-10-16T17:12:07+00:00",
+  "description": "Australian singer and actress (born 1968)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Neighbours",
+   "I Should Be So Lucky"
+  ],
+  "qid": "Q11998",
+  "score": 123
  },
  "La MaMa": {
   "checkedAt": "2026-10-01T18:43:47+00:00",
@@ -4436,6 +4628,15 @@
   ],
   "qid": "Q541910",
   "score": 16
+ },
+ "Madame Giry": {
+  "checkedAt": "2026-10-16T17:12:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Madeline Brewer": {
   "checkedAt": "2026-09-25T17:55:36+00:00",
@@ -5043,6 +5244,15 @@
   "qid": "Q42869",
   "score": 121
  },
+ "Night Off": {
+  "checkedAt": "2026-10-16T17:11:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Night Only": {
   "checkedAt": "2026-09-25T17:54:59+00:00",
   "description": null,
@@ -5099,6 +5309,24 @@
  },
  "Norah Nunes": {
   "checkedAt": "2026-10-02T18:14:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Norbert Leo Butz": {
+  "checkedAt": "2026-10-16T17:12:00+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5484158",
+  "score": 20
+ },
+ "Norma Desmond": {
+  "checkedAt": "2026-10-16T17:11:48+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5645,6 +5873,15 @@
   "qid": null,
   "score": 0
  },
+ "Red Bull": {
+  "checkedAt": "2026-10-16T17:11:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Red Orchid": {
   "checkedAt": "2026-09-25T17:57:29+00:00",
   "description": null,
@@ -5708,6 +5945,15 @@
   "qid": null,
   "score": 0
  },
+ "Rema Webb": {
+  "checkedAt": "2026-10-16T17:12:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Renfrew County": {
   "checkedAt": "2026-10-14T17:49:04+00:00",
   "description": null,
@@ -5719,6 +5965,15 @@
  },
  "Replace Wayne Brady": {
   "checkedAt": "2026-09-29T18:29:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Replacements Led": {
+  "checkedAt": "2026-10-16T17:11:50+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6219,6 +6474,15 @@
   "qid": null,
   "score": 0
  },
+ "Shop Halloween Merch": {
+  "checkedAt": "2026-10-16T17:12:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Short Stint": {
   "checkedAt": "2026-09-25T17:56:49+00:00",
   "description": null,
@@ -6383,6 +6647,24 @@
  },
  "Spirit Day": {
   "checkedAt": "2026-10-15T01:14:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Spirit Week": {
+  "checkedAt": "2026-10-16T17:12:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Spirit Week Events": {
+  "checkedAt": "2026-10-16T17:12:12+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7199,6 +7481,15 @@
  },
  "Week Ending": {
   "checkedAt": "2026-09-30T01:52:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Welcome Nick Drake": {
+  "checkedAt": "2026-10-16T17:11:55+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
