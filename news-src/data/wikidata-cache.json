@@ -190,6 +190,15 @@
   "qid": "Q104715469",
   "score": 1
  },
+ "Allison Janney": {
+  "checkedAt": "2026-10-17T01:06:06+00:00",
+  "description": "American actress (born 1959)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q229487",
+  "score": 63
+ },
  "Allison Williams": {
   "checkedAt": "2026-10-14T01:37:48+00:00",
   "description": "American actress and producer (born 1988)",
@@ -1943,6 +1952,15 @@
   "qid": "Q4030",
   "score": 88
  },
+ "Ed Harris": {
+  "checkedAt": "2026-10-17T01:06:07+00:00",
+  "description": "American actor and director (born 1950)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q104791",
+  "score": 78
+ },
  "Eddie Cooper": {
   "checkedAt": "2026-09-30T18:18:04+00:00",
   "description": "British actor",
@@ -2639,6 +2657,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Gilbert Glenn Brown": {
+  "checkedAt": "2026-10-17T01:06:10+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q111551180",
   "score": 0
  },
  "Gina Torres": {
@@ -4027,6 +4054,15 @@
   "knownFor": [],
   "qid": "Q52106938",
   "score": 9
+ },
+ "Keena Ferguson": {
+  "checkedAt": "2026-10-17T01:06:09+00:00",
+  "description": "American actor",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q140504946",
+  "score": 1
  },
  "Kelli O'Hara": {
   "checkedAt": "2026-10-03T17:00:47+00:00",
@@ -5726,6 +5762,15 @@
   "qid": null,
   "score": 0
  },
+ "Preview Again": {
+  "checkedAt": "2026-10-17T01:06:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Preview Due": {
   "checkedAt": "2026-10-13T19:46:47+00:00",
   "description": null,
@@ -6419,6 +6464,15 @@
  },
  "Sea Wall": {
   "checkedAt": "2026-09-25T17:55:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "See Julia Louis-Dreyfus": {
+  "checkedAt": "2026-10-17T01:06:05+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
