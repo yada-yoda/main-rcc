@@ -2,6 +2,78 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "c64ad659a9",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-17T12:45:00+00:00",
+   "published": "2026-10-17T12:45:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Stranger Things",
+   "title": "Joe Keery on Making His Broadway Debut and Balancing Music and Acting Post-‘Stranger Things’",
+   "quote": "Keery is appearing on stage with Julia Louis-Dreyfus, Allison Janney, Ed Harris and Lily Rabe.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Joe Keery",
+     "knownFor": "American actor and musician",
+     "score": 44,
+     "qid": "Q27064031"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/joe-keery-broadway-debut-stranger-things-1236733706/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "ac7ffd25d3",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-09-22T17:41:21+00:00",
+   "published": "2026-10-16T20:57:52+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The 25th Annual Putnam County Spelling Bee",
+   "title": "Laura Marano to Join Cast of Off-Broadway’s ‘The 25th Annual Putnam County Spelling Bee’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Laura Marano",
+     "knownFor": "American actress and singer",
+     "score": 41,
+     "qid": "Q242792"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFaM2FoQ1JZZW5nc3pWcmFPYzNMWDZpbm5wc3YtZkZaZHpmV3pUUUlxa0lka2ZOVmlMZXQ0ZldkNm1EOG53U1p3SnZnbFBpSVBxcTdjdl81eVlManp2elh2YTU5blVMRWhMeGFaV0JyY0lwRy1XNnJvaDFLY2Y3V0RUTWJQLXBrVXJkSzJIaUx0Qk1qZ1ZiRmF6OXpRQnNTR29vRmpzalZnQ2h0bXlKVGRLRmpJSmNieW1xaEt3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "1ecfc3d187",
    "priority": 2,
    "watched": [],
@@ -295,6 +367,53 @@
    "status": "published"
   },
   {
+   "id": "7dd14ad5f8",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T18:59:08+00:00",
+   "published": "2026-10-15T18:59:08+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Rhinoceros",
+   "title": "John Turturro, Tony Shalhoub, and Tatiana Maslany to Star on Broadway in Rhinoceros",
+   "quote": "The creative team for “Rhinoceros” includes scenic design by Riccardo Hernández, costume design by Anita Yavich, lighting design by Jen Schriever, and sound design by Fitz Patton.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143375-9.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "John Turturro",
+     "knownFor": "The Big Lebowski, Barton Fink",
+     "score": 58,
+     "qid": "Q244234"
+    },
+    {
+     "name": "Tatiana Maslany",
+     "knownFor": "Canadian actress",
+     "score": 46,
+     "qid": "Q7688099"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzlyeDJfcTRZa0lqV2VkRl8zemF6aUpJdGtvRmJJUHI0VnFUdjBfRU02N3hPWjgzWlNxMjZQTVRTUkk2eXM4UWlJanJqVU92TXY0WWY4anl1WE5ES0czcXdUa29PeGZFdnIwZkROUldnaGxfbDJmcGtONFotQXJiclBCMnNBR3JJMnJnbzJ5azZrRVhsVkRpQkVVaEtuZzZrdWFBTU5rd0JBaFRDNU40dS1xSGlHeURUdU54NTd0Y2k",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/tony-shalhoub-john-turturro-and-tatiana-maslany-to-star-in-broadways-rhinoceros-as-the-full-monty-is-postponed/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "b40b20528a",
    "priority": 2,
    "watched": [],
@@ -564,42 +683,6 @@
    "status": "review"
   },
   {
-   "id": "ac7ffd25d3",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-22T17:41:21+00:00",
-   "published": "2026-10-14T17:28:04+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The 25th Annual Putnam County Spelling Bee",
-   "title": "Laura Marano to Join Cast of Off-Broadway’s ‘The 25th Annual Putnam County Spelling Bee’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Laura Marano",
-     "knownFor": "American actress and singer",
-     "score": 41,
-     "qid": "Q242792"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTFaM2FoQ1JZZW5nc3pWcmFPYzNMWDZpbm5wc3YtZkZaZHpmV3pUUUlxa0lka2ZOVmlMZXQ0ZldkNm1EOG53U1p3SnZnbFBpSVBxcTdjdl81eVlManp2elh2YTU5blVMRWhMeGFaV0JyY0lwRy1XNnJvaDFLY2Y3V0RUTWJQLXBrVXJkSzJIaUx0Qk1qZ1ZiRmF6OXpRQnNTR29vRmpzalZnQ2h0bXlKVGRLRmpJSmNieW1xaEt3",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "00b570ae52",
    "priority": 2,
    "watched": [],
@@ -634,63 +717,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "f7666ba606",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-14T07:00:00+00:00",
-   "published": "2026-10-14T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Rhinoceros",
-   "title": "John Turturro, Tony Shalhoub, Tatiana Maslany to star in ‘Rhinoceros’ on Broadway this spring; ‘Full Monty’ postponed",
-   "quote": "The creative team for “Rhinoceros” includes scenic design by Riccardo Hernández, costume design by Anita Yavich, lighting design by Jen Schriever, and sound design by Fitz Patton.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143375-9.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "John Turturro",
-     "knownFor": "The Big Lebowski, Barton Fink",
-     "score": 58,
-     "qid": "Q244234"
-    },
-    {
-     "name": "Tatiana Maslany",
-     "knownFor": "Canadian actress",
-     "score": 46,
-     "qid": "Q7688099"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQXBjcXJybnd0Y1dBbE9GT0wtOUFsYzZmaWNST2p2QUdGUE5PcnVldFR3dVRQaTJuR05rcFI1SGFEX0ZydThzcEFFNEtRTE5EMXhsWnFCTzA2UDJLcTgxcUlEUS1WcllyYTQtZTg0clhMR21JUlJaRVBEWkRnQUlOWi11ZV9Bb2hLYzF5ZDNPb2pKYVFfd2ZFZkllNGRvVTh3QnRJZld2NlBoSXBZb3Q5ZmxiODR2aThNMEVXcTQ2bnJ4dHY5cFo2RHk4bkNtR0prNE1LWTNPUWNhU3Z1MmdKWUJzWk8xTXZGeFp1dTJfUDRJUmYyVE1v",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGJQVFQ3N0ZwZEFYUHVucndYQTBTb0VEVnVFOGlDSHgzZm1HM3ZncFFhbGdJRHZWR0phQzdfc0owUmxsdDJDT2RTOHd4WHI0d2w2SnRYLWVZR2djNXA4UFpfU25CUWlXRTNBa1A1blktTjBuOUlJWV9lVHhPdUFNd2ZKUjZFYXJLRDRPNVgzOW9KMnFzZ3lFdnVpVnNBSFlfSkNUTWM5VmtJTmV1c2lVN0ppVGY0azlrZjY5S1BKT1Zldi1PTUZwU2ZOMW9NMzgwcWNpSVZ0VQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/tony-shalhoub-john-turturro-and-tatiana-maslany-to-star-in-broadways-rhinoceros-as-the-full-monty-is-postponed/",
-     "feed": "broadway-news"
-    },
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzlyeDJfcTRZa0lqV2VkRl8zemF6aUpJdGtvRmJJUHI0VnFUdjBfRU02N3hPWjgzWlNxMjZQTVRTUkk2eXM4UWlJanJqVU92TXY0WWY4anl1WE5ES0czcXdUa29PeGZFdnIwZkROUldnaGxfbDJmcGtONFotQXJiclBCMnNBR3JJMnJnbzJ5azZrRVhsVkRpQkVVaEtuZzZrdWFBTU5rd0JBaFRDNU40dS1xSGlHeURUdU54NTd0Y2k",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "98d8df31c1",
@@ -2487,6 +2513,11 @@
      "name": "Just Jared",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -2719,11 +2750,6 @@
     {
      "name": "Parade Magazine",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUxKVVRzZlNYcXBRbEpsZmxqUl9hWWRfdFZvbTJvN1RJZXJOdlJmZENIUXVZSlJyaGllcGh4LV91NUkycDgxSTRrc3ZUWGhDcVU4VUNaNTB0b3Y4aS16X2hrNzliUUFseHJDTjFVZWg3VExzU0F3LTdwVkVmemJqbmZ1SklmS212bXM3ZEFUTVpIT0lkbXZ4N3Fra0NyZXp5Z3c",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUkydzZJdF9MeVZyaEdxTmx3N0VnZ1IyODJVcHJOdWRyMjAxb1otbWFreTR3UnRTNFM5QzY1eV9uN1p6Q1M3OVp4QnJlbTktcTBuQlJZdzFZUXh4cEV4czQxb2ZWYlgwUWtnV0dVRXc5UUhKMTdHcDVhM0FTZjZaQ1J0ZW8",
      "feed": "gn-to-star"
     }
    ],
@@ -3440,9 +3466,9 @@
    "placedBy": "words",
    "type": "casting",
    "show": "Damn Yankees",
-   "title": "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
+   "title": "Neil Patrick Harris to Star in ‘Damn Yankees’ Revival on Broadway",
    "quote": "",
-   "quoteSource": "Variety",
+   "quoteSource": "The New York Times",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3463,18 +3489,23 @@
    ],
    "sources": [
     {
-     "name": "Variety",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSm5jUDVsT2JTMDZ3WHlxZV9XVE9TZWhoUWJMUHE3bmd6eTJNNnhndGlNdXNhZk1nSDZDbm0wME01Tlc5RU9hQnNSaGVSZFhCZlpfdVZBSGtTQ2ExejBrWE0wR21rc3d2eG41WDZLRzVJOTlMc1hEVzRyZGlfeWZVd1ZLWDF5NkNQNUdKRkNPODE2VXpmQlhCZVRkemc5QQ",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "The New York Times",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0J3M2Vpc241clRoQlBYTlVzX25UQmg0N1hxMVlqb3hUNVJBRU1zUndkREkzb0lNRnFNYzZiMkd4eU5PckRSbkZ1Ulh1Q1lTZGNzLVJlb3h4MUF4SThuZHUtSS1DeElaVGlVT254MXpiRk1JZVVYVnVSb1c3QW1wcDJDSU5nNE9YSjRaZnJFMnlDS0k",
      "feed": "gn-to-star"
     },
     {
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSm5jUDVsT2JTMDZ3WHlxZV9XVE9TZWhoUWJMUHE3bmd6eTJNNnhndGlNdXNhZk1nSDZDbm0wME01Tlc5RU9hQnNSaGVSZFhCZlpfdVZBSGtTQ2ExejBrWE0wR21rc3d2eG41WDZLRzVJOTlMc1hEVzRyZGlfeWZVd1ZLWDF5NkNQNUdKRkNPODE2VXpmQlhCZVRkemc5QQ",
+     "feed": "gn-to-star"
+    },
+    {
      "name": "The Hollywood Reporter",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlA3SDFRc0ZOWE4wTEJidGNFUlV2NlVwVEFWLVVXN1NOVGoyMzhSRTNuRUNjQk94bEZaTkFPTzZjNG56R2o1d0R1cHNPSXJwTWk0bk1VdWd5R015dWFCa2hZOW1CMC1JLXdSRndrQTZIcGliaXNON3NjZUR1amVoTE1fWlZTNktKYWloRkN0VzJHRWZCOFBNX2Vrb0wxU0lnRDhST2hOaXdlZHZyNjV0Z0VLQ0xaU1BzeGZQS1dn",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlBKMG10TmlsVFREU1N6U2xhN044bEVXNlp5R3JncnJHcUVjY3pBVW90eDhoeDZMc29sODkwU1dvWEJUQkUwbEh5ZTVsZG14NC1xYWdRLVg3UHdJY3VBY09DMVh1VXRDampFVUJUTlRnbnZEdHMteW54RGx5R01LZndPR1ZWYUsyOG4xdmJCemIzYndjQlJrTWZRUlVHUFdP",
      "feed": "gn-to-star"
     },
     {
@@ -3489,6 +3520,64 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "e52c3ed351",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-17T12:30:00+00:00",
+   "published": "2026-10-17T12:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Booth Theatre",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": "Downstate",
+   "title": "Controversial ‘Downstate’ Again Delays First Broadway Preview Due To Illness",
+   "quote": "UPDATE: Downstate, the controversial new play by Bruce Norris directed by Joe Mantello, has bumped its first Broadway preview date again due to an illness within the company. The play will now have its first performance at the Booth Theatre on Tuesday, October 20.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.08.32-PM.png",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/downstate-broadway-opening-date-1237155592/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "711a901218",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-17T08:43:47+00:00",
+   "published": "2026-10-17T08:43:47+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Palace Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": "Harry Potter And The Cursed Child",
+   "title": "J.K. Rowling’s Agent Neil Blair Condemns Trans Rights Protest At ‘Harry Potter And The Cursed Child’",
+   "quote": "EXCLUSIVE: J.K. Rowling’s agent Neil Blair has claimed that a trans rights protest at a gala performance of Harry Potter and the Cursed Child put people at risk.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/10/harry-potter-and-the-cursed-child.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/jk-rowling-agent-protest-harry-potter-and-the-cursed-child-1237166312/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "283c58b12d",
@@ -3543,6 +3632,64 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjZsZXRpSGtrLXBKRWtLVUFNZEJObzByRVF1T0taU2lKbm5Tb05XZWdkck5ia01CanFLUklHR0JEQzBYZEtqenRHYkZWV0J6cGJXQ1M3YWE2b0NEYks2T0NSemF2eUR6czJHZTJEcWtxNFMycmpodlZHX2xsajNKV2U4c1ZmNXlPQUJoU2R1bVZ6bjJTTk9oaEplOHBkcUh5aVN6QUdfNTNIT09zdnZrUWw5RjVKNU9FTEtQUnAxVWxrSVdnd3c",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "454339bcab",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-23T15:58:13+00:00",
+   "published": "2026-10-16T21:19:08+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "extension",
+   "show": "Masquerade",
+   "title": "‘Masquerade’ Announces Fifth Off-Broadway Extension, New Cast Members",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "6d336faf21",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-16T18:45:00+00:00",
+   "published": "2026-10-16T18:45:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Orlando",
+   "title": "Cast Set for ORLANDO: A PORNOBIOGRAPHY at New Diorama Theatre",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObU00amxDMENOLVNWTHFEOGpsVzZhWHBqU3RYam10N19VRG9JdFNmWmF2YjNialNQQUh5NFhON0VpdXBqdkI4dGZXN2VKSk1ZMHZBR1hjalY0SkRuZzNUaDRrQkZMRnR3Tl9FcWtZX2Vua1lhb3d2TkRmNHRuVXctR3ltWE94MEMxbEZ0Z0h0WXVyOXozM0c3aGZMeHlNTF81Vm1ybFR4YzlMRmhTSjAwN0M4YWJzQQ",
      "feed": "gn-bway-casting"
     }
    ],
@@ -4153,8 +4300,8 @@
    "title": "‘The Full Monty’ Is Postponed as ‘Rhinoceros’ Comes to Broadway",
    "quote": "John Turturro, Tatiana Maslany and Tony Shalhoub will star in a spring production of the satirical Ionesco drama.",
    "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/15/arts/15cul-monty-rhinoceros-grid/15cul-monty-rhinoceros-grid-mediumSquareAt3X.jpg",
-   "imageCredit": "From left: John Macdougall/Agence France-Presse — Getty Images; Andy Kropa/Invision, via Associated Press; Pascal Le Segretain/Getty Images",
+   "image": "https://static01.nyt.com/images/2026/10/17/arts/15cul-monty-rhinoceros-grid/15cul-monty-rhinoceros-grid-mediumSquareAt3X.jpg",
+   "imageCredit": "From left: John Macdougall/Agence France-Presse &mdash; Getty Images; Andy Kropa/Invision, via Associated Press; Pascal Le Segretain/Getty Images",
    "imageWidth": 1648,
    "imageHeight": 1648,
    "celebs": [],
@@ -6126,35 +6273,6 @@
    "status": "review"
   },
   {
-   "id": "989b51386b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T18:41:47+00:00",
-   "published": "2026-10-13T18:41:47+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "& Juliet",
-   "title": "Tichina Arnold makes Broadway debut in ‘& Juliet’ as James Monroe Iglehart returns",
-   "quote": "",
-   "quoteSource": "Broadway News",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "dde64bd1dc",
    "priority": 3,
    "watched": [],
@@ -6358,6 +6476,40 @@
    "status": "review"
   },
   {
+   "id": "989b51386b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T18:41:47+00:00",
+   "published": "2026-10-13T16:30:35+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "& Juliet",
+   "title": "Tichina Arnold makes Broadway debut in ‘& Juliet’ as James Monroe Iglehart returns",
+   "quote": "",
+   "quoteSource": "Broadway News",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2E3TTJYNHhoX3VxeXpmQ2hXYW5reGtzQ2g0XzduOFU2NS1yWW8xdENQanoxN3I2MXJ3WEl5bmpGYjgwUzNlMnNzU1VQS1k3NWtudWpNLUdfVTgzSzAxRFZVT3RGa2RTTFpWTWJ0WWhBeHNBbWVlMC1OTTZCa0RVZ2RYTkpudUthanpVc2tkbkh4ZWVBOUhDOTM4ME83Wnk0ZTdONnoxM0xVRk00THNpU2lOcmpsMTFRY2hKamI5WGp0ZFQ0",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "f978d1f90f",
    "priority": 3,
    "watched": [],
@@ -6540,7 +6692,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Booth Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "opening",
    "show": "Downstate",
    "title": "Controversial ‘Downstate’ Delays First Broadway Preview Due To Illness",
@@ -7255,7 +7407,7 @@
     },
     {
      "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yQThMNzNNZjltUlc1T2RaZ3lMTnlaYjlNU2lOTTRycnNPdW4xR1FwRE1sOER4QlAzM1JnQ0hCenVlWEQwZHJGejk1WUxrTFZhcERBcUl6d0h4NGJhcmVYaUwtMXVreWZjTFE",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUVNMRkVHV1Nhd3NscHl4NjZXXzZXNjVxMERrUlgwX1F2N2l4VmZOQmNhT3N2SG13MTBxcW13eW1QMWJUd3hxODc2am9Pb2xIQlFWRldpQnJxbUVHVlNBVkxQWUlHZXM",
      "feed": "gn-bway-debut"
     }
    ],
@@ -8016,35 +8168,6 @@
    "status": "published"
   },
   {
-   "id": "fdf94069b2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-08T15:35:25+00:00",
-   "published": "2026-10-08T15:35:25+00:00",
-   "city": "New York",
-   "tier": "Off-Off-Broadway",
-   "venue": "SoHo Playhouse",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": "The Exhibitionist",
-   "title": "Jeff Hiller To Star In James Hindman's THE EXHIBITIONIST At Soho Playhouse",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEgzNGYtbjNJaDByVTIyU0txTkpTaVdlakdLOVI4dUtoMHVDOGVxUU1GWmlWZUxvbFRPaDBWQ1lJcThsdUt5Vl9MWXFuUGF0cDR3RXdXTS1mR0l3dWtWVVBNUEptdURDQmdrX19xOVQ2VV9TUXpVZDFXUHR1UzVQR1c1N1lSbm1YaWJEN1dFT3liQU5HdWZXRDBTOWNnRWZ5OFVUX0pKX0tSU1MwdUZOak9zLUlDeTVvY0xGQg",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "916f563835",
    "priority": 3,
    "watched": [],
@@ -8369,6 +8492,35 @@
    "status": "review"
   },
   {
+   "id": "fdf94069b2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T15:35:25+00:00",
+   "published": "2026-10-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Off-Broadway",
+   "venue": "SoHo Playhouse",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "The Exhibitionist",
+   "title": "Jeff Hiller To Star In James Hindman's THE EXHIBITIONIST At Soho Playhouse",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeEgzNGYtbjNJaDByVTIyU0txTkpTaVdlakdLOVI4dUtoMHVDOGVxUU1GWmlWZUxvbFRPaDBWQ1lJcThsdUt5Vl9MWXFuUGF0cDR3RXdXTS1mR0l3dWtWVVBNUEptdURDQmdrX19xOVQ2VV9TUXpVZDFXUHR1UzVQR1c1N1lSbm1YaWJEN1dFT3liQU5HdWZXRDBTOWNnRWZ5OFVUX0pKX0tSU1MwdUZOak9zLUlDeTVvY0xGQg",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "a1dc15637f",
    "priority": 3,
    "watched": [],
@@ -8657,35 +8809,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "454339bcab",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-23T15:58:13+00:00",
-   "published": "2026-10-07T19:36:09+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "extension",
-   "show": "Masquerade",
-   "title": "‘Masquerade’ Announces Fifth Off-Broadway Extension, New Cast Members",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "09335ae7b5",
@@ -10839,35 +10962,6 @@
    "status": "review"
   },
   {
-   "id": "6eda1da907",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T18:20:13+00:00",
-   "published": "2026-10-05T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Terrible",
-   "title": "Amanda Seyfried Remembers Her ‘Terrible’ Audition for ‘Annie’ on Broadway at Age 10",
-   "quote": "",
-   "quoteSource": "People",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUW9VRmViT1lwWXJoRGVybHBnVWs0dkhod1NCRHdpaW9NNS0zT0owQXBRY29GQjJKek8wUExYZ1NKYjRxeGhtOWFrUHJMVzdDN0Q2TDUzdXNXNDlSUXpDTFVVRUctZ0JPTi1iaHdKM1Fjb0kweENGekx2UC1jdVpRY1NPTjkwamhoSE9aUEtTSDNZNlhFbTJRMk5UTQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "987f9cf426",
    "priority": 3,
    "watched": [],
@@ -10895,6 +10989,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "6eda1da907",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T18:20:13+00:00",
+   "published": "2026-10-05T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Terrible",
+   "title": "Amanda Seyfried Remembers Her ‘Terrible’ Audition for ‘Annie’ on Broadway at Age 10",
+   "quote": "",
+   "quoteSource": "People",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUW9VRmViT1lwWXJoRGVybHBnVWs0dkhod1NCRHdpaW9NNS0zT0owQXBRY29GQjJKek8wUExYZ1NKYjRxeGhtOWFrUHJMVzdDN0Q2TDUzdXNXNDlSUXpDTFVVRUctZ0JPTi1iaHdKM1Fjb0kweENGekx2UC1jdVpRY1NPTjkwamhoSE9aUEtTSDNZNlhFbTJRMk5UTQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "93c9915d2a",
@@ -14237,35 +14360,6 @@
    "status": "review"
   },
   {
-   "id": "5b50808db7",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-26T15:42:22+00:00",
-   "published": "2026-09-26T15:42:22+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "intimate staging of the Broadway smash musical",
-   "title": "Stages' intimate staging of the Broadway smash musical 'Come From Away' soars",
-   "quote": "",
-   "quoteSource": "Houston Chronicle",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Houston Chronicle",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHRpMUZoZG93VnptYlhUNW1vSHQtRkRjU2QzbkNuWFVkZmdqcmlyME1nVXY2dlZENERVZ0Nqa053ZWVpR2t2ZVBhM2JMdi1pTlFpSVpIeFNjNnNEOFNQSUpUTnFyc3U2a3ZuemVLZGppSWtxaDFKVFJ5RFlBRGdib2Y0R2VWeDRNYzBQREZwZkN0VldZaDJIaUxuNmd2Zw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "7fccb70f4a",
    "priority": 3,
    "watched": [],
@@ -14293,64 +14387,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "493f19db83",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T16:10:04+00:00",
-   "published": "2026-09-25T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A Ghost in Your Ear",
-   "title": "'A Ghost in Your Ear' names new Off-Broadway casting, performance dates",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUlsNmxEUTZkQzh2NnJYRVBaNVBJYS16c3dGMGpLQ19JQ1FOT1NSQzQ5RGhWejF1Zk1vb242a2ZMY2NWVlgxWlMwVWNTbTBaVjMzbXJLTkQ0Z2ZOVldQR3ZwZkJ5cGVVRm9IUGE2U2liVEpOTUtlRjAyQnJMcjN3ZnRDa0t4MVFWZTd3WDYtODdmQ05yUDF2RkM3aEtNbXY3VFN5dHpOYmdRWXJrZUNYVFZoZllrRTU4U28tQXUzVQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "05b96336e9",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-25T16:26:01+00:00",
-   "published": "2026-09-25T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "We",
-   "title": "Complete cast set for 'We'll See' off Broadway",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3pEdXhYeGs5LVRpeEJFcmxZZE41SE95ZTl5STZ4MGtuU3psMDFtTkkyZzF2d1F2eVlPQ19La2hMRG1aYktkcWhldkgyWnIzX09lNDNrTWV1TVhBOFRTT3JZbnd5bVZ5WG5JSGpHSEdlYTY1aVJVNWZsb3RRUVg2Wks1a1p1dm14ZXB2SlRtdzkzZGxxVlFHUHlxWmxCZw",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
   }
  ]
 }

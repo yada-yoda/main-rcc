@@ -8,6 +8,15 @@
   "qid": "Q321770",
   "score": 25
  },
+ "Acting Post-‘Stranger Things": {
+  "checkedAt": "2026-10-17T16:09:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Actress Sherri Shepherd": {
   "checkedAt": "2026-09-25T17:56:27+00:00",
   "description": null,
@@ -82,6 +91,15 @@
  },
  "Again Co-Star": {
   "checkedAt": "2026-09-25T17:53:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Agent Neil Blair": {
+  "checkedAt": "2026-10-17T16:09:46+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -543,6 +561,15 @@
  },
  "Austin Scott Also": {
   "checkedAt": "2026-09-28T01:26:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Balancing Music": {
+  "checkedAt": "2026-10-17T16:09:50+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1487,6 +1514,15 @@
   "qid": "Q1917605",
   "score": 13
  },
+ "Controversial Downstate Again": {
+  "checkedAt": "2026-10-17T16:09:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Controversial Downstate Delays": {
   "checkedAt": "2026-10-13T19:46:45+00:00",
   "description": null,
@@ -1561,6 +1597,15 @@
  },
  "Current Orpheus": {
   "checkedAt": "2026-09-28T20:01:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Cursed Child": {
+  "checkedAt": "2026-10-17T16:09:47+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3634,6 +3679,15 @@
   "knownFor": [],
   "qid": "Q6210465",
   "score": 3
+ },
+ "Joe Keery": {
+  "checkedAt": "2026-10-17T16:09:48+00:00",
+  "description": "American actor and musician (born 1992)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q27064031",
+  "score": 44
  },
  "Joel Waggoner": {
   "checkedAt": "2026-10-15T17:38:56+00:00",
