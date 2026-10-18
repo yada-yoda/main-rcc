@@ -3609,6 +3609,35 @@
    "status": "published"
   },
   {
+   "id": "a30e2be867",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-22T17:23:24+00:00",
+   "published": "2026-10-16T22:58:30+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Maids",
+   "title": "Yerin Ha to Star in Off-Broadway Revival of ‘The Maids’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORlZNd21hcWd0MlBoVE9tMnUzNWhmM0JWRjdReXNUM0ZkTElUcWh1V2RnQWFQdUtDT3NVSER5MXFaSGdZTXZNdmhERVVnbl9RbTcycV9VSjFLZ3p1YlFoZ1hqNkR6Z2dyS0c5X21PRTYzak94MkRsdjdqbnY5Q3hEY29UR1JwV0lETERiTWdJWUUydjA",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "438b4d6bd9",
    "priority": 3,
    "watched": [],
@@ -3632,6 +3661,64 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjZsZXRpSGtrLXBKRWtLVUFNZEJObzByRVF1T0taU2lKbm5Tb05XZWdkck5ia01CanFLUklHR0JEQzBYZEtqenRHYkZWV0J6cGJXQ1M3YWE2b0NEYks2T0NSemF2eUR6czJHZTJEcWtxNFMycmpodlZHX2xsajNKV2U4c1ZmNXlPQUJoU2R1bVZ6bjJTTk9oaEplOHBkcUh5aVN6QUdfNTNIT09zdnZrUWw5RjVKNU9FTEtQUnAxVWxrSVdnd3c",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9bac79dd90",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-24T17:16:40+00:00",
+   "published": "2026-10-16T21:29:54+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Galileo",
+   "title": "Raúl Esparza to Star in Broadway Run of ‘Galileo’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG12bFdyRWhRVjJJdXBDZHp3SWVxNFVraUhLeVJtbGo1dV9lbmNxQkw4RzZTMWVCeUNydnlNOUwwT0NZZWlYcUh6clkyNTRlaTVUMlhoQVRKTU5CLUpLSDUtbmZvSTBYTWQteTVCOUFaZGl3V1ltbXdMdlBCUXZuTlk4SmJkVzM4MTFN",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "4a88080262",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T19:46:35+00:00",
+   "published": "2026-10-16T21:23:35+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Oh, Mary!",
+   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
      "feed": "gn-bway-casting"
     }
    ],
@@ -4228,6 +4315,35 @@
    "status": "review"
   },
   {
+   "id": "8c647b7373",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T23:46:55+00:00",
+   "published": "2026-10-15T23:46:55+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Good Showbiz",
+   "title": "GOOD SHOWBIZ to Open at Actors Temple Theatre Off-Broadway",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEVoYVVXZDRrREQwNWNfSlB6NUR2eU4tYy1VLVlYUEw5QnBHTHNBR1B1Qnh3NFUwRXRQQ1dHWkNyQnhEc0RLM1pJMEVGdlBMRjFyZUpMOE5HalNSbmZtZEUyWTFtVGIzcWYtMXdVZlJCRW9DeW1MOEhadklXTElmYnh3SldpLVduZHN3LWFnTFB4NWNVaDVsOTFNUnNuazBoZmRVVlFzcWFuajlqbTFhTnRrbnEteldtdmc",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "dd9f303f49",
    "priority": 3,
    "watched": [],
@@ -4634,35 +4750,6 @@
    "status": "published"
   },
   {
-   "id": "4a88080262",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-10-15T15:08:18+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "fcb28e0917",
    "priority": 3,
    "watched": [],
@@ -4803,35 +4890,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmQ0NnNnTHRyanN3YU9XMzByOERJeWlfTzhHeS15SjI3ZlZwc2lTQnFCRFFkbzMta2lpcEZqemplYTFfbmdpVTIyTXdhNW9kTTNxNzJZTk9LdTNZZU1nN09BNzk2M3lJMmx1X2FueWNrV29BVzBBSEdWV0R4WGgzOVhUdVhrX2FTTjUzQk5YVm1yT2V6V012QXNGbjlkLUVleXg2WlVETTJSN01LZ0FvMDhiTlNPWFlyTjNvMmN3VVBVR2RQczBLZlRReDY5TzQ",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a30e2be867",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T17:23:24+00:00",
-   "published": "2026-10-15T14:29:56+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Maids",
-   "title": "Yerin Ha to Star in Off-Broadway Revival of ‘The Maids’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORlZNd21hcWd0MlBoVE9tMnUzNWhmM0JWRjdReXNUM0ZkTElUcWh1V2RnQWFQdUtDT3NVSER5MXFaSGdZTXZNdmhERVVnbl9RbTcycV9VSjFLZ3p1YlFoZ1hqNkR6Z2dyS0c5X21PRTYzak94MkRsdjdqbnY5Q3hEY29UR1JwV0lETERiTWdJWUUydjA",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -5886,35 +5944,11 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlNDQmdwUDdfLTBmZlhOVDJiQmg4ZmV1OHczMnBoWXNWaFczTE9BVmw5OW1TRXkxeWt1SUVpUUZDSEQ1Yk8zT2hveVB4UHNHLVI5cEltQ3J5U2lnN1pVUWw0dkZNWkVYbGhHdmVLM2k5SWd1emlrVDhIYThpalVLNVNXYXNHQXpfejlXTXB3",
      "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "7d733bcf6f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T05:47:49+00:00",
-   "published": "2026-10-14T05:47:49+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Tichina Arnold Makes Broadway Debut in Musical & Juliet, James Monroe Iglehart Returns to Cast",
-   "quote": "",
-   "quoteSource": "Blex Media",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
+    },
     {
-     "name": "Blex Media",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1FNUDdJZFhOZl9nTkg0Y2gzZWpTbTk4MGgxUWhMbS1DVmwyR3N1cU1fVUVreGxDYmpXbXdETm5YMWY1bXVGSFFkT0FtX1B4MEpIc1A2djJHRGR4Nm1xc1c5Um1TbUhaZXZjdW9uS1lYanJEeFExbG9SN2Z1VDE2NTYtNUdTU0dSNDVaUmV6c2NfTWQw",
-     "feed": "gn-bway-casting"
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -6389,6 +6423,50 @@
    "status": "review"
   },
   {
+   "id": "7d733bcf6f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-14T05:47:49+00:00",
+   "published": "2026-10-13T17:28:46+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Tichina Arnold Makes Broadway Debut in & Juliet as James Monroe Iglehart Returns",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0lrOE9rYWVWbEFTcE1sV052YU8wUUFmcWQ1Y1pWbnZ0NXlNOWl6Ty02V3pZQlVXMG1CNHNjajlDSnB6Z2dGYjA0YTE2NW43SWxGNVFnYlVJeEk5ckxfd2FFOERWanlpRXlPbFc4TWU5WUV2M2JVQXF4X3FXQ1FVYktCUjNnLVc3REpnbWp2QzJkMlJBakVTbUN4MktaRUxIdGtIdlVHQVlzRDduWDlnTXVpZExDdHM",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Blex Media",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1FNUDdJZFhOZl9nTkg0Y2gzZWpTbTk4MGgxUWhMbS1DVmwyR3N1cU1fVUVreGxDYmpXbXdETm5YMWY1bXVGSFFkT0FtX1B4MEpIc1A2djJHRGR4Nm1xc1c5Um1TbUhaZXZjdW9uS1lYanJEeFExbG9SN2Z1VDE2NTYtNUdTU0dSNDVaUmV6c2NfTWQw",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2E3TTJYNHhoX3VxeXpmQ2hXYW5reGtzQ2g0XzduOFU2NS1yWW8xdENQanoxN3I2MXJ3WEl5bmpGYjgwUzNlMnNzU1VQS1k3NWtudWpNLUdfVTgzSzAxRFZVT3RGa2RTTFpWTWJ0WWhBeHNBbWVlMC1OTTZCa0RVZ2RYTkpudUthanpVc2tkbkh4ZWVBOUhDOTM4ME83Wnk0ZTdONnoxM0xVRk00THNpU2lOcmpsMTFRY2hKamI5WGp0ZFQ0",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "3342dcb0a5",
    "priority": 3,
    "watched": [],
@@ -6474,40 +6552,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "989b51386b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T18:41:47+00:00",
-   "published": "2026-10-13T16:30:35+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "& Juliet",
-   "title": "Tichina Arnold makes Broadway debut in ‘& Juliet’ as James Monroe Iglehart returns",
-   "quote": "",
-   "quoteSource": "Broadway News",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2E3TTJYNHhoX3VxeXpmQ2hXYW5reGtzQ2g0XzduOFU2NS1yWW8xdENQanoxN3I2MXJ3WEl5bmpGYjgwUzNlMnNzU1VQS1k3NWtudWpNLUdfVTgzSzAxRFZVT3RGa2RTTFpWTWJ0WWhBeHNBbWVlMC1OTTZCa0RVZ2RYTkpudUthanpVc2tkbkh4ZWVBOUhDOTM4ME83Wnk0ZTdONnoxM0xVRk00THNpU2lOcmpsMTFRY2hKamI5WGp0ZFQ0",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "f978d1f90f",
@@ -9367,35 +9411,6 @@
    "status": "review"
   },
   {
-   "id": "9bac79dd90",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T17:16:40+00:00",
-   "published": "2026-10-07T12:32:21+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Galileo",
-   "title": "Raúl Esparza to Star in Broadway Run of ‘Galileo’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG12bFdyRWhRVjJJdXBDZHp3SWVxNFVraUhLeVJtbGo1dV9lbmNxQkw4RzZTMWVCeUNydnlNOUwwT0NZZWlYcUh6clkyNTRlaTVUMlhoQVRKTU5CLUpLSDUtbmZvSTBYTWQteTVCOUFaZGl3V1ltbXdMdlBCUXZuTlk4SmJkVzM4MTFN",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "d38d6e5dad",
    "priority": 3,
    "watched": [],
@@ -10788,35 +10803,6 @@
    "status": "review"
   },
   {
-   "id": "7f2d8fd80c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T16:46:02+00:00",
-   "published": "2026-10-05T14:08:07+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Dolly",
-   "title": "‘Dolly’ Musical Announces Broadway Leads Ahead of December Debut",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSG0xcm00VVZ0ME1lSnhvSVY0RUxjanJzZFFrN2NxM29jalB4cnlSTkJrT3RGaEE3T1J2R054dlRVckhpTmp3dEZBdV8zdllTeFptcDMxOWNEZnNfemV5N0xEejYzd2VqdVNxM0tybDRqdTJCTGNpZnlNREE1TC1id0d3YVlnLVMxWUQ5OXJ6WjRuWVZkZ1dmY200RE1XYk0",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "4f6a30944a",
    "priority": 3,
    "watched": [],
@@ -11922,6 +11908,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "7f2d8fd80c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-02T16:46:02+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Dolly",
+   "title": "Coloradans are taking ‘Dolly’ to Broadway",
+   "quote": "",
+   "quoteSource": "Denver Gazette",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Denver Gazette",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEV3SkRQNV9SU0N3SldQa2lUUjI3TGNSNGhRamRvRHctSjRzTWZjUDV4MUU0bkttU2hUMi0xallkbkVsaFV3RmIwbHAtRlZraS1pUGp4TF9fRzg5VUxveGp1YURuUEw5V3c0ZzQxRzczOXVJYnJvamV6eWhTMEllQ3VGNlZuVTNn",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "308cb853ca",
@@ -14297,35 +14312,6 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Exclusive-Watch-a-Scene-from-SCHOOL-GIRLS-OR-THE-AFRICAN-MEAN-GIRLS-PLAY-on-Broadway-20260927",
      "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "14892237ca",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-26T22:04:55+00:00",
-   "published": "2026-09-26T22:04:55+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "transfer",
-   "show": null,
-   "title": "Broadway transfer of Jamie Lloyd’s Evita – further cast confirmed",
-   "quote": "",
-   "quoteSource": "Musicaltheatrereview",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Musicaltheatrereview",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUYxVzZFZURhR1doMmpLOXBRUWpyU1pFLUtZZWt3eTBvQ0dKVjZtOTBFQWpiQnNxSnRab0s4ME1vektQZnFoRnhVaUtPczZFZVpRQjhOd01LM21Ta28waEo4TzJydWx0Tm5NbEs5WTRRcERtREJVNlROTnpCdEp4Qk82OGdkYXNoQ1VmT0lyejZOdm9FQkdnbEdvWmk",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
