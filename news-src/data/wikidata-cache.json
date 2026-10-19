@@ -8,6 +8,15 @@
   "qid": "Q321770",
   "score": 25
  },
+ "Abigail Barlow": {
+  "checkedAt": "2026-10-19T19:04:10+00:00",
+  "description": "American singer-songwriter",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q111509223",
+  "score": 5
+ },
  "Acting Post-‘Stranger Things": {
   "checkedAt": "2026-10-17T16:09:51+00:00",
   "description": null,
@@ -577,6 +586,15 @@
   "qid": null,
   "score": 0
  },
+ "Ava Geyer": {
+  "checkedAt": "2026-10-19T19:03:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Balancing Music": {
   "checkedAt": "2026-10-17T16:09:50+00:00",
   "description": null,
@@ -1027,6 +1045,15 @@
   "qid": null,
   "score": 0
  },
+ "Bringing Palestinian Flag": {
+  "checkedAt": "2026-10-19T19:04:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Britney Spears": {
   "checkedAt": "2026-10-05T21:00:19+00:00",
   "description": "American singer, songwriter, actress and model (born 1981)",
@@ -1050,6 +1077,15 @@
  },
  "Broadway-Bound Beat": {
   "checkedAt": "2026-09-29T18:29:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Broadway-Loving Couple Wrote": {
+  "checkedAt": "2026-10-19T19:04:02+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1140,6 +1176,15 @@
  },
  "Cake Across": {
   "checkedAt": "2026-09-25T17:56:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Calgary Opera Drops": {
+  "checkedAt": "2026-10-19T19:04:08+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2110,6 +2155,18 @@
   "qid": "Q63086179",
   "score": 49
  },
+ "Emma Thompson": {
+  "checkedAt": "2026-10-19T19:03:51+00:00",
+  "description": "English actress and screenwriter (born 1959)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Sense and Sensibility",
+   "Beauty and the Beast"
+  ],
+  "qid": "Q168724",
+  "score": 89
+ },
  "Encore Engagement": {
   "checkedAt": "2026-09-25T19:53:48+00:00",
   "description": null,
@@ -3077,6 +3134,15 @@
   "qid": null,
   "score": 0
  },
+ "History Repeating Itself": {
+  "checkedAt": "2026-10-19T19:04:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Holiday Surprise": {
   "checkedAt": "2026-09-25T17:54:51+00:00",
   "description": null,
@@ -3115,6 +3181,15 @@
  },
  "Host Performance Benefiting": {
   "checkedAt": "2026-10-13T19:46:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "How Inaccessible": {
+  "checkedAt": "2026-10-19T19:04:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3341,6 +3416,15 @@
   "qid": "Q63944057",
   "score": 18
  },
+ "Isabelle McCalla": {
+  "checkedAt": "2026-10-19T19:04:04+00:00",
+  "description": "American actress and singer (born 1993)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q73833618",
+  "score": 4
+ },
  "Iverson Joins": {
   "checkedAt": "2026-09-25T17:47:34+00:00",
   "description": null,
@@ -3385,6 +3469,15 @@
   "knownFor": [],
   "qid": "Q77283105",
   "score": 0
+ },
+ "James Corrigan": {
+  "checkedAt": "2026-10-19T19:03:58+00:00",
+  "description": "American runner",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q126947543",
+  "score": 5
  },
  "James Hindman": {
   "checkedAt": "2026-10-08T19:10:29+00:00",
@@ -3439,6 +3532,15 @@
   "knownFor": [],
   "qid": "Q6147131",
   "score": 5
+ },
+ "Janie Dee": {
+  "checkedAt": "2026-10-19T19:04:00+00:00",
+  "description": "British actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6154382",
+  "score": 9
  },
  "Jasmine Amy Rogers": {
   "checkedAt": "2026-09-25T17:47:40+00:00",
@@ -3818,6 +3920,15 @@
   "qid": null,
   "score": 0
  },
+ "Jon Robin Baitz": {
+  "checkedAt": "2026-10-19T19:04:12+00:00",
+  "description": "American dramatist",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3183230",
+  "score": 12
+ },
  "Jon Secada": {
   "checkedAt": "2026-10-07T19:14:27+00:00",
   "description": "American singer",
@@ -4082,6 +4193,15 @@
   "qid": null,
   "score": 0
  },
+ "Katherine Howard": {
+  "checkedAt": "2026-10-19T19:03:48+00:00",
+  "description": "fifth wife of Henry VIII of England",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q188926",
+  "score": 67
+ },
  "Kathleen Chalfant": {
   "checkedAt": "2026-10-05T21:00:07+00:00",
   "description": "American actress",
@@ -4192,6 +4312,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Kristin Chenoweth": {
+  "checkedAt": "2026-10-19T19:03:55+00:00",
+  "description": "American actress, singer, author (born 1968)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q231811",
+  "score": 47
  },
  "Kristin Chenoweth Teaming": {
   "checkedAt": "2026-10-13T19:46:28+00:00",
@@ -4771,6 +4900,17 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q235189",
+  "score": 32
+ },
+ "Margaret Cho": {
+  "checkedAt": "2026-10-19T19:03:49+00:00",
+  "description": "American comedian and actress (born 1968)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "The Listener"
+  ],
+  "qid": "Q257243",
   "score": 32
  },
  "Margaret Qualley": {
@@ -5631,6 +5771,15 @@
   "qid": null,
   "score": 0
  },
+ "Own Matrimony": {
+  "checkedAt": "2026-10-19T19:04:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Pals Cheer Him": {
   "checkedAt": "2026-09-25T17:54:54+00:00",
   "description": null,
@@ -6053,6 +6202,15 @@
   "qid": "Q3423039",
   "score": 20
  },
+ "Regarding Ticket Prices": {
+  "checkedAt": "2026-10-19T19:04:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Rehearsing Oedipus": {
   "checkedAt": "2026-09-25T17:57:05+00:00",
   "description": null,
@@ -6124,6 +6282,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Rhea Norwood": {
+  "checkedAt": "2026-10-19T19:03:57+00:00",
+  "description": "British actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q106645116",
+  "score": 7
  },
  "Rhinoceros Comes": {
   "checkedAt": "2026-10-16T01:01:50+00:00",
@@ -6879,6 +7046,15 @@
   "qid": "Q137106185",
   "score": 3
  },
+ "Stephen Sondheim Advised": {
+  "checkedAt": "2026-10-19T19:03:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Stockard Channing": {
   "checkedAt": "2026-10-01T18:43:38+00:00",
   "description": "American actress (born 1944)",
@@ -7013,6 +7189,15 @@
   "knownFor": [],
   "qid": "Q7688099",
   "score": 46
+ },
+ "Taye Diggs": {
+  "checkedAt": "2026-10-19T19:04:01+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q534006",
+  "score": 27
  },
  "Ted Lasso": {
   "checkedAt": "2026-09-25T17:51:55+00:00",
@@ -7616,6 +7801,15 @@
  },
  "Welcome Nick Drake": {
   "checkedAt": "2026-10-16T17:11:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Welcomes Back Abigail": {
+  "checkedAt": "2026-10-19T19:03:47+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
