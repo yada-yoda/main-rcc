@@ -182,11 +182,11 @@
    "published": "2026-10-19T12:59:00+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": null,
+   "venue": "Studio 54",
    "placedBy": "words",
    "type": "casting",
    "show": "The Rocky Horror Show",
-   "title": "Margaret Cho to Join The Rocky Horror Show on Broadway",
+   "title": "Margaret Cho Makes Broadway Debut in The Rocky Horror Show November 3 as Rachel Dratch Takes Final Bow",
    "quote": "She succeeds original cast member Rachel Dratch, whose final performance will be November 1.",
    "quoteSource": "Broadway News",
    "image": "https://assets.playbill.com/editorial/_verticalListLarge/MARGARET-CHO.jpg",
@@ -199,13 +199,29 @@
      "knownFor": "The Listener",
      "score": 32,
      "qid": "Q257243"
+    },
+    {
+     "name": "Rachel Dratch",
+     "knownFor": "American actress and comedian",
+     "score": 26,
+     "qid": "Q261977"
     }
    ],
    "sources": [
     {
+     "name": "AmNews Curtain Raiser",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDR3MTc4Z3huRld1dm91M3VXLVFsZzVNazNMQU5aUGZkVEtQR3lLN0Y0ejlaVkpKYW5JOWVkbERPUFJmcXE1Tjl0S1pzaUxaRjFWN0JMWnprSFNzemdlLTBzbEszRVpVSW5LTTVQRmlFVlRRSDlzMlpQeWZXS1EtbjFBQzg5YktXSlZWampn",
+     "feed": "gn-bway-debut"
+    },
+    {
      "name": "Playbill",
      "url": "https://playbill.com/article/margaret-cho-to-join-the-rocky-horror-show-on-broadway",
      "feed": "playbill"
+    },
+    {
+     "name": "That Eric Alper",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0Y0eWlFaTZjV29FeGlSel9ILThHeHFSVzZnVGNMTFA2NmdaZ2lySkVXWXpnWFItY05UTURJbVhzVThCNjJYWFVVYWJLUzRTb3FUMk5PMy1mRkxEMHp4MFZTN1dEeGg0WnNHV1kzYk5oN01PVUtrOFNqVW9jTnpORFV2VHBJVFRMbGZ5NXpKMGE3MlJ5b0hJY2dCUGtkaXFVb0dwYU5sejV0Q3FfMUNfN3dFeVh2MWtaalE2c2NqeTV4VGs",
+     "feed": "gn-bway-debut"
     },
     {
      "name": "Broadway News",
@@ -716,42 +732,6 @@
    "status": "published"
   },
   {
-   "id": "2267f1b2b5",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-15T13:00:10+00:00",
-   "published": "2026-10-15T18:04:20+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "closing",
-   "show": "Just In Time,",
-   "title": "Sadie Dickerson returns to Broadway’s ‘Just In Time,’ following Tristen Buettel as Sandra Dee",
-   "quote": "Current Sandra Dee Carrie St. Louis plays her final performance on October 18.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143356-9.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Sandra Dee",
-     "knownFor": "American actress and model (1942–2005)",
-     "score": 42,
-     "qid": "Q234875"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/sadie-dickerson-returns-to-broadways-just-in-time-following-tristen-buettel-as-sandra-dee/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "b40b20528a",
    "priority": 2,
    "watched": [],
@@ -903,6 +883,47 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Tristen-Buettel-Sadie-Dickerson-Will-Play-Sandra-Dee-in-JUST-IN-TIME-This-Fall-20261015",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "2267f1b2b5",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T13:00:10+00:00",
+   "published": "2026-10-15T13:00:10+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Just in Time",
+   "title": "Sadie Dickerson and Tristen Buettel to star as Sandra Dee in 'Just in Time'",
+   "quote": "Current Sandra Dee Carrie St. Louis plays her final performance on October 18.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143356-9.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Sandra Dee",
+     "knownFor": "American actress and model (1942–2005)",
+     "score": 42,
+     "qid": "Q234875"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkFtM200MW5ZY0JQZi12UUIyNmxmNm96M0lhS08wY29DSjFlX1Bvek15bTFSUnlHM1JvN0xBLTZBNjN0WlV5cTRueTlUYWdleldKZnpOYUZmUVVvQ3M3MWdQdjlxQzczNkc4ZjNqNjJFeTBBdFpiNlM2YXpsQzdSYzdBS1JDeWpaUjBSSkVUajNhN1NZbG5CVk9hUmZaaG4yY1hlWnYtLWdzVlFjcFZCdWI2LU1qeXlncjhyb1BlZ1pWMjEwNmc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/sadie-dickerson-returns-to-broadways-just-in-time-following-tristen-buettel-as-sandra-dee/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -2707,6 +2728,52 @@
    "status": "review"
   },
   {
+   "id": "d5401fa2fa",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-02T07:00:00+00:00",
+   "published": "2026-10-02T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "It",
+   "title": "Broadway unveils new casting for Dolly Parton musical and 'It's a Wonderful Life'",
+   "quote": "",
+   "quoteSource": "Good Morning America",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Good Morning America",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQcm41QUdrdndDOXNQYXYxQnhZeFZ5b3dpUzZfeWRNRmRzNjQ2UDNwcHJzVUJXbm1RUGZwUXZUU1ZzVTNkaEVkeXNTS0ZwYlp1Nm5BSzFpamtuMXZYeFVicFQxUGjSAWRBVV95cUxQUHJuNUFHa3Z3QzlzUGF2MUJ4WXhWeW93aVM2X3lkTUZkczY0NlAzcHByc1VCV25tUVBmcFF2VFNWc1UzZGhFZHlzU0tGcGJadTZuQUsxaWprbjF2WHhVYnBUMVBo",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "c4a3ceda6c",
    "priority": 2,
    "watched": [],
@@ -2777,47 +2844,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "c6e59b3625",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T07:00:00+00:00",
-   "published": "2026-10-02T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Dolly Parton's Broadway Musical Unveils Five Actors She Chose to Star in the Upcoming Show",
-   "quote": "",
-   "quoteSource": "Just Jared",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVYSk1NMVVQUnN5YzFDM0EzcDFuQWhaX0xrU0RGWVlGM0I4aW5hcEx0WExJU1pCYktqendGT3FoOW44dWdJUF9mMG41Yk5feTFvdnByUTZMdVBKbGZOXzZwVHFTRU9LRVFSbS1pb09YQWVKcmplOFhhWHV0ZnQzY3dKbkdEckszVEh5ME9heldDOG1uMXNXYmVnMVNTSU5tT1NySTBTdFN6OW5ITHVYOWxyX2R6S2lLdE1Ga3VEY05CcGpVUHc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "fb5026fbf0",
@@ -3596,48 +3622,6 @@
    "status": "review"
   },
   {
-   "id": "54b65ec295",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-09-28T22:24:09+00:00",
-   "published": "2026-09-28T22:24:09+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "New York Theatre Workshop",
-   "placedBy": "venue",
-   "type": "opening",
-   "show": "Wild Rose",
-   "title": "Mare Winningham & More Join Madeline Brewer in WILD ROSE at NYTW",
-   "quote": "New York Theatre Workshop (NYTW) (Artistic Director Patricia McGregor and Managing Director Maya Choldin) announced today additional cast and creative team for the US premiere production of the new musical Wild Rose. Joining the previously announced Emmy Award nominee Madeline Brewer (Becky Shaw, “The Handmaid’s Tale”…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-3d37e9d1ed58e6a59b2dbe5e988f5e3b.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Mare Winningham",
-     "knownFor": "American actress",
-     "score": 32,
-     "qid": "Q235189"
-    },
-    {
-     "name": "Madeline Brewer",
-     "knownFor": "American actress",
-     "score": 28,
-     "qid": "Q17385680"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Mare-Winningham-More-Join-Madeline-Brewer-in-WILD-ROSE-at-NYTW-20260928",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "2df00d9c45",
    "priority": 2,
    "watched": [],
@@ -3647,7 +3631,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "casting",
    "show": "Damn Yankees",
    "title": "Neil Patrick Harris, Julianne Hough, Austin Scott to Return to Broadway in ‘Damn Yankees’",
    "quote": "",
@@ -3675,6 +3659,214 @@
      "name": "The Hollywood Reporter",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlA3SDFRc0ZOWE4wTEJidGNFUlV2NlVwVEFWLVVXN1NOVGoyMzhSRTNuRUNjQk94bEZaTkFPTzZjNG56R2o1d0R1cHNPSXJwTWk0bk1VdWd5R015dWFCa2hZOW1CMC1JLXdSRndrQTZIcGliaXNON3NjZUR1amVoTE1fWlZTNktKYWloRkN0VzJHRWZCOFBNX2Vrb0wxU0lnRDhST2hOaXdlZHZyNjV0Z0VLQ0xaU1BzeGZQS1dn",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlBKMG10TmlsVFREU1N6U2xhN044bEVXNlp5R3JncnJHcUVjY3pBVW90eDhoeDZMc29sODkwU1dvWEJUQkUwbEh5ZTVsZG14NC1xYWdRLVg3UHdJY3VBY09DMVh1VXRDampFVUJUTlRnbnZEdHMteW54RGx5R01LZndPR1ZWYUsyOG4xdmJCemIzYndjQlJrTWZRUlVHUFdP",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "fb1b2a0782",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-20T00:59:43+00:00",
+   "published": "2026-10-20T00:59:43+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "extension",
+   "show": null,
+   "title": "King of the Yees: Lauren Yee Opens Up the Family Photo Album",
+   "quote": "",
+   "quoteSource": "New York Stage Review",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Stage Review",
+     "url": "https://nystagereview.com/2026/10/19/king-of-the-yees-lauren-yee-opens-up-the-family-photo-album/",
+     "feed": "ny-stage-review"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "ea054edaa8",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-19T22:14:04+00:00",
+   "published": "2026-10-19T22:14:04+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Ethel Barrymore Theatre",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": "Here There Are Blueberries",
+   "title": "HERE THERE ARE BLUEBERRIES to Offer 5,500 Student Tickets for $10",
+   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} Here There Are Blueberries, written by Moisés Kaufman and Amanda Gronich, and directed by Kaufman, will launch a student ticket access initiative bringing at least 7,500 student…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-f254cd45653989aff2510e228bdef75e.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/HERE-THERE-ARE-BLUEBERRIES-to-Offer-5500-Student-Tickets-for-10-20261019",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "01b9c1c625",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-19T21:55:19+00:00",
+   "published": "2026-10-19T21:55:19+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Purgatory",
+   "title": "Cast Set for October PURGATORY Reading at Pluto's Loft",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSWpuRzhlVFE1THluUFpJRWlzMkxhTldCWlNKcHR0XzJjQzRvaFZQUHFsN3FaZzlaQlViSVhhM3Y4dVF0ZGllbGNmS1B0NkxjN2VJSXQ5alNzbElUVDhGekZHNjUxcG5yVkZkeHllT18wZHFrLXB6STRkY090Z3dRUXZUb1ZFVFdIaUNnTjZTRjRzVFBvMTB1aUY2NGNScU5yVmZWVFNwZmVwMDE2OVBXbVk4T2g0QkhI",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "e52c3ed351",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-17T12:30:00+00:00",
+   "published": "2026-10-19T21:04:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Booth Theatre",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": "Downstate",
+   "title": "Controversial ‘Downstate’ Again Delays Broadway Previews Due To Illness",
+   "quote": "UPDATE, Mon. Oct.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.08.32-PM.png",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/10/downstate-broadway-opening-date-1237155592/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "22cf1c191b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-19T20:22:36+00:00",
+   "published": "2026-10-19T20:22:36+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Green Alliance to hold fall 2026 e-waste drive",
+   "quote": "Learn what kinds of e-waste will be accepted and how to donate.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/BGA-Recycling.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadway-green-alliance-to-hold-fall-2026-e-waste-drive/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "b8ab1fe4f2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-19T20:15:56+00:00",
+   "published": "2026-10-19T20:15:56+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Hadestown",
+   "title": "Broadway’s ‘Hadestown’ donates costumes to Smithsonian museum",
+   "quote": "The wardrobe pieces join the institution’s collection of Broadway memorabilia.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Photo-by-Michaelah-Reynolds--2--1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadways-hadestown-donates-costumes-to-smithsonian-museum/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "54e1931a99",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T18:57:17+00:00",
+   "published": "2026-10-19T18:45:41+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Traitorz",
+   "title": "Complete Cast Set for TRAITORZ: THE UNAUTHORIZED MUSICAL PARODY",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXA5NFBKZzRrMGQ4VkJyQVEyUm1TTjN4cmlYdFpjSnY2ZkhUYW9MR3pqYTBzWjNvbmVFVG9Dc0RfN0tmaVc4ZFVKc1dUakFRMEpad3BjV2Fzc0k0al8zbDFCUkktMUsyallFam5LVHB6ZGlBUWxKeVhESU9vYWlaLWJNN3hFUHpMVEtHZF93d3gwSG9iNWlDbGZtM0dnRGtyeDlGeWJZQjlMcDd5QlpoRDRHZTBxUnQ0Ykd1ZDU3aw",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -3733,6 +3925,35 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadway-itinerary-week-of-10-19-2/",
      "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "4a88080262",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-28T19:46:35+00:00",
+   "published": "2026-10-19T17:40:35+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Oh, Mary!",
+   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -3825,6 +4046,64 @@
    "status": "review"
   },
   {
+   "id": "82539a49ac",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-19T16:44:00+00:00",
+   "published": "2026-10-19T16:44:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Students Can Now See Here There Are Blueberries on Broadway for $10",
+   "quote": "Plus, over 2,000 NYC public high school students will get to see the play for free.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/The-cast-of-HERE-THERE-ARE-BLUEBERRIES-at-New-York-Theatre-Workshop-Photo-by-Matthew-Murphy.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/students-can-now-see-here-there-are-blueberries-on-broadway-for-10",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "ea4b62b4b6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-19T16:40:10+00:00",
+   "published": "2026-10-19T16:40:10+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Revisit Rent on Broadway With These Rarely Seen Production Photos",
+   "quote": "Recently unearthed photos provide a closer look at Jonathan Larson's landmark musical.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/image0021.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/revisit-rent-on-broadway-with-these-rarely-seen-production-photos",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "c0a2fab0a2",
    "priority": 3,
    "watched": [],
@@ -3852,6 +4131,40 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "1a43f84df3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-19T15:07:21+00:00",
+   "published": "2026-10-19T15:07:21+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Traitors Musical Parody Finds Full Cast for Off-Broadway Bow",
+   "quote": "Traitorz by Tim Murray and Ben Fankhauser will star Dylan Adler as Alan Cumming.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/traitorz-cast.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEgzMlNGN2xnZFlKRjl1RXlQTUxGOXhLbDg5SVNQYjhscGdfYV9EYlQ5eE1La29xLTVFeXB5Z2hpRnUwZjRCTzgzaTlpeHdJaEdyYXFwWWZoUXh4emdia0lDYnNmRzc0czNRanhWNVp1M1QxVjk0SmZ4UHlKcVVHQjBTT1R6QlNqRVJ5ZnNGMmJTVkU",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/traitorz-musical-parody-finds-full-cast-for-off-broadway-bow",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "2863cae969",
@@ -4149,6 +4462,35 @@
    "status": "review"
   },
   {
+   "id": "d89131a2dc",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-06T19:38:32+00:00",
+   "published": "2026-10-19T04:04:41+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Other Desert Cities",
+   "title": "'Other Desert Cities' Broadway review — an A-list ensemble faces off",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmRJLVB6UjBvaDJNSXZhZXppaEtWQnJnM3EyOHNWcEpDYmJMaEVGNU5RWHlMQ0QzWUoxdGlmdGlEaElULXdKNUoxdmMxQUU4bGdCeV92T2dLbk1rYVRtZENITU41ZWFUU05xOF9DVjhGdDItQU5XN0R2TWlHZFVLY09FckN0LW83ZEI2S3ItbWJFVzFaU2tvNlIwWHh5LWlPamhPMF9iSkJKeFc4Y3phNnVXNHB4SFNBS19PeDlWeVBoVXRwYjhFa1lvQlJYM1RRc3NhejFOV3V3eU56",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "02129b5220",
    "priority": 3,
    "watched": [],
@@ -4173,35 +4515,6 @@
      "name": "New York Stage Review",
      "url": "https://nystagereview.com/2026/10/19/other-desert-cities-a-piercing-revival-of-jon-robin-baitzs-best-play/",
      "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "d89131a2dc",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-06T19:38:32+00:00",
-   "published": "2026-10-19T04:00:20+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Other Desert Cities",
-   "title": "'Other Desert Cities' Broadway review — an A-list ensemble faces off",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmRJLVB6UjBvaDJNSXZhZXppaEtWQnJnM3EyOHNWcEpDYmJMaEVGNU5RWHlMQ0QzWUoxdGlmdGlEaElULXdKNUoxdmMxQUU4bGdCeV92T2dLbk1rYVRtZENITU41ZWFUU05xOF9DVjhGdDItQU5XN0R2TWlHZFVLY09FckN0LW83ZEI2S3ItbWJFVzFaU2tvNlIwWHh5LWlPamhPMF9iSkJKeFc4Y3phNnVXNHB4SFNBS19PeDlWeVBoVXRwYjhFa1lvQlJYM1RRc3NhejFOV3V3eU56",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -4326,35 +4639,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "e52c3ed351",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-17T12:30:00+00:00",
-   "published": "2026-10-17T12:30:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Booth Theatre",
-   "placedBy": "venue",
-   "type": "new production",
-   "show": "Downstate",
-   "title": "Controversial ‘Downstate’ Again Delays First Broadway Preview Due To Illness",
-   "quote": "UPDATE: Downstate, the controversial new play by Bruce Norris directed by Joe Mantello, has bumped its first Broadway preview date again due to an illness within the company. The play will now have its first performance at the Booth Theatre on Tuesday, October 20.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.08.32-PM.png",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/downstate-broadway-opening-date-1237155592/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "9bac79dd90",
@@ -4531,35 +4815,6 @@
    "status": "review"
   },
   {
-   "id": "4a88080262",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-10-16T19:43:42+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "6d336faf21",
    "priority": 3,
    "watched": [],
@@ -4671,40 +4926,6 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/J-Harrison-Ghee-Will-Not-Return-to-OH-MARY-Tour-Following-Medical-Leave-20261016",
      "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "3599229d76",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-16T15:38:17+00:00",
-   "published": "2026-10-16T15:38:17+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "11 Times Broadway Replacements Led to Gender-Bending Roles",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdERkdFBFYVhueW13ekVnQ0pnM25MZkx1OHVMLThyMWdqUmgxUHVYWTItbk03SHhlOTRTVTlfc01HcHJhUTZRaF9UczF6aGNhZkVaSzdfVXJZd1dEdUN3N0QtMENRMDRubk96aUIzNUlPS0VrZGtlRURlQ0dacmhGTnhJZFRYUXlfLWtOekM0N0U",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/11-times-broadway-replacements-led-to-gender-bending-roles",
-     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -5179,6 +5400,35 @@
    "status": "review"
   },
   {
+   "id": "3599229d76",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-16T15:38:17+00:00",
+   "published": "2026-10-16T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "11 Times Broadway Replacements Led to Gender-Bending Roles",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdERkdFBFYVhueW13ekVnQ0pnM25MZkx1OHVMLThyMWdqUmgxUHVYWTItbk03SHhlOTRTVTlfc01HcHJhUTZRaF9UczF6aGNhZkVaSzdfVXJZd1dEdUN3N0QtMENRMDRubk96aUIzNUlPS0VrZGtlRURlQ0dacmhGTnhJZFRYUXlfLWtOekM0N0U",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "57d00d573b",
    "priority": 3,
    "watched": [],
@@ -5186,15 +5436,15 @@
    "published": "2026-10-16T02:04:31+00:00",
    "city": "New York",
    "tier": "Off-Broadway",
-   "venue": null,
+   "venue": "Daryl Roth Theatre",
    "placedBy": "words",
    "type": "new production",
    "show": "Midnight",
    "title": "'Midnight' Off-Broadway review — Todrick Hall's new musical goes big",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
+   "quote": "96 MIDNIGHT, the original new musical by Todrick Hall, will extend its engagement at the Daryl Roth Theatre through Sunday, January 3, 2027. Read reviews of the production!",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-6bf1f8d8f6bc56da181857ba3a6f7705.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -5208,6 +5458,11 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
      "feed": "gn-offbway-casting"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Todrick-Halls-MIDNIGHT-Extends-Off-Broadway-Run-To-January-2027-20261019",
+     "feed": "broadwayworld"
     }
    ],
    "status": "published"
@@ -8679,35 +8934,6 @@
    "status": "published"
   },
   {
-   "id": "54e1931a99",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-08T18:57:17+00:00",
-   "published": "2026-10-08T18:57:17+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Traitorz",
-   "title": "TRAITORZ: THE UNAUTHORIZED MUSICAL PARODY to Open Off-Broadway",
-   "quote": "TRAITORZ: THE UNAUTHORIZED MUSICAL PARODY, an unauthorized musical parody of the popular reality competition series “The Traitors,” will begin performances November 4, 2026 at St. Luke's Theatre.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-cd15a2206633d2932eeae05fef45e897.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/TRAITORZ-THE-UNAUTHORIZED-MUSICAL-PARODY-to-Open-Off-Broadway-20261008",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "24116f7dc8",
    "priority": 3,
    "watched": [],
@@ -11647,35 +11873,6 @@
    "status": "published"
   },
   {
-   "id": "6eda1da907",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T18:20:13+00:00",
-   "published": "2026-10-05T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Terrible",
-   "title": "Amanda Seyfried Remembers Her ‘Terrible’ Audition for ‘Annie’ on Broadway at Age 10",
-   "quote": "",
-   "quoteSource": "People",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUW9VRmViT1lwWXJoRGVybHBnVWs0dkhod1NCRHdpaW9NNS0zT0owQXBRY29GQjJKek8wUExYZ1NKYjRxeGhtOWFrUHJMVzdDN0Q2TDUzdXNXNDlSUXpDTFVVRUctZ0JPTi1iaHdKM1Fjb0kweENGekx2UC1jdVpRY1NPTjkwamhoSE9aUEtTSDNZNlhFbTJRMk5UTQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "93c9915d2a",
    "priority": 3,
    "watched": [],
@@ -11700,6 +11897,35 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2NxRXJidWtjSnN4V05tZ0V3MnB5TG9HQm9uSlA0T3VwOVZLU011RW0wYmRSVHBUQW1EUnhoX1BFX0tGYktUV0hpNWg4bEpWV1hMU3BjVXAxQ1A3VzNWUmRGbnJrNzF3cS1CaGQzOHljOC1nRnU2T1M3YlZsYnpUbC1TNERHQm1hdFFQNEZWdw",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "6eda1da907",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T18:20:13+00:00",
+   "published": "2026-10-05T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Terrible",
+   "title": "Amanda Seyfried Remembers Her ‘Terrible’ Audition for ‘Annie’ on Broadway at Age 10",
+   "quote": "",
+   "quoteSource": "People",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUW9VRmViT1lwWXJoRGVybHBnVWs0dkhod1NCRHdpaW9NNS0zT0owQXBRY29GQjJKek8wUExYZ1NKYjRxeGhtOWFrUHJMVzdDN0Q2TDUzdXNXNDlSUXpDTFVVRUctZ0JPTi1iaHdKM1Fjb0kweENGekx2UC1jdVpRY1NPTjkwamhoSE9aUEtTSDNZNlhFbTJRMk5UTQ",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -14373,151 +14599,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTRXVnVyR0xVcUVISVRENkpmbS00Q3FDQkRjM2l2OHcza3lzZGgtQ3U2VW1mWU8ySUdaTG1YMUhtZVdhRkF1Zm9UWkJWaHkzMUJvbTlLcHhoVG5LdHJyaVhtaTZaOWViN3d2Um90aWhGdTMwQ2JEb09oXzYydm1EQWcwckZvak9PMnN0TlhodG5BLV9EN1FiUEVlQkNDX2VlMGU2bU0xaDZqLTg",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "1b5ab8fc3b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-29T01:30:07+00:00",
-   "published": "2026-09-29T01:30:07+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "School Girls",
-   "title": "Denée Benton and Patina Miller Help Give ‘School Girls’ a Broadway Glow-Up",
-   "quote": "Jocelyn Bioh’s breakthrough 2017 play about cliques and colorism is just as funny — and devastating — with a sharp ensemble and direction by Whitney White.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/09/29/multimedia/28cul-school-girls-1-fkgt/28cul-school-girls-1-fkgt-mediumSquareAt3X.jpg",
-   "imageCredit": "Sara Krulwich/The New York Times",
-   "imageWidth": 1800,
-   "imageHeight": 1799,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/09/28/theater/school-girls-or-the-african-mean-girls-play-review.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "3f2a0d581a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T23:04:09+00:00",
-   "published": "2026-09-28T23:04:09+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "MCC Theater",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": "Mcc",
-   "title": "MCC Theater’s MISCAST27 Set for April 2027",
-   "quote": "MCC Theater’s annual benefit concert MISCAST will return on Monday, April 12, 2027. The one-night-only event features Broadway performers taking on songs from roles they would not traditionally be cast to play.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-b8779d4270b1619d5ef1ff347ec1c58e.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/MCC-Theaters-MISCAST27-Set-for-April-2027-20260928",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "5fb12af263",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T21:40:09+00:00",
-   "published": "2026-09-28T21:40:09+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "Bowtie Bar announces singing telegram partnership with the Pekoe Group",
-   "quote": "Cast members from “Two Strangers (Carry a Cake Across New York)” and “SIX” will serenade happy-hour patrons.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/09/BroadwayxTelegramCocktail2-1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/bowtie-bar-announces-singing-telegram-partnership-with-the-pekoe-group/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "51473bf131",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T21:30:00+00:00",
-   "published": "2026-09-28T21:30:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Reviews Are Out for School Girls; Or, The African Mean Girls Play On Broadway",
-   "quote": "The Jocelyn Bioh play makes its Main Stem debut via Manhattan Theatre Club.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/0095-Denee-Benton-Jordan-Rice-Nia-Otchere-Sarfo-Lucia-Aremu-Erin-Morton-and-Heather-Alicia-Simms-in-School-Girls_-Or-The-African-Mean-Girls-Play-(c)Matthew-Murphy.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/reviews-are-out-for-school-girls-or-the-african-mean-girls-play-on-broadway",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "24cae3b670",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T21:27:54+00:00",
-   "published": "2026-09-28T21:27:54+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "The Medium",
-   "title": "Victoria Livengood and More to Star in THE MEDIUM at Opera Carolina",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWg5cXJWR1JOYV9tcUJ1YzVWTi1zNG9fQWVaMlNNWmNYRERRWFd1N2JVQ0ZtN1d4d2ZjRUFid2dxZXB6Ti1DREk1czFmd1diVjVGTnpiX0gzNjRjRXNXSUhSdTVSTDBzOHpqc0ZQNnJvRzJMZkUzV3hHRl9CQUJmMDRCS2FUYU5GekpneFIySGpXV0dJUmRyTER0Y29KaU45X1lDaUxES3ZieW5VZnY1NEczLWs0TE9KLWltYk1Va00",
-     "feed": "gn-to-star"
     }
    ],
    "status": "review"
