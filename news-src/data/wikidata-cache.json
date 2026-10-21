@@ -226,6 +226,15 @@
   "qid": "Q104715469",
   "score": 1
  },
+ "Alison Pill": {
+  "checkedAt": "2026-10-21T17:56:47+00:00",
+  "description": "Canadian actress (born 1985)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q237781",
+  "score": 39
+ },
  "Allison Janney": {
   "checkedAt": "2026-10-17T01:06:06+00:00",
   "description": "American actress (born 1959)",
@@ -591,6 +600,15 @@
  },
  "Ato Blankson-Wood": {
   "checkedAt": "2026-09-29T18:29:19+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q100588726",
+  "score": 1
+ },
+ "Ato-Blankson Wood": {
+  "checkedAt": "2026-10-21T17:56:46+00:00",
   "description": "American actor",
   "isPerformer": true,
   "isPerson": true,
@@ -1090,6 +1108,15 @@
   "qid": null,
   "score": 0
  },
+ "Brennan House": {
+  "checkedAt": "2026-10-21T17:56:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Brian Cox": {
   "checkedAt": "2026-09-25T17:57:09+00:00",
   "description": "English physicist and musician",
@@ -1379,6 +1406,15 @@
   "qid": null,
   "score": 0
  },
+ "Carnegie Hall": {
+  "checkedAt": "2026-10-21T17:56:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Carolee Carmello": {
   "checkedAt": "2026-10-03T01:45:48+00:00",
   "description": "American actress and singer",
@@ -1441,6 +1477,15 @@
   "knownFor": [],
   "qid": "Q254766",
   "score": 39
+ },
+ "Cedric Neal": {
+  "checkedAt": "2026-10-21T17:56:38+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q60584935",
+  "score": 0
  },
  "Celebrate Hispanic Heritage": {
   "checkedAt": "2026-09-30T01:52:37+00:00",
@@ -1652,6 +1697,15 @@
   "qid": null,
   "score": 0
  },
+ "Colton Ryan": {
+  "checkedAt": "2026-10-21T17:56:35+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q106658268",
+  "score": 6
+ },
  "Come Out": {
   "checkedAt": "2026-10-20T17:49:06+00:00",
   "description": null,
@@ -1741,6 +1795,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Corbin Bleu": {
+  "checkedAt": "2026-10-21T17:56:34+00:00",
+  "description": "American actor (born 1989)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4617",
+  "score": 224
  },
  "Corey Fogelmanis": {
   "checkedAt": "2026-09-25T17:55:57+00:00",
@@ -1931,6 +1994,15 @@
   "qid": "Q17027936",
   "score": 3
  },
+ "Danya Taymor Directing": {
+  "checkedAt": "2026-10-21T17:56:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Daphne Rubin-Vega": {
   "checkedAt": "2026-10-08T19:10:31+00:00",
   "description": "Panamanian actress",
@@ -1993,6 +2065,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Deirdre O'Connell": {
+  "checkedAt": "2026-10-21T17:56:49+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1524102",
+  "score": 12
  },
  "Delaying Start": {
   "checkedAt": "2026-09-25T17:47:36+00:00",
@@ -3223,6 +3304,15 @@
   "qid": null,
   "score": 0
  },
+ "Hamilton Alums": {
+  "checkedAt": "2026-10-21T17:56:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hamilton Grosses Huge": {
   "checkedAt": "2026-10-14T01:37:30+00:00",
   "description": null,
@@ -3234,6 +3324,15 @@
  },
  "Hamilton Hits": {
   "checkedAt": "2026-09-25T17:56:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Hamilton Reunion": {
+  "checkedAt": "2026-10-21T17:56:24+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3445,6 +3544,15 @@
  },
  "Hospitalized During": {
   "checkedAt": "2026-09-30T18:18:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Host Halloween Costume": {
+  "checkedAt": "2026-10-21T17:56:52+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3673,6 +3781,15 @@
  },
  "Innovative Rights Deal": {
   "checkedAt": "2026-10-13T19:46:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Inside Bowen Yang": {
+  "checkedAt": "2026-10-21T17:56:29+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4511,6 +4628,15 @@
   "qid": null,
   "score": 0
  },
+ "Kansas City Repertory": {
+  "checkedAt": "2026-10-21T17:56:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Kara Young": {
   "checkedAt": "2026-10-13T19:46:22+00:00",
   "description": "American model and actress",
@@ -4555,6 +4681,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Kathleen Turner": {
+  "checkedAt": "2026-10-21T17:56:42+00:00",
+  "description": "American actress (born 1954)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q222008",
+  "score": 67
  },
  "Kathryn Hahn": {
   "checkedAt": "2026-10-15T01:14:48+00:00",
@@ -4642,6 +4777,15 @@
  },
  "Kidman Carol": {
   "checkedAt": "2026-10-07T19:14:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kilgallen World": {
+  "checkedAt": "2026-10-21T17:56:45+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5080,6 +5224,15 @@
   "qid": null,
   "score": 0
  },
+ "Live Stream Final": {
+  "checkedAt": "2026-10-21T17:56:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Liza Colón-Zayas": {
   "checkedAt": "2026-09-25T17:54:06+00:00",
   "description": "American actress",
@@ -5250,6 +5403,15 @@
   "qid": "Q17385680",
   "score": 28
  },
+ "Magno Rubio": {
+  "checkedAt": "2026-10-21T17:56:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Mandy Moore": {
   "checkedAt": "2026-10-14T17:49:09+00:00",
   "description": "American actress and singer (born 1984)",
@@ -5389,6 +5551,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Mary Todd Lincoln": {
+  "checkedAt": "2026-10-21T17:56:30+00:00",
+  "description": "First Lady of the United States from 1861 to 1865",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q215062",
+  "score": 57
  },
  "Maryann Plunkett": {
   "checkedAt": "2026-09-25T17:55:00+00:00",
@@ -6175,6 +6346,15 @@
  },
  "Own Matrimony": {
   "checkedAt": "2026-10-19T19:04:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Own Story": {
+  "checkedAt": "2026-10-21T17:56:56+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7601,6 +7781,15 @@
   "qid": null,
   "score": 0
  },
+ "Strange Loop": {
+  "checkedAt": "2026-10-21T17:56:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Stranger Things": {
   "checkedAt": "2026-09-29T18:29:40+00:00",
   "description": null,
@@ -7628,6 +7817,15 @@
   "qid": null,
   "score": 0
  },
+ "Stream Final Week": {
+  "checkedAt": "2026-10-21T17:56:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Students Can Now": {
   "checkedAt": "2026-10-20T01:36:43+00:00",
   "description": null,
@@ -7639,6 +7837,15 @@
  },
  "Sullivan Players": {
   "checkedAt": "2026-10-13T19:46:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Supreme Court Justice": {
+  "checkedAt": "2026-10-21T17:56:31+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7792,6 +7999,15 @@
   ],
   "qid": "Q134262",
   "score": 101
+ },
+ "Tennessee Williams Festival": {
+  "checkedAt": "2026-10-21T17:56:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Terrence McNally": {
   "checkedAt": "2026-10-20T17:49:15+00:00",
@@ -8336,8 +8552,26 @@
   "qid": "Q16193218",
   "score": 2
  },
+ "Vince Gatton": {
+  "checkedAt": "2026-10-21T17:56:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Viveca Chow": {
   "checkedAt": "2026-10-07T19:14:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Voting Now": {
+  "checkedAt": "2026-10-21T17:56:54+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
