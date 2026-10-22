@@ -2437,6 +2437,15 @@
   "qid": "Q235132",
   "score": 94
  },
+ "Emilio Sakraya": {
+  "checkedAt": "2026-10-22T01:16:39+00:00",
+  "description": "German actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q15808026",
+  "score": 12
+ },
  "Emily Bergl": {
   "checkedAt": "2026-09-27T01:07:01+00:00",
   "description": "British actress",
@@ -2520,6 +2529,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Esther McGregor": {
+  "checkedAt": "2026-10-22T01:16:38+00:00",
+  "description": "British actress and model",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q117857966",
+  "score": 5
  },
  "Ethan Hawke": {
   "checkedAt": "2026-10-07T19:14:20+00:00",
@@ -3718,6 +3736,15 @@
  },
  "Including Ally Bonino": {
   "checkedAt": "2026-10-02T18:14:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Including Hamilton": {
+  "checkedAt": "2026-10-22T01:16:35+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7871,6 +7898,15 @@
   "qid": null,
   "score": 0
  },
+ "Sydney Lemmon": {
+  "checkedAt": "2026-10-22T01:16:37+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q97667780",
+  "score": 10
+ },
  "Syndee Winters": {
   "checkedAt": "2026-10-06T18:49:14+00:00",
   "description": null,
@@ -8125,6 +8161,15 @@
   "knownFor": [],
   "qid": "Q456894",
   "score": 22
+ },
+ "Ticket Details": {
+  "checkedAt": "2026-10-22T01:16:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Ticket Prices": {
   "checkedAt": "2026-10-14T01:37:29+00:00",
