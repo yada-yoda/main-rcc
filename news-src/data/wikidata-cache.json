@@ -769,6 +769,15 @@
   "qid": null,
   "score": 0
  },
+ "Benjamin Button": {
+  "checkedAt": "2026-10-22T17:52:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Benvenuto Don Giovanni": {
   "checkedAt": "2026-10-15T01:14:58+00:00",
   "description": null,
@@ -1433,6 +1442,18 @@
   "qid": "Q17317909",
   "score": 38
  },
+ "Caryl Churchill": {
+  "checkedAt": "2026-10-22T17:52:47+00:00",
+  "description": "British dramatist",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [
+   "Top Girls",
+   "Escaped Alone"
+  ],
+  "qid": "Q463574",
+  "score": 24
+ },
  "Casey Likes": {
   "checkedAt": "2026-10-20T17:48:34+00:00",
   "description": "American actor",
@@ -1814,6 +1835,15 @@
   "qid": "Q15229529",
   "score": 9
  },
+ "Cost Nothing": {
+  "checkedAt": "2026-10-22T17:52:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Costs Soared": {
   "checkedAt": "2026-10-20T17:48:59+00:00",
   "description": null,
@@ -1822,6 +1852,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Craig Revel Horwood": {
+  "checkedAt": "2026-10-22T17:52:31+00:00",
+  "description": "British and Australian choreographer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5181359",
+  "score": 8
  },
  "Creation Stories": {
   "checkedAt": "2026-10-02T18:15:00+00:00",
@@ -1870,6 +1909,15 @@
  },
  "Cultural Reawakening": {
   "checkedAt": "2026-09-25T17:56:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Curious Case": {
+  "checkedAt": "2026-10-22T17:52:27+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2203,6 +2251,15 @@
  },
  "Disney Believe": {
   "checkedAt": "2026-10-08T02:34:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Disney Legend Lin-Manuel": {
+  "checkedAt": "2026-10-22T17:52:25+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2649,6 +2706,15 @@
  },
  "Feature Christiani Pitts": {
   "checkedAt": "2026-10-16T17:12:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Feel Younger": {
+  "checkedAt": "2026-10-22T17:52:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3270,6 +3336,15 @@
  },
  "Grief Eater Near": {
   "checkedAt": "2026-10-05T21:00:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Group Reservations Through": {
+  "checkedAt": "2026-10-22T17:52:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4763,6 +4838,15 @@
   "qid": "Q4328796",
   "score": 18
  },
+ "Kelli O’Hara Heading": {
+  "checkedAt": "2026-10-22T17:52:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ken Burns": {
   "checkedAt": "2026-10-16T01:01:36+00:00",
   "description": "American documentarian and filmmaker (born 1953)",
@@ -5082,6 +5166,18 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Leslie Jones": {
+  "checkedAt": "2026-10-22T17:52:43+00:00",
+  "description": "American comedian and actress (born 1967)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Saturday Night Live",
+   "Ghostbusters"
+  ],
+  "qid": "Q6530936",
+  "score": 26
  },
  "Letter-Writing Initiative": {
   "checkedAt": "2026-10-05T21:00:38+00:00",
@@ -6005,6 +6101,15 @@
   "qid": null,
   "score": 0
  },
+ "Next Fall": {
+  "checkedAt": "2026-10-22T17:52:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Next List": {
   "checkedAt": "2026-09-30T18:18:16+00:00",
   "description": null,
@@ -6520,6 +6625,15 @@
   "qid": null,
   "score": 0
  },
+ "Phoebe Robinson": {
+  "checkedAt": "2026-10-22T17:52:45+00:00",
+  "description": "American rower, Syracuse (2020–2021)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q128806916",
+  "score": 0
+ },
  "Place Where": {
   "checkedAt": "2026-09-25T17:52:23+00:00",
   "description": null,
@@ -6720,6 +6834,15 @@
  },
  "Pursue Singing Then": {
   "checkedAt": "2026-10-09T18:41:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Pushes Button": {
+  "checkedAt": "2026-10-22T17:52:52+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7472,6 +7595,15 @@
   "qid": "Q7456590",
   "score": 1
  },
+ "Shakespeare Event": {
+  "checkedAt": "2026-10-22T17:52:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sherri Shepherd": {
   "checkedAt": "2026-09-25T17:54:22+00:00",
   "description": "American actress, comedian, author and television personality",
@@ -7549,6 +7681,15 @@
  },
  "Singing Waiters": {
   "checkedAt": "2026-10-15T01:14:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Sister Act": {
+  "checkedAt": "2026-10-22T17:52:33+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8237,6 +8378,15 @@
   "qid": null,
   "score": 0
  },
+ "Time-Travel Romance": {
+  "checkedAt": "2026-10-22T17:52:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Tina Benko": {
   "checkedAt": "2026-10-01T01:49:58+00:00",
   "description": "American actor",
@@ -8327,6 +8477,15 @@
   "qid": "Q105682",
   "score": 64
  },
+ "Tom Hanks": {
+  "checkedAt": "2026-10-22T17:52:30+00:00",
+  "description": "American actor and film producer (born 1956)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2263",
+  "score": 136
+ },
  "Tom Hiddleston": {
   "checkedAt": "2026-09-30T01:52:24+00:00",
   "description": "English actor (born 1981)",
@@ -8362,6 +8521,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Tom Stoppard": {
+  "checkedAt": "2026-10-22T17:52:35+00:00",
+  "description": "Czech–English playwright (1937–2025)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q294773",
+  "score": 69
  },
  "Topdog/Underdog Shows Why": {
   "checkedAt": "2026-10-01T18:43:50+00:00",
