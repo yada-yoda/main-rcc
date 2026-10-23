@@ -868,6 +868,17 @@
   "qid": null,
   "score": 0
  },
+ "Bill Nye": {
+  "checkedAt": "2026-10-23T01:15:38+00:00",
+  "description": "American science educator, comedian, television host, actor, writer, scientist and mechanical engineer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Bill Nye the Science Guy"
+  ],
+  "qid": "Q2619019",
+  "score": 46
+ },
  "Bill Pay": {
   "checkedAt": "2026-09-25T17:55:27+00:00",
   "description": "American musician",
@@ -2605,6 +2616,15 @@
   "qid": "Q484615",
   "score": 81
  },
+ "Ethan Slater": {
+  "checkedAt": "2026-10-23T01:15:34+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q47493069",
+  "score": 12
+ },
  "Eureka Day": {
   "checkedAt": "2026-09-25T17:57:22+00:00",
   "description": null,
@@ -3635,6 +3655,15 @@
   "qid": null,
   "score": 0
  },
+ "Horrors Run": {
+  "checkedAt": "2026-10-23T01:15:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hospitalized During": {
   "checkedAt": "2026-09-30T18:18:11+00:00",
   "description": null,
@@ -3664,6 +3693,15 @@
  },
  "Host Screening": {
   "checkedAt": "2026-10-21T01:20:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "How Black": {
+  "checkedAt": "2026-10-23T01:15:40+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4034,6 +4072,15 @@
   "qid": null,
   "score": 0
  },
+ "James Russell": {
+  "checkedAt": "2026-10-23T01:15:32+00:00",
+  "description": "researcher (ORCID 0000-0002-2062-3155)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q83278448",
+  "score": 0
+ },
  "Jamie Campbell Bower": {
   "checkedAt": "2026-09-25T17:54:57+00:00",
   "description": "British actor",
@@ -4195,6 +4242,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Jennifer Simard": {
+  "checkedAt": "2026-10-23T01:15:44+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q24570379",
+  "score": 3
  },
  "Jennifer Simard Says": {
   "checkedAt": "2026-10-09T18:40:50+00:00",
@@ -4529,6 +4585,17 @@
   "qid": null,
   "score": 0
  },
+ "Jordan Peele": {
+  "checkedAt": "2026-10-23T01:15:28+00:00",
+  "description": "American actor, comedian and filmmaker (born 1979)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Get Out"
+  ],
+  "qid": "Q3371986",
+  "score": 50
+ },
  "Jordan Tyson": {
   "checkedAt": "2026-10-15T01:14:46+00:00",
   "description": "American basketball player (born 1995)",
@@ -4609,6 +4676,15 @@
   "knownFor": [],
   "qid": "Q102561023",
   "score": 0
+ },
+ "Judy Kaye": {
+  "checkedAt": "2026-10-23T01:15:25+00:00",
+  "description": "American singer and actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6304496",
+  "score": 5
  },
  "Judy Kuhn": {
   "checkedAt": "2026-09-25T17:48:08+00:00",
@@ -4838,6 +4914,15 @@
   "qid": "Q4328796",
   "score": 18
  },
+ "Kelli O’Hara": {
+  "checkedAt": "2026-10-23T01:15:48+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4328796",
+  "score": 18
+ },
  "Kelli O’Hara Heading": {
   "checkedAt": "2026-10-22T17:52:39+00:00",
   "description": null,
@@ -4897,6 +4982,24 @@
  },
  "Kilgallen World": {
   "checkedAt": "2026-10-21T17:56:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Knight Departs": {
+  "checkedAt": "2026-10-23T01:15:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Knight Exits": {
+  "checkedAt": "2026-10-23T01:15:45+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5526,6 +5629,24 @@
   "qid": "Q17385680",
   "score": 28
  },
+ "Mae Jemison": {
+  "checkedAt": "2026-10-23T01:15:37+00:00",
+  "description": "American doctor and NASA astronaut",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q34091",
+  "score": 68
+ },
+ "Maggie Lacey": {
+  "checkedAt": "2026-10-23T01:15:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Magno Rubio": {
   "checkedAt": "2026-10-21T17:56:33+00:00",
   "description": null,
@@ -5656,6 +5777,15 @@
   "knownFor": [],
   "qid": "Q114346856",
   "score": 3
+ },
+ "Mary Beth Peil": {
+  "checkedAt": "2026-10-23T01:15:27+00:00",
+  "description": "American singer and actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q449134",
+  "score": 20
  },
  "Mary Jumps": {
   "checkedAt": "2026-09-25T17:56:44+00:00",
@@ -6071,6 +6201,15 @@
   "qid": null,
   "score": 0
  },
+ "Neil DeGrasse Tyson": {
+  "checkedAt": "2026-10-23T01:15:49+00:00",
+  "description": "American astrophysicist and science communicator",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q310903",
+  "score": 80
+ },
  "Neil Patrick Harris": {
   "checkedAt": "2026-09-28T01:26:08+00:00",
   "description": "American actor (born 1973)",
@@ -6451,6 +6590,15 @@
  },
  "Other Palace": {
   "checkedAt": "2026-09-25T17:51:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Out Live": {
+  "checkedAt": "2026-10-23T01:15:30+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7577,6 +7725,15 @@
   "qid": null,
   "score": 0
  },
+ "See Tom Hiddleston": {
+  "checkedAt": "2026-10-23T01:15:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "See Wanted": {
   "checkedAt": "2026-10-13T19:46:19+00:00",
   "description": null,
@@ -7697,6 +7854,15 @@
   "qid": null,
   "score": 0
  },
+ "Skylight Music": {
+  "checkedAt": "2026-10-23T01:15:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Slam Frank": {
   "checkedAt": "2026-10-05T21:00:29+00:00",
   "description": null,
@@ -7744,6 +7910,15 @@
  },
  "Solo Show Man": {
   "checkedAt": "2026-10-20T17:48:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Songs Cut": {
+  "checkedAt": "2026-10-23T01:15:46+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8369,6 +8544,15 @@
   "qid": "Q298295",
   "score": 40
  },
+ "Tim Rice Ahead": {
+  "checkedAt": "2026-10-23T01:15:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Time Back": {
   "checkedAt": "2026-10-21T01:20:23+00:00",
   "description": null,
@@ -8668,6 +8852,15 @@
  },
  "Union/Guild Members": {
   "checkedAt": "2026-10-14T17:49:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "United Interns": {
+  "checkedAt": "2026-10-23T01:15:42+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
