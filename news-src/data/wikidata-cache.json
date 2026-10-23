@@ -325,6 +325,15 @@
   "qid": "Q16150323",
   "score": 20
  },
+ "Amish Project": {
+  "checkedAt": "2026-10-23T17:45:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Among Line-Up": {
   "checkedAt": "2026-10-08T19:10:50+00:00",
   "description": null,
@@ -534,6 +543,15 @@
  },
  "Apple Boys": {
   "checkedAt": "2026-10-01T01:50:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Area News": {
+  "checkedAt": "2026-10-23T17:44:55+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -769,6 +787,15 @@
   "qid": null,
   "score": 0
  },
+ "Benet Beg Fans": {
+  "checkedAt": "2026-10-23T17:45:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Benjamin Button": {
   "checkedAt": "2026-10-22T17:52:28+00:00",
   "description": null,
@@ -867,6 +894,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Bill Irwin": {
+  "checkedAt": "2026-10-23T17:45:18+00:00",
+  "description": "American actor, clown, and comedian (born 1950)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q603317",
+  "score": 57
  },
  "Bill Nye": {
   "checkedAt": "2026-10-23T01:15:38+00:00",
@@ -1397,6 +1433,15 @@
   "qid": null,
   "score": 0
  },
+ "Cares/Equity Fights": {
+  "checkedAt": "2026-10-23T17:45:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Carl Clemons-Hopkins": {
   "checkedAt": "2026-10-02T18:15:05+00:00",
   "description": "American actor",
@@ -1575,6 +1620,15 @@
   "knownFor": [],
   "qid": "Q18325614",
   "score": 12
+ },
+ "Chord Overstreet": {
+  "checkedAt": "2026-10-23T17:45:11+00:00",
+  "description": "American actor, singer and musician",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q53714",
+  "score": 34
  },
  "Choreograph La La": {
   "checkedAt": "2026-10-14T17:49:11+00:00",
@@ -2224,6 +2278,15 @@
   "qid": null,
   "score": 0
  },
+ "Dimitri Joseph Moïse": {
+  "checkedAt": "2026-10-23T17:45:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Dionne Warwick": {
   "checkedAt": "2026-10-07T19:14:26+00:00",
   "description": "American singer (born 1940)",
@@ -2271,6 +2334,15 @@
  },
  "Disney Legend Lin-Manuel": {
   "checkedAt": "2026-10-22T17:52:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Documentary About": {
+  "checkedAt": "2026-10-23T17:45:01+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2400,6 +2472,15 @@
   ],
   "qid": "Q4030",
   "score": 88
+ },
+ "Earlier Than Expected": {
+  "checkedAt": "2026-10-23T17:44:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Economic Revenue": {
   "checkedAt": "2026-10-21T01:20:30+00:00",
@@ -2531,6 +2612,15 @@
   "knownFor": [],
   "qid": "Q63086179",
   "score": 49
+ },
+ "Emma Pfitzer-Price": {
+  "checkedAt": "2026-10-23T17:44:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Emma Thompson": {
   "checkedAt": "2026-10-19T19:03:51+00:00",
@@ -2798,6 +2888,15 @@
  },
  "Final Sing-Along Performance": {
   "checkedAt": "2026-09-29T18:29:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Final Time": {
+  "checkedAt": "2026-10-23T17:44:56+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3601,6 +3700,15 @@
   "qid": null,
   "score": 0
  },
+ "Heather Morris": {
+  "checkedAt": "2026-10-23T17:45:09+00:00",
+  "description": "woman; daughter of Angus M. Kinloch; wife of Ralph Camroux Morris",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q107148555",
+  "score": 0
+ },
  "Here There": {
   "checkedAt": "2026-10-05T21:00:00+00:00",
   "description": null,
@@ -3684,6 +3792,15 @@
  },
  "Host Performance Benefiting": {
   "checkedAt": "2026-10-13T19:46:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Host Rent": {
+  "checkedAt": "2026-10-23T17:45:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4153,6 +4270,15 @@
   "qid": "Q112526488",
   "score": 0
  },
+ "Jay Armstrong Johnson": {
+  "checkedAt": "2026-10-23T17:45:03+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q21207227",
+  "score": 10
+ },
  "Jay Gatsby": {
   "checkedAt": "2026-10-13T19:46:18+00:00",
   "description": null,
@@ -4560,6 +4686,24 @@
  },
  "Jonathan Groff Dazzles": {
   "checkedAt": "2026-10-07T19:14:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Jonathan Groff Heads": {
+  "checkedAt": "2026-10-23T17:45:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Jonathan Groff Returning": {
+  "checkedAt": "2026-10-23T17:45:24+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6120,6 +6264,15 @@
   "qid": null,
   "score": 0
  },
+ "Mud Row": {
+  "checkedAt": "2026-10-23T17:45:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Music Hall": {
   "checkedAt": "2026-10-08T02:34:37+00:00",
   "description": null,
@@ -6872,6 +7025,15 @@
   "qid": null,
   "score": 0
  },
+ "Pre-Show Live Stream": {
+  "checkedAt": "2026-10-23T17:45:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Presidential Crowd Work": {
   "checkedAt": "2026-10-13T19:46:53+00:00",
   "description": null,
@@ -7617,6 +7779,15 @@
   "qid": "Q24570150",
   "score": 5
  },
+ "Scary Moment Regarding": {
+  "checkedAt": "2026-10-23T17:45:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Scene From Broadway's": {
   "checkedAt": "2026-09-25T17:47:37+00:00",
   "description": null,
@@ -7679,6 +7850,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "School Shooting": {
+  "checkedAt": "2026-10-23T17:45:22+00:00",
+  "description": "Finnish mass murderer and school shooter.(1989–2007)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2089963",
+  "score": 6
  },
  "Scott Bakula": {
   "checkedAt": "2026-10-16T01:01:45+00:00",
@@ -7962,6 +8142,15 @@
   "qid": null,
   "score": 0
  },
+ "Sparkling Imaginary Invalid": {
+  "checkedAt": "2026-10-23T17:45:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sparks Fly When": {
   "checkedAt": "2026-09-25T17:57:13+00:00",
   "description": null,
@@ -8117,6 +8306,15 @@
  },
  "Stop Filming": {
   "checkedAt": "2026-09-25T17:52:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Stop Recording": {
+  "checkedAt": "2026-10-23T17:45:13+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8760,6 +8958,15 @@
   "qid": null,
   "score": 0
  },
+ "Troy Iwata": {
+  "checkedAt": "2026-10-23T17:45:04+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q101619013",
+  "score": 3
+ },
  "True Original": {
   "checkedAt": "2026-10-02T18:14:38+00:00",
   "description": null,
@@ -8840,6 +9047,15 @@
   "knownFor": [],
   "qid": "Q7859641",
   "score": 2
+ },
+ "Tyler Perry": {
+  "checkedAt": "2026-10-23T17:45:25+00:00",
+  "description": "American actor and filmmaker (born 1969)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q686301",
+  "score": 53
  },
  "Underdog Shows Why": {
   "checkedAt": "2026-10-03T01:45:52+00:00",
@@ -9039,6 +9255,15 @@
   "qid": null,
   "score": 0
  },
+ "Welcome Carla R": {
+  "checkedAt": "2026-10-23T17:44:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Welcome Nick Drake": {
   "checkedAt": "2026-10-16T17:11:55+00:00",
   "description": null,
@@ -9094,6 +9319,15 @@
   ],
   "qid": "Q956021",
   "score": 35
+ },
+ "What Ails": {
+  "checkedAt": "2026-10-23T17:45:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "What Did Reviews": {
   "checkedAt": "2026-10-20T17:48:45+00:00",
