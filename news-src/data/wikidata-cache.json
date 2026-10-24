@@ -2536,6 +2536,15 @@
   "qid": null,
   "score": 0
  },
+ "Either Meet": {
+  "checkedAt": "2026-10-24T01:24:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Elaine Lynn": {
   "checkedAt": "2026-09-30T18:17:56+00:00",
   "description": null,
@@ -4144,6 +4153,15 @@
   "qid": "Q77283105",
   "score": 0
  },
+ "Jake Shears": {
+  "checkedAt": "2026-10-24T01:24:31+00:00",
+  "description": "American singer (born 1978)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q460908",
+  "score": 20
+ },
  "James Corrigan": {
   "checkedAt": "2026-10-19T19:03:58+00:00",
   "description": "American runner",
@@ -4464,6 +4482,15 @@
   ],
   "qid": "Q29452733",
   "score": 5
+ },
+ "Jimin Moon": {
+  "checkedAt": "2026-10-24T01:24:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Jin Ha": {
   "checkedAt": "2026-10-08T19:10:34+00:00",
@@ -5069,6 +5096,15 @@
  },
  "Kelli O’Hara Heading": {
   "checkedAt": "2026-10-22T17:52:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kelvin Moon Loh": {
+  "checkedAt": "2026-10-24T01:24:28+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6084,6 +6120,15 @@
   "qid": null,
   "score": 0
  },
+ "Member Austin Colby": {
+  "checkedAt": "2026-10-24T01:24:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Merboy Next Door": {
   "checkedAt": "2026-09-28T20:01:23+00:00",
   "description": null,
@@ -6698,6 +6743,15 @@
  },
  "Operation Mincemeat": {
   "checkedAt": "2026-10-02T18:15:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Original Great Gatsby": {
+  "checkedAt": "2026-10-24T01:24:26+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -9373,6 +9427,15 @@
   "knownFor": [],
   "qid": "Q130278036",
   "score": 1
+ },
+ "Why Lin-Manuel Miranda": {
+  "checkedAt": "2026-10-24T01:24:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Why Love": {
   "checkedAt": "2026-10-01T18:43:44+00:00",

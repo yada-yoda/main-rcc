@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "9c20e61ceb",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-23T19:57:32+00:00",
+   "published": "2026-10-23T19:57:32+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "The Warriors",
+   "title": "Lin-Manuel Miranda, Eisa Davis On Adapting THE WARRIORS For Stage",
+   "quote": "Lin-Manuel Miranda and Eisa Davis sat down with THE VIEW to discuss their work adapting the 1979 film The Warriors into a new musical, WARRIORS, for the stage. The conversation centered on how the pair approached reimagining the cult film for a theatrical audience and the choices involved in bringing the story to a Ne…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/1792781784-77193-0a5c6ac4.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Lin-Manuel Miranda",
+     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
+     "score": 45,
+     "qid": "Q1646482"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Lin-Manuel-Miranda-Eisa-Davis-On-Adapting-THE-WARRIORS-For-Stage-20261023",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "1c35db0d82",
    "priority": 2,
    "watched": [],
@@ -140,6 +176,42 @@
     {
      "name": "Weisradio",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUJCNWg4M0dibk0zSUNlRXh2QVRWTWJ0R0g4V1VwNFdDSnpjbkVqd3hvUnl0ME9oN3ZQaU5jOGJ3OWxYeG9qX2Vaejc4V3pMeXNFZFl0U3ZCRTI2SHJxX0taT3JiNEVIZk9HYTd3SGdFbHhYdmd1eEtSSE41S3FZUmxDTVJjZUlkZVZlZw",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "67050b3021",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-23T13:11:50+00:00",
+   "published": "2026-10-23T13:11:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Tom Hanks to return to Broadway with original play",
+   "quote": "",
+   "quoteSource": "Sandhills Express",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Tom Hanks",
+     "knownFor": "American actor and film producer",
+     "score": 136,
+     "qid": "Q2263"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sandhills Express",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHVKaTNMeEVnTXBUZ25YWlFiLWRJUEpkMUtSTEV6SnFlNVo0VGhJLXhvMGl1TmFpVnVRdmx4RHo2TzZ6c0swSkJGNU81NWpXWENBUDNvS2RCQzJkUjdBbHV4QWhnTDNwSkVacFI1eTdkUElXWFZCNkVfRHpUbVlyNFlxZ21wQWlHR0FkRUFxVjBTaXQ0TjRXWVZoem1uOXQ3b2hRbDMyYmg3WUJQSzV2MWdn",
      "feed": "gn-to-star"
     }
    ],
@@ -352,42 +424,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "b8e07dad8b",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-22T19:31:07+00:00",
-   "published": "2026-10-22T19:31:07+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Palace Theatre",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": null,
-   "title": "Andrew Lloyd Webber’s Songs Cut From Musical Written With Tim Rice Ahead Of London Run",
-   "quote": "Andrew Lloyd Webber’s music will no longer be part of Sherlock Holmes and the 12 Days of Christmas, the festive comedy that reunited him with longtime writing partner Tim Rice, ahead of the show’s London revival next month. The show, which features a book by Humphrey Ker and David Reed, premiered at Birmingham Rep las…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-b66d3d5c30c633d84afe313d2f0f6f84.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Andrew Lloyd Webber",
-     "knownFor": "Evita, Jesus Christ Superstar",
-     "score": 67,
-     "qid": "Q180975"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Andrew-Lloyd-Webbers-Songs-Cut-From-Musical-Written-With-Tim-Rice-Ahead-Of-London-Run-20261022",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "c9e1281cc8",
@@ -1391,7 +1427,7 @@
    "published": "2026-10-20T12:30:00+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "Lunt-Fontanne Theatre",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Warriors",
@@ -1445,11 +1481,6 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/warriors-broadway-casey-likes-amber-gray-jasmine-cephas-jones-1237168241/",
      "feed": "deadline-theater"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/lin-manuel-mirandas-warriors-announces-broadway-cast-led-by-jasmine-cephas-jones-and-amber-gray/",
-     "feed": "broadway-news"
     },
     {
      "name": "Broadway Shows",
@@ -3796,78 +3827,6 @@
    "status": "review"
   },
   {
-   "id": "f0be929037",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-03T00:00:00+00:00",
-   "published": "2026-10-03T00:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Todd Haimes Theatre",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "5 Delightful Details From the Fallen Angels Film Starring Kelli O'Hara and Rose Byrne",
-   "quote": "The show was filmed on Broadway at the Todd Haimes Theatre, and soon, you can watch it in movie theatres.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/FALLEN_ANGELS_EVAN_ZIMMERMAN_0800_v1.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Rose Byrne",
-     "knownFor": "Peter Rabbit, Peter Rabbit 2: The Runaway",
-     "score": 57,
-     "qid": "Q228717"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/5-reasons-fallen-angels",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "855b1a1ee0",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T23:00:26+00:00",
-   "published": "2026-10-02T23:00:26+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Dolly: A True Original Musical, the upcoming Broadway production, has set its lead cast, all handpicked by Dolly Parton herself. Read more below.",
-   "quote": "",
-   "quoteSource": "Facebook",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMV9JZTk0alBDM1ZJZFh1V1pXUGFOSjdadjFFZ0dKX3BJcV9tUklpcFBtdjdOR2hfUWtTNmp4MXBTeDBTQ2FzOTVMbUwtbUUwWVlzenAydkxsdEFwdG9QUXJVdTI0bW1CZ3dERnFNRXlZbTFhZUJEVnZUbU5ydDgxcThlck02Y3A3SllNdkdNLUlfejdBb3gtcld4RWloZ25HUmRVaE9ScTdRbm5hN2dxWGs4enp4ZmI2X0tWWVlqRndMNXZuSnRDSWpia1Fia3ozRXhKeQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "c6e59b3625",
    "priority": 2,
    "watched": [],
@@ -3899,42 +3858,6 @@
      "name": "IMDb",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a38eff4d83",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-02T18:04:53+00:00",
-   "published": "2026-10-02T18:04:53+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Dolly",
-   "title": "DOLLY Musical Announces Broadway Leads Handpicked by Dolly Parton",
-   "quote": "",
-   "quoteSource": "Broadway Direct",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHBIN29lTV9tWldWMUpZT1NWa3hVbHZvclNnNVl1bGhBMWJDOF9ZRUlSWnB5MmpOWEk2YlVGVFlnZEhaTEVaSUxiV3psb2ZuMEltYlg5RzhrcVh3b0ZoSkdyYml5T3pjdDJ3d0JuUUd2eDZrS0RlRzg1dllEb0dYXzdNa0xHS3FQOVYtZ1kzOWZ4TlY1bERSSA",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -4012,6 +3935,64 @@
    "status": "review"
   },
   {
+   "id": "71012c6196",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-23T21:01:39+00:00",
+   "published": "2026-10-23T21:01:39+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Small Mouth Sounds",
+   "title": "‘Small Mouth Sounds’ on Broadway moves up first preview",
+   "quote": "The play by Bess Wohl will begin earlier in February 2027 than planned.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/2276229844-1.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/small-mouth-sounds-on-broadway-moves-up-first-preview/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "57d00d573b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-18T17:33:41+00:00",
+   "published": "2026-10-23T19:07:28+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Midnight",
+   "title": "Full Cast Revealed for Todrick Hall’s New Musical ‘Midnight’ Ahead of Off-Broadway Debut",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "59fdcbb7fd",
    "priority": 3,
    "watched": [],
@@ -4023,10 +4004,10 @@
    "placedBy": "venue",
    "type": "opening",
    "show": "Small Mouth Sounds",
-   "title": "Tickets to SMALL MOUTH SOUNDS on Broadway on Sale This Week",
+   "title": "SMALL MOUTH SOUNDS Shifts Broadway Dates; Tickets on Sale This Week",
    "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} Tickets to 2026 Pulitzer Prize and Tony Award winner Bess Wohl's comedy Small Mouth Sounds will be released to the general public this Sunday, October 25. Tickets to the play, s…",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-44923904eb09fe9e16603ec066fbaf51.jpg",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-5814bef5aebae62d04267b4f2929cae5.jpg",
    "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
@@ -4157,6 +4138,35 @@
    "status": "review"
   },
   {
+   "id": "c1fb158657",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-23T15:34:00+00:00",
+   "published": "2026-10-23T15:34:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "You Either Meet the Expectation, or You Don",
+   "title": "'You Either Meet the Expectation, or You Don't': Why Lin-Manuel Miranda's Broadway Follow-Up to Hamilton Had to Be The Warriors",
+   "quote": "Miranda and collaborator Eisa Davis paid a visit to The View October 23.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/videos/Discovery/_verticalListLarge/f3c73fa6d5190c205859d4c30a86a685.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/you-either-meet-the-expectation-or-you-dont-why-lin-manuel-mirandas-broadway-follow-up-to-hamilton-had-to-be-the-warriors",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "a355020ff1",
    "priority": 3,
    "watched": [],
@@ -4184,6 +4194,64 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "286178bd9c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-23T14:47:17+00:00",
+   "published": "2026-10-23T14:47:17+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Dress Of Fire",
+   "title": "Jessica Phillips, Kelvin Moon Loh and More to Star in DRESS OF FIRE Presentations",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVXE5NkZocHE5bFd2NGdweHB2QUdnOFlhUHZnMzdEOVppYlpzOWotQWRBT0xyd3Z3aDctTFpRZkJ4VExPSG92elU4VjZld0I5VUIyX2pKTUFIaUx1WDZwSUN1VUhJOUxjSGVNZU9OWGxRVVpIb1UzOWx0T3J0VkRCV1Y5dzJ1aUZUTzlydHl0ZE00cTRGNEFVdDJpQ0gzM2Ztdk5LckdUNFBmWjYzZEc1eWdGY2dhT3hrRFNZVVMyOTN0M2ZlTXdSZDFPcXFNQ0daTkZvUFFNaTlwSGgt",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "4cb4cf6dae",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-23T14:38:47+00:00",
+   "published": "2026-10-23T14:38:47+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Studio 54",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": null,
+   "title": "Check Out New Portraits of The Rocky Horror Show's Jake Shears, Amber Gray, Jimin Moon, More",
+   "quote": "The hit Broadway revival continues at Studio 54.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/HR_14_8x10.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/check-out-new-portraits-of-the-rocky-horror-shows-jake-shears-amber-gray-jimin-moon-more",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "7616a02da5",
@@ -4771,35 +4839,6 @@
    "status": "published"
   },
   {
-   "id": "57d00d573b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-18T17:33:41+00:00",
-   "published": "2026-10-22T15:45:12+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Midnight",
-   "title": "Full Cast Revealed for Todrick Hall’s New Musical ‘Midnight’ Ahead of Off-Broadway Debut",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "dd9f303f49",
    "priority": 3,
    "watched": [],
@@ -5027,6 +5066,35 @@
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/10/22/theater/caryl-churchill-triumph-free-public-theater.html",
      "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "6c221ba06b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-22T04:00:28+00:00",
+   "published": "2026-10-22T04:00:28+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Downstate",
+   "title": "Meet the Cast of DOWNSTATE, Now Playing on Broadway",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUFrcm96S0d2SmhBaUdNcXhCOEVrTmstVzNEUXJ0akxtZ3o5bFhfUV9mY1JWcFhoa2ZrYS1INm53S2lzZENBVGNfc2dHQW5oSEg4dTlVSWtZMm5GWWljbWtpcEgzU3A5UTJFLUZ4S2tPTHVFZUlXaW1xS3A0S1ZrcGtjVEtZZkQzVWdvRGRDQU0zXzZMdTBRZE13S3lWQQ",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -6810,7 +6878,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-20T03:37:10+00:00",
-   "published": "2026-10-20T03:37:10+00:00",
+   "published": "2026-10-20T04:11:21+00:00",
    "city": "New York",
    "tier": "Off-Broadway",
    "venue": null,
@@ -6834,11 +6902,6 @@
     {
      "name": "IMDb",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSUpSR2Z6N1ZsR1JVZzJSTktrZG9qTFpPckpFcVdpbzRqSUVkXzQtNWZ2VHBRS1N2SmJFUTZVeXRacWxSMkJZM3Z5dE9vdlRiVW1tVkFfOENBWEhEVTVGczlyM3ZGYXFFSXc",
-     "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3BhU2lhSzR1MWtRSV9EbGdRbFRRcUFDYlp4WG5IeU00dWE0clphalhUNEEwbkl2blVGd25lMUFzeDBKa09GQUFLSW9WOUcwalN5czRyY0lUTTJOb2RtV2VFTnJ0Wno4VkdwblVPMFBWNjlLRVl5UjhzQTZZR3lZRWlIZTJwQUZoTWdQcmtFa1pZdXBHRHQ1bjU4czFabW5LcFNIZnhTWHZTSU9PT0xfMDBLaVJ6QnRmLWFPa1dIaDhSNzkzUG9rRlR3",
      "feed": "gn-offbway-casting"
     }
    ],
@@ -8948,6 +9011,35 @@
    "status": "published"
   },
   {
+   "id": "c3bc6b95a0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T14:45:27+00:00",
+   "published": "2026-10-15T14:45:27+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Imitation of Life Announces Full Off-Broadway Cast Led by Adrienne Warren and Jessica Vosk",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakxrRktkWl8tT2tzU0oyZXNJY2NDTUJOUmZILTRNQjE1YUw3NElqcUVxX2hicm1DNlkwVkVEUHhEbnJQcGwyQklSWnBnaE1nS2xxVE5PUGZZYUNZeGxZNzk4SlNOMzctUEtoLThVd3htTk54MGx5bjEyREZfV1Q3VHVkLTkzV09QSHB4STNiRmZRRDN2RTAzOVhMUC1DNFFDYXRHNHNrdl9tX2xGNVoxZmpCeTEzZVJLUGotYWU5YmdDMEMtcWZV",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "cb8c040ab1",
    "priority": 3,
    "watched": [],
@@ -9178,40 +9270,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "c3bc6b95a0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-15T14:45:27+00:00",
-   "published": "2026-10-15T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Imitation of Life Announces Full Off-Broadway Cast Led by Adrienne Warren and Jessica Vosk",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakxrRktkWl8tT2tzU0oyZXNJY2NDTUJOUmZILTRNQjE1YUw3NElqcUVxX2hicm1DNlkwVkVEUHhEbnJQcGwyQklSWnBnaE1nS2xxVE5PUGZZYUNZeGxZNzk4SlNOMzctUEtoLThVd3htTk54MGx5bjEyREZfV1Q3VHVkLTkzV09QSHB4STNiRmZRRDN2RTAzOVhMUC1DNFFDYXRHNHNrdl9tX2xGNVoxZmpCeTEzZVJLUGotYWU5YmdDMEMtcWZV",
-     "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "Broadway In Boston",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDVqcWpBRkFjRGZoMnlGSEo5d0ZfU0FfN3hoenE0bXp4Q2ZROEdlOWdWQTB5NV9IQWFwRzVDTVliUmNNZ05qeV9MY25Pc3FCRk93SlhjZm1CRERGeURDbDhvajFCSVNRa1lNWlAyUm1TVTI1VUxDRWNjZWF1YWgzZ2FmaG5CNjZrRmI5WXllc1JGWGhUWmZIekZJQjZZRGRBa3UwZ2pfY2NHNTNJUFgtV01QWXlHXzBDWWJNSlg0dWRQdw",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "9b414dd952",
@@ -10234,35 +10292,6 @@
    "status": "published"
   },
   {
-   "id": "051e0aa13a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T19:24:36+00:00",
-   "published": "2026-10-13T19:24:36+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "On Broadway: Dirty Dancing, Three Days of Rain dates, Dolly casting, Wanted lottery. Stageworthy News of the Week.",
-   "quote": "",
-   "quoteSource": "Newyorktheater",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Newyorktheater",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14TDNrdGh2OTRnM096YUlnVmdaSExYc1diMDJIbkppaVVpeDFqU0tNUmpTV1d4clJhOTZDQTg2N1A0ZkFpMW85a09mbGJvYXpEdGhOSkdqWGNCZHRGX2ZQSV83UkJCSUp0",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "2f4bc3a94e",
    "priority": 3,
    "watched": [],
@@ -10872,6 +10901,64 @@
    "status": "published"
   },
   {
+   "id": "051e0aa13a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T19:24:36+00:00",
+   "published": "2026-10-13T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "On Broadway: Dirty Dancing, Three Days of Rain dates, Dolly casting, Wanted lottery. Stageworthy News of the Week.",
+   "quote": "",
+   "quoteSource": "Newyorktheater",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Newyorktheater",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14TDNrdGh2OTRnM096YUlnVmdaSExYc1diMDJIbkppaVVpeDFqU0tNUmpTV1d4clJhOTZDQTg2N1A0ZkFpMW85a09mbGJvYXpEdGhOSkdqWGNCZHRGX2ZQSV83UkJCSUp0",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "c2514598c5",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T07:00:00+00:00",
+   "published": "2026-10-13T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Original Great Gatsby Broadway Cast Member Austin Colby Joins Tour as Jay",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnNpTVJ1ZFNJM3hhcU0wWkM2RDlSUmFHT2JVZkUxeUJzM3J4clBsZTRfSUlYTFB5VzVOUUZZbjlRdXd3NzRIQkc4MGFlYXY5enFxUDl1Ui1mQUJGNWZXZnRKTmV5Nm9fTDZHMmo4ZVhTaDE4c3paNHROeUd2Nloyd1RRYW94YUlqemhwNFpYend6T3BZWk83RXlGZmFXOGNndl9TbTVSMVd0bnF6aUx0TEluYm83QkU",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "7d733bcf6f",
    "priority": 3,
    "watched": [],
@@ -11368,7 +11455,7 @@
    "sources": [
     {
      "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcV9pbDBsMEZwamx6NURtVlJmWWF6LXV3UHFOUXpndEV3NDZwRndZN3JnbmJyZVREczlHWkFvU2hrYmx2aE5LZnN5dDMydw",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXR2E4aUFDNTBJUDQwVHNjMFJuZlp2Z1pRTWFuajMzVFl6MWRfVnJTTnBpNG9PLWN6am1vazNkb2hTWExUbkZiUDFMaWxZYWZZaUE",
      "feed": "gn-bway-debut"
     },
     {
@@ -15073,180 +15160,6 @@
    "status": "review"
   },
   {
-   "id": "4ac409f7c4",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T23:14:52+00:00",
-   "published": "2026-10-02T23:14:52+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Travelin' Thru",
-   "title": "Ilene Graff to Star in TRAVELIN' THRU at Catalina Jazz Club This October",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2Q1UmZrNHM4dWxuR0lhMFBFMzNLZmxnRzM2MFJGU1BvMmx1UWVUNXJoMXJjb2w2YzRKTzF5MFRrUXhwRGJmWndra1RHS0FkaE1xcWloUlZITHNDc29oekZLMlpWSl85TGdEeG1kVHNCTDZxMDhtdEhCZ016Tl9BNFdsYlNSOEJaMWgxTUp4ZWFkVjkzOENDQzI4dFNsNzZncVBma1ktbjgySHhhV0F2U0x5VUN6R2kyT1p0dHdzWExiM0djRjBMZzBB",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "2ac0a25949",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T21:00:40+00:00",
-   "published": "2026-10-02T21:00:40+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "More Than All The Sky",
-   "title": "Carolee Carmello and More to Star in MORE THAN ALL THE SKY Industry Readings",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd2RYLUhDVk52QWk2X2dLRU5jQkZnTldXWjF0aW0tNmJ0dU9PNnZ2MWM5TWdSRWMxVXlmVkowQ2t1RWkxZXJaUnVFTGUwZktmbW0zQzBIY3kwYk85MUdiVG1CdEwzVURuSnNMSXNJWEtkYnkweS1fTDhEeEdSbjI0X1JJMnpRVldLX3B3LUUxQVFxTVN0YkVnZHRpdTczblNvZnd3TDJCWF82bzFueTJKOHFZaXo3QV9OendFYUg2ajhoQUFUWTk1OFhxenM",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "07d92191b1",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T19:45:53+00:00",
-   "published": "2026-10-02T19:45:53+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Aladdin",
-   "title": "ALADDIN on Broadway to Honor Late Cast Member Alain Brutus",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnRHOTFtbzhHQUlSNkhQR3pEQWpJMGdzR3Zoc1JiSkg0NHZzQU1jMG8wdC1JZW90akdBeVdiS3BRc1I2OHdrd0d2akpnT3pRd0JpcmtMb01sWkI5QWo5a1NhcXZ5ZGY1Vk9IZEFNbWhHVjhFM1lEQmoyT1NOVGxfa0pvX2lqeGNnSzhyeU41UjFHZ01FeGliY0w1bE13LXRmLXB2MmsyVUM",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "12e6fcc865",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T19:10:23+00:00",
-   "published": "2026-10-02T19:10:23+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "St. James Theatre",
-   "placedBy": "words",
-   "type": "opening",
-   "show": "DOLLY: A True Original Musical",
-   "title": "Katie Rose Clarke, Carrie St. Louis and more set for Broadway’s ‘DOLLY: A True Original Musical’",
-   "quote": "Beginning performances at the St. James Theatre December 7, opening night will take place on what would have been Parton’s 81st birthday: January 19, 2027.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/143148-10.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/katie-rose-clarke-carrie-st-louis-and-more-set-for-broadways-dolly-a-true-original-musical/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "ee6faa9c41",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T18:48:57+00:00",
-   "published": "2026-10-02T18:48:57+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "closing",
-   "show": null,
-   "title": "Kennedy Center Honors to Move to Capital One Arena for 2026 Ceremony",
-   "quote": "The 2026 Kennedy Center Honors will be held at Capital One Arena in Washington, D.C., the institution announced Friday, according to The New York Times. The ceremony is set for December 7.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-f305a16e1d4eb74c74ef0dbff966565c.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Kennedy-Center-Honors-to-Move-to-Capital-One-Arena-for-2026-Ceremony-20261002",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "03fa485a04",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-02T17:48:04+00:00",
-   "published": "2026-10-02T17:48:04+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Schmigadoon",
-   "title": "Meet the Moms of Broadway’s SCHMIGADOON!: See Sweet Family Photos",
-   "quote": "For any parent on Broadway, juggling personal life with professional obligations could be a lot of work — but it is also incredibly rewarding. “It takes planning and support,” Schmigadoon!",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-ca7426e6a2a95286168a4112a0fad34e.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Meet-the-Moms-of-Broadways-SCHMIGADOON-See-Sweet-Family-Photos-20261002",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "0e8017a9a7",
    "priority": 3,
    "watched": [],
@@ -15308,35 +15221,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "f12e15d104",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-01T18:10:24+00:00",
-   "published": "2026-10-01T18:10:24+00:00",
-   "city": "New York",
-   "tier": "Off-Off-Broadway",
-   "venue": "La MaMa",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "La MaMa and Spiderwoman Theater Present Global Indigenous Theatre Festival",
-   "quote": "In celebration of Spiderwoman Theater’s 50th anniversary, this global festival brings Indigenous artists to NYC.",
-   "quoteSource": "American Theatre",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "American Theatre",
-     "url": "https://www.americantheatre.org/2026/10/01/la-mama-and-spiderwoman-theater-present-global-indigenous-theatre-festival/",
-     "feed": "american-theatre"
-    }
-   ],
-   "status": "review"
   }
  ]
 }
