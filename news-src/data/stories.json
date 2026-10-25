@@ -230,10 +230,10 @@
    "type": "casting",
    "show": "The Amish Project,",
    "title": "Jonathan Groff to Star in Broadway Solo Play 'The Amish Project,' Inspired by Real Tragedy Near His Hometown",
-   "quote": "Jonathan Groff (Just in Time, Merrily We Roll Along) will return to Broadway in THE AMISH PROJECT, a solo play by Jessica Dickey (The Rembrandt, The Convent). Directed by Sarna Lapine (Call Me Izzy, Sunday in the Park with George), THE AMISH PROJECT begins performances Wednesday, February 10, 2027 at Broadway's Broadh…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-eb1ef6b940cfeeb74568422ea6628307.jpg",
-   "imageCredit": "BroadwayWorld",
+   "quote": "The play marks the third Broadway project for Groff in recent years, following 'Just In Time' and 'Merrily We Roll Along.'",
+   "quoteSource": "The Hollywood Reporter",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/135122-8.jpg",
+   "imageCredit": "Broadway News",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -249,11 +249,6 @@
      "name": "Just Jared",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjJyTW1pT1h3czlVb05vT0NRRmx0X3BCOWk1cGczZzQwOWRneE04WTRocDMtblZ6U3FIUXpSVW5kYlA4XzhYVk52dURwU2FQdmtnWmtTU01XY0JtWXJkQm1rdEY5WG1tSHRDRWZBcnNxNXlNRnlhRWNZUXVZcWprZHpFSXFmWUszTmc4QzNNZw",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Jonathan-Groff-to-Return-to-Broadway-in-THE-AMISH-PROJECT-20261023",
-     "feed": "broadwayworld"
     },
     {
      "name": "The Hollywood Reporter",
@@ -1384,11 +1379,6 @@
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTdKQWFpNUdWZWowVFByRXJmWlBhSFpCeEJFYTBHRUppOGhjdzZKVi00cVdmLWlXejNUTHBRMmVQM083UERSS2IxTVNMMDhYSDFjbmJSblJJVUVEYXFybnZXY3paVXJwUGJOOHI2ZlBhNWRzRk1jSDBJQmI2bmlXcm9EcUZveksxZGo0YU9xZC0tYjYzRWs5TXhZMDlBT1ROUHVJbkQtWXh1X2YzaEE",
      "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenZVNzFpcF8wUVo3eWxKc2xjbHJPaG15bGhQSmIwb0h1R2xDTzQtSlNiUTFDX29qaC05RnZ4VlBSNUJUcVRpcS02eklTWnVEUHJBcFNweEZTYzRrQy1BV2NKVVpHSkhHTHdyQ2kxODI0TFVlNTI3QnRTNUJqSmF6OE1JclJaX1R5NFhIYlNiWVd1dGJDQ0k4SE1jWWY",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -1468,6 +1458,11 @@
      "feed": "gn-bway-casting"
     },
     {
+     "name": "Blex Media",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScEI1TDMtY1JSX0RPeGJXdWZLWU5fdWtWamo5LU05SGU0YWdwemh1Q2NxbnlZelJLb1hMYmVyM2VYY0F0RWRyQ3BuUnhTc2RERkV2RngtRzRXWm11VzlZNEpFdlFMVVhfNFVjdjVidE1fUQ",
+     "feed": "gn-bway-casting"
+    },
+    {
      "name": "People",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWRYYnJZSkt2UG1xYVNMemVOS01MdThTWEVvWjJ0MUJXeDhFZVlpc2JjdWNWT2tuQldXUmwyQjZua2ZIZG50cVZzM1B6NlBQWVhwX04wQWJkeE50bDR5eDB1bTdVWmctNEpkQ2lKR1AxZElBc1hkaDZDNm1EaUQ3WXdaQ1M",
      "feed": "gn-bway-casting"
@@ -1480,11 +1475,6 @@
     {
      "name": "Nerdist",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS0hxNm42OWVycnZfNWRvNy1YeFQ4MzJhbW5ZMlpUMWFRRWdSLUxjLVpJcGpYeldfUHBRcmN0WjdEdmRLSjR3R0RKTE1qQlJiSms4elZuN3lpZFpSSmQ1RkFFUGZzdC1HRkgwWmpjMVdfMlV1d2V4RTZwZDhuQkRMWnpPajlieVIxQkgzbGx3S0VjYzFUMjFF",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Deltaplex News",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1N1dm1mc2xINEFveHNVdGlzZ1NWZG54VGt0RXJoekZaVDY0dGpZU0RwQzEtcEpNTmJJSng2MnRqSDUxTEhHSUtnQWxCd1VVZkxnNm9JRmd1YjhwUGR2dDgwSUp2UE4zaF85bzE4QzM5Sy1xQjVUS1padkRjczcycEFTWTAyUld0YVBtSS10eDE2R1ZIZzJ6TFZZYTdFZVFodk4wNVJpSmFXRDZHck1VcEJWYjl4Q1ZISlZYbmI5MA",
      "feed": "gn-bway-casting"
     },
     {
@@ -3801,37 +3791,30 @@
    "status": "review"
   },
   {
-   "id": "c6e59b3625",
-   "priority": 2,
+   "id": "624914479b",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-02T07:00:00+00:00",
-   "published": "2026-10-02T19:15:38+00:00",
+   "firstSeen": "2026-10-24T19:04:35+00:00",
+   "published": "2026-10-24T19:04:35+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": "casting",
-   "show": null,
-   "title": "Dolly Parton’s Broadway Musical Unveils Five Actors She Chose to Star in the Upcoming Show",
+   "show": "Warriors",
+   "title": "NEWS: Initial Casting Confirmed for New Musical ‘Warriors’ on Broadway",
    "quote": "",
-   "quoteSource": "IMDb",
+   "quoteSource": "Love London Love Culture",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVkMzZDEzNV84VEkwZVdoaDlyT3pEc1YtR3dKNFc1eGxYX1JzR0JLSkRFY3B6ZjFFT3dwaUxIdWJjcjItbUlVVWh4YXJHT3B0MkVoUkFhT1pYRWhxdWVIeGdrOEo5V3M",
-     "feed": "gn-to-star"
+     "name": "Love London Love Culture",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG9MZG5HMDVmeWZsX3RoYTZOcG4tel9ERXhDYThPNmdiczVQb2JLOENzLTlkckFvR1dBMkFyRk5RalNOVGJ6NENyQlNmMnE1emRhNGMtN3Rpbmg1a0RRS1hObWxGYmhMU2Z1MVhQMnBJWVg5aS0weHN0R2VOSkdkc0FNSUVrNl9aS3Q3TTA2OWZMdzZVdVU5T0lfd3FVRkwzYzhKYmcyQzBCWFFtXzlyNlRjRdIBuAFBVV95cUxOYU5BSTdJTFdvcVJqcDI1Wl9xYldsQUdnaC1yMndtZE1sZng4MGluOUJFbHVyXzZtcmVOSXlMOHdCYUI2M3BNVTZHOElsQmFzeDVDY2JpVkNiZk1HMWN1Zm5fYWU3ZGluaEVXbG9NQzlhWldjRjEwWllsUDlha3BtbFJfTnpPV0k3cU5manVGNnFsbVFja1RjSGhvUURLc1FwOTV3c3haRHFLWjBxbjQtNFZuRTB0cF95",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -3893,6 +3876,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "57d00d573b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-18T17:33:41+00:00",
+   "published": "2026-10-23T22:31:56+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Midnight",
+   "title": "Full Cast Revealed for Todrick Hall’s New Musical ‘Midnight’ Ahead of Off-Broadway Debut",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "71012c6196",
@@ -3977,35 +3989,6 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSS1paU1ReUpmc1d1UWhQUkkxSi1PRUxEZHB5V3BJOXU1SGk0alF6clpuaVZvUi16cVpmMUt3NHA2bUpnM1NMc3l5SHNMeUlqY1ZDSkpmcXdrc1djR2tURUJXTWpnZzVrYW9vdGlyZmJCTFlnYlUySVBveDBWYnp5Y290dzloWndjTi1iRXBIUWVPZw",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "57d00d573b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-18T17:33:41+00:00",
-   "published": "2026-10-23T19:07:28+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Midnight",
-   "title": "Full Cast Revealed for Todrick Hall’s New Musical ‘Midnight’ Ahead of Off-Broadway Debut",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -6127,7 +6110,7 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPektmZkJWQjJoTUFyUGNDWjJkSDVuRXBVdmF3WXQ5TTNsdktfN3ZlZUdNcy1lcVRFR1pUc3dEbFJGLWsxajR2MkFaQXIwU1FScEJTUG8xT3VvdlRRYVhKNEpDdkM5MXc3SGM4RFV4cjMtQ0dmOFVpaFBFSkM3NkZHNUVmZzFJcEtaaG9uaUpGTlZwRXZlTWtGR0FUMVlqUQ",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -6867,11 +6850,11 @@
    "tier": "Off-Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": null,
+   "type": "new production",
    "show": "Spring Awakening",
-   "title": "‘Spring Awakening’ Returns Off-Broadway Nov. 27 With New Cast and Danya Taymor Directing",
+   "title": "‘Spring Awakening’ Revival Reveals Complete Off-Broadway Cast",
    "quote": "",
-   "quoteSource": "AmNews Curtain Raiser",
+   "quoteSource": "TicketNews",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -6879,13 +6862,13 @@
    "celebs": [],
    "sources": [
     {
-     "name": "AmNews Curtain Raiser",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm9XUUx3eF8yZ1JNaHRCa1dNTWNfX2VrX3JCQjVscmRQSVZENmVqV1JMQVBYaV9DTmQ2VGN2dWxraXltYlJGZGN3UHpFM1JxUkxtVjhtc2Jic3E4MDVhc21wQ3dYZkVjaFBRVWVlLXltQ0pISkMweG9FampCTEIyVHlPTENuR0NvSlBvWloyTQ",
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3R2WnRZd2hRdmF3UW9OY3dTZ1cwNlF6Ykx0UjRXOFo4cXBhOEpXQlRkR0hkY2F3QmN2a3Bsd2tzMXY1a1c5Y05IMFVYWHJybFE1MnZ5NElVN1hzTmRMalZYUmpwOWxHZ0Rwa2t2R1oyaHFqdDdMOEpnc2lES1cwOHptV2NSREFMX0tTX0k0R1dVX3E2MU0tdUZLWQ",
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSUpSR2Z6N1ZsR1JVZzJSTktrZG9qTFpPckpFcVdpbzRqSUVkXzQtNWZ2VHBRS1N2SmJFUTZVeXRacWxSMkJZM3Z5dE9vdlRiVW1tVkFfOENBWEhEVTVGczlyM3ZGYXFFSXc",
+     "name": "AmNews Curtain Raiser",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm9XUUx3eF8yZ1JNaHRCa1dNTWNfX2VrX3JCQjVscmRQSVZENmVqV1JMQVBYaV9DTmQ2VGN2dWxraXltYlJGZGN3UHpFM1JxUkxtVjhtc2Jic3E4MDVhc21wQ3dYZkVjaFBRVWVlLXltQ0pISkMweG9FampCTEIyVHlPTENuR0NvSlBvWloyTQ",
      "feed": "gn-offbway-casting"
     },
     {
@@ -6894,7 +6877,7 @@
      "feed": "gn-offbway-casting"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "fb1b2a0782",
@@ -11954,35 +11937,6 @@
    "status": "review"
   },
   {
-   "id": "4612de61f5",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-08T21:43:39+00:00",
-   "published": "2026-10-08T21:43:39+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Frozen",
-   "title": "Marie Eife and Ali Funkhouser to Star in FROZEN at FPAC",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVW5oY2o3SjRaTGE4UG03TnlKMGxvaTd5dVhoTEdUekZSSVhPaVBjY3BBVjlzR3ZfZXEtUmNPYnU3WDNSNGk0blVmWEdhbDNuNTlhVXBFUkJfWjNFY284MzNDb3NqSmtWSG5vVWZZcWZIanRhNzNxaXVoUmhpNXlSZWNGbzZVNGJXM2UyZ2Rrb0Vab2ExeXVhYVpmbnJuVW9rNkxRaWFaMkJZdExHWVE",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "ef65c3a94d",
    "priority": 3,
    "watched": [],
@@ -12481,6 +12435,35 @@
    "status": "published"
   },
   {
+   "id": "4612de61f5",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T21:43:39+00:00",
+   "published": "2026-10-08T07:00:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Frozen",
+   "title": "Marie Eife and Ali Funkhouser to Star in FROZEN at FPAC",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVW5oY2o3SjRaTGE4UG03TnlKMGxvaTd5dVhoTEdUekZSSVhPaVBjY3BBVjlzR3ZfZXEtUmNPYnU3WDNSNGk0blVmWEdhbDNuNTlhVXBFUkJfWjNFY284MzNDb3NqSmtWSG5vVWZZcWZIanRhNzNxaXVoUmhpNXlSZWNGbzZVNGJXM2UyZ2Rrb0Vab2ExeXVhYVpmbnJuVW9rNkxRaWFaMkJZdExHWVE",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "fdf94069b2",
    "priority": 3,
    "watched": [],
@@ -12911,35 +12894,6 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Exclusive-Watch-Highlights-from-Nick-Blaemires-SOON-20261007",
      "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "8cca17a243",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-07T17:04:10+00:00",
-   "published": "2026-10-07T17:04:10+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Naap'",
-   "title": "Daniel May and Viveca Chow to Star in NAAP's THE MUSIC MAN Concert Version at Ailey Citigroup Theater",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORm9WdVBOQWJXOFdxdzdiYV9fQmNndGVxNXNEVDRaNVpYajZwbF9CdXdRX1FiWXlBNWdwa2MybGJHVFk3VThwX2xwN25HdzZJbUlCcE81blk2amZxdGc1Yi1sTmlva2x6Z0YzTzF5U3d0TDJJZDZiQi1Mck1ZU2hwSkgzV202X3N4d0FCSmxQdjBGSFhlaXA2MVE0eGJHMjVtTmgtVTN3Mmkwbzk2X0phUmFncFFCRHlTSXdNYkZUVnFod2RIMUktVE4xRVA3UHRUYnRtOVZtN0YzMFJneXo2VlB6dVdhc2ZaZjAxQnNYN1I",
-     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -13441,6 +13395,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "8cca17a243",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-07T17:04:10+00:00",
+   "published": "2026-10-07T07:00:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Naap'",
+   "title": "Daniel May and Viveca Chow to Star in NAAP's THE MUSIC MAN Concert Version at Ailey Citigroup Theater",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORm9WdVBOQWJXOFdxdzdiYV9fQmNndGVxNXNEVDRaNVpYajZwbF9CdXdRX1FiWXlBNWdwa2MybGJHVFk3VThwX2xwN25HdzZJbUlCcE81blk2amZxdGc1Yi1sTmlva2x6Z0YzTzF5U3d0TDJJZDZiQi1Mck1ZU2hwSkgzV202X3N4d0FCSmxQdjBGSFhlaXA2MVE0eGJHMjVtTmgtVTN3Mmkwbzk2X0phUmFncFFCRHlTSXdNYkZUVnFod2RIMUktVE4xRVA3UHRUYnRtOVZtN0YzMFJneXo2VlB6dVdhc2ZaZjAxQnNYN1I",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "1e5e7e5a9f",
