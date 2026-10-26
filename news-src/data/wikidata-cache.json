@@ -190,6 +190,15 @@
   "qid": "Q23664061",
   "score": 10
  },
+ "Alex Moffat": {
+  "checkedAt": "2026-10-26T19:03:16+00:00",
+  "description": "American actor and comedian",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q27837145",
+  "score": 11
+ },
  "Alfred Molina": {
   "checkedAt": "2026-10-08T19:10:36+00:00",
   "description": "British actor",
@@ -287,6 +296,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Amanda Watkins": {
+  "checkedAt": "2026-10-26T19:03:02+00:00",
+  "description": "researcher",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q96094491",
   "score": 0
  },
  "Amber Davies": {
@@ -1729,6 +1747,15 @@
   "qid": "Q259064",
   "score": 28
  },
+ "Christiani Pitts": {
+  "checkedAt": "2026-10-26T19:02:58+00:00",
+  "description": "actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q96002191",
+  "score": 3
+ },
  "Christine Ebersole": {
   "checkedAt": "2026-10-07T02:08:34+00:00",
   "description": "American actress (born 1953)",
@@ -2572,6 +2599,15 @@
   "qid": null,
   "score": 0
  },
+ "Eden Espinosa": {
+  "checkedAt": "2026-10-26T19:03:14+00:00",
+  "description": "researcher (ORCID 0009-0002-5767-0286)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q130864747",
+  "score": 0
+ },
  "Eisa Davis": {
   "checkedAt": "2026-09-25T17:53:52+00:00",
   "description": "American playwright, actress, singer-songwriter (born 1971)",
@@ -2733,6 +2769,15 @@
   "qid": null,
   "score": 0
  },
+ "Equal Justice Initiative": {
+  "checkedAt": "2026-10-26T19:03:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ernie Bushmiller": {
   "checkedAt": "2026-10-08T02:34:40+00:00",
   "description": "cartoonist (1905-1982)",
@@ -2879,6 +2924,15 @@
  },
  "Feature Christiani Pitts": {
   "checkedAt": "2026-10-16T17:12:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Feature Equal Justice": {
+  "checkedAt": "2026-10-26T19:03:13+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3918,6 +3972,15 @@
  },
  "How Shakespeare Saved": {
   "checkedAt": "2026-09-28T20:01:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "How SpotCo": {
+  "checkedAt": "2026-10-26T19:03:17+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5232,6 +5295,15 @@
   "qid": null,
   "score": 0
  },
+ "Kidman Carol Completes": {
+  "checkedAt": "2026-10-26T19:03:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Kilgallen World": {
   "checkedAt": "2026-10-21T17:56:45+00:00",
   "description": null,
@@ -5477,6 +5549,24 @@
  },
  "Lead North American": {
   "checkedAt": "2026-09-25T17:47:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Leadership Team": {
+  "checkedAt": "2026-10-26T19:03:04+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Leadership Transition Amid": {
+  "checkedAt": "2026-10-26T19:03:18+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6435,6 +6525,15 @@
   "qid": null,
   "score": 0
  },
+ "Names Rhavynn Drummer": {
+  "checkedAt": "2026-10-26T19:03:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Names Rick Canny": {
   "checkedAt": "2026-10-10T02:08:21+00:00",
   "description": null,
@@ -6593,6 +6692,15 @@
   ],
   "qid": "Q7027557",
   "score": 14
+ },
+ "Nickel Mines": {
+  "checkedAt": "2026-10-26T19:03:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Nicolas Cage": {
   "checkedAt": "2026-10-01T18:43:32+00:00",
@@ -7054,6 +7162,15 @@
  },
  "Performances Only": {
   "checkedAt": "2026-10-21T01:20:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Phillip Taratula": {
+  "checkedAt": "2026-10-26T19:03:08+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7584,6 +7701,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Richard Perez": {
+  "checkedAt": "2026-10-26T19:03:06+00:00",
+  "description": "French entrepreneur",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q134126238",
   "score": 0
  },
  "Richard Roxburgh": {
@@ -9192,6 +9318,15 @@
   "qid": "Q7859641",
   "score": 2
  },
+ "Tyler Ennis": {
+  "checkedAt": "2026-10-26T19:03:01+00:00",
+  "description": "Canadian basketball player (born 1994)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16227014",
+  "score": 19
+ },
  "Tyler Perry": {
   "checkedAt": "2026-10-23T17:45:25+00:00",
   "description": "American actor and filmmaker (born 1969)",
@@ -9517,6 +9652,15 @@
   "knownFor": [],
   "qid": "Q130278036",
   "score": 1
+ },
+ "Why Janet Metz": {
+  "checkedAt": "2026-10-26T19:03:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Why Lin-Manuel Miranda": {
   "checkedAt": "2026-10-24T01:24:30+00:00",
