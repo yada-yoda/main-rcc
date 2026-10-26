@@ -615,6 +615,11 @@
      "feed": "gn-to-star"
     },
     {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vcmR3dEk5ckRwYWFSQ2lVRjhCNG9VTDdYVHUwb2cwaDFoZldER2ZHVS13VjByLTFlUVBHek1pUmVXT0g3OHpzcHpvQkhwNWdiS2hYVVFTNHdqUlZZRUhFdWYzaGdHdFE",
+     "feed": "gn-to-star"
+    },
+    {
      "name": "Playbill",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0dxbW5hRUVCM1FhRE9QSWZyTEhUUWRfZ2dwanNLQUxPRFd5akJ0T1V6TFk1NlhRanBMTHltSm92QU9EQ0NPVEY4V3g3Rnc5TDhHYTBMeWdDNWtOWHdjN2ZQSm0ycllWVlpBczl4Y2MtNWF3UVBOZ3JRRjdLb3RFYTB5SFp6d0QxNG84c3R1Q19FcFJLcjh4dXhTa1QzS3gxN2NF",
      "feed": "gn-to-star"
@@ -818,6 +823,42 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "871d706d0c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-21T21:36:42+00:00",
+   "published": "2026-10-21T21:36:42+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Lin-Manuel Miranda’s Warriors Announces Its Broadway Cast",
+   "quote": "",
+   "quoteSource": "Sweety High",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Lin-Manuel Miranda",
+     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
+     "score": 45,
+     "qid": "Q1646482"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sweety High",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42VW9vR1FUbF91am5sZDRhRVJaTS1iWHNqTzEyVTVsUFIyeWpDaVZiUEFncnFXSEk1eW81WjJCV0tCeGlXTy1Ic2czZ19QSjNHTlNzRm1sUWg5UVJqazNMT1RESF9CeWVHMEY4dXUwd3JVN1k",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "0f205d91a9",
@@ -1354,42 +1395,6 @@
    "status": "review"
   },
   {
-   "id": "cc2cd38f18",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:34:23+00:00",
-   "published": "2026-10-20T12:34:23+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Lin-Manuel Miranda’s Warriors Announces Broadway Cast Led by Jasmine Cephas Jones and Amber Gray",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXNpNndoNTBheXl4ODhsbXdla1JDSGJESElxaGlVRGx0TzdvRFpNa0l4cWg3TVQ4Y25XOVhZM05uUDFOSDFVb29LRzV4akJSdjh0N3V2ZFp0YnFyUkpVdkxsbW54MjktRERseWpCamlUZ2xCdTY4dlNTRUJHbE0tdkVicExtNkUyVzVOT0VBeVF1dGhER3N6VlgtLVppN1FZdzVXak52ZWJMZ3Jka2ZiZmlVNlRvOHVHbjNweE9CdHNVcFpEby1yeUp5QU1Rdw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "8ea28e9300",
    "priority": 2,
    "watched": [],
@@ -1420,11 +1425,6 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTdKQWFpNUdWZWowVFByRXJmWlBhSFpCeEJFYTBHRUppOGhjdzZKVi00cVdmLWlXejNUTHBRMmVQM083UERSS2IxTVNMMDhYSDFjbmJSblJJVUVEYXFybnZXY3paVXJwUGJOOHI2ZlBhNWRzRk1jSDBJQmI2bmlXcm9EcUZveksxZGo0YU9xZC0tYjYzRWs5TXhZMDlBT1ROUHVJbkQtWXh1X2YzaEE",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenZVNzFpcF8wUVo3eWxKc2xjbHJPaG15bGhQSmIwb0h1R2xDTzQtSlNiUTFDX29qaC05RnZ4VlBSNUJUcVRpcS02eklTWnVEUHJBcFNweEZTYzRrQy1BV2NKVVpHSkhHTHdyQ2kxODI0TFVlNTI3QnRTNUJqSmF6OE1JclJaX1R5NFhIYlNiWVd1dGJDQ0k4SE1jWWY",
      "feed": "gn-bway-casting"
     }
    ],
@@ -1476,7 +1476,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "new production",
+   "type": "casting",
    "show": "Warriors",
    "title": "Lin-Manuel Miranda’s ‘Warriors’ Sets Broadway Cast",
    "quote": "Warriors, the upcoming Lin-Manuel Miranda Broadway musical based on the 1979 film and the Sol Yurick novel, will feature a cast including, among others, Casey Likes (Back to the Future, Almost Famous), Amber Gray (The Rocky Horror Show, Hadestown) and Jasmine Cephas Jones (TV’s Lanterns), and will begin performances o…",
@@ -1500,8 +1500,8 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWRYYnJZSkt2UG1xYVNMemVOS01MdThTWEVvWjJ0MUJXeDhFZVlpc2JjdWNWT2tuQldXUmwyQjZua2ZIZG50cVZzM1B6NlBQWVhwX04wQWJkeE50bDR5eDB1bTdVWmctNEpkQ2lKR1AxZElBc1hkaDZDNm1EaUQ3WXdaQ1M",
+     "name": "Good Morning America",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTN6cGItbEN4aE1oVmxQa3poVkZtUEZWT2dPYlVXOFk1UlRockpMM1VZVGMwTFdSRUM2V0NfRzU2cnk2RS1EeHI0NmhNUlFzalllQWdQallfUjJnZTl6cmQ1WWtNb1I4MFFQdURaUVBHdGpJaUV2a256emJUUWIyREt5N0ZBNWhPUmlaTVVidmx0c1pLckxTTlFTcGZhd29PdWRZQWc1WUlaVEN2SGw4ZVp30gG3AUFVX3lxTFA0aGNzQUxMeV9GUlJjTmM3SWtOT2k1YTlBUEVQcmpVRjRqOHVzeVRWaUZOZkVsT0U4MjltbGtCZGdNcWhQTFAtV05fNzVKcjdRWW9iR0ZHZ1BLVXZFVVF4a1pEalpzb3dmbE94a2NjUTRFc2JBZmRFVS1zX1pFUkxLS0RreGtvQ3BKeXBhRm9BVnJHVllWa1FQSWdQT0tyVVMyRGxoV05WaU5TSzR2YmV2UmZBQzVmcw",
      "feed": "gn-bway-casting"
     },
     {
@@ -1510,18 +1510,18 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Nerdist",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS0hxNm42OWVycnZfNWRvNy1YeFQ4MzJhbW5ZMlpUMWFRRWdSLUxjLVpJcGpYeldfUHBRcmN0WjdEdmRLSjR3R0RKTE1qQlJiSms4elZuN3lpZFpSSmQ1RkFFUGZzdC1HRkgwWmpjMVdfMlV1d2V4RTZwZDhuQkRMWnpPajlieVIxQkgzbGx3S0VjYzFUMjFF",
-     "feed": "gn-bway-casting"
-    },
-    {
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/warriors-broadway-casey-likes-amber-gray-jasmine-cephas-jones-1237168241/",
      "feed": "deadline-theater"
     },
     {
-     "name": "Sweety High",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42VW9vR1FUbF91am5sZDRhRVJaTS1iWHNqTzEyVTVsUFIyeWpDaVZiUEFncnFXSEk1eW81WjJCV0tCeGlXTy1Ic2czZ19QSjNHTlNzRm1sUWg5UVJqazNMT1RESF9CeWVHMEY4dXUwd3JVN1k",
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXNpNndoNTBheXl4ODhsbXdla1JDSGJESElxaGlVRGx0TzdvRFpNa0l4cWg3TVQ4Y25XOVhZM05uUDFOSDFVb29LRzV4akJSdjh0N3V2ZFp0YnFyUkpVdkxsbW54MjktRERseWpCamlUZ2xCdTY4dlNTRUJHbE0tdkVicExtNkUyVzVOT0VBeVF1dGhER3N6VlgtLVppN1FZdzVXak52ZWJMZ3Jka2ZiZmlVNlRvOHVHbjNweE9CdHNVcFpEby1yeUp5QU1Rdw",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Backstage",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUJKdnBSYWZoRndYaUtfbUVhTHdQMzZuNVJ6c2tZWnpKUnVlSlRrRDRicFBvRDRuTWF4dGtrbWhMUWNsOVl5U3piWlJrRkY2T0VtYnJuZHNSTmJTc21WbE0zMUZhdzY1QnhVU0VFQzgzYnEwTm1CMEZ2M2lKUFJVMXNGYi1RcEYzY1ZpY2d2eE8xZzczRVBlTndNZUYxRXN1NTFqcExQelJDSE1jNGc",
      "feed": "gn-bway-casting"
     }
    ],
@@ -2413,48 +2413,6 @@
    "status": "review"
   },
   {
-   "id": "7dd14ad5f8",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-15T18:59:08+00:00",
-   "published": "2026-10-15T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "John Turturro, Tony Shalhoub, and Tatiana Maslany to Star on Broadway in Rhinoceros",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "John Turturro",
-     "knownFor": "The Big Lebowski, Barton Fink",
-     "score": 58,
-     "qid": "Q244234"
-    },
-    {
-     "name": "Tatiana Maslany",
-     "knownFor": "Canadian actress",
-     "score": 46,
-     "qid": "Q7688099"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzlyeDJfcTRZa0lqV2VkRl8zemF6aUpJdGtvRmJJUHI0VnFUdjBfRU02N3hPWjgzWlNxMjZQTVRTUkk2eXM4UWlJanJqVU92TXY0WWY4anl1WE5ES0czcXdUa29PeGZFdnIwZkROUldnaGxfbDJmcGtONFotQXJiclBCMnNBR3JJMnJnbzJ5azZrRVhsVkRpQkVVaEtuZzZrdWFBTU5rd0JBaFRDNU40dS1xSGlHeURUdU54NTd0Y2k",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "51b52d3f38",
    "priority": 2,
    "watched": [],
@@ -2492,6 +2450,48 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGNCRWoyb0FlNEs2bHBpcHRXUkxka3IzQWRYR3BpdUFHU1JjdjBJLUVQTGVpM0xGWDFFMUVKSFFQRmZOdlhrSHVINVk3OHlnNExTNDBvblhRM3lGNFpPc1dXWlVPd1RHajhvNmExR3RydFhtYnRsc2kwaGhodGpMWTJkSTBRYjlCRTJrcGNrTTVDTlhaQ01qSmkzQm1mOVVyeWRqUmp0VQ",
      "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "7dd14ad5f8",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-15T18:59:08+00:00",
+   "published": "2026-10-15T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "John Turturro, Tony Shalhoub, and Tatiana Maslany to Star on Broadway in Rhinoceros",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "John Turturro",
+     "knownFor": "The Big Lebowski, Barton Fink",
+     "score": 58,
+     "qid": "Q244234"
+    },
+    {
+     "name": "Tatiana Maslany",
+     "knownFor": "Canadian actress",
+     "score": 46,
+     "qid": "Q7688099"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzlyeDJfcTRZa0lqV2VkRl8zemF6aUpJdGtvRmJJUHI0VnFUdjBfRU02N3hPWjgzWlNxMjZQTVRTUkk2eXM4UWlJanJqVU92TXY0WWY4anl1WE5ES0czcXdUa29PeGZFdnIwZkROUldnaGxfbDJmcGtONFotQXJiclBCMnNBR3JJMnJnbzJ5azZrRVhsVkRpQkVVaEtuZzZrdWFBTU5rd0JBaFRDNU40dS1xSGlHeURUdU54NTd0Y2k",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -2989,6 +2989,42 @@
    "status": "published"
   },
   {
+   "id": "a38eff4d83",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-09T18:04:53+00:00",
+   "published": "2026-10-09T18:04:53+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Dolly",
+   "title": "DOLLY Musical Announces Broadway Leads Handpicked by Dolly Parton",
+   "quote": "",
+   "quoteSource": "Broadway Direct",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Dolly Parton",
+     "knownFor": "All I Can Do, I Will Always Love You",
+     "score": 122,
+     "qid": "Q180453"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHBIN29lTV9tWldWMUpZT1NWa3hVbHZvclNnNVl1bGhBMWJDOF9ZRUlSWnB5MmpOWEk2YlVGVFlnZEhaTEVaSUxiV3psb2ZuMEltYlg5RzhrcVh3b0ZoSkdyYml5T3pjdDJ3d0JuUUd2eDZrS0RlRzg1dllEb0dYXzdNa0xHS3FQOVYtZ1kzOWZ4TlY1bERSSA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "a567f11793",
    "priority": 2,
    "watched": [],
@@ -3361,7 +3397,7 @@
     {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGJWUDhTNDRRY3pxZm5uY3BEVmFrbFE0QmhpOVZBWnZiNjlEUTlldVB2OFEtQXg2MjVubV9UUFVLNHR4Ym1pXzZ4cE5XZ3BtQ01nQlc2ZUEwSnIzbDFWX0Zadi1IQWRUeElZMmhsWDZXeTBTN1dQNXhPVzVreHRDSENXdlUtQQ",
-     "feed": "gn-offbway-casting"
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -3781,43 +3817,59 @@
    "status": "published"
   },
   {
-   "id": "ad15a4c0f2",
-   "priority": 2,
+   "id": "94757b67d4",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-04T18:40:36+00:00",
-   "published": "2026-10-04T18:40:36+00:00",
+   "firstSeen": "2026-10-25T20:24:13+00:00",
+   "published": "2026-10-25T20:24:13+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Little Shop of Horrors Off-Broadway Casts Maude Apatow",
+   "quote": "",
+   "quoteSource": "IMDb",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCM3lqenJQRHpNbW5uSTBfeUktalB4TTYtSjhOZTZhOWlJeTJOcjZ3eGhUemc0ZkpyMHRFaVdQaWpzelRsNnVObEtBelZYRjc0dHdhV1NOUlU1alpDeWQ1SndBWTA5Sjg",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "1729de3767",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T20:30:00+00:00",
+   "published": "2026-10-25T20:00:00+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": null,
-   "show": "s breakout role in the",
-   "title": "Britney Spears and Natalie Portman understudied this Broadway star’s breakout role in the ’90s",
-   "quote": "",
-   "quoteSource": "Entertainment Weekly",
-   "image": null,
-   "imageCredit": null,
+   "show": null,
+   "title": "Weekly Schedule of Current Broadway Shows",
+   "quote": "A rundown of current Broadway shows and their planned show times.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
+   "imageCredit": "Playbill",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Britney Spears",
-     "knownFor": "...Baby One More Time, Oops!... I Did It Again",
-     "score": 146,
-     "qid": "Q11975"
-    },
-    {
-     "name": "Natalie Portman",
-     "knownFor": "Israeli-American actress",
-     "score": 136,
-     "qid": "Q37876"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "Entertainment Weekly",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclRrbHh4TE0zUUI5dUxlb2V3VVdZQ1haWDhuV0RYaW9HNjFzX3RScWtDOEg2TGYwSGE3VDNpZU0zeElYM3BtMWF5YkU4NzQydGlKczFMbktOVHU4Mi1pYXFKb3EwZmJmYUxLazl2QVNNQVBOWHRjSHFCMVFzOFh1M0xnLWZqVGVSNG9pb3hfemphWjQzOXcwUHNkWUdtV2sySThrSA",
-     "feed": "gn-to-star"
+     "name": "Playbill",
+     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3850,6 +3902,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "27998648b3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-25T04:06:52+00:00",
+   "published": "2026-10-25T04:06:52+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Rent",
+   "title": "Idina Menzel Recalls That RENT’s Original Broadway Cast Dressed From Their Own Closets",
+   "quote": "",
+   "quoteSource": "Aussietheatre",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Aussietheatre",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmF0U3V5c01jcFpFb05Zd3RGaFFyXy1ldTV6UXZWNlp6VmpMSXkzUFQ3M3k4NlZDdkR6QUs4SFhEWVZRZm95VHZIdm9EOGpaQ1NVOVJPU1FmQ3lYa20xN296dDVtSF9Lc3ZXYjZLckdfNTh0MDlfUEJOV0Z1N2dKUDM3ZUlOZTFNMTVMV3hCUWIyZ9IBlwFBVV95cUxNRzdXZXU1WlNDUTF6YkJLc0c1NnpLRWxsLWl1aUJ6ajYyc1BLYWN6cFpJc2c0cDhrajVJNXlpUFBzZlRCSVp2NGxsbXpoQkwwNks3WTA4WEI2QUpwcWpvM3NBSDVrMURjVktIeDY4ejdsY1hiUW1wSWR3SzlSU04tbDFveTFGZkFDdEhXY09iM2lmc0tVS1dZ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "624914479b",
@@ -4053,35 +4134,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "34884178fe",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T20:07:00+00:00",
-   "published": "2026-10-23T19:14:20+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A Few Good Men",
-   "title": "Full Cast Set for Broadway Revival of ‘A Few Good Men’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSS1paU1ReUpmc1d1UWhQUkkxSi1PRUxEZHB5V3BJOXU1SGk0alF6clpuaVZvUi16cVpmMUt3NHA2bUpnM1NMc3l5SHNMeUlqY1ZDSkpmcXdrc1djR2tURUJXTWpnZzVrYW9vdGlyZmJCTFlnYlUySVBveDBWYnp5Y290dzloWndjTi1iRXBIUWVPZw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "59fdcbb7fd",
@@ -4606,6 +4658,35 @@
    "status": "published"
   },
   {
+   "id": "34884178fe",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T20:07:00+00:00",
+   "published": "2026-10-23T11:32:44+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A Few Good Men",
+   "title": "Full Cast Set for Broadway Revival of ‘A Few Good Men’",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSS1paU1ReUpmc1d1UWhQUkkxSi1PRUxEZHB5V3BJOXU1SGk0alF6clpuaVZvUi16cVpmMUt3NHA2bUpnM1NMc3l5SHNMeUlqY1ZDSkpmcXdrc1djR2tURUJXTWpnZzVrYW9vdGlyZmJCTFlnYlUySVBveDBWYnp5Y290dzloWndjTi1iRXBIUWVPZw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "ad7cf56db6",
    "priority": 3,
    "watched": [],
@@ -4775,6 +4856,35 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Ethan-Slater-Extends-Run-in-LITTLE-SHOP-OF-HORRORS-as-TR-Knight-Exits-Production-20261022",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "98f22c8e2e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-22T21:32:29+00:00",
+   "published": "2026-10-22T21:32:29+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Mary Poppins",
+   "title": "Liz Leclerc and Ben Marshall to Star in MARY POPPINS at the Argyle Theatre",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWRDQ015bkVvRFlsMmNuazZ3b1E4SDlpYVFDZWRQY2RCeHczTmNrOTRFUWp4YjFtWFFvZHp5Sk1OWkFCWm1QY3c5MjZPeHJSeWgxUWZNaUJmM0ExTnpldS1STkNQRTl2b21PalB0MmVzeFctSzgzMHowTVV0V0o3d05iZGVMNkhBcUZEX01KZ01mUU54QjFpNlkyZHB3ZVg2d0pqRWc2RTlfamZrV1lqblpuTUtEZ2RoWEZRclJMbTc5TUp2akcySkJfMGg3UQ",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -5127,7 +5237,7 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUtCSUFVQ0RmOURhc3lLOFIwbmpvY243WGc4bVRnNnhSNkdfQzVsZENrYmdzcThrVEJJUmFRSzlab25fcVc2S1RLV2U0OGtmcC1ydHZUaXludUhnV3dRdURzbkxmbDJyRW5wbU5rcGFEN3ZWWmI3RXRJTmh1X0FPeUxPY25ldFVIZW1maUlkR2Uyd0tzQ0F0Qjdsd1gwMTNXZHRRaTl1TDFHcGF6M1lTenBWWE1jcG16Z0hFU0Nn",
-     "feed": "gn-offbway-casting"
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -7613,35 +7723,6 @@
    "status": "review"
   },
   {
-   "id": "1729de3767",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T20:30:00+00:00",
-   "published": "2026-10-19T11:15:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Weekly Schedule of Current Broadway Shows",
-   "quote": "A rundown of current Broadway shows and their planned show times.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "468b2b125a",
    "priority": 3,
    "watched": [],
@@ -8701,35 +8782,6 @@
    "status": "review"
   },
   {
-   "id": "8c647b7373",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-15T23:46:55+00:00",
-   "published": "2026-10-15T23:46:55+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Good Showbiz",
-   "title": "GOOD SHOWBIZ to Open at Actors Temple Theatre Off-Broadway",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEVoYVVXZDRrREQwNWNfSlB6NUR2eU4tYy1VLVlYUEw5QnBHTHNBR1B1Qnh3NFUwRXRQQ1dHWkNyQnhEc0RLM1pJMEVGdlBMRjFyZUpMOE5HalNSbmZtZEUyWTFtVGIzcWYtMXdVZlJCRW9DeW1MOEhadklXTElmYnh3SldpLVduZHN3LWFnTFB4NWNVaDVsOTFNUnNuazBoZmRVVlFzcWFuajlqbTFhTnRrbnEteldtdmc",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "1a88158431",
    "priority": 3,
    "watched": [],
@@ -9304,7 +9356,7 @@
     {
      "name": "Broadway Direct",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWNrbm9hbmtMd3UyNm82Nm1TNTNRYVJJejNfODdYeEFzdEFIbzl5Q3VUZnR6dlZ5d0NCLUNlZk1LZS11aWcxQVJSR2EwQ3VsYWhmWWVacDVTX1VkZkFHUDNrS0ROUHEzVEllenQ5SGd2dVBxa0loc3lxazJZYTNyZ2tzWE9qQVhFYXc",
-     "feed": "gn-offbway-casting"
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -9367,6 +9419,35 @@
     {
      "name": "Playbill",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WTNIMHVFLU9vcUJJWnJXdTMyaHMxWk4tQkU3bUVzUnpRSHJid0RZamhxQlZTSjRqWXpTYkR5aGRRLURwNEllT0ctX1hVdEx2eFNWdG5jcE81THcxZldkNlM0c1JOMjVFMWtRUy1xdjg3emdWd3p1eHV3",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "8c647b7373",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-15T23:46:55+00:00",
+   "published": "2026-10-15T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Good Showbiz",
+   "title": "GOOD SHOWBIZ to Open at Actors Temple Theatre Off-Broadway",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEVoYVVXZDRrREQwNWNfSlB6NUR2eU4tYy1VLVlYUEw5QnBHTHNBR1B1Qnh3NFUwRXRQQ1dHWkNyQnhEc0RLM1pJMEVGdlBMRjFyZUpMOE5HalNSbmZtZEUyWTFtVGIzcWYtMXdVZlJCRW9DeW1MOEhadklXTElmYnh3SldpLVduZHN3LWFnTFB4NWNVaDVsOTFNUnNuazBoZmRVVlFzcWFuajlqbTFhTnRrbnEteldtdmc",
      "feed": "gn-offbway-casting"
     }
    ],
@@ -11002,45 +11083,6 @@
    "status": "published"
   },
   {
-   "id": "7d733bcf6f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T05:47:49+00:00",
-   "published": "2026-10-13T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Tichina Arnold Makes Broadway Debut in & Juliet as James Monroe Iglehart Returns",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0lrOE9rYWVWbEFTcE1sV052YU8wUUFmcWQ1Y1pWbnZ0NXlNOWl6Ty02V3pZQlVXMG1CNHNjajlDSnB6Z2dGYjA0YTE2NW43SWxGNVFnYlVJeEk5ckxfd2FFOERWanlpRXlPbFc4TWU5WUV2M2JVQXF4X3FXQ1FVYktCUjNnLVc3REpnbWp2QzJkMlJBakVTbUN4MktaRUxIdGtIdlVHQVlzRDduWDlnTXVpZExDdHM",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Blex Media",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1FNUDdJZFhOZl9nTkg0Y2gzZWpTbTk4MGgxUWhMbS1DVmwyR3N1cU1fVUVreGxDYmpXbXdETm5YMWY1bXVGSFFkT0FtX1B4MEpIc1A2djJHRGR4Nm1xc1c5Um1TbUhaZXZjdW9uS1lYanJEeFExbG9SN2Z1VDE2NTYtNUdTU0dSNDVaUmV6c2NfTWQw",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "051e0aa13a",
    "priority": 3,
    "watched": [],
@@ -11097,6 +11139,45 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "7d733bcf6f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-14T05:47:49+00:00",
+   "published": "2026-10-13T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Tichina Arnold Makes Broadway Debut in & Juliet as James Monroe Iglehart Returns",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0lrOE9rYWVWbEFTcE1sV052YU8wUUFmcWQ1Y1pWbnZ0NXlNOWl6Ty02V3pZQlVXMG1CNHNjajlDSnB6Z2dGYjA0YTE2NW43SWxGNVFnYlVJeEk5ckxfd2FFOERWanlpRXlPbFc4TWU5WUV2M2JVQXF4X3FXQ1FVYktCUjNnLVc3REpnbWp2QzJkMlJBakVTbUN4MktaRUxIdGtIdlVHQVlzRDduWDlnTXVpZExDdHM",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Blex Media",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1FNUDdJZFhOZl9nTkg0Y2gzZWpTbTk4MGgxUWhMbS1DVmwyR3N1cU1fVUVreGxDYmpXbXdETm5YMWY1bXVGSFFkT0FtX1B4MEpIc1A2djJHRGR4Nm1xc1c5Um1TbUhaZXZjdW9uS1lYanJEeFExbG9SN2Z1VDE2NTYtNUdTU0dSNDVaUmV6c2NfTWQw",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "04400a3adf",
@@ -12467,6 +12548,64 @@
    "status": "review"
   },
   {
+   "id": "e228176616",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-29T18:04:58+00:00",
+   "published": "2026-10-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Wicked",
+   "title": "Now Casting: Join the Broadway or Touring Productions of ‘Wicked’ + 3 More Gigs",
+   "quote": "",
+   "quoteSource": "Backstage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Backstage",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZldUX05zZV8wUUZnd3ZlelUtbEducmY4Tzd1Ulp5SThqVUxLSkR2dkZTb0tVeFdVU1lzVERPSEFhdXJqRnBfVFVqT21EMmNuN0JlSHBxSVRQVTBFRkNKeTd1aGc0SUpLUUtmNlBUWG1SX0JnX2E5OE5ZenppTF9PdTVxQ1VlSDRDdV90UjJOVEJUdw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a1dc15637f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-08T04:00:24+00:00",
+   "published": "2026-10-08T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "A Few Good Men",
+   "title": "Meet the Cast of A FEW GOOD MEN, Now Playing on Broadway",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDRVLW5RcU1LNENzQldtVDJXY25YUUpkelVTcko1ZTg2Q3hWN3NfeDFobzdKYUYyaDZTUF93WFQ4ZTB6OWpWeTdYT0hvb2RyVE0wQVZKUm1QaWFVRmpPbWYySU1FNHRoVDVlWnlNRHZfOXk2aHRaUEpWQ3FEWjAzbk1zRm02QnprQTdWOVNnUlhsNnlzby00OTR2aTVtLWxXWHJsSA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "6fc371299a",
    "priority": 3,
    "watched": [],
@@ -12559,35 +12698,6 @@
    "status": "published"
   },
   {
-   "id": "e228176616",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-29T18:04:58+00:00",
-   "published": "2026-10-08T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Wicked",
-   "title": "Now Casting: Join the Broadway or Touring Productions of ‘Wicked’ + 3 More Gigs",
-   "quote": "",
-   "quoteSource": "Backstage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Backstage",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZldUX05zZV8wUUZnd3ZlelUtbEducmY4Tzd1Ulp5SThqVUxLSkR2dkZTb0tVeFdVU1lzVERPSEFhdXJqRnBfVFVqT21EMmNuN0JlSHBxSVRQVTBFRkNKeTd1aGc0SUpLUUtmNlBUWG1SX0JnX2E5OE5ZenppTF9PdTVxQ1VlSDRDdV90UjJOVEJUdw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "12f3487265",
    "priority": 3,
    "watched": [],
@@ -12615,35 +12725,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "a1dc15637f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-08T04:00:24+00:00",
-   "published": "2026-10-08T04:00:24+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "A Few Good Men",
-   "title": "Meet the Cast of A FEW GOOD MEN, Now Playing on Broadway",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDRVLW5RcU1LNENzQldtVDJXY25YUUpkelVTcko1ZTg2Q3hWN3NfeDFobzdKYUYyaDZTUF93WFQ4ZTB6OWpWeTdYT0hvb2RyVE0wQVZKUm1QaWFVRmpPbWYySU1FNHRoVDVlWnlNRHZfOXk2aHRaUEpWQ3FEWjAzbk1zRm02QnprQTdWOVNnUlhsNnlzby00OTR2aTVtLWxXWHJsSA",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "26d9cd8e12",
@@ -14913,35 +14994,6 @@
    "status": "review"
   },
   {
-   "id": "987f9cf426",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T19:08:59+00:00",
-   "published": "2026-10-05T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Maybe Happy Ending",
-   "title": "Savy Jackson to star in 'Maybe Happy Ending' on Broadway",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVhIdXV0VWZOTk5DRnhZNlJ2SEMyaERBME5JR3BLeURyMW5kVldmaE5jYzI3blV2MEpYaWRfRFc1RkNkNXRnMUNqN1dnaHJlcU5rZGE3cUpId05UTmV6dlhBLVNGaTBLZE9lSGFFSVphWXZOUE9RTkNhWFN5RTg1b2VySW9xekhCcEZ4ZkxFb3UwNi1NZkdmTVVNd0hxMFFCM0xJYTlMdW55M1lt",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "73d3b9d16a",
    "priority": 3,
    "watched": [],
@@ -14998,6 +15050,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "987f9cf426",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-05T19:08:59+00:00",
+   "published": "2026-10-05T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Maybe Happy Ending",
+   "title": "Savy Jackson to star in 'Maybe Happy Ending' on Broadway",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVhIdXV0VWZOTk5DRnhZNlJ2SEMyaERBME5JR3BLeURyMW5kVldmaE5jYzI3blV2MEpYaWRfRFc1RkNkNXRnMUNqN1dnaHJlcU5rZGE3cUpId05UTmV6dlhBLVNGaTBLZE9lSGFFSVphWXZOUE9RTkNhWFN5RTg1b2VySW9xekhCcEZ4ZkxFb3UwNi1NZkdmTVVNd0hxMFFCM0xJYTlMdW55M1lt",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "433db5fb29",
@@ -15140,64 +15221,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/for-this-new-imaginary-invalid-bill-irwin-started-from-scratch/",
      "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "6edbfdd546",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-05T00:00:00+00:00",
-   "published": "2026-10-05T00:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "Irish Repertory Theatre",
-   "placedBy": "venue",
-   "type": "new production",
-   "show": null,
-   "title": "The Hairy Ape: The First Zoo Story",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/04/the-hairy-ape-the-first-zoo-story/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "3e293ff3b2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-04T23:59:59+00:00",
-   "published": "2026-10-04T23:59:59+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "The Hairy Ape: Hairier Would Be Scarier",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/04/the-hairy-ape-hairier-would-be-scarier/",
-     "feed": "ny-stage-review"
     }
    ],
    "status": "review"
