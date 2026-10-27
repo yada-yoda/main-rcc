@@ -1171,6 +1171,15 @@
   "qid": "Q116693245",
   "score": 2
  },
+ "Bradley Whitford": {
+  "checkedAt": "2026-10-27T18:35:17+00:00",
+  "description": "American actor (born 1959)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q352180",
+  "score": 39
+ },
  "Bradley Whitford Prove": {
   "checkedAt": "2026-10-21T01:20:37+00:00",
   "description": null,
@@ -1460,6 +1469,15 @@
   "qid": null,
   "score": 0
  },
+ "Café Carlyle": {
+  "checkedAt": "2026-10-27T18:35:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Cake Across": {
   "checkedAt": "2026-09-25T17:56:46+00:00",
   "description": null,
@@ -1486,6 +1504,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Cameron Crovetti": {
+  "checkedAt": "2026-10-27T18:35:01+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q126680890",
+  "score": 11
  },
  "Cameron Monaghan": {
   "checkedAt": "2026-09-25T17:54:48+00:00",
@@ -1515,6 +1542,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Candiace Dillard Bassett": {
+  "checkedAt": "2026-10-27T18:34:54+00:00",
+  "description": "musical artist",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q111916233",
+  "score": 4
  },
  "Capital One Arena": {
   "checkedAt": "2026-10-03T01:45:51+00:00",
@@ -1580,6 +1616,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Carole Radziwill": {
+  "checkedAt": "2026-10-27T18:34:53+00:00",
+  "description": "American journalist, author",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5044727",
+  "score": 8
  },
  "Carolee Carmello": {
   "checkedAt": "2026-10-03T01:45:48+00:00",
@@ -1655,6 +1700,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Catherine Ashmore Bradley": {
+  "checkedAt": "2026-10-27T18:34:59+00:00",
+  "description": "American actress (born 2007)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q119699749",
+  "score": 2
  },
  "Catherine Tate": {
   "checkedAt": "2026-10-16T17:12:10+00:00",
@@ -1811,6 +1865,15 @@
   "knownFor": [],
   "qid": "Q96002191",
   "score": 3
+ },
+ "Christine Andreas": {
+  "checkedAt": "2026-10-27T18:35:05+00:00",
+  "description": "Broadway actress and singer (b. 1951)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5110905",
+  "score": 7
  },
  "Christine Ebersole": {
   "checkedAt": "2026-10-07T02:08:34+00:00",
@@ -2000,6 +2063,15 @@
   "knownFor": [],
   "qid": "Q18348775",
   "score": 18
+ },
+ "Constance Shulman": {
+  "checkedAt": "2026-10-27T18:34:46+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16832092",
+  "score": 11
  },
  "Constantine Maroulis": {
   "checkedAt": "2026-09-29T02:30:21+00:00",
@@ -2226,6 +2298,15 @@
   "qid": null,
   "score": 0
  },
+ "Dance Top": {
+  "checkedAt": "2026-10-27T18:35:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Daniel Fish-Directed Elektra": {
   "checkedAt": "2026-10-01T01:49:59+00:00",
   "description": null,
@@ -2243,6 +2324,15 @@
   "knownFor": [],
   "qid": "Q510970",
   "score": 55
+ },
+ "Danielle Ferland": {
+  "checkedAt": "2026-10-27T18:35:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Danny Walters": {
   "checkedAt": "2026-10-20T17:48:29+00:00",
@@ -2672,6 +2762,24 @@
   "knownFor": [],
   "qid": "Q130864747",
   "score": 0
+ },
+ "Eight Real Housewives": {
+  "checkedAt": "2026-10-27T18:34:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Eileen Davidson": {
+  "checkedAt": "2026-10-27T18:34:56+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q265887",
+  "score": 24
  },
  "Eisa Davis": {
   "checkedAt": "2026-09-25T17:53:52+00:00",
@@ -3575,6 +3683,15 @@
   "qid": null,
   "score": 0
  },
+ "Good Table Manners": {
+  "checkedAt": "2026-10-27T18:35:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Goodspeed Musicals": {
   "checkedAt": "2026-10-08T02:34:45+00:00",
   "description": null,
@@ -3986,6 +4103,15 @@
  },
  "Host Halloween Costume": {
   "checkedAt": "2026-10-21T17:56:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Host Memorial": {
+  "checkedAt": "2026-10-27T18:35:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4544,6 +4670,15 @@
   "knownFor": [],
   "qid": "Q239069",
   "score": 43
+ },
+ "Jeanna de Waal": {
+  "checkedAt": "2026-10-27T18:34:48+00:00",
+  "description": "British actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q123680297",
+  "score": 1
  },
  "Jeff Hiller": {
   "checkedAt": "2026-09-25T17:52:08+00:00",
@@ -5138,6 +5273,15 @@
   "qid": null,
   "score": 0
  },
+ "Julia Murney": {
+  "checkedAt": "2026-10-27T18:35:08+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6306604",
+  "score": 12
+ },
  "Julia Roberts": {
   "checkedAt": "2026-09-25T17:56:00+00:00",
   "description": "American actress (born 1967)",
@@ -5710,6 +5854,15 @@
   "qid": "Q288359",
   "score": 54
  },
+ "Lena Hall": {
+  "checkedAt": "2026-10-27T18:35:03+00:00",
+  "description": "Swedish politician",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3431836",
+  "score": 17
+ },
  "Les Misérables": {
   "checkedAt": "2026-09-30T01:52:15+00:00",
   "description": null,
@@ -5871,6 +6024,15 @@
   "knownFor": [],
   "qid": "Q239576",
   "score": 25
+ },
+ "Lisa Rinna Head": {
+  "checkedAt": "2026-10-27T18:34:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Little Michael": {
   "checkedAt": "2026-10-06T18:49:11+00:00",
@@ -6235,6 +6397,24 @@
   ],
   "qid": "Q34012",
   "score": 158
+ },
+ "Martin Landry": {
+  "checkedAt": "2026-10-27T18:35:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Martin Landry Complete": {
+  "checkedAt": "2026-10-27T18:34:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Martin Moran": {
   "checkedAt": "2026-10-07T19:14:08+00:00",
@@ -6715,6 +6895,18 @@
   ],
   "qid": "Q485310",
   "score": 72
+ },
+ "Neil Simon": {
+  "checkedAt": "2026-10-27T18:34:42+00:00",
+  "description": "American playwright, writer, and academic (1927–2018)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [
+   "Brighton Beach Memoirs",
+   "Biloxi Blues"
+  ],
+  "qid": "Q315808",
+  "score": 47
  },
  "New-Play Legacy": {
   "checkedAt": "2026-10-20T17:49:16+00:00",
@@ -7285,6 +7477,15 @@
   "qid": null,
   "score": 0
  },
+ "Phaedra Parks": {
+  "checkedAt": "2026-10-27T18:34:51+00:00",
+  "description": "American lawyer and reality television participant",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q23417034",
+  "score": 3
+ },
  "Phillip Taratula": {
   "checkedAt": "2026-10-26T19:03:08+00:00",
   "description": null,
@@ -7621,8 +7822,26 @@
   "qid": null,
   "score": 0
  },
+ "Real Housewives": {
+  "checkedAt": "2026-10-27T18:34:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Real Housewives Britani": {
   "checkedAt": "2026-10-02T02:02:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Real Housewives Rotating": {
+  "checkedAt": "2026-10-27T18:34:58+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7758,6 +7977,15 @@
  },
  "Replacements Led": {
   "checkedAt": "2026-10-16T17:11:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Restless Eileen Davidson": {
+  "checkedAt": "2026-10-27T18:35:02+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8256,6 +8484,15 @@
   "knownFor": [],
   "qid": "Q2089963",
   "score": 6
+ },
+ "Scott Adsit": {
+  "checkedAt": "2026-10-27T18:35:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Scott Bakula": {
   "checkedAt": "2026-10-16T01:01:45+00:00",
@@ -8994,6 +9231,15 @@
  },
  "Texas High School": {
   "checkedAt": "2026-10-13T19:46:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Theatrical Agent Diane": {
+  "checkedAt": "2026-10-27T18:35:16+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
