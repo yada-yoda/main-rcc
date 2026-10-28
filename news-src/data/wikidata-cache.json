@@ -1635,6 +1635,15 @@
   "qid": "Q228871",
   "score": 60
  },
+ "Carmela Full": {
+  "checkedAt": "2026-10-28T18:41:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Carnation City Players": {
   "checkedAt": "2026-10-06T18:48:40+00:00",
   "description": null,
@@ -2271,6 +2280,18 @@
   "qid": null,
   "score": 0
  },
+ "Cynthia Erivo": {
+  "checkedAt": "2026-10-28T18:41:44+00:00",
+  "description": "British actress and singer-songwriter (born 1987)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Wicked",
+   "Wicked: For Good"
+  ],
+  "qid": "Q21592474",
+  "score": 49
+ },
  "Cynthia Erivo-Led": {
   "checkedAt": "2026-10-16T17:12:11+00:00",
   "description": null,
@@ -2661,6 +2682,15 @@
   "qid": null,
   "score": 0
  },
+ "Dolores Catania": {
+  "checkedAt": "2026-10-28T18:41:30+00:00",
+  "description": "American television personality (born 1970)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q107178155",
+  "score": 3
+ },
  "Donna Vivino": {
   "checkedAt": "2026-09-25T17:55:33+00:00",
   "description": "American actress",
@@ -3034,6 +3064,15 @@
  },
  "Eureka Day": {
   "checkedAt": "2026-09-25T17:57:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Eva Noblezada": {
+  "checkedAt": "2026-10-28T18:41:24+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3608,6 +3647,15 @@
   "qid": null,
   "score": 0
  },
+ "Gender-Bent Fantasticks": {
+  "checkedAt": "2026-10-28T18:41:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "George Abud": {
   "checkedAt": "2026-10-08T19:10:16+00:00",
   "description": "Off-Broadway actor",
@@ -3827,6 +3875,15 @@
   "qid": null,
   "score": 0
  },
+ "Guest Judge": {
+  "checkedAt": "2026-10-28T18:41:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hadestown Needs Talent": {
   "checkedAt": "2026-10-12T21:34:59+00:00",
   "description": null,
@@ -3856,6 +3913,15 @@
  },
  "Halloween Costume": {
   "checkedAt": "2026-10-24T16:27:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Halloween Flash Sale": {
+  "checkedAt": "2026-10-28T18:41:35+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3962,6 +4028,15 @@
   "qid": null,
   "score": 0
  },
+ "Happening Everywhere": {
+  "checkedAt": "2026-10-28T18:41:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hari Nef": {
   "checkedAt": "2026-10-02T18:15:07+00:00",
   "description": "American actor, model and author",
@@ -4047,6 +4122,15 @@
   "qid": null,
   "score": 0
  },
+ "Heart Sellers": {
+  "checkedAt": "2026-10-28T18:41:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Heated Rivalry": {
   "checkedAt": "2026-10-15T01:14:50+00:00",
   "description": null,
@@ -4103,6 +4187,15 @@
  },
  "Holiday Surprise": {
   "checkedAt": "2026-09-25T17:54:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Homo Ex Machina": {
+  "checkedAt": "2026-10-28T18:41:53+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4617,6 +4710,15 @@
   "qid": "Q6147131",
   "score": 5
  },
+ "Jamie Lloyd Co": {
+  "checkedAt": "2026-10-28T18:41:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Janie Dee": {
   "checkedAt": "2026-10-19T19:04:00+00:00",
   "description": "British actress",
@@ -5079,6 +5181,15 @@
   "qid": null,
   "score": 0
  },
+ "Joining Rosamund Pike": {
+  "checkedAt": "2026-10-28T18:41:18+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jon Robin Baitz": {
   "checkedAt": "2026-10-19T19:04:12+00:00",
   "description": "American dramatist",
@@ -5399,6 +5510,15 @@
   "qid": "Q6317989",
   "score": 7
  },
+ "Juyeon Song": {
+  "checkedAt": "2026-10-28T18:41:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Kailey Boyle": {
   "checkedAt": "2026-10-16T17:11:56+00:00",
   "description": null,
@@ -5602,6 +5722,15 @@
  },
  "Kilgallen World": {
   "checkedAt": "2026-10-21T17:56:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "King Lear": {
+  "checkedAt": "2026-10-28T18:41:57+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6223,6 +6352,15 @@
   "qid": null,
   "score": 0
  },
+ "Lottery Policies": {
+  "checkedAt": "2026-10-28T18:41:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Love Island": {
   "checkedAt": "2026-10-28T02:02:35+00:00",
   "description": null,
@@ -6348,6 +6486,15 @@
   "qid": null,
   "score": 0
  },
+ "Maja Wampuszyc": {
+  "checkedAt": "2026-10-28T18:41:29+00:00",
+  "description": "American stage actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16832048",
+  "score": 1
+ },
  "Mandy Moore": {
   "checkedAt": "2026-10-14T17:49:09+00:00",
   "description": "American actress and singer (born 1984)",
@@ -6356,6 +6503,15 @@
   "knownFor": [],
   "qid": "Q187832",
   "score": 63
+ },
+ "Manual Cinema": {
+  "checkedAt": "2026-10-28T18:41:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Mare Winningham": {
   "checkedAt": "2026-09-28T20:01:13+00:00",
@@ -6713,6 +6869,15 @@
   "qid": "Q3308101",
   "score": 14
  },
+ "Michael Cullen": {
+  "checkedAt": "2026-10-28T18:41:27+00:00",
+  "description": "New Zealand politician and academic (1945–2021)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2622925",
+  "score": 7
+ },
  "Michael Halling": {
   "checkedAt": "2026-10-09T18:40:57+00:00",
   "description": null,
@@ -7034,6 +7199,15 @@
   "qid": null,
   "score": 0
  },
+ "Next Week": {
+  "checkedAt": "2026-10-28T18:41:48+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Next Year": {
   "checkedAt": "2026-09-28T20:01:32+00:00",
   "description": null,
@@ -7220,6 +7394,15 @@
   "qid": null,
   "score": 0
  },
+ "Now Christopher Gattelli": {
+  "checkedAt": "2026-10-28T18:41:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Now Playing": {
   "checkedAt": "2026-09-25T17:53:48+00:00",
   "description": null,
@@ -7231,6 +7414,15 @@
  },
  "Oak Tree": {
   "checkedAt": "2026-09-25T17:51:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Off Select Seats": {
+  "checkedAt": "2026-10-28T18:41:36+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7630,6 +7822,15 @@
   "qid": null,
   "score": 0
  },
+ "Plus Rush": {
+  "checkedAt": "2026-10-28T18:41:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Pod U Guys-": {
   "checkedAt": "2026-10-13T19:46:29+00:00",
   "description": null,
@@ -7939,6 +8140,15 @@
   "qid": null,
   "score": 0
  },
+ "Real Housewives Quartets": {
+  "checkedAt": "2026-10-28T18:41:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Real Housewives Rotating": {
   "checkedAt": "2026-10-27T18:34:58+00:00",
   "description": null,
@@ -8064,6 +8274,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Renée Elise Goldsberry": {
+  "checkedAt": "2026-10-28T18:41:40+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2816311",
+  "score": 30
  },
  "Replace Wayne Brady": {
   "checkedAt": "2026-09-29T18:29:22+00:00",
@@ -8302,6 +8521,24 @@
   "qid": null,
   "score": 0
  },
+ "Royal Court": {
+  "checkedAt": "2026-10-28T18:41:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Royal Drury Lane": {
+  "checkedAt": "2026-10-28T18:41:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Rudy Pankow": {
   "checkedAt": "2026-10-05T21:00:53+00:00",
   "description": "American actor",
@@ -8426,6 +8663,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Santino Fontana": {
+  "checkedAt": "2026-10-28T18:41:41+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7420433",
+  "score": 21
  },
  "Sara Bareilles": {
   "checkedAt": "2026-10-27T01:50:57+00:00",
@@ -9190,6 +9436,15 @@
   "qid": "Q97667780",
   "score": 10
  },
+ "Symphony Space": {
+  "checkedAt": "2026-10-28T18:41:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Syndee Winters": {
   "checkedAt": "2026-10-06T18:49:14+00:00",
   "description": null,
@@ -9675,6 +9930,15 @@
  },
  "Tom Holland-Led Fred": {
   "checkedAt": "2026-09-26T01:13:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Tom Jones Wanted": {
+  "checkedAt": "2026-10-28T18:41:31+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10224,6 +10488,15 @@
   "qid": null,
   "score": 0
  },
+ "Winter Garden": {
+  "checkedAt": "2026-10-28T18:41:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Winter Miller Willed": {
   "checkedAt": "2026-10-09T18:41:03+00:00",
   "description": null,
@@ -10253,6 +10526,15 @@
  },
  "Wonderful Life": {
   "checkedAt": "2026-10-01T18:43:18+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Wonderful Life Completes": {
+  "checkedAt": "2026-10-28T18:41:20+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
