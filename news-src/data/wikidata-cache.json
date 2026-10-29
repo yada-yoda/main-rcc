@@ -760,6 +760,15 @@
   "qid": null,
   "score": 0
  },
+ "Barbara Barrie Dies": {
+  "checkedAt": "2026-10-29T02:09:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Bardo Opera World": {
   "checkedAt": "2026-10-20T17:49:07+00:00",
   "description": null,
@@ -769,8 +778,26 @@
   "qid": null,
   "score": 0
  },
+ "Barney Miller": {
+  "checkedAt": "2026-10-29T02:09:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Baryshnikov Arts": {
   "checkedAt": "2026-09-25T17:56:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Battersea Arts": {
+  "checkedAt": "2026-10-29T02:09:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2418,6 +2445,15 @@
   "qid": "Q3015861",
   "score": 13
  },
+ "Darcy Rose Byrnes": {
+  "checkedAt": "2026-10-29T02:09:01+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q454698",
+  "score": 25
+ },
  "Darren Buck": {
   "checkedAt": "2026-10-01T18:43:29+00:00",
   "description": "American entrepreneur and technologist, founder of Portal HomeHub",
@@ -2465,6 +2501,15 @@
  },
  "Debut With First-": {
   "checkedAt": "2026-09-25T17:48:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Dedicate Upcoming Come": {
+  "checkedAt": "2026-10-29T02:09:07+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3638,6 +3683,15 @@
   "qid": null,
   "score": 0
  },
+ "Gavin Creel": {
+  "checkedAt": "2026-10-29T02:09:10+00:00",
+  "description": "American actor and singer (1976–2024)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3758985",
+  "score": 24
+ },
  "Gender-Bending Roles": {
   "checkedAt": "2026-10-16T17:11:51+00:00",
   "description": null,
@@ -4601,6 +4655,17 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Jack Gleeson": {
+  "checkedAt": "2026-10-29T02:09:03+00:00",
+  "description": "Irish actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "In the Land of Saints and Sinners"
+  ],
+  "qid": "Q777260",
+  "score": 41
  },
  "Jack Thorne A": {
   "checkedAt": "2026-10-08T19:10:44+00:00",
@@ -6968,6 +7033,15 @@
   "qid": "Q118179884",
   "score": 5
  },
+ "Missi Pyle": {
+  "checkedAt": "2026-10-29T02:08:59+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q233786",
+  "score": 39
+ },
  "MoCo Show": {
   "checkedAt": "2026-09-30T01:52:16+00:00",
   "description": null,
@@ -9004,6 +9078,15 @@
   "qid": null,
   "score": 0
  },
+ "Sing Event": {
+  "checkedAt": "2026-10-29T02:09:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Singing Waiters": {
   "checkedAt": "2026-10-15T01:14:52+00:00",
   "description": null,
@@ -9447,6 +9530,15 @@
  },
  "Syndee Winters": {
   "checkedAt": "2026-10-06T18:49:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Tabernacle Choir": {
+  "checkedAt": "2026-10-29T02:09:02+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
