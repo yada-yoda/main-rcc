@@ -5069,6 +5069,15 @@
   "qid": "Q29452733",
   "score": 5
  },
+ "Jessie Buckley": {
+  "checkedAt": "2026-10-30T02:25:38+00:00",
+  "description": "Irish actress and singer (born 1989)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6187642",
+  "score": 53
+ },
  "Jimin Moon": {
   "checkedAt": "2026-10-24T01:24:32+00:00",
   "description": null,
@@ -5647,6 +5656,15 @@
   "qid": "Q6367560",
   "score": 6
  },
+ "Kate Baldwin": {
+  "checkedAt": "2026-10-30T02:25:44+00:00",
+  "description": "American singer and actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6375348",
+  "score": 10
+ },
  "Katerina McCrimmon": {
   "checkedAt": "2026-10-10T02:08:16+00:00",
   "description": null,
@@ -6040,6 +6058,15 @@
   "qid": "Q242792",
   "score": 41
  },
+ "Lauren Patten": {
+  "checkedAt": "2026-10-30T02:25:43+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q79191890",
+  "score": 7
+ },
  "Lauren Yee": {
   "checkedAt": "2026-10-20T01:36:48+00:00",
   "description": "American actress",
@@ -6224,6 +6251,15 @@
  },
  "Life Story": {
   "checkedAt": "2026-10-02T18:14:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Life-or-Death Story": {
+  "checkedAt": "2026-10-30T02:25:46+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7494,6 +7530,15 @@
   "knownFor": [],
   "qid": "Q5484158",
   "score": 20
+ },
+ "Norm Lewis": {
+  "checkedAt": "2026-10-30T02:25:42+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7051523",
+  "score": 11
  },
  "Norma Desmond": {
   "checkedAt": "2026-10-16T17:11:48+00:00",
@@ -9546,6 +9591,15 @@
   "qid": null,
   "score": 0
  },
+ "Sweeney Todd": {
+  "checkedAt": "2026-10-30T02:25:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sweet Caroline": {
   "checkedAt": "2026-09-25T17:51:35+00:00",
   "description": null,
@@ -10573,6 +10627,15 @@
  },
  "Where We Can": {
   "checkedAt": "2026-09-25T17:48:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Which Raised": {
+  "checkedAt": "2026-10-30T02:25:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
