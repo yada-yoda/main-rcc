@@ -1872,6 +1872,15 @@
   "qid": null,
   "score": 0
  },
+ "Cherry Lane Alternative": {
+  "checkedAt": "2026-10-31T02:03:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Cheyenne Jackson Shows": {
   "checkedAt": "2026-10-27T01:51:02+00:00",
   "description": null,
@@ -2535,6 +2544,15 @@
   "qid": "Q1174106",
   "score": 5
  },
+ "David Hyde Pierce": {
+  "checkedAt": "2026-10-31T02:03:11+00:00",
+  "description": "American actor and director",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q373976",
+  "score": 33
+ },
  "Dead Girl": {
   "checkedAt": "2026-10-08T19:10:54+00:00",
   "description": null,
@@ -2891,6 +2909,15 @@
   ],
   "qid": "Q4030",
   "score": 88
+ },
+ "Dylan Baker": {
+  "checkedAt": "2026-10-31T02:03:08+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q726128",
+  "score": 33
  },
  "Earlier Than Expected": {
   "checkedAt": "2026-10-23T17:44:57+00:00",
@@ -3352,6 +3379,15 @@
  },
  "Few Good Men": {
   "checkedAt": "2026-10-10T17:40:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Fifth Horseman": {
+  "checkedAt": "2026-10-31T02:03:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3983,6 +4019,15 @@
   "qid": null,
   "score": 0
  },
+ "Great Hope": {
+  "checkedAt": "2026-10-31T02:03:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Green Alliance": {
   "checkedAt": "2026-10-02T18:15:14+00:00",
   "description": null,
@@ -4457,6 +4502,15 @@
  },
  "Host Screening": {
   "checkedAt": "2026-10-21T01:20:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Host Second Homecoming": {
+  "checkedAt": "2026-10-31T02:03:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5589,6 +5643,15 @@
   "knownFor": [],
   "qid": "Q102561023",
   "score": 0
+ },
+ "Judi Dench": {
+  "checkedAt": "2026-10-31T02:03:18+00:00",
+  "description": "English actress (born 1934)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q28054",
+  "score": 98
  },
  "Judy Kaye": {
   "checkedAt": "2026-10-23T01:15:25+00:00",
@@ -7203,6 +7266,15 @@
   "knownFor": [],
   "qid": "Q1928565",
   "score": 1
+ },
+ "Michael O'Keefe": {
+  "checkedAt": "2026-10-31T02:03:14+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q575761",
+  "score": 21
  },
  "Michael Sheen": {
   "checkedAt": "2026-10-01T18:43:34+00:00",
@@ -8937,6 +9009,15 @@
   "qid": null,
   "score": 0
  },
+ "Ryan Eggold": {
+  "checkedAt": "2026-10-31T02:03:09+00:00",
+  "description": "American actor, musician and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q514020",
+  "score": 31
+ },
  "Ryan J Haddad": {
   "checkedAt": "2026-10-11T17:55:29+00:00",
   "description": null,
@@ -9212,6 +9293,15 @@
  },
  "Sea Wall": {
   "checkedAt": "2026-09-25T17:55:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Second Cohort": {
+  "checkedAt": "2026-10-31T02:03:23+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10407,6 +10497,15 @@
   "qid": null,
   "score": 0
  },
+ "Trans History Project": {
+  "checkedAt": "2026-10-31T02:03:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Triple Threat": {
   "checkedAt": "2026-10-05T21:00:33+00:00",
   "description": null,
@@ -10641,6 +10740,15 @@
   "qid": null,
   "score": 0
  },
+ "Valley Youth": {
+  "checkedAt": "2026-10-31T02:03:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Very Happy Hour": {
   "checkedAt": "2026-10-13T19:46:54+00:00",
   "description": null,
@@ -10804,6 +10912,15 @@
   ],
   "qid": "Q956021",
   "score": 35
+ },
+ "Westport Country Playhouse": {
+  "checkedAt": "2026-10-31T02:03:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "What Ails": {
   "checkedAt": "2026-10-23T17:45:20+00:00",
