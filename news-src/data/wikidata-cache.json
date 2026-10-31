@@ -3116,6 +3116,15 @@
   "qid": "Q168724",
   "score": 89
  },
+ "Emmy-Winning Comedian Alex": {
+  "checkedAt": "2026-10-31T17:31:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Emotional Depth": {
   "checkedAt": "2026-10-21T01:20:15+00:00",
   "description": null,
@@ -3667,6 +3676,15 @@
  },
  "Free Student": {
   "checkedAt": "2026-10-02T18:14:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Frightful Lyrics": {
+  "checkedAt": "2026-10-31T17:31:40+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7711,6 +7729,15 @@
   "qid": null,
   "score": 0
  },
+ "No Joke": {
+  "checkedAt": "2026-10-31T17:31:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Noah Wyle": {
   "checkedAt": "2026-10-21T01:20:19+00:00",
   "description": "American actor (born 1971)",
@@ -9374,6 +9401,15 @@
  },
  "Shakespeare Event": {
   "checkedAt": "2026-10-22T17:52:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Shenandoah Conservatory Students": {
+  "checkedAt": "2026-10-31T17:31:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
