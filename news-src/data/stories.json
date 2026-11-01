@@ -208,10 +208,10 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Music Box Theatre",
-   "placedBy": "words",
-   "type": "casting",
+   "placedBy": "venue",
+   "type": null,
    "show": "Inter Alia",
-   "title": "Full Cast Set for Broadway’s ‘Inter Alia’",
+   "title": "‘Inter Alia’ sets full Broadway cast joining Rosamund Pike",
    "quote": "It will begin preview performances on November 10 at the Music Box Theatre and officially open on December 1.",
    "quoteSource": "Broadway News",
    "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/142842-13.jpg",
@@ -228,22 +228,17 @@
    ],
    "sources": [
     {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xaVgxbnRVVEVNeFR6ZjZPYVZZckNGeTJDY1VYeVk0TzFadGN2ZkhRTnIxZWttUDdMakQtNThWRi1UOWhDLXhnZGs2WUlfbzNEU21Jc2p6WTB0YTFjYjBtYjlodmRZb01Dc1h3REVVdmZzem1ZVlgzQ2puNzNIdjQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRy1HOF9Va2dPOU1NaVQ0c3hJZjlFd3I3UTdBSzVCSzA0T1k0RUtRbVlvNlJsdFFDRVl3bVhNSDhDM2FJazN3aGlwWVloWDlYSlVrWWh0WllLUFBZUlBUaGVURlduTmF5ZUNJS0gxUTFrTUlPdDl3d2YwLXM1cFl0YjJuLWxMcGtiX0xfSGJiSQ",
-     "feed": "gn-bway-casting"
-    },
-    {
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/inter-alia-sets-full-broadway-cast-joining-rosamund-pike/",
      "feed": "broadway-news"
+    },
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWZHSWhrYVNpZ0xfUWZIRDdEUzhXNHhyQlVNRjdvOF9HUk5vT1V1eTk4V0pCQXRJZjhvVjVtWlppUDV0NmJHRUpCZGlDNk9ETUFOVVpYQ3p1Ujc0Y1M2Rk9yRVhicGZ2UWVOZjhtRmowVkNObXIzYUVJNm1VOVgzLW5Tbnl1aklBeXh2VHVMM1ZWM0F0STNWNE1B",
+     "feed": "gn-bway-casting"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "2a80310783",
@@ -2449,7 +2444,7 @@
    "show": "Other Desert Cities",
    "title": "Julia Louis-Dreyfus makes Broadway debut in ‘Other Desert Cities’",
    "quote": "",
-   "quoteSource": "News12 | Long Island",
+   "quoteSource": "News12 | Hudson Valley",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2464,8 +2459,8 @@
    ],
    "sources": [
     {
-     "name": "News12 | Long Island",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlYxVURHQzd5RGVXM2REUGxIWTczNnhIOS02dC1UaWRkZ1FpZ2Y2X2JyZVE5Y1NXZV9Oamszb3o1Mng4MGlXQkZNUWdNZ3hORDl5N24wMHhuN3hfWFN1WWFRSzRSRUF0dGtEZ2Y5WXdWR21fS2NtWTFqUjM4eU5oYkpLTEhENWhocUdPVkJzVDJDSTdxaWtpcmo4SlZtenBveHQ3N19WVTlhQkdGaXRtZmF3VWdXYW1yb2luRFlvTXRrUW96T3c",
+     "name": "News12 | Hudson Valley",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODdnX0lmdWE1YldQOTFtcm9NcXdlR1Q2LWU1ZWV0TkZyd2pfdVhVYUZwYlFvZmltdGRWX053aG9Jd2p1MDZib3JEM3B6dGFNekxaYjBnQjBFWUE0bFdsOWk2eUg2LW1BZFBBM3p4U21oMjJhSTJ6NGxJTktBNTNQb1dUdHFhNVA4bTJSSzZyMjJsRFVXN3FPSVgzcWRkMTdNZXhyTDFyRi1CVGRsaDFLcGNET3V6Ny1aZjFmWWZ3MVFiQUlZV1RvVA",
      "feed": "gn-bway-debut"
     }
    ],
@@ -2753,7 +2748,7 @@
    "status": "review"
   },
   {
-   "id": "f42f884916",
+   "id": "519247743e",
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-10-19T07:00:00+00:00",
@@ -2761,12 +2756,12 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Studio 54",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "The Rocky Horror Show",
-   "title": "Margaret Cho Makes Broadway Debut As Narrator In ‘The Rocky Horror Show’ At Studio 54",
+   "title": "Margaret Cho Makes Broadway Debut in The Rocky Horror Show November 3 as Rachel Dratch Takes Final Bow",
    "quote": "",
-   "quoteSource": "That Eric Alper",
+   "quoteSource": "AmNews Curtain Raiser",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2777,17 +2772,23 @@
      "knownFor": "The Listener",
      "score": 32,
      "qid": "Q257243"
+    },
+    {
+     "name": "Rachel Dratch",
+     "knownFor": "American actress and comedian",
+     "score": 26,
+     "qid": "Q261977"
     }
    ],
    "sources": [
     {
-     "name": "That Eric Alper",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0Y0eWlFaTZjV29FeGlSel9ILThHeHFSVzZnVGNMTFA2NmdaZ2lySkVXWXpnWFItY05UTURJbVhzVThCNjJYWFVVYWJLUzRTb3FUMk5PMy1mRkxEMHp4MFZTN1dEeGg0WnNHV1kzYk5oN01PVUtrOFNqVW9jTnpORFV2VHBJVFRMbGZ5NXpKMGE3MlJ5b0hJY2dCUGtkaXFVb0dwYU5sejV0Q3FfMUNfN3dFeVh2MWtaalE2c2NqeTV4VGs",
+     "name": "AmNews Curtain Raiser",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDR3MTc4Z3huRld1dm91M3VXLVFsZzVNazNMQU5aUGZkVEtQR3lLN0Y0ejlaVkpKYW5JOWVkbERPUFJmcXE1Tjl0S1pzaUxaRjFWN0JMWnprSFNzemdlLTBzbEszRVpVSW5LTTVQRmlFVlRRSDlzMlpQeWZXS1EtbjFBQzg5YktXSlZWampn",
      "feed": "gn-bway-debut"
     },
     {
-     "name": "AmNews Curtain Raiser",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDR3MTc4Z3huRld1dm91M3VXLVFsZzVNazNMQU5aUGZkVEtQR3lLN0Y0ejlaVkpKYW5JOWVkbERPUFJmcXE1Tjl0S1pzaUxaRjFWN0JMWnprSFNzemdlLTBzbEszRVpVSW5LTTVQRmlFVlRRSDlzMlpQeWZXS1EtbjFBQzg5YktXSlZWampn",
+     "name": "That Eric Alper",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0Y0eWlFaTZjV29FeGlSel9ILThHeHFSVzZnVGNMTFA2NmdaZ2lySkVXWXpnWFItY05UTURJbVhzVThCNjJYWFVVYWJLUzRTb3FUMk5PMy1mRkxEMHp4MFZTN1dEeGg0WnNHV1kzYk5oN01PVUtrOFNqVW9jTnpORFV2VHBJVFRMbGZ5NXpKMGE3MlJ5b0hJY2dCUGtkaXFVb0dwYU5sejV0Q3FfMUNfN3dFeVh2MWtaalE2c2NqeTV4VGs",
      "feed": "gn-bway-debut"
     }
    ],
@@ -3853,6 +3854,64 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "84a7fdfe3a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-01T17:03:51+00:00",
+   "published": "2026-11-01T17:03:51+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "24 Off Broadway Shows to Catch This November",
+   "quote": "From a revival of August Wilson’s “Seven Guitars” to a musical parody of the reality show “The Traitors,” New York stages are full of creativity this month.",
+   "quoteSource": "The New York Times",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/01/theater/traitorz-carson-imitation-life-off-broadway-november.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "c05eacca21",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-01T17:00:45+00:00",
+   "published": "2026-11-01T17:00:45+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Lost Boys",
+   "title": "Michael Arden And THE LOST BOYS Stars Talk Broadway's Vampire Takeover",
+   "quote": "Members of the cast and creative team for The Lost Boys sat down with CBS Sunday Morning's Tracy Smith to discuss the enduring appeal of vampires, the musical's gravity defying staging, and the deeper themes behind the production. In a segment exploring Hollywood and Broadway's fascination with vampires, Tracy Smith s…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-08c06a594186f908bfcb0afca2515506.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Michael-Arden-And-THE-LOST-BOYS-Stars-Talk-Broadways-Vampire-Takeover-20261101",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "387d72aa45",
@@ -5420,35 +5479,6 @@
     {
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHlzc3ZTelVxSTJnTHdXbGNfZW1FTUdWdVZIeDFMUTRiTXEyMlZBdHdvazFVdHFQVEFxdlB0RFVZOXZqWmt4bjJOSXg0RmlMZzZyMmJBMjRVOVFXT2dfaElJUGJUYmVqeTRwZlFzZHhEdXVmVTA4bnBhOFp0UW8ydTBGbXNpdHM3VTdCTnloVTRlS0YtOHhEZ1lBTlpmZ29ZVEpBQWRJOVh6MUhl",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "8b0aa55895",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-28T16:03:27+00:00",
-   "published": "2026-10-28T16:03:27+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Inter Alia Sets Full Broadway Cast Joining Rosamund Pike",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWZHSWhrYVNpZ0xfUWZIRDdEUzhXNHhyQlVNRjdvOF9HUk5vT1V1eTk4V0pCQXRJZjhvVjVtWlppUDV0NmJHRUpCZGlDNk9ETUFOVVpYQ3p1Ujc0Y1M2Rk9yRVhicGZ2UWVOZjhtRmowVkNObXIzYUVJNm1VOVgzLW5Tbnl1aklBeXh2VHVMM1ZWM0F0STNWNE1B",
      "feed": "gn-bway-casting"
     }
    ],
@@ -10193,6 +10223,35 @@
    "status": "published"
   },
   {
+   "id": "99994d17da",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-20T19:00:40+00:00",
+   "published": "2026-10-20T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Inside Bowen Yang’s Broadway Debut as Mary Todd Lincoln in Oh, Mary!",
+   "quote": "",
+   "quoteSource": "Broadway Direct",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGtpdmVvSkxOY3pLTmNtWi01UDJMTWdDazZjV3RSMDJxMHNJb0loRGUzWjY3azR3al9OZmpDWlVfUDNkWk42YkxhcGVKWmhfaGRxaHBMX3Zrc0Yxa25lYVpWZW1TVWNzVUhpZ2E4bXM1Ym1sSTBfRlEyQkl5a0ZHTGNWWnY1WjBzT1B0MldVQUs1MFprd2hV",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "06506aefa9",
    "priority": 3,
    "watched": [],
@@ -10307,35 +10366,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "99994d17da",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T19:00:40+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Inside Bowen Yang’s Broadway Debut as Mary Todd Lincoln in Oh, Mary!",
-   "quote": "",
-   "quoteSource": "Broadway Direct",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGtpdmVvSkxOY3pLTmNtWi01UDJMTWdDazZjV3RSMDJxMHNJb0loRGUzWjY3azR3al9OZmpDWlVfUDNkWk42YkxhcGVKWmhfaGRxaHBMX3Zrc0Yxa25lYVpWZW1TVWNzVUhpZ2E4bXM1Ym1sSTBfRlEyQkl5a0ZHTGNWWnY1WjBzT1B0MldVQUs1MFprd2hV",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "8c8b097fcd",
@@ -10481,6 +10511,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "438caf0b06",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-20T00:00:14+00:00",
+   "published": "2026-10-20T00:00:14+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A Few Good Men",
+   "title": "Tom Blyth Makes Broadway Debut, Takes First Bow in ‘A Few Good Men’ Play",
+   "quote": "",
+   "quoteSource": "IMDb",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcV9pbDBsMEZwamx6NURtVlJmWWF6LXV3UHFOUXpndEV3NDZwRndZN3JnbmJyZVREczlHWkFvU2hrYmx2aE5LZnN5dDMydw",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "25b057a1eb",
@@ -14360,6 +14419,45 @@
    "status": "published"
   },
   {
+   "id": "7d733bcf6f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-14T05:47:49+00:00",
+   "published": "2026-10-13T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Tichina Arnold Makes Broadway Debut in & Juliet as James Monroe Iglehart Returns",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0lrOE9rYWVWbEFTcE1sV052YU8wUUFmcWQ1Y1pWbnZ0NXlNOWl6Ty02V3pZQlVXMG1CNHNjajlDSnB6Z2dGYjA0YTE2NW43SWxGNVFnYlVJeEk5ckxfd2FFOERWanlpRXlPbFc4TWU5WUV2M2JVQXF4X3FXQ1FVYktCUjNnLVc3REpnbWp2QzJkMlJBakVTbUN4MktaRUxIdGtIdlVHQVlzRDduWDlnTXVpZExDdHM",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Blex Media",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1FNUDdJZFhOZl9nTkg0Y2gzZWpTbTk4MGgxUWhMbS1DVmwyR3N1cU1fVUVreGxDYmpXbXdETm5YMWY1bXVGSFFkT0FtX1B4MEpIc1A2djJHRGR4Nm1xc1c5Um1TbUhaZXZjdW9uS1lYanJEeFExbG9SN2Z1VDE2NTYtNUdTU0dSNDVaUmV6c2NfTWQw",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "3df68fba25",
    "priority": 3,
    "watched": [],
@@ -14445,45 +14543,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "7d733bcf6f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T05:47:49+00:00",
-   "published": "2026-10-13T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Tichina Arnold Makes Broadway Debut in & Juliet as James Monroe Iglehart Returns",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0lrOE9rYWVWbEFTcE1sV052YU8wUUFmcWQ1Y1pWbnZ0NXlNOWl6Ty02V3pZQlVXMG1CNHNjajlDSnB6Z2dGYjA0YTE2NW43SWxGNVFnYlVJeEk5ckxfd2FFOERWanlpRXlPbFc4TWU5WUV2M2JVQXF4X3FXQ1FVYktCUjNnLVc3REpnbWp2QzJkMlJBakVTbUN4MktaRUxIdGtIdlVHQVlzRDduWDlnTXVpZExDdHM",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Blex Media",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1FNUDdJZFhOZl9nTkg0Y2gzZWpTbTk4MGgxUWhMbS1DVmwyR3N1cU1fVUVreGxDYmpXbXdETm5YMWY1bXVGSFFkT0FtX1B4MEpIc1A2djJHRGR4Nm1xc1c5Um1TbUhaZXZjdW9uS1lYanJEeFExbG9SN2Z1VDE2NTYtNUdTU0dSNDVaUmV6c2NfTWQw",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "ae9ed53488",
@@ -14771,64 +14830,6 @@
      "name": "Backstage",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdy1RcFVBVEE1QUY0SFhiS05nSkV4RldrcHlLbS1FSG5kSldFOGZRNlZmaUJUeUF4TW1oS0NiRUVDOE9YalJMNWtkQ0ZoN2xlOHQzRnc2T01sUGRPUnFpNmprang0LTZsSk9ZRFFOWmZGLTVLeEQ5SnRUdV9Vc0M5czRqRmNEalE",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "8023e9a052",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-11T17:56:49+00:00",
-   "published": "2026-10-11T17:56:49+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": null,
-   "title": "Dolly: A True Original Musical Announces Complete Cast For Its Broadway Premiere",
-   "quote": "",
-   "quoteSource": "antiMusic",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "antiMusic",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHIwRXB3MWYwN1JSRnZVSXZzMmgzVFdZWlJFNm5HMnF3b1pQVzhfZ0NsSnJQQXJRcHF0WUZYRkgzOExtZGVISFB0UllnZnl5WjRkNzNUTVE2N1VnMHB0dUtCdC1TeDNpVS15UW1JZUZYNWhxdmk2amFSd21IeS1uYTBRckFKV1prOWtLNzlZUFUxeEktamoyUjdkS0pKREQ0eE94Rjh3Qmc5OXdwYUV6bUh2Rl9PbEtqYUJkQURR",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "4688a378ae",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-11T14:00:24+00:00",
-   "published": "2026-10-11T14:00:24+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": null,
-   "title": "Play BroadwayWorld's Sunday Crossword: October 11, 2026",
-   "quote": "This week's grid is smaller than usual but no less packed. Fifteen answers fill a 17x17 board: three people, eight shows, two venues and two theatre terms, all pulled from a week of Broadway and regional news.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/logo-300-preview.png",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Play-BroadwayWorlds-Sunday-Crossword-October-11-2026-20261011",
-     "feed": "broadwayworld"
     }
    ],
    "status": "published"

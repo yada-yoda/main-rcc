@@ -7240,6 +7240,15 @@
   "qid": null,
   "score": 0
  },
+ "Michael Arden": {
+  "checkedAt": "2026-11-01T18:17:09+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4068927",
+  "score": 19
+ },
  "Michael Cerveris": {
   "checkedAt": "2026-10-05T21:00:02+00:00",
   "description": "American actor",
@@ -10787,6 +10796,15 @@
  },
  "Valley Youth": {
   "checkedAt": "2026-10-31T02:03:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Vampire Takeover": {
+  "checkedAt": "2026-11-01T18:17:10+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
