@@ -2,6 +2,54 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "e20101a15b",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-31T09:10:29+00:00",
+   "published": "2026-10-31T09:10:29+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Three Days of Rain",
+   "title": "David Corenswet, Yvonne Strahovski and François Arnaud to star in broadway revival of 'Three Days of Rain'",
+   "quote": "",
+   "quoteSource": "Business Upturn",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Yvonne Strahovski",
+     "knownFor": "Australian actress",
+     "score": 50,
+     "qid": "Q231891"
+    },
+    {
+     "name": "David Corenswet",
+     "knownFor": "American actor",
+     "score": 38,
+     "qid": "Q70954450"
+    },
+    {
+     "name": "François Arnaud",
+     "knownFor": "Québécois actor",
+     "score": 27,
+     "qid": "Q970787"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Business Upturn",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOc1RndzU2c0RCTnRPbnktbHpDdURicVl2elRIOUZDa29SckVGZE52Y1JTWG5QbWEyV24wbWVBY3FfX3dSMmlWemJoRVJXZUFLMHpFQjRTZ0h5WTVlSnRJNmJmYmJFaTJLZGF2YkZkRlNjX1dkMFlsNXBUekJzOGV2Q0lFRElfbHdScVVhMXhYcUNoUTMzdzAtbkdfMUVORTdVckRHOS13X3ZvcmxqVmkzaThvWGlhSWdPUGRRa0wyZ2JKQzhVOGNRYzRELXJ4YTBfbnlLUlktQkJlVUxNQm8yZ2V0bkw5NEQybnZSUk1mcTczR3lNdU1HVFJwaWpIVkJpSEE",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "81f2539ba6",
    "priority": 2,
    "watched": [],
@@ -1180,6 +1228,42 @@
    "status": "review"
   },
   {
+   "id": "b7a7471414",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-23T13:00:00+00:00",
+   "published": "2026-10-23T13:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Amish Project",
+   "title": "Jonathan Groff to Return to Broadway in Solo Play ‘The Amish Project’",
+   "quote": "The play marks the third Broadway project for Groff in recent years, following 'Just In Time' and 'Merrily We Roll Along.'",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jonathan Groff",
+     "knownFor": "American actor and singer",
+     "score": 43,
+     "qid": "Q556644"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jonathan-groff-broadway-return-solo-play-amish-project-1236738739/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "0813d1b595",
    "priority": 2,
    "watched": [],
@@ -1340,6 +1424,47 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "e13afc6376",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-22T17:54:50+00:00",
+   "published": "2026-10-22T17:54:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "This World of Tomorrow,",
+   "title": "Tom Hanks Will Return to Broadway in ‘This World of Tomorrow,’ a Time-Travel Romance",
+   "quote": "“This World of Tomorrow,” co-starring Kelli O’Hara, will come to Broadway next fall.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/10/24/multimedia/22cul-hanks-gtwv/22cul-hanks-gtwv-mediumSquareAt3X.jpg",
+   "imageCredit": "Sara Krulwich/The New York Times",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [
+    {
+     "name": "Tom Hanks",
+     "knownFor": "American actor and film producer",
+     "score": 136,
+     "qid": "Q2263"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/10/22/theater/tom-hanks-broadway-this-world-of-tomorrow.html",
+     "feed": "nyt-theater"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/tom-hanks-broadway-return-in-this-world-of-tomorrow-1236738341/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "c9e1281cc8",
@@ -2249,7 +2374,7 @@
    "venue": null,
    "placedBy": "words",
    "type": "casting",
-   "show": "Warriors",
+   "show": null,
    "title": "Lin-Manuel Miranda’s Warriors Announces Broadway Cast Led by Jasmine Cephas Jones and Amber Gray",
    "quote": "",
    "quoteSource": "Broadway Shows",
@@ -2269,31 +2394,6 @@
     {
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXNpNndoNTBheXl4ODhsbXdla1JDSGJESElxaGlVRGx0TzdvRFpNa0l4cWg3TVQ4Y25XOVhZM05uUDFOSDFVb29LRzV4akJSdjh0N3V2ZFp0YnFyUkpVdkxsbW54MjktRERseWpCamlUZ2xCdTY4dlNTRUJHbE0tdkVicExtNkUyVzVOT0VBeVF1dGhER3N6VlgtLVppN1FZdzVXak52ZWJMZ3Jka2ZiZmlVNlRvOHVHbjNweE9CdHNVcFpEby1yeUp5QU1Rdw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Variety",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcnIyWFNVUUZ6dTlseFRZcHNFd1lWOVlWTEdLSld3NVM1UVg1dVdxMUZ0eTFDYUFuUHNHMXp1VjNhdUg2UEFiM1UzNUxDUWp0anhHREcybXVob0tGcno0amNnUjFfVzVmWHJ3bXpHb2V6V0tYUDJpbGpLdlo3M1loaU5UTHNCMUVWTE1wdzE4NFgydw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONGpCd1JnVDIwRGR4WkhzcFMwb3VxREhQU3FrLS1ubnlKdExad1ZDRHRIZ3BEMXRkbHFkTUVhMm9vbURTLVFqdkpBRWViYnJoUll5RDFTNXJPd3ZWZXVRMFY5YXg0Um5LNm5IVXVtR2JPOFlWbnc1YkotTkZNcFhzUDdsdEtVTlBYTlhreWF1MUxJNklQTGUwQUdMR2ktYlF6aVBTM0pSa1I3TWs0VGNPbzNNdTB1YngtSTh6RWZnNEREQWM",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWRYYnJZSkt2UG1xYVNMemVOS01MdThTWEVvWjJ0MUJXeDhFZVlpc2JjdWNWT2tuQldXUmwyQjZua2ZIZG50cVZzM1B6NlBQWVhwX04wQWJkeE50bDR5eDB1bTdVWmctNEpkQ2lKR1AxZElBc1hkaDZDNm1EaUQ3WXdaQ1M",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Good Morning America",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTN6cGItbEN4aE1oVmxQa3poVkZtUEZWT2dPYlVXOFk1UlRockpMM1VZVGMwTFdSRUM2V0NfRzU2cnk2RS1EeHI0NmhNUlFzalllQWdQallfUjJnZTl6cmQ1WWtNb1I4MFFQdURaUVBHdGpJaUV2a256emJUUWIyREt5N0ZBNWhPUmlaTVVidmx0c1pLckxTTlFTcGZhd29PdWRZQWc1WUlaVEN2SGw4ZVp30gG3AUFVX3lxTFA0aGNzQUxMeV9GUlJjTmM3SWtOT2k1YTlBUEVQcmpVRjRqOHVzeVRWaUZOZkVsT0U4MjltbGtCZGdNcWhQTFAtV05fNzVKcjdRWW9iR0ZHZ1BLVXZFVVF4a1pEalpzb3dmbE94a2NjUTRFc2JBZmRFVS1zX1pFUkxLS0RreGtvQ3BKeXBhRm9BVnJHVllWa1FQSWdQT0tyVVMyRGxoV05WaU5TSzR2YmV2UmZBQzVmcw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Backstage",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUJKdnBSYWZoRndYaUtfbUVhTHdQMzZuNVJ6c2tZWnpKUnVlSlRrRDRicFBvRDRuTWF4dGtrbWhMUWNsOVl5U3piWlJrRkY2T0VtYnJuZHNSTmJTc21WbE0zMUZhdzY1QnhVU0VFQzgzYnEwTm1CMEZ2M2lKUFJVMXNGYi1RcEYzY1ZpY2d2eE8xZzczRVBlTndNZUYxRXN1NTFqcExQelJDSE1jNGc",
      "feed": "gn-bway-casting"
     }
    ],
@@ -2349,7 +2449,7 @@
    "show": "Other Desert Cities",
    "title": "Julia Louis-Dreyfus makes Broadway debut in ‘Other Desert Cities’",
    "quote": "",
-   "quoteSource": "News12 | Hudson Valley",
+   "quoteSource": "News12 | Long Island",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -2364,8 +2464,8 @@
    ],
    "sources": [
     {
-     "name": "News12 | Hudson Valley",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODdnX0lmdWE1YldQOTFtcm9NcXdlR1Q2LWU1ZWV0TkZyd2pfdVhVYUZwYlFvZmltdGRWX053aG9Jd2p1MDZib3JEM3B6dGFNekxaYjBnQjBFWUE0bFdsOWk2eUg2LW1BZFBBM3p4U21oMjJhSTJ6NGxJTktBNTNQb1dUdHFhNVA4bTJSSzZyMjJsRFVXN3FPSVgzcWRkMTdNZXhyTDFyRi1CVGRsaDFLcGNET3V6Ny1aZjFmWWZ3MVFiQUlZV1RvVA",
+     "name": "News12 | Long Island",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlYxVURHQzd5RGVXM2REUGxIWTczNnhIOS02dC1UaWRkZ1FpZ2Y2X2JyZVE5Y1NXZV9Oamszb3o1Mng4MGlXQkZNUWdNZ3hORDl5N24wMHhuN3hfWFN1WWFRSzRSRUF0dGtEZ2Y5WXdWR21fS2NtWTFqUjM4eU5oYkpLTEhENWhocUdPVkJzVDJDSTdxaWtpcmo4SlZtenBveHQ3N19WVTlhQkdGaXRtZmF3VWdXYW1yb2luRFlvTXRrUW96T3c",
      "feed": "gn-bway-debut"
     }
    ],
@@ -3900,6 +4000,35 @@
    "status": "review"
   },
   {
+   "id": "603a20f1e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T19:30:00+00:00",
+   "published": "2026-10-31T00:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
+   "quote": "Keep track of the shows booked into each Broadway theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-real-estate",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "4a88080262",
    "priority": 3,
    "watched": [],
@@ -4069,6 +4198,35 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTzlnT3FKWmMxWEZjdW11T1NpbjFZeFM4VENPTWNJWXBKUVN3dm9pTnJHNTF2RS1xaW5mTndVeHRiMXVJZExKOVhpWkczRl9nb1JELUhhdVlhNzNNNUxGUmQ4WWMwZ2NjdkJ1T0NSYmhOcWlqRk1uR2diRDdEbThTSjUzelgzY1lNaHhvWTJxRk1GcjIyNUVFRlpJaUVOZERqUzZvRg",
      "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "9fdec1b16e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-30T18:30:49+00:00",
+   "published": "2026-10-30T18:30:49+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "Westside Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Feed Me",
+   "title": "Watch Ethan Slater Sing \"Feed Me\" From LITTLE SHOP OF HORRORS on GMA With Full Cast",
+   "quote": "Ethan Slater and the cast of Little Shop of Horrors appeared on Good Morning America this morning to perform the title number and \"Feed Me.\" The recent Wicked star also discussed playing 'Seymour Krelborn' in the iconic musical. Watch a video of the cast performing a medley of songs from the show live on GMA, bringing…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-15de79da5560b781b79dfa18f81f2074.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Video-Ethan-Slater-LITTLE-SHOP-OF-HORRORS-Cast-Perform-Feed-Me-on-GMA-20261030",
+     "feed": "broadwayworld"
     }
    ],
    "status": "published"
@@ -4387,35 +4545,6 @@
     {
      "name": "Playbill",
      "url": "https://playbill.com/article/tony-winning-director-dan-sullivan-retiring-wont-direct-david-hare-world-premiere-montauk-as-announced",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "603a20f1e0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T19:30:00+00:00",
-   "published": "2026-10-30T12:25:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
-   "quote": "Keep track of the shows booked into each Broadway theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-real-estate",
      "feed": "playbill"
     }
    ],
@@ -6174,8 +6303,8 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0NKcGdpX0tHTFc0YWMxcUlxc1dUR29EX3dnSzlKTDhRQWdTZjNNNXBzajJ1X09wSEZZZkZqT3dibDZMU2lvSllCNmhSd0NPN3l0YkVpclhsOFZ6cXkyV2J3dG5QTTBDVlhfZ2xqNGF5aEhocEIzd0psbTFyZ21xbEc1d1E1VGhpZ0tTcTFhOVhGNnFtR1FwUjAtUmI",
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGFNcHppa0hvTWlJZ0ZrZHlWMW4zWUR3eGtReHowUzVYUTRUWVNOeHl6NmZXTzdTSU04UkVoUzZzY0pUMnBXMFB5OGdhS2Y3WG0zdjBZdXUwTlh3RnZvSXF2WlZkc3B5N0dtVVNId084VzBZVUJEYTVFZTNtVDhtc0lGeTAtcFpsQWI4a25zeWhZTmY3MXJzQU5YU0plWTFVNVF1NGJJOUR4ODBWc242TGZUbjM",
      "feed": "gn-to-star"
     },
     {
@@ -10035,6 +10164,35 @@
    "status": "review"
   },
   {
+   "id": "0f48a199fa",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-20T13:25:00+00:00",
+   "published": "2026-10-20T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Meet the Full Cast of Spring Awakening Off-Broadway Revival",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2NFSTdiNGlMWFdMb3NWSG85MUJEVnFqYlRUVHFaMnFyWWdreTk5RzBkRVhsTEVEbWhSOGpJbTFhWjBPMTV5ZnpMU1ZMSEZjVzY3WXhtMm5zNGx6LVQtOTJjWTByTkt6Z19oelllTUJHc3FZNXU3M0VXb1l1V1pSRnppWWN5c0ZfUjBzR1FlMnZHdw",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "06506aefa9",
    "priority": 3,
    "watched": [],
@@ -10120,35 +10278,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "0f48a199fa",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T13:25:00+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Meet the Full Cast of Spring Awakening Off-Broadway Revival",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2NFSTdiNGlMWFdMb3NWSG85MUJEVnFqYlRUVHFaMnFyWWdreTk5RzBkRVhsTEVEbWhSOGpJbTFhWjBPMTV5ZnpMU1ZMSEZjVzY3WXhtMm5zNGx6LVQtOTJjWTByTkt6Z19oelllTUJHc3FZNXU3M0VXb1l1V1pSRnppWWN5c0ZfUjBzR1FlMnZHdw",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "46925134e0",
@@ -14231,6 +14360,35 @@
    "status": "published"
   },
   {
+   "id": "3df68fba25",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-13T04:09:42+00:00",
+   "published": "2026-10-13T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "It’s Gonna Be May: Cyrus Veyssi Makes Broadway Debut in & Juliet Tonight",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3A2UHh4cDNDaWx5akpwamJZWFZFRXEzb2F0eW9JMzhXOVU1ZU5IZHczdnZtM3d5WnRfRkNMc0dya3VER1hnUWJJMmdqdGRjVzJ1UXpMVTllVkRDQXRXU2oteVk3WHdOZW00QnBldDlLOGhvQ0Nfb0dwNnJoQVZPdlhsSDl3X0tEMF9laXZ6ekstTUgwSVJnQkk2M0poN2JTd1dtUlotaEtBQQ",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "051e0aa13a",
    "priority": 3,
    "watched": [],
@@ -14322,35 +14480,6 @@
     {
      "name": "Broadway News",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHVBQU9fZHJnaXpZcG1YUFY4WXY2WFp5SXN1NHh2Q19Pd0xoODh4TFhxRngyNmY5WW9pYm5WbXlzbmtIcEFBcGxHczhKcm9oT0tNRzhzVDBNa3lVUzZMNjh6azVFblN3bFkzYkFFR1AxRDY2MnFFMHVESHhnUzA2UWtUZFdCbXJDN3QxZVppLW1BQi15czZOcVRrSXh5VTQ5QktvWEZPNFRPd2hU",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "3df68fba25",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T04:09:42+00:00",
-   "published": "2026-10-13T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "It’s Gonna Be May: Cyrus Veyssi Makes Broadway Debut in & Juliet Tonight",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3A2UHh4cDNDaWx5akpwamJZWFZFRXEzb2F0eW9JMzhXOVU1ZU5IZHczdnZtM3d5WnRfRkNMc0dya3VER1hnUWJJMmdqdGRjVzJ1UXpMVTllVkRDQXRXU2oteVk3WHdOZW00QnBldDlLOGhvQ0Nfb0dwNnJoQVZPdlhsSDl3X0tEMF9laXZ6ekstTUgwSVJnQkk2M0poN2JTd1dtUlotaEtBQQ",
      "feed": "gn-bway-debut"
     }
    ],
@@ -14700,69 +14829,6 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Play-BroadwayWorlds-Sunday-Crossword-October-11-2026-20261011",
      "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "08b1ddc07f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-11T00:00:00+00:00",
-   "published": "2026-10-11T00:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "New World Stages",
-   "placedBy": "words",
-   "type": "extension",
-   "show": null,
-   "title": "Off-Broadway's Heathers, Spelling Bee Take Final Bows October 11",
-   "quote": "Both musical revivals have enjoyed multi-extended runs at New World Stages.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Heathers-and-Spelling-Bee.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/off-broadways-heathers-spelling-bee-take-final-bows-october-11",
-     "feed": "playbill"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "438caf0b06",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-10T06:36:50+00:00",
-   "published": "2026-10-10T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A Few Good Men",
-   "title": "Tom Blyth Makes Broadway Debut, Takes First Bow in ‘A Few Good Men’ Play",
-   "quote": "",
-   "quoteSource": "IMDb",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXR2E4aUFDNTBJUDQwVHNjMFJuZlp2Z1pRTWFuajMzVFl6MWRfVnJTTnBpNG9PLWN6am1vazNkb2hTWExUbkZiUDFMaWxZYWZZaUE",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVC1uZzkwVWpIS1ZNM2ctaXJtM1NuTjBNWHd4VTRPVFlhV0xtTFBYZmM4NFdjLTdIREVFOWpLcHdpaWR4OTVBTXE0NlhNUmczX3hFa0ZxM1lDYkFlR21OZjBVbW55ZFR4eDc4RXpXYV9ON3FmNTNqeWVrT0ZYMHY4WlBXV191VlAyQXFGUWRuQ0NSb29BU0FLRGpqMExvOEV5dl81UExaS0M4SXc",
-     "feed": "gn-bway-debut"
     }
    ],
    "status": "published"
