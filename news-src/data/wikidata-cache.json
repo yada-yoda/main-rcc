@@ -197,6 +197,15 @@
   "qid": null,
   "score": 0
  },
+ "Alaman Diadhiou": {
+  "checkedAt": "2026-11-02T22:11:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Alaska Thunderf*ck": {
   "checkedAt": "2026-09-25T17:56:16+00:00",
   "description": null,
@@ -742,8 +751,35 @@
   "qid": null,
   "score": 0
  },
+ "Ava Briglia": {
+  "checkedAt": "2026-11-02T22:11:41+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q91330007",
+  "score": 0
+ },
  "Ava Geyer": {
   "checkedAt": "2026-10-19T19:03:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ava Lalezarzadeh Finds": {
+  "checkedAt": "2026-11-02T22:11:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Bad News Bears": {
+  "checkedAt": "2026-11-02T22:11:42+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1171,6 +1207,15 @@
   "qid": "Q311267",
   "score": 48
  },
+ "Bonnie Milligan": {
+  "checkedAt": "2026-11-02T22:11:39+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q111820598",
+  "score": 3
+ },
  "Bowen Yang": {
   "checkedAt": "2026-09-25T17:52:05+00:00",
   "description": "Chinese-American comedian",
@@ -1460,6 +1505,15 @@
  },
  "BroadwayWorld Store": {
   "checkedAt": "2026-10-16T17:12:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Brooke Ishibashi": {
+  "checkedAt": "2026-11-02T22:11:27+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2307,6 +2361,15 @@
   "qid": null,
   "score": 0
  },
+ "Cristina Raè": {
+  "checkedAt": "2026-11-02T22:11:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Crystal Kellogg": {
   "checkedAt": "2026-10-09T18:40:49+00:00",
   "description": null,
@@ -2618,6 +2681,15 @@
  },
  "Delivering Aaron Sorkin": {
   "checkedAt": "2026-10-08T19:10:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Demi Moore Visits": {
+  "checkedAt": "2026-11-02T22:11:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4064,6 +4136,15 @@
   "qid": null,
   "score": 0
  },
+ "Green Room": {
+  "checkedAt": "2026-11-02T22:11:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Greta Lee": {
   "checkedAt": "2026-09-25T17:56:23+00:00",
   "description": "American actress (born 1983)",
@@ -5369,6 +5450,15 @@
   "qid": "Q223110",
   "score": 63
  },
+ "John El-Jor": {
+  "checkedAt": "2026-11-02T22:11:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "John Legend": {
   "checkedAt": "2026-09-25T17:55:44+00:00",
   "description": "American singer-songwriter",
@@ -6265,6 +6355,15 @@
   "qid": "Q195129",
   "score": 36
  },
+ "Laura Linney": {
+  "checkedAt": "2026-11-02T22:11:48+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q223281",
+  "score": 57
+ },
  "Laura Marano": {
   "checkedAt": "2026-09-25T17:54:12+00:00",
   "description": "American actress and singer (born 1995)",
@@ -6513,6 +6612,15 @@
   "qid": null,
   "score": 0
  },
+ "Limited Run": {
+  "checkedAt": "2026-11-02T22:11:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Limited Runs": {
   "checkedAt": "2026-10-15T17:38:41+00:00",
   "description": null,
@@ -6545,6 +6653,15 @@
  },
  "Lionsgate Among Producers": {
   "checkedAt": "2026-10-06T18:49:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Lisa Helmi Johanson": {
+  "checkedAt": "2026-11-02T22:11:28+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7087,6 +7204,15 @@
   "qid": "Q102338984",
   "score": 6
  },
+ "Matthew McGloin": {
+  "checkedAt": "2026-11-02T22:11:31+00:00",
+  "description": "American football quarterback form the USA",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6790951",
+  "score": 5
+ },
  "Matthew Morrison": {
   "checkedAt": "2026-09-30T18:17:50+00:00",
   "description": "American actor, dancer, and singer",
@@ -7420,6 +7546,15 @@
   "qid": "Q113488738",
   "score": 3
  },
+ "Mona Mansour": {
+  "checkedAt": "2026-11-02T22:11:33+00:00",
+  "description": "American writer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q21066150",
+  "score": 2
+ },
  "Mormon Becomes": {
   "checkedAt": "2026-09-25T19:53:50+00:00",
   "description": null,
@@ -7650,6 +7785,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Nia Sioux": {
+  "checkedAt": "2026-11-02T22:11:17+00:00",
+  "description": "American actress, singer, dancer and model",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q22338921",
+  "score": 6
  },
  "Niall Sheehy": {
   "checkedAt": "2026-10-02T18:14:53+00:00",
@@ -7927,6 +8071,15 @@
   "qid": "Q26923247",
   "score": 5
  },
+ "Olivia Puckett": {
+  "checkedAt": "2026-11-02T22:11:35+00:00",
+  "description": "American actress (born 1991)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q141214334",
+  "score": 1
+ },
  "Olivia Williams": {
   "checkedAt": "2026-09-25T17:51:43+00:00",
   "description": "British actress (born 1968)",
@@ -8202,6 +8355,17 @@
   "qid": null,
   "score": 0
  },
+ "Pearl Sun": {
+  "checkedAt": "2026-11-02T22:11:24+00:00",
+  "description": "Founder of the Embassy of God",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [
+   "What Do You Do With Your Time?"
+  ],
+  "qid": "Q2036430",
+  "score": 14
+ },
  "Pekoe Group": {
   "checkedAt": "2026-09-25T17:57:03+00:00",
   "description": null,
@@ -8438,6 +8602,15 @@
  },
  "Producing Team": {
   "checkedAt": "2026-09-28T20:01:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Prospect Musicals": {
+  "checkedAt": "2026-11-02T22:11:16+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8864,6 +9037,15 @@
   "knownFor": [],
   "qid": "Q7329442",
   "score": 3
+ },
+ "Richard Todd Adams": {
+  "checkedAt": "2026-11-02T22:11:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Rick Gonzalez": {
   "checkedAt": "2026-10-15T17:38:44+00:00",
@@ -10041,6 +10223,15 @@
   "qid": null,
   "score": 0
  },
+ "Tap Dance Show": {
+  "checkedAt": "2026-11-02T22:11:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Tape Archive": {
   "checkedAt": "2026-10-13T19:46:35+00:00",
   "description": null,
@@ -10049,6 +10240,18 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Taran Killam": {
+  "checkedAt": "2026-11-02T22:11:36+00:00",
+  "description": "American actor and comedian",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Saturday Night Live",
+   "Wild 'n Out"
+  ],
+  "qid": "Q2706805",
+  "score": 24
  },
  "Tatiana Maslany": {
   "checkedAt": "2026-10-16T01:01:27+00:00",
@@ -10226,6 +10429,15 @@
  },
  "Through Lottery": {
   "checkedAt": "2026-09-29T18:29:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Through Rush": {
+  "checkedAt": "2026-11-02T22:11:46+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
