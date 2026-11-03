@@ -4406,6 +4406,15 @@
   "qid": "Q5892520",
   "score": 3
  },
+ "Harry Styles": {
+  "checkedAt": "2026-11-03T03:51:25+00:00",
+  "description": "English singer, songwriter and actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3626966",
+  "score": 83
+ },
  "Harvey Guillén": {
   "checkedAt": "2026-10-06T18:48:51+00:00",
   "description": "American actor",
@@ -10747,6 +10756,15 @@
  },
  "Town Hall": {
   "checkedAt": "2026-09-25T17:55:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Tragedy Plus Comedy": {
+  "checkedAt": "2026-11-03T03:51:27+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

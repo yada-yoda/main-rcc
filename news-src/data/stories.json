@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "25d45ed5b0",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-02T22:50:50+00:00",
+   "published": "2026-11-02T22:50:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "We Gotta Get Harry Styles on Broadway",
+   "quote": "",
+   "quoteSource": "Vulture",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Harry Styles",
+     "knownFor": "English singer, songwriter and actor",
+     "score": 83,
+     "qid": "Q3626966"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Vulture",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aV1BfeEZoSXE5eHNOWlVseDgxTUFMZ19MUlB5NVpQeUtnSlVpNHJ6blFCRzl2VHZRU3dRVTgwWUdtMndSeC1PRWVPZ3c5LWJLc09BeGdGcVh6RElFMzJVVGtmQ0hMTHZnX0F0eTk5VEVoYWJf",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "f608ddffee",
    "priority": 2,
    "watched": [],
@@ -272,6 +308,16 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/inter-alia-sets-full-broadway-cast-joining-rosamund-pike/",
      "feed": "broadway-news"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ESTNjVWVCVmdDLVlaejY0RU9EbG9CWV8xNDJvb3lQY2YxNkg1SlRYNVVtMFY1ZzFjNmo0dldPVFpiakhEQUY1SzdhM2xPUHRnM2prNm9leXhiRlNBZ01pZzdfODkya0pmVWc",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONGhZUXgyWWVLNWgwRDREenJ2NGE3d1VUTXRxN243OTE1TGY1ZUdGTS1ScXVsUFJnTndNbEpFakhTaTdscjZfaF96QldBT3JNNUpDUXowRnl6cUxaVXlzQVlsN3lzOFBzM1RONmRfNGE5YkVpODVuN05EdUdJbF93VTI5c29EWnZQalhWNjluV2ZvTEhTNmJ1bWFPc1l4dmo2eF9PM3Iyd1FqNVNLamJxSGJYQ3RsczdIaTBmby02MWlsY2NWeF9nSg",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -386,42 +432,6 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Rene-Elise-Goldsberry-and-Santino-Fontana-Will-Lead-Reading-of-HIS-GIRL-FRIDAY-at-Symphony-Space-20261028",
      "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "ef732584ea",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-28T16:34:59+00:00",
-   "published": "2026-10-28T15:34:59+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Inter Alia",
-   "title": "INTER ALIA Starring Rosamund Pike Reveals Complete Casting, Plus Rush and Lottery Policies",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Rosamund Pike",
-     "knownFor": "British actress",
-     "score": 75,
-     "qid": "Q230004"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGIwdWZwYnZRWlRSZ2NzZ2tOay1ReFpWNnJNRXI0dDZ5a2JoRFcwWUtfaU44eUxwYkJzMl9IdGl4MmVjb3p6Y3NBZWVyRDhTX0UzRDVuSENoMURkd0U3YWRJUGZvRnhqdGlqUUlEdllDcDZmckdaa21EVkt2N3BJS1Fna0pzNXp2SGV6MGFrb2ZPTHlVUzJ3TVc2Q2syZXMzVW9hOFQ1ak9iRkhGdXBaa0NYRmRRckRtTTI3bGJxWlI0dHdfcVpzcjlpbm56UUh5THc",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -710,11 +720,6 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/billy-crystal-860-broadway-closing-date-1237206061/",
      "feed": "deadline-theater"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/grosses-analysis-billy-crystals-860-opens-strong/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -2366,13 +2371,13 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWRYYnJZSkt2UG1xYVNMemVOS01MdThTWEVvWjJ0MUJXeDhFZVlpc2JjdWNWT2tuQldXUmwyQjZua2ZIZG50cVZzM1B6NlBQWVhwX04wQWJkeE50bDR5eDB1bTdVWmctNEpkQ2lKR1AxZElBc1hkaDZDNm1EaUQ3WXdaQ1M",
+     "name": "Good Morning America",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTN6cGItbEN4aE1oVmxQa3poVkZtUEZWT2dPYlVXOFk1UlRockpMM1VZVGMwTFdSRUM2V0NfRzU2cnk2RS1EeHI0NmhNUlFzalllQWdQallfUjJnZTl6cmQ1WWtNb1I4MFFQdURaUVBHdGpJaUV2a256emJUUWIyREt5N0ZBNWhPUmlaTVVidmx0c1pLckxTTlFTcGZhd29PdWRZQWc1WUlaVEN2SGw4ZVp30gG3AUFVX3lxTFA0aGNzQUxMeV9GUlJjTmM3SWtOT2k1YTlBUEVQcmpVRjRqOHVzeVRWaUZOZkVsT0U4MjltbGtCZGdNcWhQTFAtV05fNzVKcjdRWW9iR0ZHZ1BLVXZFVVF4a1pEalpzb3dmbE94a2NjUTRFc2JBZmRFVS1zX1pFUkxLS0RreGtvQ3BKeXBhRm9BVnJHVllWa1FQSWdQT0tyVVMyRGxoV05WaU5TSzR2YmV2UmZBQzVmcw",
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Good Morning America",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTN6cGItbEN4aE1oVmxQa3poVkZtUEZWT2dPYlVXOFk1UlRockpMM1VZVGMwTFdSRUM2V0NfRzU2cnk2RS1EeHI0NmhNUlFzalllQWdQallfUjJnZTl6cmQ1WWtNb1I4MFFQdURaUVBHdGpJaUV2a256emJUUWIyREt5N0ZBNWhPUmlaTVVidmx0c1pLckxTTlFTcGZhd29PdWRZQWc1WUlaVEN2SGw4ZVp30gG3AUFVX3lxTFA0aGNzQUxMeV9GUlJjTmM3SWtOT2k1YTlBUEVQcmpVRjRqOHVzeVRWaUZOZkVsT0U4MjltbGtCZGdNcWhQTFAtV05fNzVKcjdRWW9iR0ZHZ1BLVXZFVVF4a1pEalpzb3dmbE94a2NjUTRFc2JBZmRFVS1zX1pFUkxLS0RreGtvQ3BKeXBhRm9BVnJHVllWa1FQSWdQT0tyVVMyRGxoV05WaU5TSzR2YmV2UmZBQzVmcw",
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWRYYnJZSkt2UG1xYVNMemVOS01MdThTWEVvWjJ0MUJXeDhFZVlpc2JjdWNWT2tuQldXUmwyQjZua2ZIZG50cVZzM1B6NlBQWVhwX04wQWJkeE50bDR5eDB1bTdVWmctNEpkQ2lKR1AxZElBc1hkaDZDNm1EaUQ3WXdaQ1M",
      "feed": "gn-bway-casting"
     },
     {
@@ -3809,6 +3814,69 @@
    "status": "review"
   },
   {
+   "id": "7c6ac40729",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-02T22:49:47+00:00",
+   "published": "2026-11-02T22:49:47+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Bad News Bears",
+   "title": "Taran Killam, Bonnie Milligan and Ava Briglia to Star in THE BAD NEWS BEARS: A MUSICAL",
+   "quote": "Today, American Conservatory Theater (A.C.T.) announced initial casting for the world premiere of The Bad News Bears: A Musical, a new musical comedy based on the beloved 1976 Paramount Pictures film. The Bad News Bears: A Musical performs February 26–April 4, 2027 at A.C.T.'s Toni Rembe Theater.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-0801bd62cb256d1cdb18ae3a3ec64539.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTmhDQnpoRmpUUERnOUZtVXlWZS02VHp2azhNYkg2M1YyTkRvX0hZby1ScmR1SUM4UXpxZEg5SnJZRGJKWUhCS0hxTEJ3dmFyYU1NNXZFZUloc0ZQZlRhUTlFR2VNZTBHSTdMMk1aT0tFWDEteVBaUnZzNVY0azRBTElUWGJNU1pMck1ibENPRERSMWMtZDN6VklkRlhVaWpPc1hkWndyQy1aTDJ2NDlCdTJaQzUwMTRGMVU2NW1ra253NVJsLTJITk9naw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Taran-Killam-Bonnie-Milligan-and-Ava-Briglia-to-Star-in-THE-BAD-NEWS-BEARS-A-MUSICAL-20261102",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9eba91f115",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-02T22:15:15+00:00",
+   "published": "2026-11-02T22:15:15+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "opening",
+   "show": null,
+   "title": "Lincoln in the Bardo: Tragedy Plus Comedy Equals Compelling Opera",
+   "quote": "",
+   "quoteSource": "New York Stage Review",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Stage Review",
+     "url": "https://nystagereview.com/2026/11/02/lincoln-in-the-bardo-tragedy-and-comedy-equal-compelling-opera/",
+     "feed": "ny-stage-review"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "cab868acfc",
    "priority": 3,
    "watched": [],
@@ -4882,35 +4950,6 @@
    "status": "published"
   },
   {
-   "id": "f4dab0b0cf",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-30T18:01:58+00:00",
-   "published": "2026-10-30T18:01:58+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "The Rocky Horror Show Broadway Cast Celebrates Tim Curry’s Enduring Legacy",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmljU0kzZkJxOTRrNi1RdXJSczBqUEh6YWZIWVAzS19IMm5OQ1BVVk5oeERVdHNNYkhXTFBXN1l3ZzJkbTJuWm05aDA4VXFDRHFiYWFqdHhLdy16dmZ2bktwZFlTVlNoYWQyRmNVU0QyVHM1MXhSM2dLMHlSQmVIZVpaS0VReXp5WnlnWDVwaEdsQk8zeTVpQXk2RDZtSG9idjgxUjdwYW9nOTBJVFdTSA",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "f08a5d361b",
    "priority": 3,
    "watched": [],
@@ -5225,6 +5264,40 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/reviews-sound-off-on-in-the-heights-at-new-york-city-center",
      "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f4dab0b0cf",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-30T18:01:58+00:00",
+   "published": "2026-10-30T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "The Rocky Horror Show Broadway Cast Celebrates Tim Curry’s Enduring Legacy",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmljU0kzZkJxOTRrNi1RdXJSczBqUEh6YWZIWVAzS19IMm5OQ1BVVk5oeERVdHNNYkhXTFBXN1l3ZzJkbTJuWm05aDA4VXFDRHFiYWFqdHhLdy16dmZ2bktwZFlTVlNoYWQyRmNVU0QyVHM1MXhSM2dLMHlSQmVIZVpaS0VReXp5WnlnWDVwaEdsQk8zeTVpQXk2RDZtSG9idjgxUjdwYW9nOTBJVFdTSA",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway at the Hobby Center",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGtKS0ZlcXVaSUVLbWc4bmxJZDhaSG8xTXNUM1N5aXlpSEVoNnNLSEE4bUQ1bTdGYXRvd2EzRjNheXJCVndmMlFrS2xTTGQyVjB6Mnhaand2bTlVRHI1TkZfLWZFWkZ4SVYxc1NFQjVyX2hxYnBWd1lWeEpMRnJuZTdwQ2lBTWQwVUF3WFFUUVZMcjBjSHBfbkVuaWRuR0JReW1hQXpoUGN5LXhu",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -6013,6 +6086,35 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHlzc3ZTelVxSTJnTHdXbGNfZW1FTUdWdVZIeDFMUTRiTXEyMlZBdHdvazFVdHFQVEFxdlB0RFVZOXZqWmt4bjJOSXg0RmlMZzZyMmJBMjRVOVFXT2dfaElJUGJUYmVqeTRwZlFzZHhEdXVmVTA4bnBhOFp0UW8ydTBGbXNpdHM3VTdCTnloVTRlS0YtOHhEZ1lBTlpmZ29ZVEpBQWRJOVh6MUhl",
      "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "8b0aa55895",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-28T16:03:27+00:00",
+   "published": "2026-10-28T16:03:27+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Inter Alia Sets Full Broadway Cast Joining Rosamund Pike",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWZHSWhrYVNpZ0xfUWZIRDdEUzhXNHhyQlVNRjdvOF9HUk5vT1V1eTk4V0pCQXRJZjhvVjVtWlppUDV0NmJHRUpCZGlDNk9ETUFOVVpYQ3p1Ujc0Y1M2Rk9yRVhicGZ2UWVOZjhtRmowVkNObXIzYUVJNm1VOVgzLW5Tbnl1aklBeXh2VHVMM1ZWM0F0STNWNE1B",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -15078,64 +15180,6 @@
    "status": "published"
   },
   {
-   "id": "c1140a4732",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T00:24:29+00:00",
-   "published": "2026-10-13T00:24:29+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Itinerary — Week of 10/12",
-   "quote": "Broadway News has rounded up a few industry events for the week of October 12, so you never miss your cue.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/785584116_18014279516940755_3431396461584130698_n-1--1-1.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/broadway-itinerary-week-of-10-12-2/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "899e6e23ba",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-12T22:20:00+00:00",
-   "published": "2026-10-12T22:20:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Les",
-   "title": "LES MISÉRABLES Comes to Syracuse Stage With Broadway Cast",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmR3S2x0TFJSNHc5WUw0LUFhNzNIYUxfczZIZ3J3VzMyRkpWTE44cEZ4QzNZTGJCa2FWbElvdi1fX3kxRU1fYXFPdmR2bGMzQUxnaFpaNEhZMFlvYVV4V2VtYVNOSGNRMWhwUnlfbzB4ZEpUTWVRM0JySURucVZIT0tJS3JQQzVUOTBhOWlGOGozaGk4Z1RSazBmNE9QR0hTLWlCYXpJdTdGUUlNSG04T2pSa3BKMzRiX2NCRw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "f41d8ff80d",
    "priority": 3,
    "watched": [],
@@ -15163,35 +15207,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "25a5720171",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-12T15:34:21+00:00",
-   "published": "2026-10-12T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Hadestown",
-   "title": "Now Casting: Broadway’s ‘Hadestown’ Needs Talent + 3 More Gigs",
-   "quote": "",
-   "quoteSource": "Backstage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Backstage",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdy1RcFVBVEE1QUY0SFhiS05nSkV4RldrcHlLbS1FSG5kSldFOGZRNlZmaUJUeUF4TW1oS0NiRUVDOE9YalJMNWtkQ0ZoN2xlOHQzRnc2T01sUGRPUnFpNmprang0LTZsSk9ZRFFOWmZGLTVLeEQ5SnRUdV9Vc0M5czRqRmNEalE",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
   }
  ]
 }
