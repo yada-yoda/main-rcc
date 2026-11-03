@@ -559,6 +559,15 @@
   "qid": "Q4583",
   "score": 170
  },
+ "Anne Frank Story": {
+  "checkedAt": "2026-11-03T19:58:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Annual Putnam County": {
   "checkedAt": "2026-09-25T17:54:13+00:00",
   "description": null,
@@ -681,6 +690,15 @@
  },
  "Asolo Rep": {
   "checkedAt": "2026-09-30T18:18:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Atlanta World": {
+  "checkedAt": "2026-11-03T19:58:44+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1050,6 +1068,15 @@
  },
  "Big Bang Theory": {
   "checkedAt": "2026-10-07T19:14:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Big San Diego": {
+  "checkedAt": "2026-11-03T19:58:50+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1633,6 +1660,15 @@
  },
  "Call Ahead": {
   "checkedAt": "2026-10-11T01:35:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Calls Ahead": {
+  "checkedAt": "2026-11-03T19:58:43+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2697,6 +2733,15 @@
   "qid": null,
   "score": 0
  },
+ "Dennis Crowley": {
+  "checkedAt": "2026-11-03T19:58:57+00:00",
+  "description": "American internet entrepreneur",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1189061",
+  "score": 8
+ },
  "Denée Benton": {
   "checkedAt": "2026-09-25T17:51:32+00:00",
   "description": "American actress",
@@ -2834,6 +2879,15 @@
  },
  "Disney Legend Lin-Manuel": {
   "checkedAt": "2026-10-22T17:52:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Disney Theatrical": {
+  "checkedAt": "2026-11-03T19:58:58+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2993,6 +3047,15 @@
  },
  "Earlier Than Expected": {
   "checkedAt": "2026-10-23T17:44:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ebenezer Scrooge": {
+  "checkedAt": "2026-11-03T19:58:48+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6127,6 +6190,15 @@
   "qid": null,
   "score": 0
  },
+ "Kevin Cahoon": {
+  "checkedAt": "2026-11-03T19:58:46+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6395955",
+  "score": 5
+ },
  "Kicking Off Paper": {
   "checkedAt": "2026-09-25T17:54:44+00:00",
   "description": null,
@@ -8062,6 +8134,15 @@
   "qid": null,
   "score": 0
  },
+ "Old Globe": {
+  "checkedAt": "2026-11-03T19:58:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Old Sport Karaoke": {
   "checkedAt": "2026-10-10T02:08:20+00:00",
   "description": null,
@@ -8808,6 +8889,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Rebecca Erbelding": {
+  "checkedAt": "2026-11-03T19:58:53+00:00",
+  "description": "historian",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q130706312",
   "score": 0
  },
  "Receive Industry Reading": {
@@ -9739,6 +9829,15 @@
  },
  "Slam Frank": {
   "checkedAt": "2026-10-05T21:00:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Slam Frank Hip-Hop": {
+  "checkedAt": "2026-11-03T19:58:54+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -11177,6 +11276,15 @@
   "qid": null,
   "score": 0
  },
+ "Welcomes Historian": {
+  "checkedAt": "2026-11-03T19:58:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Well-Tempered Bach": {
   "checkedAt": "2026-09-25T17:57:12+00:00",
   "description": null,
@@ -11226,6 +11334,15 @@
  },
  "What Did Reviews": {
   "checkedAt": "2026-10-20T17:48:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "What Do Reviews": {
+  "checkedAt": "2026-11-03T19:58:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
