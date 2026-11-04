@@ -742,6 +742,15 @@
   "qid": "Q210547",
   "score": 54
  },
+ "Audiobooks Narrated": {
+  "checkedAt": "2026-11-04T20:18:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Austin Colby": {
   "checkedAt": "2026-10-13T19:46:16+00:00",
   "description": null,
@@ -1021,6 +1030,18 @@
   "qid": "Q711840",
   "score": 11
  },
+ "Bertolt Brecht": {
+  "checkedAt": "2026-11-04T20:18:56+00:00",
+  "description": "German poet, playwright, and theatre director (1898–1956)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "The Threepenny Opera",
+   "Life of Galileo"
+  ],
+  "qid": "Q38757",
+  "score": 156
+ },
  "Best Shows Coming": {
   "checkedAt": "2026-09-25T17:56:10+00:00",
   "description": null,
@@ -1038,6 +1059,17 @@
   "knownFor": [],
   "qid": "Q4897566",
   "score": 5
+ },
+ "Bethany Joy Lenz": {
+  "checkedAt": "2026-11-04T20:18:28+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "One Tree Hill"
+  ],
+  "qid": "Q230424",
+  "score": 34
  },
  "Betsy Wolfe": {
   "checkedAt": "2026-09-25T18:43:04+00:00",
@@ -2681,6 +2713,15 @@
  },
  "Deadline Hollywood Dirty": {
   "checkedAt": "2026-09-30T18:17:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Dear Evan Hansen": {
+  "checkedAt": "2026-11-04T20:18:36+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4935,6 +4976,15 @@
   "qid": null,
   "score": 0
  },
+ "Industry Presentations": {
+  "checkedAt": "2026-11-04T20:18:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Industry Reading": {
   "checkedAt": "2026-09-30T01:52:23+00:00",
   "description": null,
@@ -4982,6 +5032,15 @@
  },
  "Inside Bowen Yang": {
   "checkedAt": "2026-10-21T17:56:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Intensive Training Every": {
+  "checkedAt": "2026-11-04T20:18:42+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5045,6 +5104,15 @@
  },
  "Iverson Joins": {
   "checkedAt": "2026-09-25T17:47:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ivy Spent": {
+  "checkedAt": "2026-11-04T20:18:39+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5125,6 +5193,17 @@
   "knownFor": [],
   "qid": "Q117743548",
   "score": 0
+ },
+ "James Lance": {
+  "checkedAt": "2026-11-04T20:18:48+00:00",
+  "description": "British actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Ted Lasso"
+  ],
+  "qid": "Q6137743",
+  "score": 12
  },
  "James Monroe Iglehart": {
   "checkedAt": "2026-10-13T19:46:13+00:00",
@@ -6226,6 +6305,18 @@
   "qid": "Q51844729",
   "score": 3
  },
+ "Kenny Loggins": {
+  "checkedAt": "2026-11-04T20:18:52+00:00",
+  "description": "American singer and guitarist (born 1948)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Don't Fight It",
+   "Footloose"
+  ],
+  "qid": "Q435965",
+  "score": 31
+ },
  "Kerry Butler-Directed Little": {
   "checkedAt": "2026-09-30T01:52:32+00:00",
   "description": null,
@@ -6351,6 +6442,15 @@
   "knownFor": [],
   "qid": "Q4845646",
   "score": 12
+ },
+ "Kuhoo Verma": {
+  "checkedAt": "2026-11-04T20:18:32+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q125763267",
+  "score": 2
  },
  "Kurt Musser": {
   "checkedAt": "2026-10-13T19:46:24+00:00",
@@ -6950,6 +7050,15 @@
  },
  "Losing Out": {
   "checkedAt": "2026-10-09T18:40:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Lost Boys Halloween": {
+  "checkedAt": "2026-11-04T20:18:55+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7618,6 +7727,15 @@
   "qid": "Q87471822",
   "score": 1
  },
+ "Million Won": {
+  "checkedAt": "2026-11-04T20:18:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Milton Keynes": {
   "checkedAt": "2026-09-29T18:29:15+00:00",
   "description": null,
@@ -7969,6 +8087,15 @@
   "qid": "Q7027557",
   "score": 14
  },
+ "Nick Rashad Burroughs": {
+  "checkedAt": "2026-11-04T20:18:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Nickel Mines": {
   "checkedAt": "2026-10-26T19:03:09+00:00",
   "description": null,
@@ -8010,6 +8137,15 @@
  },
  "Nina Howland Didn’t": {
   "checkedAt": "2026-10-09T18:41:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Nine Native Speakers": {
+  "checkedAt": "2026-11-04T20:18:43+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8233,6 +8369,15 @@
   "qid": "Q231163",
   "score": 48
  },
+ "One Tree Hill": {
+  "checkedAt": "2026-11-04T20:18:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "One Uneven": {
   "checkedAt": "2026-10-15T01:14:56+00:00",
   "description": null,
@@ -8370,6 +8515,15 @@
  },
  "Own Matrimony": {
   "checkedAt": "2026-10-19T19:04:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Own Money": {
+  "checkedAt": "2026-11-04T20:18:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -9344,6 +9498,15 @@
   "qid": null,
   "score": 0
  },
+ "Ruby Cruz": {
+  "checkedAt": "2026-11-04T20:18:47+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q113377020",
+  "score": 11
+ },
  "Rudy Pankow": {
   "checkedAt": "2026-10-05T21:00:53+00:00",
   "description": "American actor",
@@ -9370,6 +9533,17 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Rupert Grint": {
+  "checkedAt": "2026-11-04T20:18:24+00:00",
+  "description": "English actor (born 1988)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Harry Potter"
+  ],
+  "qid": "Q19190",
+  "score": 88
  },
  "Rural Tenderness": {
   "checkedAt": "2026-09-25T17:57:07+00:00",
@@ -9682,6 +9856,15 @@
  },
  "Second Cohort": {
   "checkedAt": "2026-10-31T02:03:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "See Busy Philipps": {
+  "checkedAt": "2026-11-04T20:18:46+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10526,6 +10709,15 @@
   "qid": null,
   "score": 0
  },
+ "Thanksgiving Week": {
+  "checkedAt": "2026-11-04T20:18:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Theatrical Agent Diane": {
   "checkedAt": "2026-10-27T18:35:16+00:00",
   "description": null,
@@ -10843,6 +11035,15 @@
   "knownFor": [],
   "qid": "Q105682",
   "score": 64
+ },
+ "Tom Felton Continues": {
+  "checkedAt": "2026-11-04T20:18:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Tom Hanks": {
   "checkedAt": "2026-10-22T17:52:30+00:00",
@@ -11505,6 +11706,15 @@
  },
  "Wild Rose": {
   "checkedAt": "2026-09-25T17:55:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "William Jakrapatr": {
+  "checkedAt": "2026-11-04T20:18:35+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
