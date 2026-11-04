@@ -2,6 +2,78 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "c8258255ca",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-03T21:12:05+00:00",
+   "published": "2026-11-03T21:12:05+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Much Ado About Nothing",
+   "title": "Broadway Box Office: Tom Hiddleston In ‘Much Ado About Nothing’ Starts Off Strong",
+   "quote": "'Other Desert Cities' was the top earner in a down week for Broadway.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Tom Hiddleston",
+     "knownFor": "English actor",
+     "score": 80,
+     "qid": "Q295803"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-tom-hiddleston-much-ado-about-nothing-1236747050/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "178913299c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-14T19:24:43+00:00",
+   "published": "2026-11-03T20:21:47+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Much Ado About Nothing",
+   "title": "‘Much Ado About Nothing’ Starring Tom Hiddleston Joins Sell Outs ‘A Few Good Men’, ‘Other Desert Cities’ & ‘Hamilton’ – Broadway Box Office",
+   "quote": "Broadway business was off about 13% last week (from the previous week and from last season at this time) – maybe Halloween Saturday pulled away some attention? – with total box office for the 33 shows hitting $29,572,284.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/Much-Ado-About-Nothing.-Hayley-Atwell-BeatriceTom-Hiddleston-Benedick-and-cast.-Credit-Marc-Brenner.-3888.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Tom Hiddleston",
+     "knownFor": "English actor",
+     "score": 80,
+     "qid": "Q295803"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/broadway-box-office-tom-hiddleston-much-ado-about-nothing-1237212200/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "ef732584ea",
    "priority": 2,
    "watched": [],
@@ -3518,49 +3590,88 @@
    "status": "review"
   },
   {
-   "id": "98d8df31c1",
-   "priority": 2,
+   "id": "b3cec85d3e",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-13T20:11:45+00:00",
-   "published": "2026-10-13T20:11:45+00:00",
+   "firstSeen": "2026-11-03T23:53:08+00:00",
+   "published": "2026-11-03T23:53:08+00:00",
    "city": null,
    "tier": null,
    "venue": null,
    "placedBy": "none",
-   "type": "new production",
-   "show": "Girls",
-   "title": "Andrew Rannells Joins GIRLS Revival at HBO With Lena Dunham, Allison Williams",
-   "quote": "Andrew Rannells will be joining the upcoming return of Girls at HBO. The Tony nominee will be reprising the role of 'Elijah Krantz' for the five episode return, going into production in 2027.",
+   "type": "casting",
+   "show": "The One About Santa",
+   "title": "Drag Stars Marcia Marcia Marcia and Julian Sewell to Star in THE ONE ABOUT SANTA at Green Room 42",
+   "quote": "",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-37c964a1a050260ca31e683a20c040ef.jpg",
-   "imageCredit": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lena Dunham",
-     "knownFor": "Delusional Downtown Divas",
-     "score": 54,
-     "qid": "Q288359"
-    },
-    {
-     "name": "Allison Williams",
-     "knownFor": "American actress and producer",
-     "score": 32,
-     "qid": "Q4455554"
-    },
-    {
-     "name": "Andrew Rannells",
-     "knownFor": "American actor",
-     "score": 27,
-     "qid": "Q560516"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
      "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Andrew-Rannells-Joins-GIRLS-Reboot-at-HBO-With-Lena-Dunham-Allison-Williams-20261013",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSnlYOUVFWG5FR2wzTXJFUXc4aXh3cllheThrZ2VVU3RsSHdSQTN3SUtKUndqbllvNXdCM281ZGhfblRQcTBYTDdZX2ZmMHFYclZnelJnWUY5enlLczdTamdtbVN6TGRMZDZtTS1wX0hqVHFISlU2enF5LWZJYWV1M2tnMThxSDNuZm1FWjNGUjM1aUtoZjdDcHNxelJ1MnlJNGdfNmVVMmk3Q2s1bjl2Nzg5a2Q2aV9vdHFJRUxxcEJqYU50TDFiamJCR3M5RDFMVFMzOW50T2p5dWxQWEpiOGpmLXBkOFE",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "5ffc178c03",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-03T19:43:18+00:00",
+   "published": "2026-11-03T19:43:18+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Gershwin Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": "Saw the Opportunity",
+   "title": "Influencer Goes Viral for Getting Onstage at WICKED to Take Selfie, Says She ‘Saw the Opportunity’",
+   "quote": "An influencer with more than 500,000 followers sparked debate regarding theater etiquette after she was pictured onstage at Broadway’s Gershwin Theatre taking selfies following Wicked. On Sunday, November 1, The Oz Vlog shared a “theater PSA” on Instagram explaining that a few nights earlier, a Wicked audience member…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-a6f1b60b3c6a17491dad1b16e93ccece.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Influencer-Goes-Viral-for-Getting-Onstage-at-WICKED-to-Take-Selfie-Says-She-Saw-the-Opportunity-20261103",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "38c68105e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-03T19:42:17+00:00",
+   "published": "2026-11-03T19:42:17+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Rumors",
+   "title": "Phaedra Parks Joins 'Rumors' Off-Broadway Cast for 2027",
+   "quote": "",
+   "quoteSource": "Yahoo",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHI4SktpMFBSUWphWW9FRVQxaUhWcVRvWHVIa1JQRzZfeWxlR3RXTkhaMmNtRzh5VFduUDhiOXQwcEN0V3FEZHVhcHVGa3BKa25pd29tT21kT3dDenYzV0szM1hGNE4ydDJyQWxQUWlmVTdNV1p5OUtVeXVzSFVpcW1nb2xCZVNTUy1nZlpCT2cwREZYcXF3Ug",
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -3648,6 +3759,64 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbGdSVXVQb1ZVS0hkQnBfQjZ6cmpWRi0tR2R5ZV9GVHlMb0VHbG80R3JMMmJVMG55aHR1aUEtWXNEd1lCYUdzeVFtY1hxVU1lWnlELWM1TW1UUWhqZ0c0TnBfbm5lb0J1WE1KQUFtY1VXOXhUU0hQSzhBZFRBY0dTSS13SVFpdzNOUVZ5VEhMSTA2LUNJY1hlRFpXcGFBRV95aVBmVG5Xa0JzZGh1eThjQ1Y5V3ZDZTFhMGhLYkRYNURpT0RGS3JWYTAtcVNPLXdJX0l3MV9pVUtVc1My",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "c4597914db",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-27T16:16:00+00:00",
+   "published": "2026-11-03T15:45:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Other Desert Cities Is No. 1, and More From Last Week's Broadway Grosses",
+   "quote": "The starry revival commanded pricey tickets averaging at $300 a pop.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Broadway-Grosses-Red-2026-HR.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/other-desert-cities-is-no-1-and-more-from-last-weeks-broadway-grosses",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "402a26350f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-03T15:40:00+00:00",
+   "published": "2026-11-03T15:40:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "Book Banning Becomes Capital D Drama in Adirondack Chair Circle",
+   "quote": "The new play by Stephanie Alison Walker is running in Chicago, starring Tony winner Katrina Lenk.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Adirondack-Chair-Circle-4.-Photo-by-Michael-Brosilow.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/booking-banning-becomes-capital-d-drama-in-adirondack-chair-circle",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3912,6 +4081,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "57d00d573b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-18T17:33:41+00:00",
+   "published": "2026-11-02T23:36:36+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Midnight",
+   "title": "Full Cast Revealed for Todrick Hall’s New Musical ‘Midnight’ Ahead of Off-Broadway Debut",
+   "quote": "",
+   "quoteSource": "TicketNews",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "7c6ac40729",
@@ -5164,35 +5362,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "57d00d573b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-18T17:33:41+00:00",
-   "published": "2026-10-30T14:37:43+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Midnight",
-   "title": "Full Cast Revealed for Todrick Hall’s New Musical ‘Midnight’ Ahead of Off-Broadway Debut",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FfOWRsNjVsdWVUZ050VkkzbWx4dUR0OVotelpfcHQ2MjJaYUNBWjhGaFJjS0NsSTBUWlhvMUFfZHRHRkR0dWxFZGpqTXVyQUdFWUdkVlBoZHQ5UkJycXNGaXhlNkR1cWpIdHBsUlpDam9EU3hvN2N3Z3pXbnRFMU5QcXVxUWpBRkl1VWI5MW9DMXJ2eTJCVGI5dHp6cHhQRUlrUjA0ZzFwdUIxdVowU2RNTklGbm5yZDFINnZn",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "df8cb8d124",
@@ -6858,6 +7027,11 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/broadway-box-office-few-good-men-julia-louis-dreyfus-860-1237206129/",
      "feed": "deadline-theater"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/grosses-analysis-a-few-good-men-opens-strong-as-overall-broadway-box-office-decreases/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -6979,35 +7153,6 @@
    "status": "published"
   },
   {
-   "id": "c4597914db",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-27T16:16:00+00:00",
-   "published": "2026-10-27T16:16:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": null,
-   "title": "Other Desert Cities Gets a $400k Post-Opening Boost, and More From Last Week's Broadway Grosses",
-   "quote": "The starry revival has quickly become one of the Main Stem's top grossers.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Broadway-Grosses-Blue-2026-HR.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/other-desert-cities-gets-a-400k-post-opening-boost-and-more-from-last-weeks-broadway-grosses",
-     "feed": "playbill"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "55e2ba0dd4",
    "priority": 3,
    "watched": [],
@@ -7015,15 +7160,15 @@
    "published": "2026-10-27T16:07:10+00:00",
    "city": "New York",
    "tier": "Off-Broadway",
-   "venue": "MCC Theater",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Real Housewives,",
    "title": "Eight ‘Real Housewives,’ Including Lisa Rinna, Phaedra Parks and Carole Radziwill, to Star Off-Broadway",
-   "quote": "Eight of Bravo’s Real Housewives cast members will make their Off Broadway debuts in a reimagined revival of Neil Simon’s 1988 comedy farce Rumors beginning this January, producers announced today. The Rumors revival at the Newman Mills Theater at The Robert W.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/10/RUM0002-V-OnSale_v2-1080x1350-copy-e1793116087713.jpeg",
-   "imageCredit": "Deadline",
+   "quote": "The Bravo stars will appear in a revival of Neil Simon's 'Rumors.'",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -7032,11 +7177,6 @@
      "name": "The Hollywood Reporter",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGFNcHppa0hvTWlJZ0ZrZHlWMW4zWUR3eGtReHowUzVYUTRUWVNOeHl6NmZXTzdTSU04UkVoUzZzY0pUMnBXMFB5OGdhS2Y3WG0zdjBZdXUwTlh3RnZvSXF2WlZkc3B5N0dtVVNId084VzBZVUJEYTVFZTNtVDhtc0lGeTAtcFpsQWI4a25zeWhZTmY3MXJzQU5YU0plWTFVNVF1NGJJOUR4ODBWc242TGZUbjM",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/real-housewives-rumors-off-broadway-1237206158/",
-     "feed": "deadline-theater"
     },
     {
      "name": "The Hollywood Reporter",
@@ -7070,7 +7210,7 @@
     {
      "name": "Playbill",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3Nvd3g4MzJ4ZGp1MDI0TVZRZFRhaC1ITXNjdGx0YlRhSk0tU2FtODJQNm9ha2xoRkE0dVprZjc2VUVYVzAtQ3JkQmR3NXFsUS13bUwxS3JXUTR2RmtEYXhTeklkcm5uWFl4TXIwWkRUaU5kRXFwZXFtVzFlNmVwYW5uTThycHNnb2ViWjM2NldvbTdmZ1lrZXl4TTJISUozLTJZ",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -8932,6 +9072,35 @@
    "status": "review"
   },
   {
+   "id": "438caf0b06",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-20T00:00:14+00:00",
+   "published": "2026-10-23T06:13:55+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A Few Good Men",
+   "title": "Tom Blyth Makes Broadway Debut, Takes First Bow in ‘A Few Good Men’ Play",
+   "quote": "",
+   "quoteSource": "IMDb",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXR2E4aUFDNTBJUDQwVHNjMFJuZlp2Z1pRTWFuajMzVFl6MWRfVnJTTnBpNG9PLWN6am1vazNkb2hTWExUbkZiUDFMaWxZYWZZaUE",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "4ec5b26ca6",
    "priority": 3,
    "watched": [],
@@ -10041,13 +10210,13 @@
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "AmNews Curtain Raiser",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm9XUUx3eF8yZ1JNaHRCa1dNTWNfX2VrX3JCQjVscmRQSVZENmVqV1JMQVBYaV9DTmQ2VGN2dWxraXltYlJGZGN3UHpFM1JxUkxtVjhtc2Jic3E4MDVhc21wQ3dYZkVjaFBRVWVlLXltQ0pISkMweG9FampCTEIyVHlPTENuR0NvSlBvWloyTQ",
+     "name": "That Eric Alper",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNHhDUHRkc3FBekx6WGFBdF9fUGJGdEZ0MnI2QjA5dmY2NUllOGlJczJfNFI0Sy1Jb0swWFlidTdjWXE2YV9iOHBzcWdHWm1RQU9aQlNXWlQxUi1fcDNNTmgxN1AyNUM3SWdXdU9Iajc2RnRaNWlPVlhDZEp4UC10YzAwSVJpeTVMVS1UYm5US0ttSGU5d2h2X0xYVWRRZXBObjZNWWF3Q1ZhMjBjelRWVGdoVmJ3b3BjVmh4MlpzY1hjZF9pYkl6dG5xZjcwRWpGWHBzc0I5NGlNb212ajdNeA",
      "feed": "gn-offbway-casting"
     },
     {
-     "name": "That Eric Alper",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNHhDUHRkc3FBekx6WGFBdF9fUGJGdEZ0MnI2QjA5dmY2NUllOGlJczJfNFI0Sy1Jb0swWFlidTdjWXE2YV9iOHBzcWdHWm1RQU9aQlNXWlQxUi1fcDNNTmgxN1AyNUM3SWdXdU9Iajc2RnRaNWlPVlhDZEp4UC10YzAwSVJpeTVMVS1UYm5US0ttSGU5d2h2X0xYVWRRZXBObjZNWWF3Q1ZhMjBjelRWVGdoVmJ3b3BjVmh4MlpzY1hjZF9pYkl6dG5xZjcwRWpGWHBzc0I5NGlNb212ajdNeA",
+     "name": "AmNews Curtain Raiser",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm9XUUx3eF8yZ1JNaHRCa1dNTWNfX2VrX3JCQjVscmRQSVZENmVqV1JMQVBYaV9DTmQ2VGN2dWxraXltYlJGZGN3UHpFM1JxUkxtVjhtc2Jic3E4MDVhc21wQ3dYZkVjaFBRVWVlLXltQ0pISkMweG9FampCTEIyVHlPTENuR0NvSlBvWloyTQ",
      "feed": "gn-offbway-casting"
     }
    ],
@@ -11183,35 +11352,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "438caf0b06",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T00:00:14+00:00",
-   "published": "2026-10-20T00:00:14+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "A Few Good Men",
-   "title": "Tom Blyth Makes Broadway Debut, Takes First Bow in ‘A Few Good Men’ Play",
-   "quote": "",
-   "quoteSource": "IMDb",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wcV9pbDBsMEZwamx6NURtVlJmWWF6LXV3UHFOUXpndEV3NDZwRndZN3JnbmJyZVREczlHWkFvU2hrYmx2aE5LZnN5dDMydw",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "25b057a1eb",
@@ -14192,35 +14332,6 @@
    "status": "review"
   },
   {
-   "id": "178913299c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T19:24:43+00:00",
-   "published": "2026-10-14T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Much Ado About Nothing",
-   "title": "‘Much Ado About Nothing’ announces final Broadway casting",
-   "quote": "",
-   "quoteSource": "Broadway News",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU29jNXYzMUdhUGd6dHYxdTc3bDdqY1lQT0tieHZaN08wcGpsekptNWpBUnJ3N2YxQTM2WHZjTTlybDBqZzR5R0VQcGIwWlB4NklrRzV5RTZDeTdNdnVyelE0anNvaE1QcWV3cjJjWkhvWEwweFBQQm5CelFjN2FnNUQ3MlFzZ1poWWI0SUNn",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "01cddfc2e0",
    "priority": 3,
    "watched": [],
@@ -14245,238 +14356,6 @@
      "name": "Backstage",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVd2UU5RLWRteVNzZnA2ZUFNNTRQV0pUUDFTOWRmYnJZWTZOUGk2RWg0TzJHQzlDd0pnVnRLUVIwd0VlRmxNVF96SS1aVVBZUkZLeUJEYVpheWhJRlNYcnZTS1BuZzd4VXdaaEtlZ0dpb2hVbkNoU3dMZnNfaThnNHFaN2VnZw",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "4e4110b78e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T21:30:25+00:00",
-   "published": "2026-10-13T21:30:25+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "A Christmas Carol",
-   "title": "Cast Set for A CHRISTMAS CAROL at Guthrie Theater This Holiday Season",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSl9ubmFVem5wcmxEemtDY3QzanJNVGU0alFSOFlraGpYbXFpMUw2dEpIMU5vM0pKbGRzbmNONkw1NURzLVA3bDMtM3RLNC1zSE85OHFLcXhJdF9QX1k3SkpmRlhTRDBlR2Y2cXp1UmtkbHdYMHFCeEVZUGd6MUN3VUo0anlZYUtZVjRLS2YtbEcya2xDekE3OHpOVDJzMi1PZjVwZDRIUUQ0NGFqcG9sS1NvQmZfMXpvc19tZTJqYllXMWwtZzdZ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9a7514dd61",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T21:13:12+00:00",
-   "published": "2026-10-13T21:13:12+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Bridges returns for fall 2026 semester",
-   "quote": "See which Broadway shows will participate in the program, offering $10 tickets to New York City public school students.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Broadway-Bridges--3--1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/broadway-bridges-returns-for-fall-2026-semester/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "a41267fde1",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T21:10:08+00:00",
-   "published": "2026-10-13T21:10:08+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Broadway Cares adds new members to its board of trustees",
-   "quote": "New members include two-time Tony Award nominee Jeremy Jordan and two-time Tony winner Kara Young.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Untitled-Design-2.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/broadway-cares-adds-new-members-to-its-board-of-trustees/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a88502642f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-29T19:41:27+00:00",
-   "published": "2026-10-13T21:03:10+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "opening",
-   "show": null,
-   "title": "Broadway Grosses: Week Ending 10/11/26",
-   "quote": "Click below to access all the Broadway grosses from all the shows for the week ending 10/11/2026 in BroadwayWorld's grosses section. Also, you will find information on each show's historical grosses, cumulative grosses and other statistics on how each show stacked up this week and in the past.",
-   "quoteSource": "Box Office Soars 27% to $35.3 Million",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/680-076a41098774814880e8a2e6168285d9.jpg",
-   "imageCredit": "Box Office Soars 27% to $35.3 Million",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Box Office Soars 27% to $35.3 Million",
-     "url": "https://www.broadwayworld.com/article/Broadway-Grosses-Week-Ending-101126-20261013",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "7eb57117d7",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T20:46:09+00:00",
-   "published": "2026-10-13T20:46:09+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": "Creation Story",
-   "title": "CREATION STORY World Premiere Cast & Design Team Announced",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmdHUm4yN0x3NEplQkJjYlpxRXU3VngwaktreUJTZjk5Q2hNUVdLbDdhRndDRUhtclF6T2JKZHMwWV9LU3N0UWFiazhiYkxKMjc2VTAtYW1mWFFZdHhNWUsxNUpxc0N2OURZY1pla0E1bV9vaFdTTlFrR1dmZkdfM2h3SmxfMk9NZ0dFYnRKVXFfUUVuQUxxLVR3WlVyTjVaeUxxMkdZR2F0Qlh6dlltZ203RlVKVDFsLW1MQg",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "7731238004",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T20:42:59+00:00",
-   "published": "2026-10-13T20:42:59+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "New World Stages",
-   "placedBy": "venue",
-   "type": "extension",
-   "show": "Heathers The Musical",
-   "title": "HEATHERS THE MUSICAL Breaks All-Time House Record at New World Stages",
-   "quote": "96 Heathers The Musical broke the all-time house record at New World Stages for the week ending October 11, 2026 in its final week of performances. The fan-favorite production had previously set the house record on four other occasions in its extended run.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-a9b614d6f65193d2592c3f689e12718d.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/HEATHERS-THE-MUSICAL-Breaks-All-Time-House-Record-at-New-World-Stages-20261013",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "6b203aaf5f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T19:45:48+00:00",
-   "published": "2026-10-13T20:16:03+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Other Desert Cities",
-   "title": "OTHER DESERT CITIES to Host Performance Benefiting Entertainment Community Fund",
-   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} Other Desert Cities will make the evening performance on Sunday, January 3, 2027 at 7 PM ET a Special Performance benefiting the Entertainment Community Fund. One hundred percen…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-3cc3b10cc699660598d46f15698b65d5.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/OTHER-DESERT-CITIES-to-Host-Performance-Benefiting-Entertainment-Community-Fund-20261013",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f4757f46ab",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T20:04:06+00:00",
-   "published": "2026-10-13T20:04:06+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Evita,",
-   "title": "Where to Buy Tickets for Broadway’s Biggest Shows Through 2027: ‘Evita,’ ‘A Few Good Men,’ ‘Much Ado About Nothing’ and More",
-   "quote": "Broadway is gearing up for a star-studded season, with Hollywood heavyweights, buzzy West End transfers and a slate of high-profile revivals headed to New York stages through 2027. Among the biggest draws are Julia Louis-Dreyfus, making her Broadway debut alongside Ed Harris and Allison Janney in “Other Desert Cities”…",
-   "quoteSource": "Variety",
-   "image": "https://variety.com/wp-content/uploads/2026/09/Evita-West-End-1.jpg",
-   "imageCredit": "Variety",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://variety.com/shop/broadway-show-tickets-where-to-buy-1234970196/",
-     "feed": "variety-theater"
     }
    ],
    "status": "published"

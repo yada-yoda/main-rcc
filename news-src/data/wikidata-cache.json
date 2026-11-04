@@ -89,6 +89,15 @@
   "qid": null,
   "score": 0
  },
+ "Adirondack Chair Circle": {
+  "checkedAt": "2026-11-04T02:56:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Adrian Danchig-Waring Says": {
   "checkedAt": "2026-10-14T01:37:34+00:00",
   "description": null,
@@ -1242,6 +1251,15 @@
   "knownFor": [],
   "qid": "Q111820598",
   "score": 3
+ },
+ "Book Banning Becomes": {
+  "checkedAt": "2026-11-04T02:56:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Bowen Yang": {
   "checkedAt": "2026-09-25T17:52:05+00:00",
@@ -4037,6 +4055,15 @@
   "qid": null,
   "score": 0
  },
+ "Getting Onstage": {
+  "checkedAt": "2026-11-04T02:56:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ghost Story": {
   "checkedAt": "2026-10-06T02:43:19+00:00",
   "description": null,
@@ -4919,6 +4946,15 @@
  },
  "Industry Readings": {
   "checkedAt": "2026-10-03T01:45:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Influencer Goes Viral": {
+  "checkedAt": "2026-11-04T02:56:09+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5934,6 +5970,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Julian Sewell": {
+  "checkedAt": "2026-11-04T02:56:05+00:00",
+  "description": "New Zealand comedian and digital satirist",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q133189752",
+  "score": 1
  },
  "Julianne Hough": {
   "checkedAt": "2026-09-28T01:26:13+00:00",
@@ -7072,6 +7117,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Marcia Marcia Marcia": {
+  "checkedAt": "2026-11-04T02:56:04+00:00",
+  "description": "American drag queen",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q116209930",
+  "score": 2
  },
  "Mare Winningham": {
   "checkedAt": "2026-09-28T20:01:13+00:00",
@@ -9689,6 +9743,15 @@
   "qid": null,
   "score": 0
  },
+ "Sell Outs A": {
+  "checkedAt": "2026-11-04T02:56:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Seth Rudetsky": {
   "checkedAt": "2026-10-20T17:48:23+00:00",
   "description": "American journalist",
@@ -10279,6 +10342,15 @@
  },
  "Take Place": {
   "checkedAt": "2026-10-20T17:48:48+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Take Selfie": {
+  "checkedAt": "2026-11-04T02:56:11+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
