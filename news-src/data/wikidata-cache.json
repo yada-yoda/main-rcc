@@ -1625,6 +1625,15 @@
   "qid": null,
   "score": 0
  },
+ "Bryan Batt": {
+  "checkedAt": "2026-11-05T03:13:24+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2138235",
+  "score": 18
+ },
  "Bryan Cranston": {
   "checkedAt": "2026-10-21T01:20:16+00:00",
   "description": "American actor (born 1956)",
@@ -2431,6 +2440,24 @@
  },
  "Creative Team Ahead": {
   "checkedAt": "2026-09-25T17:54:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Crescent City": {
+  "checkedAt": "2026-11-05T03:13:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Cris Rook": {
+  "checkedAt": "2026-11-05T03:13:23+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4159,6 +4186,15 @@
   "qid": null,
   "score": 0
  },
+ "Go Backstage": {
+  "checkedAt": "2026-11-05T03:13:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Go Behind": {
   "checkedAt": "2026-09-25T17:47:52+00:00",
   "description": null,
@@ -5267,6 +5303,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Jamie Neumann": {
+  "checkedAt": "2026-11-05T03:13:25+00:00",
+  "description": null,
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q99583526",
+  "score": 2
  },
  "Janie Dee": {
   "checkedAt": "2026-10-19T19:04:00+00:00",

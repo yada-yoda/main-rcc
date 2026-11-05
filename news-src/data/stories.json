@@ -2,11 +2,47 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "479cf0a774",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-27T15:52:53+00:00",
+   "published": "2026-11-05T03:12:31+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "A Few Good Men",
+   "title": "Bradley Whitford, Tom Blyth and Krysta Rodriguez on Sorkin’s ‘A Few Good Men’",
+   "quote": "Bradley Whitford, Tom Blyth and Krysta Rodriguez are starring in a revival of Aaron Sorkin’s breakthrough, “A Few Good Men,” at Lincoln Center Theater.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01cul-few-good-men-01-jwvc/01cul-few-good-men-01-jwvc-mediumSquareAt3X.jpg",
+   "imageCredit": "Thea Traff for The New York Times",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [
+    {
+     "name": "Bradley Whitford",
+     "knownFor": "American actor",
+     "score": 39,
+     "qid": "Q352180"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/10/27/theater/few-good-men-whitford-blyth-sorkin.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "0e1eedd950",
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-11-04T17:22:11+00:00",
-   "published": "2026-11-04T17:22:11+00:00",
+   "published": "2026-11-04T18:04:24+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -874,42 +910,6 @@
      "name": "Variety",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYm1hZ0QtaFNXekJFNXBtdmgzTFdiUWRRUWdTRTRNMFRxck94NzU1MFA4d0xOOXZuS2x4ZHZ2YXRmOEN5WmNHeUVGRm5Dd0c5TE9yaDhpSW5uUExYYU9Qd3V2bG5FTHdhNGRhSnJfVlVWdHc5RkJna1FkOG1pRlE2dTJ0Z1E4d1hmZk92WGNQOWhEYmdjOUNIbENvS1gybGlobUVZT05SSGM1cmYtTVhoR05NbVRrQVM0a2RWMTNIa1E2cm1MSldiX2FB",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "479cf0a774",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-27T15:52:53+00:00",
-   "published": "2026-10-27T15:52:54+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "A Few Good Men",
-   "title": "Bradley Whitford, Tom Blyth and Krysta Rodriguez on Sorkin’s ‘A Few Good Men’",
-   "quote": "Bradley Whitford, Tom Blyth and Krysta Rodriguez are starring in a revival of Aaron Sorkin’s breakthrough, “A Few Good Men,” at Lincoln Center Theater.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01cul-few-good-men-01-jwvc/01cul-few-good-men-01-jwvc-mediumSquareAt3X.jpg",
-   "imageCredit": "Thea Traff for The New York Times",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [
-    {
-     "name": "Bradley Whitford",
-     "knownFor": "American actor",
-     "score": 39,
-     "qid": "Q352180"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/10/27/theater/few-good-men-whitford-blyth-sorkin.html",
-     "feed": "nyt-theater"
     }
    ],
    "status": "review"
@@ -3667,6 +3667,127 @@
    "status": "review"
   },
   {
+   "id": "67acf1247c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-04T22:14:15+00:00",
+   "published": "2026-11-04T22:14:15+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "extension",
+   "show": null,
+   "title": "Tony Awards announces 2027 ceremony date, extends broadcast deal with CBS",
+   "quote": "The prior deal between Tony Awards Productions and CBS is set to expire after the 2027 show.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/TONYS__SBP3005_Photo_by_Stephanie_Berger-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/tony-awards-announces-2027-ceremony-date-extends-broadcast-deal-with-cbs/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "7b02bb19da",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-04T21:57:23+00:00",
+   "published": "2026-11-04T21:57:23+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Long Christmas Dinner",
+   "title": "Bryan Batt, Jamie Neumann and More to Star in THE LONG CHRISTMAS DINNER at Crescent City Stage",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWmhEMEUwYjllX08zazRBQU5TcXZ0WUlkbTkzZ1I3UHBNZloxbzBTV2k1a0JBZG5vemhRYWZZckJOcFg3X1NRbDFZcWZNRmNsdW1RYWdmUHlaeHU3S0tpUXh5bWNYX1dTVVlscWI3NHFSVnUyRW95SFl1UVptMXpFbk1UX3pUNG94Z0M1QkRhUTdJYWgtY1RyZlZZMU1JeFBFY3BRMjN2MXlXRU5ndTg5YlUzR0lpWjlzMmUybHZUSDJIb25iVjZINkJaT2VnN01sQm41aE9HUU1XVU50RVFOYU8yT3dCazg",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9eafcd4114",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-04T21:52:52+00:00",
+   "published": "2026-11-04T21:52:52+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "S TIDINGS, TUNES AND ALL THAT JAZZ at Lincoln",
+   "title": "Cris Rook to Star in LIZA'S TIDINGS, TUNES AND ALL THAT JAZZ at Lincoln's TADA Theatre",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3A4Y2dhbzFMRWtzV21mQWZUN05aRnd4TVkxb3NjMW83N2hWR1VkNjlmenppNW83Z24xWlJwbk10Y3A2TGZ2azZkNFl6UGxkQXZRVGFhQmRVY3g2ZHNfbTFSbVNud29SSE1rNXFETjV4V3pFeUd6cDBLTHdsa3YycjdtMFc5NU1BLXVtUmN5dlR4X25uYjhnVXc5b2EyeHk1djdDNXhoa1VKcTM3WXFjZzNjMy1PSzFlWmhudGg3dWswS25qYUVHeTVyYTNkYmxJQ3c",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9e322cce77",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-04T20:47:54+00:00",
+   "published": "2026-11-04T20:47:54+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Whitney Leavitt to star in new Hulu reality show",
+   "quote": "",
+   "quoteSource": "Good Morning America",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Good Morning America",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjdZRDdiSmtoUEtvT3RBaGFocHFlRUF3VndTWE44M1p4RTNsSkRRX0o2emhMMFhhaXl2WXpuYUtlQ1QyTjBxX2tydEMtNWNOSDRqRUlacFlhTHc5TDYwZnFTOFJtSVBYbUl6SFBDckFla3cyWnNuamtrRVQ5d1FMa3RQVzhvWTV5anp0YVJmd2VYclZGQUlhb0RWTFZoZTQwd0VF0gGoAUFVX3lxTE9yRW9DalFmTUtwT1RSVFBGd0kzaTV4NE1HWm15NVYyOGx3VHZ1S0JZRFAxb2stUTM3YTVLOEt4RGF2MDZLQ1hsaEw1UURhZ1JZTi01dGVFNWduRXdqc0J3VnVGU1RoQmZpeEhGb0h0aHZ6OXhEeDR1S0tGemcyTVE2Qk54NGV6ekJRQjNQR05yU3dwYk5GblBfblJlMnl1dzNjcnVxUzVEMg",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "TV Tattle",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb3dpRXVmMFBvUlI4R0RzVlF2SEFOTzJWd3RJdjlxM1loQ0ctUkN4M0dlcjN5SjljeUNGbHRCaHh4UVhpa1V6VU84X3hIVlNXdDhJWXNZSUF2S0tzakV0TFFnanZnSUtQN21CMFln",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "106b283fc1",
    "priority": 3,
    "watched": [],
@@ -3749,6 +3870,35 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlpzWWJrRzNHTWR5NGVLWmYyWHhvQUlxdFFTdldIQWw3OVlRUHNPVEM2MFZCY2RhaElqTDJUYVhVZm01Zmg2UUZKMllyeU5KeGpvWkFyb19aa3BqOUtSSmw5VUFCUEZEMktOUEQtcDM4XzZrZWtoalZDRUJQU01fU2JuVVM3Y2dBbWlrRlNJaGJlQVpsMkhLWTdTU29PakVRY05SVlFYUC13TVFNUDhQYnhxZVlhZVZBNlJFSHVLeGhPZTYzSHJmMHNZc0pVd2FLVmQ5MWRQc3lxaWEwX2JKZGEtZlc",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "bbd2da14f2",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-04T16:36:00+00:00",
+   "published": "2026-11-04T16:36:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Go Backstage at the Rent 30th Anniversary Concert on Broadway",
+   "quote": "Photos from Michael Kushner offer a behind-the-scenes glimpse at the special evening.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Rent-30-2026-Backstage-photo-by-Michael-Kushner-202.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/go-backstage-at-the-rent-30th-anniversary-concert-on-broadway",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3875,20 +4025,20 @@
    "status": "review"
   },
   {
-   "id": "2c92012049",
+   "id": "f748e316a2",
    "priority": 3,
    "watched": [],
-   "firstSeen": "2026-11-04T12:16:03+00:00",
-   "published": "2026-11-04T12:16:03+00:00",
-   "city": "New York",
-   "tier": "Broadway",
+   "firstSeen": "2026-11-04T12:03:58+00:00",
+   "published": "2026-11-04T12:03:58+00:00",
+   "city": null,
+   "tier": null,
    "venue": null,
-   "placedBy": "words",
+   "placedBy": "none",
    "type": "casting",
-   "show": "Dear Evan Hansen",
-   "title": "William Jakrapatr to star in Thai adaptation of hit Broadway musical 'Dear Evan Hansen'",
+   "show": "Dick Whittington",
+   "title": "Guest Cast Set For DICK WHITTINGTON: ADULTS ONLY at King's Head Theatre",
    "quote": "",
-   "quoteSource": "GMA Network",
+   "quoteSource": "BroadwayWorld",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3896,12 +4046,41 @@
    "celebs": [],
    "sources": [
     {
-     "name": "GMA Network",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjNodFlXZDlmaDZfYnFuN1FZR3cxZ0JLcUpNZzdsbUJkQk5OZXJwa3RTT212d21Wd0ZCSlFuT3JVVVcwYWtvY1JzRGRRME9GMVdqVmRoYUtVajllOVo4bGNSOHhaUm00SVZ0d1hINnk0TnhiU3lWdkI3alU0T3BxeklWblpXb1plSXgyMlc5ODVDU1J6M2RSNTZKenNmQUhZM0ttck9nam10ZXFCVnVsLXhvdUltRFRJWDlPSGpzVUF1LXU3SnpCOEpPZ1VNRGJ2dnZPYUk0bw",
-     "feed": "gn-to-star"
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUDltTFB5aU5qUnVyV0JvRkdWcWVXMW9ROE1lX2tNeVExUEhfckNVQXlsdXlfaDRuUjdhMDVXTVR5Y01tRUJVajNGZnk2NHU2Nl9mdHFzSWFLVnJoVWRCVlMwWXlRQXNfOHhWYzZLWjNoQUVRY0tQOEJOcEFGWUFJNVQyWDB3TzRydnFRaGlaZGMySE8yUjhpOWFVWTE5cWpLNmJxWjRvTWQ5ZDZvbm1TMU53OHZKRDdxNW5qOW91RURLdw",
+     "feed": "gn-bway-casting"
     }
    ],
-   "status": "published"
+   "status": "review"
+  },
+  {
+   "id": "9b414dd952",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-22T07:00:00+00:00",
+   "published": "2026-11-04T12:00:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Schedule of Upcoming Off-Broadway Shows",
+   "quote": "Due to the expansive nature of Off-Broadway, this list is not comprehensive.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/off-broadway_upcoming_2025-10-07-153008_zxgv.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/schedule-of-upcoming-off-broadway-shows-2",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "f0c84c086f",
@@ -4018,6 +4197,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "2c92012049",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-04T12:16:03+00:00",
+   "published": "2026-11-04T07:51:28+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Dear Evan Hansen",
+   "title": "William Jakrapatr to star in Thai adaptation of hit Broadway musical 'Dear Evan Hansen'",
+   "quote": "",
+   "quoteSource": "GMA Network",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "GMA Network",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUjNodFlXZDlmaDZfYnFuN1FZR3cxZ0JLcUpNZzdsbUJkQk5OZXJwa3RTT212d21Wd0ZCSlFuT3JVVVcwYWtvY1JzRGRRME9GMVdqVmRoYUtVajllOVo4bGNSOHhaUm00SVZ0d1hINnk0TnhiU3lWdkI3alU0T3BxeklWblpXb1plSXgyMlc5ODVDU1J6M2RSNTZKenNmQUhZM0ttck9nam10ZXFCVnVsLXhvdUltRFRJWDlPSGpzVUF1LXU3SnpCOEpPZ1VNRGJ2dnZPYUk0bw",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "af39c89a97",
@@ -8066,35 +8274,6 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/eden-espinosa-and-alex-moffat-will-lead-reading-of-good-table-manners",
      "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9b414dd952",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-22T07:00:00+00:00",
-   "published": "2026-10-27T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Schedule of Upcoming Off-Broadway Shows",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12WTNIMHVFLU9vcUJJWnJXdTMyaHMxWk4tQkU3bUVzUnpRSHJid0RZamhxQlZTSjRqWXpTYkR5aGRRLURwNEllT0ctX1hVdEx2eFNWdG5jcE81THcxZldkNlM0c1JOMjVFMWtRUy1xdjg3emdWd3p1eHV3",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -14210,209 +14389,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadways-now-you-see-me-live-reveals-special-guests/",
      "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "dfab52b17e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-15T01:00:54+00:00",
-   "published": "2026-10-15T01:00:54+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "Anon: Two Americas, One Uneven Play",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/14/anon-two-americas-one-uneven-play/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "affd9d71c1",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-15T00:59:04+00:00",
-   "published": "2026-10-15T00:59:04+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "MCC Theater",
-   "placedBy": "venue",
-   "type": "opening",
-   "show": null,
-   "title": "Anon: A Storm of Conspiracies With More Sound Than Fury",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/14/anon-a-storm-of-conspiracies-with-more-sound-than-fury/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "1bf4816e76",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-15T00:21:36+00:00",
-   "published": "2026-10-15T00:21:36+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Njpac",
-   "title": "Shoshana Bean, Brian Stokes Mitchell and More Join Ben Vereen 80th Birthday Concert at NJPAC",
-   "quote": "New Jersey Performing Arts Center will present Ben Vereen's 80th Birthday Concert on Saturday, November 21, 2026, at 8:00 p.m., as part of the TD James Moody Festival. Vereen will be joined by a lineup of special guests, including Karrin Allyson, Shoshana Bean, Melba Moore, Stephanie Pope, Brian Stokes Mitchell and Li…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-73c10fe27e73aa0343ae0fc13c7ced66.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Shoshana-Bean-Brian-Stokes-Mitchell-and-More-Join-Ben-Vereen-80th-Birthday-Concert-at-NJPAC-20261014",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "6d4f427890",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T23:09:53+00:00",
-   "published": "2026-10-14T23:09:53+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "E.G.",
-   "title": "E.G. Daily, Olivia Edward and Frankie Loyal to Star in MOSTLY MONSTERS at Theatre 68",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTldtaUdlS2RMVUxVdWlZUmxIcFE0RmQzb2g3alBQUVZaWE5vamZyRzdvQ3hDSllJT0pPMm1ablAtNXo4RS1BZll3YTV1Y1VJZzFHYW44b216WkhsNXZ6SXBmS0Y3bHQyTGRsYXNSekpJd2w1cnhvWUY3elF3QTBtbzBWbHptSGVvSmlLS3V3aHRvV0pBZFduMlYtd3hROG1pbnVwby1ib255V0dXdXc4OUw5VEwteUw0TWhJdF9PVmx3c0kxbnJOUEdzY1laRGtlSzNkaE1vSQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "5d40d178a1",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T21:12:34+00:00",
-   "published": "2026-10-14T21:12:34+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway wins big at the 69th annual New York Emmy Awards",
-   "quote": "Find out which Broadway businesses and journalistic coverage won at the New York Emmys.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/bway-news-logo.png",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/broadway-wins-big-at-the-69th-annual-new-york-emmy-awards/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f7214135dd",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T20:35:05+00:00",
-   "published": "2026-10-14T20:35:05+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "New World Stages",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": "Namt'",
-   "title": "Christopher Sieber, Jordan Tyson and More to Join NAMT's 38th Festival of New Musicals",
-   "quote": "The National Alliance for Musical Theatre has revealed additional cast and more details about the lineup for the 38th Annual FESTIVAL OF NEW MUSICALS, which takes place on Thursday, October 22 and Friday, October 23, 2026, at New World Stages (340 West 50th Street, between 8th and 9th Avenues). Now in its 38th year, t…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-2aaf3c74e58ddc28a222f8e652e914f5.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Christopher-Sieber-Jordan-Tyson-and-More-to-Join-NAMTs-38th-Festival-of-New-Musicals-20261014",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "22c06e86be",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-14T20:22:18+00:00",
-   "published": "2026-10-14T20:22:18+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "School Girls",
-   "title": "The Broadway Cast Of 'School Girls' Answers Real Pageant Questions",
-   "quote": "",
-   "quoteSource": "Bustle",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Bustle",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0lJRkNmS3puOWZtRVZxNTRGd2ROSWZ6V0RrbXE4dy1DRWhBSUkwamprR2tqaTBMN2ZPbFJDLTFySmlBZC1yWHhwTEp6Q2sxV1MwVFJXb0dVYTJiMjI5SGJyT25ZR3VVbjQ5bDh3TzZhc24zMC1vZjRYejR1RWJYVUR1WnFITHVER1RoaGRkWjAweTg",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
