@@ -62,6 +62,15 @@
   "qid": "Q4678842",
   "score": 10
  },
+ "Adam Garcia": {
+  "checkedAt": "2026-11-05T20:29:22+00:00",
+  "description": "Australian actor and tap dancer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q349488",
+  "score": 31
+ },
  "Adam Scott": {
   "checkedAt": "2026-10-27T01:51:12+00:00",
   "description": "American actor (born 1973)",
@@ -214,6 +223,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Alan Cumming": {
+  "checkedAt": "2026-11-05T20:29:19+00:00",
+  "description": "British actor (born 1965)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q316629",
+  "score": 47
  },
  "Alaska Thunderf*ck": {
   "checkedAt": "2026-09-25T17:56:16+00:00",
@@ -2177,6 +2195,15 @@
   "qid": "Q236132",
   "score": 45
  },
+ "Church Hurt": {
+  "checkedAt": "2026-11-05T20:29:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Cinco Paul Receives": {
   "checkedAt": "2026-10-02T18:15:08+00:00",
   "description": null,
@@ -2711,6 +2738,15 @@
   "qid": "Q70954450",
   "score": 38
  },
+ "David Corenswet-Led": {
+  "checkedAt": "2026-11-05T20:29:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "David Cromer": {
   "checkedAt": "2026-10-14T01:37:40+00:00",
   "description": "American actor and director",
@@ -2728,6 +2764,15 @@
   "knownFor": [],
   "qid": "Q373976",
   "score": 33
+ },
+ "David Yazbek": {
+  "checkedAt": "2026-11-05T20:29:30+00:00",
+  "description": "American composer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5241354",
+  "score": 6
  },
  "Dead Girl": {
   "checkedAt": "2026-10-08T19:10:54+00:00",
@@ -2835,6 +2880,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q26702160",
+  "score": 10
+ },
+ "Derek Klena": {
+  "checkedAt": "2026-11-05T20:29:15+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16203984",
   "score": 10
  },
  "Dermot Mulroney": {
@@ -3248,6 +3302,15 @@
   "qid": "Q112375670",
   "score": 0
  },
+ "Elisabeth Moss Visits": {
+  "checkedAt": "2026-11-05T20:29:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Elizabeth Gillies": {
   "checkedAt": "2026-09-25T17:54:45+00:00",
   "description": "American actress and singer (born 1993)",
@@ -3474,6 +3537,15 @@
  },
  "Evan Alexander Smith": {
   "checkedAt": "2026-09-29T18:29:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Evangelical Upbringing": {
+  "checkedAt": "2026-11-05T20:29:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3852,6 +3924,15 @@
  },
  "Four Performances": {
   "checkedAt": "2026-09-27T19:22:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Four Songs": {
+  "checkedAt": "2026-11-05T20:29:31+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4278,6 +4359,15 @@
  },
  "Great Gatsby": {
   "checkedAt": "2026-10-08T19:10:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Great Gatsby During": {
+  "checkedAt": "2026-11-05T20:29:16+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6644,6 +6734,15 @@
   "qid": "Q242792",
   "score": 41
  },
+ "Lauren Oakley": {
+  "checkedAt": "2026-11-05T20:29:21+00:00",
+  "description": "English dancer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q113149463",
+  "score": 2
+ },
  "Lauren Patten": {
   "checkedAt": "2026-10-30T02:25:43+00:00",
   "description": "American actress",
@@ -7655,6 +7754,15 @@
   "qid": null,
   "score": 0
  },
+ "Mica Paris": {
+  "checkedAt": "2026-11-05T20:29:24+00:00",
+  "description": "English soul/jazz singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6827833",
+  "score": 11
+ },
  "Michael Arden": {
   "checkedAt": "2026-11-01T18:17:09+00:00",
   "description": "American actor",
@@ -8041,6 +8149,15 @@
  },
  "Next Fall": {
   "checkedAt": "2026-10-22T17:52:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Next Jay Gatsby": {
+  "checkedAt": "2026-11-05T20:29:32+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -9668,6 +9785,24 @@
   "qid": null,
   "score": 0
  },
+ "Sale Through": {
+  "checkedAt": "2026-11-05T20:29:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Sam Bailey": {
+  "checkedAt": "2026-11-05T20:29:25+00:00",
+  "description": "rugby league footballer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q116475127",
+  "score": 0
+ },
  "Sam Pinkleton": {
   "checkedAt": "2026-09-25T17:56:55+00:00",
   "description": "American choreographer and director",
@@ -10019,6 +10154,15 @@
   "qid": "Q268549",
   "score": 26
  },
+ "Shirley Henderson": {
+  "checkedAt": "2026-11-05T20:29:20+00:00",
+  "description": "British actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q232889",
+  "score": 34
+ },
  "Sholem Aleichem-Inspired": {
   "checkedAt": "2026-09-25T17:53:46+00:00",
   "description": null,
@@ -10057,6 +10201,15 @@
  },
  "Shows Adds Android": {
   "checkedAt": "2026-10-13T19:46:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Side Story Heads": {
+  "checkedAt": "2026-11-05T20:29:17+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10844,6 +10997,15 @@
   "qid": null,
   "score": 0
  },
+ "Through Digital Rush": {
+  "checkedAt": "2026-11-05T20:29:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Through Lottery": {
   "checkedAt": "2026-09-29T18:29:25+00:00",
   "description": null,
@@ -10891,6 +11053,15 @@
  },
  "Ticket Prices": {
   "checkedAt": "2026-10-14T01:37:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ticket Sale": {
+  "checkedAt": "2026-11-05T20:29:34+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
