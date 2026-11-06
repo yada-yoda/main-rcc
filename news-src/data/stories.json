@@ -124,10 +124,10 @@
    "city": "New York",
    "tier": "Off-Broadway",
    "venue": "Stage 42",
-   "placedBy": "words",
+   "placedBy": "venue",
    "type": "casting",
-   "show": "A History of Paper",
-   "title": "Alan Cumming, Shirley Henderson to Star In Off-Broadway Musical ‘A History of Paper’ (Exclusive)",
+   "show": "A History Of Paper",
+   "title": "Alan Cumming and Shirley Henderson Will Lead A HISTORY OF PAPER Off-Broadway",
    "quote": "Pitlochry Festival Theatre and Dundee Rep Theatre's production of A History of Paper will make its US premiere in New York in February 2027. The production will star Tony, Emmy, BAFTA and Olivier Award winner Alan Cumming, and Olivier and BAFTA Award winner Shirley Henderson.",
    "quoteSource": "BroadwayWorld",
    "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-82ffa678da6282a39449f49626506da4.jpg",
@@ -150,16 +150,6 @@
    ],
    "sources": [
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0xEc2cwYWs0LTBaQ1ZobG1qQXlvREQzOHdsNWNPNlVtY1hDS0pfaG5yQmRsOUR0bGtWQXVDV1BHejhfYmc0UnM3RXZ3bXY2WXh6UmZQUVZQeE5jR0xQYjYzSWJINzRlVlZXdzFqanpHb0FsQ0t5dXJ4dHp1WXBITVlVVW1IVWpTVFpYM0lvVktfYWdpeWJ4WFlHX1hpMWlSTlR0eTZDdkVJVXQ1elAw",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUZWYW82TkllbHliUVZNY3N4V1VJWU9uUElxeUNVMnc4c3dEQXhXMEJCSWpqeVo3TE5famFDUUFnSk1aSEIyZ3VNbktkaEN6YnZzaXg5NU9LbzJKZDVmZGcxVXloM3k4dF9YQkNmd3Jfd0xzQzNTUmZhZk1YZWZQODNHcWNkWG1JNnU3SVZqZ2tEMm5fMDYxZV9KcUdpNGI4Y2xoUGlDNVpvV3dNR2o0VGdmemlfaGd1TW55b1ZOUlRMOHNad2c",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Alan-Cumming-and-Shirley-Henderson-Will-Lead-A-HISTORY-OF-PAPER-Off-Broadway-20261105",
      "feed": "broadwayworld"
@@ -168,16 +158,6 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/alan-cumming-shirley-henderson-a-history-of-paper-1236747712/",
      "feed": "thr-arts"
-    },
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlA5NEFmTk4ydy10U1FNdHpNbUJsZ0N0VFoyREJlLVRGSXdXU0lhc3RTN09fVG5oN2tCU0tTamxzTnY4cV8tWkFOLXdicF9iY1lrWTlNX2k3Z0wtYTVtRVBYend4YzBEMGZlbkVIRGhPRGJLcWFlakdEY3RLNTE5V3RtX09GbG82bTM1MTFZUkhKQ0tObmE2eGNFdDV6RlRBUWI4WUMwUWV4MjdPcjR6VkUtUk4xWHpmTU1zWg",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlVuTHU3VWFtQVhCaGdOVkkxQml0NzNyN3hyc25peHdHTjBvR2lrNlNHbXZxNExvNHBVRVhHajl1V3pxM0tXdzJyQmZBR2NxRmtwb1Q1SlJlMlU4NWNaaXoxblRjQlNOd2VxV09QS19Zb2RPRmR4TGdnaHBQYkxwQ0lOTHoyWE11OHIxbUNpb3JtRm5adjVITzdnTzgyV044YzJzWkVBQUJ2OUNqY2FrZTl2MWtMQQ",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -282,16 +262,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1QtSlJBQUQ4eWNLdUZNeERpYVlrQVhseXp0SnBLVHNQcmw3andLUDN4aUFqV01XOEIydUFMbnUyYjNEVHhlNnY1bm9OYlhFUHpKLTJ6eHNpM0k5djZTNktBNDAxb2trWmI0OVFaVGM3eTA1TWZ0d1h2WTd3eTIxVmRnLVROQ0E1dFgtLWRqZFlER1Y1ZW1uVHpNNXM3Zm5mc2xGM2JzdktHVWF6QTdXVk5uQi1JdWk0dWJxWXkzXzFwTU5ZRFl5VWgxRQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdG9tNU9BUXhqS2l1eEMySGtSRUlqOXV5YmNrektaWTJvbGpMS1ljeG9aVUJPRlhHdGZTVEIzV0paeV9WUFNLanpvRDQ1UGJjQjFLUU51RjV3dWhIN0RGdjNYcElLWXhycW9MVUJRNWNnUGo0MTBqVzlWUTNMUzc5aVh5dGhyUUFpVGg2ZkM1Z1BXc0tpQkdBVG5qOEdvMVo2bnMxeg",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadways-harry-potter-and-the-cursed-child-announces-new-cast-members-ahead-of-rupert-grints-arrival/",
@@ -566,7 +536,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Samuel J. Friedman Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "Montauk",
    "title": "Jonathan Kent replaces Daniel Sullivan as the director of Broadway’s ‘Montauk’ starring Laura Linney",
@@ -3488,88 +3458,62 @@
    "status": "review"
   },
   {
-   "id": "5a114be7b3",
-   "priority": 2,
+   "id": "c9f8d7efb5",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-15T21:58:40+00:00",
-   "published": "2026-10-15T21:58:40+00:00",
-   "city": "New York",
-   "tier": "Broadway",
+   "firstSeen": "2026-11-06T03:00:25+00:00",
+   "published": "2026-11-06T03:00:25+00:00",
+   "city": null,
+   "tier": null,
    "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Here There Are Blueberries",
-   "title": "Anderson Cooper, Ken Burns among participants in Broadway’s ‘Here There Are Blueberries’ talkback series",
-   "quote": "Seven talkbacks with luminaries of history, journalism and advocacy are currently scheduled.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/GettyImages-2216184180.jpg",
-   "imageCredit": "Broadway News",
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "The Verge: A Portrait in Discontent",
+   "quote": "",
+   "quoteSource": "New York Stage Review",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Anderson Cooper",
-     "knownFor": "American journalist",
-     "score": 41,
-     "qid": "Q316997"
-    },
-    {
-     "name": "Ken Burns",
-     "knownFor": "Brooklyn Bridge, The Statue of Liberty",
-     "score": 41,
-     "qid": "Q616886"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/anderson-cooper-ken-burns-among-participants-in-broadways-here-there-are-blueberries-talkback-series/",
-     "feed": "broadway-news"
+     "name": "New York Stage Review",
+     "url": "https://nystagereview.com/2026/11/05/the-verge-a-portrait-in-discontent/",
+     "feed": "ny-stage-review"
     }
    ],
    "status": "review"
   },
   {
-   "id": "c78d18e712",
-   "priority": 2,
+   "id": "556e888701",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-15T21:18:34+00:00",
-   "published": "2026-10-15T21:18:34+00:00",
-   "city": null,
-   "tier": null,
+   "firstSeen": "2026-11-05T20:07:49+00:00",
+   "published": "2026-11-05T20:07:49+00:00",
+   "city": "New York",
+   "tier": "Broadway",
    "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": null,
-   "title": "Julie Taymor and Elliot Goldenthal’s new musical sets New York world premiere",
-   "quote": "Titled “The Grand Delusion,” the new musical will play at BAM in spring 2027.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/Taymor-Goldenthal.jpg",
-   "imageCredit": "Broadway News",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Glee",
+   "title": "Sarah Paulson Turned Down GLEE Due to Broadway Run in COLLECTED STORIES",
+   "quote": "Sarah Paulson turned down a role in Glee to finish her run on Broadway. The Tony Award winner has revealed that she was offered a role in the hit musical series, but starring in Collected Stories on Broadway conflicted with filming.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-3bc6094a8ad61de1568dca9958f742cd.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Elliot Goldenthal",
-     "knownFor": "American composer",
-     "score": 30,
-     "qid": "Q264565"
-    },
-    {
-     "name": "Julie Taymor",
-     "knownFor": "American film and theatre director",
-     "score": 29,
-     "qid": "Q240490"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/julie-taymor-and-elliot-goldenthals-new-musical-sets-new-york-world-premiere/",
-     "feed": "broadway-news"
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Sarah-Paulson-Turned-Down-GLEE-Due-to-Broadway-Run-in-COLLECTED-STORIES-20261105",
+     "feed": "broadwayworld"
     }
    ],
-   "status": "review"
+   "status": "published"
   },
   {
    "id": "2e9a85d49b",
@@ -3712,6 +3656,11 @@
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmxkR1dDRW1ibi05cEVaSnEwd0ZLdm14NnpEMWdwenRCaXRiLVNPdjQ1ZExNZnA0cHBtMzhSakdoZFBrNS00bjhZRHViSTRmVHVzSGRRaU9PeThuSWNoMi1NMlY4TENHajhTSURLNnBhMVA0aTNzVWtRbXVVWTZDQnpKU3V6NFhFT0RrdU5NM3pzQU0",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -3744,45 +3693,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "55f5b60a76",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-05T15:04:50+00:00",
-   "published": "2026-11-05T15:04:50+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Great Gatsby",
-   "title": "Derek Klena to join 'The Great Gatsby' Broadway cast",
-   "quote": "He succeeds Ryan McCartan in the role, who will play his final performance on December 4.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/125142-28.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkl5RzMyMzVrVE1ycW9tLXBmUEdmWER2SUpVX3BDaVhiX0R5RVhlbG54MU40dVVVWGY4ZWxib2lNbHdRb2kxallEWnlNZm9kdzBjSGJwUnN4ZEwwRHItQXJ3bEVRRlhfcjM3SndSMXpvR290ZlBwSUdGNTViWUZ4ZEhFdXVhWkI1cVJfMng1VGd1aWJuRFU5c0ZmQkNtREVJN0RCQy0xSQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2RPdjU1VVdVMXlWTzRqcTFHSXlFWFJDMWR6SHJEWkdmX2oxR2NaRTJkOFZPRFhScGNBUzM3UDhjTGZZSmdjaFZZeGNLNWx5NUh6R3MzTTVSSUNGdHdQZWl1blc4RzBLd25NZGlWTWlrdzcyZHgzNmdGM0UtaldMd3hQMENQanhJ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "04f2b621db",
@@ -3834,11 +3744,6 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGplTVpaa3JDQ0JiSE16M0g0bUdhWjZPN2o5Nl9tQ1lpS29YSlBHem53eHh2ZWc3WFJwMkhaeGI5ajlWVzQwdVNnWVg1OTJySFJJa2Q2N3lVTHBmbncwcE9fazlBWFBUVXBWeWV1VEtKOGU3WWptcVREWmdkQUdKbkZGblNvNjdHMXFsSUhFS2ZnVFp1ckE",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "Deadline",
      "url": "https://deadline.com/2026/11/derek-klena-broadway-great-gatsby-savannah-bananas-1237213428/",
@@ -6733,7 +6638,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-10-30T02:59:05+00:00",
-   "published": "2026-10-30T02:59:05+00:00",
+   "published": "2026-10-30T03:00:25+00:00",
    "city": null,
    "tier": null,
    "venue": null,
@@ -6752,11 +6657,6 @@
     {
      "name": "New York Stage Review",
      "url": "https://nystagereview.com/2026/10/29/a-few-good-men-built-to-last/",
-     "feed": "ny-stage-review"
-    },
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/29/a-few-good-men-could-use-more-ooh-rah/",
      "feed": "ny-stage-review"
     }
    ],
