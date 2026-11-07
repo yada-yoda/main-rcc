@@ -4192,6 +4192,15 @@
   "qid": "Q464337",
   "score": 22
  },
+ "Gaten Matarazzo Says": {
+  "checkedAt": "2026-11-07T02:34:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Gates Foundation": {
   "checkedAt": "2026-10-06T18:49:08+00:00",
   "description": null,
@@ -7808,6 +7817,15 @@
   "qid": null,
   "score": 0
  },
+ "Mercedes Ruehl": {
+  "checkedAt": "2026-11-07T02:34:15+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q232933",
+  "score": 50
+ },
  "Merch Released": {
   "checkedAt": "2026-10-30T18:27:19+00:00",
   "description": null,
@@ -8522,6 +8540,15 @@
   "qid": null,
   "score": 0
  },
+ "Not Having Lin-Manuel": {
+  "checkedAt": "2026-11-07T02:34:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Now Available": {
   "checkedAt": "2026-10-13T19:46:34+00:00",
   "description": null,
@@ -8650,6 +8677,15 @@
  },
  "One Uneven": {
   "checkedAt": "2026-10-15T01:14:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "One-Night Reading": {
+  "checkedAt": "2026-11-07T02:34:16+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

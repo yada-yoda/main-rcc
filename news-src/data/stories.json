@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "fb34f6d864",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-06T23:11:05+00:00",
+   "published": "2026-11-06T23:11:05+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Collected Stories",
+   "title": "Mercedes Ruehl to Star in One-Night Reading of COLLECTED STORIES at LTV Studios",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Mercedes Ruehl",
+     "knownFor": "American actress",
+     "score": 50,
+     "qid": "Q232933"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWpTN01TTFBpOE1TM3pMVUxFdEQzWmk0aHNJd252MC1VTEhYclk5a0dnSjlzRS13dFQ1b2VKQU14Uk1JZjFERUExV0lLdml0VWlaa25hYXNqWVhZM040M3pFeXdVZjRKN2UxbDJ2QzRJeDM5S0F4M1poRXJWSnJhbF8tWjA1eVFJNXRaRnBsODNUdjhaN3VkVTJvQW11c0pEZVZvUEpEaVh5RXZUVDhnd1RXZU40SjZJRWV1eDJnaUJkb3UxRVZaYkFkZ0E5UWNiT0RaRg",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "db7b269304",
    "priority": 2,
    "watched": [],
@@ -2812,42 +2848,6 @@
    "status": "review"
   },
   {
-   "id": "0f37cb1337",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:47:31+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Meet the Broadway Cast of Lin-Manuel Miranda and Eisa Davis' Warriors",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVhoRDRubm5yN2tIbC1keTE1NFhKTzBNM3VENElNNVFJQW1xQnhWVXlDS1FBY0hqaWNhUVI3M1pWU2RZeEQzUEhrVmRRT0ppM1hvZFhaaUdWT091a1pjTjB0QlBkUjQ5WTgzZ3R6ZU11UGs4TUEtYVptcnpYb01tVW02X2F6X0dPakZxWV9qZDVJZU9WaDVvUFMyS184Zw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "cc2cd38f18",
    "priority": 2,
    "watched": [],
@@ -2882,6 +2882,42 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "0f37cb1337",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-20T15:47:31+00:00",
+   "published": "2026-10-20T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Meet the Broadway Cast of Lin-Manuel Miranda and Eisa Davis' Warriors",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Lin-Manuel Miranda",
+     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
+     "score": 45,
+     "qid": "Q1646482"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVhoRDRubm5yN2tIbC1keTE1NFhKTzBNM3VENElNNVFJQW1xQnhWVXlDS1FBY0hqaWNhUVI3M1pWU2RZeEQzUEhrVmRRT0ppM1hvZFhaaUdWT091a1pjTjB0QlBkUjQ5WTgzZ3R6ZU11UGs4TUEtYVptcnpYb01tVW02X2F6X0dPakZxWV9qZDVJZU9WaDVvUFMyS184Zw",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "8ea28e9300",
@@ -3362,6 +3398,35 @@
    "status": "published"
   },
   {
+   "id": "9d5fcd3e27",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-06T19:58:45+00:00",
+   "published": "2026-11-06T19:58:45+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Richard Rodgers Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Biggest",
+   "title": "Exclusive: Gaten Matarazzo Says ‘Biggest’ Missed Opportunity Was Not Having Lin-Manuel Miranda Play Mark in RENT",
+   "quote": "Gaten Matarazzo is campaigning for a Lin-Manuel Miranda-led production of Jonathan Larson’s Tony Award- and Pulitzer Prize-winning musical Rent. Though the Stranger Things alum is currently playing the role of filmmaker Mark Cohen in the London production of the musical celebrating the show’s 30th anniversary, he woul…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-b9efc815e5e1cad09ee78d9c926d6bfa.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Exclusive-Gaten-Matarazzo-Says-Biggest-Missed-Opportunity-Was-Not-Having-Lin-Manuel-Miranda-Play-Mark-in-RENT-20261106",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "9d3ea0b8d3",
    "priority": 3,
    "watched": [],
@@ -3565,6 +3630,11 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/buena-vista-social-club-to-close-on-broadway-in-january-1236749360/",
      "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/buena-vista-social-club-sets-broadway-closing-date/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -3887,6 +3957,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "97a3b80388",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-05T18:45:50+00:00",
+   "published": "2026-11-05T18:45:50+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Cast Announced for John Proctor Is the Villain’s Chicago Premiere",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2lVZDIxOUJhbW43ZFU4djl6YjFMXy01TjhjUzFZNUhrWGxnejViQ09VSUp6MDFpQXNDTEFYdDZxVGF3UURrVGluRU1zQ2pFQ1B1OTJTYm5kTHo2dTExNzFIeE9zTm93MzRHc0VsM0F0eHRGejlWUkc0TXRBZmR3bG1Vc0pwSFE2SmY5bjMySE84YVZZTTFIcDBFanVyWUFKZkluMUVUekVSUEk",
+     "feed": "gn-chicago-announces"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "e175ea520b",
@@ -13702,64 +13801,6 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/10/jk-rowling-agent-protest-harry-potter-and-the-cursed-child-1237166312/",
      "feed": "deadline-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "283c58b12d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-16T23:19:29+00:00",
-   "published": "2026-10-16T23:19:29+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Booth Theatre",
-   "placedBy": "words",
-   "type": "opening",
-   "show": "Downstate",
-   "title": "DOWNSTATE On Broadway Reschedules First Preview Due to Illness",
-   "quote": "The previously-announced first preview of Downstate by Pulitzer Prize and Tony Award winner Bruce Norris. The first preview, recently rescheduled for Monday, October 19, has been cancelled due to illness within the company.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-7951a4fad24563743c036cf7fe636e33.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/DOWNSTATE-On-Broadway-Reschedules-First-Preview-Due-to-Illness-20261016",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "438b4d6bd9",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-16T21:58:33+00:00",
-   "published": "2026-10-16T21:58:33+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Santa'S First Christmas",
-   "title": "SANTA'S FIRST CHRISTMAS Cast Announced for Unicorn Theatre World Premiere",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjZsZXRpSGtrLXBKRWtLVUFNZEJObzByRVF1T0taU2lKbm5Tb05XZWdkck5ia01CanFLUklHR0JEQzBYZEtqenRHYkZWV0J6cGJXQ1M3YWE2b0NEYks2T0NSemF2eUR6czJHZTJEcWtxNFMycmpodlZHX2xsajNKV2U4c1ZmNXlPQUJoU2R1bVZ6bjJTTk9oaEplOHBkcUh5aVN6QUdfNTNIT09zdnZrUWw5RjVKNU9FTEtQUnAxVWxrSVdnd3c",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
