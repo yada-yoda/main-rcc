@@ -2879,6 +2879,11 @@
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXNpNndoNTBheXl4ODhsbXdla1JDSGJESElxaGlVRGx0TzdvRFpNa0l4cWg3TVQ4Y25XOVhZM05uUDFOSDFVb29LRzV4akJSdjh0N3V2ZFp0YnFyUkpVdkxsbW54MjktRERseWpCamlUZ2xCdTY4dlNTRUJHbE0tdkVicExtNkUyVzVOT0VBeVF1dGhER3N6VlgtLVppN1FZdzVXak52ZWJMZ3Jka2ZiZmlVNlRvOHVHbjNweE9CdHNVcFpEby1yeUp5QU1Rdw",
      "feed": "gn-bway-casting"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXRhRi1vYjNlQjdwTzJnMmJTQ0NLNng2cUxxeG9sUm5kX0gxSzQzcXJ1RldyTUlvOXF3YnNmTl8xT3YxTXJ6VDlDRzl2OVlQcXFkbGQ4T2J6ZXhmNW5BQVJsMGx4djkzNURfazhPQmF3c2l6Ynk5alM2eW02dTJkLWVvU05BdVJGT2hYdFZ1cll4ZjBFRjVxSnF1LUlITTU3TEwybUhfNG04QzA3TTYycG95Ulo2QlVSWUpLTUlmTk9ieklGb0I3RQ",
+     "feed": "gn-bway-debut"
     }
    ],
    "status": "published"
@@ -3362,40 +3367,62 @@
    "status": "review"
   },
   {
-   "id": "c64ad659a9",
-   "priority": 2,
+   "id": "61f3f3998c",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-17T12:45:00+00:00",
-   "published": "2026-10-17T12:45:00+00:00",
+   "firstSeen": "2026-11-07T16:00:23+00:00",
+   "published": "2026-11-07T16:00:23+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
+   "type": null,
+   "show": "s Playing on Broadway: New Year",
+   "title": "What's Playing on Broadway: New Year's Week 2026/27",
+   "quote": "The holidays are coming! If your holiday plans include seeing a Broadway show, take note of the special holiday schedules for this Christmas/New Year's week.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-812af80a2c3c0ac9078e48b49e7cae1b.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Whats-Playing-on-Broadway-New-Years-Week-202627-20261107",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "dd78e68abf",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-07T03:14:05+00:00",
+   "published": "2026-11-07T03:14:05+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
    "type": "casting",
-   "show": "Stranger Things",
-   "title": "Joe Keery on Making His Broadway Debut and Balancing Music and Acting Post-‘Stranger Things’",
-   "quote": "Keery is appearing on stage with Julia Louis-Dreyfus, Allison Janney, Ed Harris and Lily Rabe.",
-   "quoteSource": "The Hollywood Reporter",
+   "show": "C.S. Lewis On Stage",
+   "title": "Max McLean to Star in C.S. LEWIS ON STAGE: FURTHER UP & FURTHER IN at Tanger Center",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Joe Keery",
-     "knownFor": "American actor and musician",
-     "score": 44,
-     "qid": "Q27064031"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/joe-keery-broadway-debut-stranger-things-1236733706/",
-     "feed": "thr-arts"
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOU1BeTJXSG10R2dRZU9tNXY1d2VpOERDZlhXVDhlMU9RRzZHSGsxVnJ0aE04amp4Rk1lTE00dV9zRElYSi0tNUl2WVkzenBHTGN6V29teFhOelpRWEhkOEJUOXN3dHViVkxpWGVBZllhb003MG5iQjQtbWx5bEV0WGFoNmZOcHJ6OGxCcHA1TEl4ZWZhQlRjZUhyLVlmUnpKM2dDWDRaWDdhT0ZiRmprZU9FTW13ODFzazdWdVMwVzlPeFJ1XzBUdDQ3UXhTQQ",
+     "feed": "gn-to-star"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "9d5fcd3e27",
@@ -13772,35 +13799,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORV9MVHBlVTlGTUQ2Tm5rbW9TMDRfdlJTN1NUWS1xVWdFSUZ5NUthbGtONHBXMFhuSnoxVzZWeDEwR0x1ZWNvM0FvTFg0RXFNd0V0NFFnWkVEcTc2UFdFa1lobFJBYm1XWnB3dkg5UWZ1VjItbzlBVEpNQi1RMWNiTC12NXNnY3lPQjVWelBGalVCQW55S2ItcVk1OHE2OHRG",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "711a901218",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-17T08:43:47+00:00",
-   "published": "2026-10-17T08:43:47+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Palace Theatre",
-   "placedBy": "venue",
-   "type": null,
-   "show": "Harry Potter And The Cursed Child",
-   "title": "J.K. Rowling’s Agent Neil Blair Condemns Trans Rights Protest At ‘Harry Potter And The Cursed Child’",
-   "quote": "EXCLUSIVE: J.K. Rowling’s agent Neil Blair has claimed that a trans rights protest at a gala performance of Harry Potter and the Cursed Child put people at risk.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/10/harry-potter-and-the-cursed-child.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/jk-rowling-agent-protest-harry-potter-and-the-cursed-child-1237166312/",
-     "feed": "deadline-theater"
     }
    ],
    "status": "review"
