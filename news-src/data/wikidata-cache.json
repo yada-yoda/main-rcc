@@ -1134,6 +1134,15 @@
   "qid": null,
   "score": 0
  },
+ "Bewitchingly Realized Parable": {
+  "checkedAt": "2026-11-08T18:14:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Bianca Marroquín": {
   "checkedAt": "2026-10-20T17:48:51+00:00",
   "description": "Mexican actress, professional dancer and singer",
@@ -4818,6 +4827,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q107148555",
+  "score": 0
+ },
+ "Hefty Charioteer": {
+  "checkedAt": "2026-11-08T18:14:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Here There": {

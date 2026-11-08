@@ -163,7 +163,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "A History of Paper",
-   "title": "Alan Cumming, Shirley Henderson to Star In Off-Broadway Musical ‘A History of Paper’ (Exclusive)",
+   "title": "Alan Cumming, Shirley Henderson to star in 'A History of Paper' off Broadway",
    "quote": "The musical comes to New York after runs in Scotland, with Cumming saying he hopes to facilitate more of a pipeline.",
    "quoteSource": "The Hollywood Reporter",
    "image": null,
@@ -186,13 +186,13 @@
    ],
    "sources": [
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0xEc2cwYWs0LTBaQ1ZobG1qQXlvREQzOHdsNWNPNlVtY1hDS0pfaG5yQmRsOUR0bGtWQXVDV1BHejhfYmc0UnM3RXZ3bXY2WXh6UmZQUVZQeE5jR0xQYjYzSWJINzRlVlZXdzFqanpHb0FsQ0t5dXJ4dHp1WXBITVlVVW1IVWpTVFpYM0lvVktfYWdpeWJ4WFlHX1hpMWlSTlR0eTZDdkVJVXQ1elAw",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUZWYW82TkllbHliUVZNY3N4V1VJWU9uUElxeUNVMnc4c3dEQXhXMEJCSWpqeVo3TE5famFDUUFnSk1aSEIyZ3VNbktkaEN6YnZzaXg5NU9LbzJKZDVmZGcxVXloM3k4dF9YQkNmd3Jfd0xzQzNTUmZhZk1YZWZQODNHcWNkWG1JNnU3SVZqZ2tEMm5fMDYxZV9KcUdpNGI4Y2xoUGlDNVpvV3dNR2o0VGdmemlfaGd1TW55b1ZOUlRMOHNad2c",
      "feed": "gn-to-star"
     },
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUZWYW82TkllbHliUVZNY3N4V1VJWU9uUElxeUNVMnc4c3dEQXhXMEJCSWpqeVo3TE5famFDUUFnSk1aSEIyZ3VNbktkaEN6YnZzaXg5NU9LbzJKZDVmZGcxVXloM3k4dF9YQkNmd3Jfd0xzQzNTUmZhZk1YZWZQODNHcWNkWG1JNnU3SVZqZ2tEMm5fMDYxZV9KcUdpNGI4Y2xoUGlDNVpvV3dNR2o0VGdmemlfaGd1TW55b1ZOUlRMOHNad2c",
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0xEc2cwYWs0LTBaQ1ZobG1qQXlvREQzOHdsNWNPNlVtY1hDS0pfaG5yQmRsOUR0bGtWQXVDV1BHejhfYmc0UnM3RXZ3bXY2WXh6UmZQUVZQeE5jR0xQYjYzSWJINzRlVlZXdzFqanpHb0FsQ0t5dXJ4dHp1WXBITVlVVW1IVWpTVFpYM0lvVktfYWdpeWJ4WFlHX1hpMWlSTlR0eTZDdkVJVXQ1elAw",
      "feed": "gn-to-star"
     },
     {
@@ -3367,6 +3367,35 @@
    "status": "review"
   },
   {
+   "id": "8fd00538a7",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-08T17:03:05+00:00",
+   "published": "2026-11-08T17:03:05+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "Charioteer",
+   "title": "The Small but Hefty ‘Charioteer’ Is a Bewitchingly Realized Parable",
+   "quote": "In this confident and delicate new play by Dan Giles, a brother and sister give anticapitalist absolutism the old college try.",
+   "quoteSource": "The New York Times",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/08/theater/the-charioteer-review.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "61f3f3998c",
    "priority": 3,
    "watched": [],
@@ -4126,11 +4155,6 @@
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmxkR1dDRW1ibi05cEVaSnEwd0ZLdm14NnpEMWdwenRCaXRiLVNPdjQ1ZExNZnA0cHBtMzhSakdoZFBrNS00bjhZRHViSTRmVHVzSGRRaU9PeThuSWNoMi1NMlY4TENHajhTSURLNnBhMVA0aTNzVWtRbXVVWTZDQnpKU3V6NFhFT0RrdU5NM3pzQU0",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -4163,6 +4187,40 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "55f5b60a76",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-05T15:04:50+00:00",
+   "published": "2026-11-05T15:04:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Great Gatsby",
+   "title": "Derek Klena to join 'The Great Gatsby' Broadway cast",
+   "quote": "He succeeds Ryan McCartan in the role, who will play his final performance on December 4.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/125142-28.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkl5RzMyMzVrVE1ycW9tLXBmUEdmWER2SUpVX3BDaVhiX0R5RVhlbG54MU40dVVVWGY4ZWxib2lNbHdRb2kxallEWnlNZm9kdzBjSGJwUnN4ZEwwRHItQXJ3bEVRRlhfcjM3SndSMXpvR290ZlBwSUdGNTViWUZ4ZEhFdXVhWkI1cVJfMng1VGd1aWJuRFU5c0ZmQkNtREVJN0RCQy0xSQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "04f2b621db",
@@ -4214,11 +4272,6 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGplTVpaa3JDQ0JiSE16M0g0bUdhWjZPN2o5Nl9tQ1lpS29YSlBHem53eHh2ZWc3WFJwMkhaeGI5ajlWVzQwdVNnWVg1OTJySFJJa2Q2N3lVTHBmbncwcE9fazlBWFBUVXBWeWV1VEtKOGU3WWptcVREWmdkQUdKbkZGblNvNjdHMXFsSUhFS2ZnVFp1ckE",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "Deadline",
      "url": "https://deadline.com/2026/11/derek-klena-broadway-great-gatsby-savannah-bananas-1237213428/",
@@ -4315,6 +4368,35 @@
    "status": "review"
   },
   {
+   "id": "9e322cce77",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-04T20:47:54+00:00",
+   "published": "2026-11-05T00:25:24+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Whitney Leavitt to star in new Hulu reality show",
+   "quote": "",
+   "quoteSource": "Good Morning America",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Good Morning America",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjdZRDdiSmtoUEtvT3RBaGFocHFlRUF3VndTWE44M1p4RTNsSkRRX0o2emhMMFhhaXl2WXpuYUtlQ1QyTjBxX2tydEMtNWNOSDRqRUlacFlhTHc5TDYwZnFTOFJtSVBYbUl6SFBDckFla3cyWnNuamtrRVQ5d1FMa3RQVzhvWTV5anp0YVJmd2VYclZGQUlhb0RWTFZoZTQwd0VF0gGoAUFVX3lxTE9yRW9DalFmTUtwT1RSVFBGd0kzaTV4NE1HWm15NVYyOGx3VHZ1S0JZRFAxb2stUTM3YTVLOEt4RGF2MDZLQ1hsaEw1UURhZ1JZTi01dGVFNWduRXdqc0J3VnVGU1RoQmZpeEhGb0h0aHZ6OXhEeDR1S0tGemcyTVE2Qk54NGV6ekJRQjNQR05yU3dwYk5GblBfblJlMnl1dzNjcnVxUzVEMg",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "67acf1247c",
    "priority": 3,
    "watched": [],
@@ -4396,40 +4478,6 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3A4Y2dhbzFMRWtzV21mQWZUN05aRnd4TVkxb3NjMW83N2hWR1VkNjlmenppNW83Z24xWlJwbk10Y3A2TGZ2azZkNFl6UGxkQXZRVGFhQmRVY3g2ZHNfbTFSbVNud29SSE1rNXFETjV4V3pFeUd6cDBLTHdsa3YycjdtMFc5NU1BLXVtUmN5dlR4X25uYjhnVXc5b2EyeHk1djdDNXhoa1VKcTM3WXFjZzNjMy1PSzFlWmhudGg3dWswS25qYUVHeTVyYTNkYmxJQ3c",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9e322cce77",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-04T20:47:54+00:00",
-   "published": "2026-11-04T20:47:54+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Whitney Leavitt to star in new Hulu reality show",
-   "quote": "",
-   "quoteSource": "Good Morning America",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Good Morning America",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjdZRDdiSmtoUEtvT3RBaGFocHFlRUF3VndTWE44M1p4RTNsSkRRX0o2emhMMFhhaXl2WXpuYUtlQ1QyTjBxX2tydEMtNWNOSDRqRUlacFlhTHc5TDYwZnFTOFJtSVBYbUl6SFBDckFla3cyWnNuamtrRVQ5d1FMa3RQVzhvWTV5anp0YVJmd2VYclZGQUlhb0RWTFZoZTQwd0VF0gGoAUFVX3lxTE9yRW9DalFmTUtwT1RSVFBGd0kzaTV4NE1HWm15NVYyOGx3VHZ1S0JZRFAxb2stUTM3YTVLOEt4RGF2MDZLQ1hsaEw1UURhZ1JZTi01dGVFNWduRXdqc0J3VnVGU1RoQmZpeEhGb0h0aHZ6OXhEeDR1S0tGemcyTVE2Qk54NGV6ekJRQjNQR05yU3dwYk5GblBfblJlMnl1dzNjcnVxUzVEMg",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "TV Tattle",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb3dpRXVmMFBvUlI4R0RzVlF2SEFOTzJWd3RJdjlxM1loQ0ctUkN4M0dlcjN5SjljeUNGbHRCaHh4UVhpa1V6VU84X3hIVlNXdDhJWXNZSUF2S0tzakV0TFFnanZnSUtQN21CMFln",
      "feed": "gn-to-star"
     }
    ],
@@ -13613,127 +13661,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "dacd16d2cc",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-18T16:25:41+00:00",
-   "published": "2026-10-18T16:25:41+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": "Other Desert Cities",
-   "title": "OTHER DESERT CITIES Cast Opens Up About Family Secrets And Emotional Depth In New Interview",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjMwdHBrOEdpMlprMVBrWjM1M1JKNEoyS2dpTi1CQ3A5a2s4OTNabjZCVjdsLXZSeHdIY1lDSU1JVW1STXU2S0FHNURpeXVidGd3TWJTQ0ctOG41SENqYlp4eUtWZm50R3E3NFhCdzVwX3NuUWd6ZFNQNmJGMllzV3lEYkprR09mekp1TG1rYmVxWTUtUGc5TWV6MWJLT0ZEQXZXbkNlR09mUl9vYnVYUXdvNHhLdEVKcEtrR0wxSnJ0d3Rk",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "ffad262a5b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-18T16:25:41+00:00",
-   "published": "2026-10-18T16:25:41+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Other Desert Cities",
-   "title": "The Cast of OTHER DESERT CITIES Reflects On Grief And Taking The Broadway Stage",
-   "quote": "The cast of Other Desert Cities sat down for an interview with CBS Mornings reflecting on their return or debut to Broadway, their personal experience with grief and their favorite parts of performing live. When Julia Louis-Dreyfus was asked about how she felt about making her Broadway debut she responded with \"super…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-2c6cec4bf0d704ccd9803d1edd85ad29.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjMwdHBrOEdpMlprMVBrWjM1M1JKNEoyS2dpTi1CQ3A5a2s4OTNabjZCVjdsLXZSeHdIY1lDSU1JVW1STXU2S0FHNURpeXVidGd3TWJTQ0ctOG41SENqYlp4eUtWZm50R3E3NFhCdzVwX3NuUWd6ZFNQNmJGMllzV3lEYkprR09mekp1TG1rYmVxWTUtUGc5TWV6MWJLT0ZEQXZXbkNlR09mUl9vYnVYUXdvNHhLdEVKcEtrR0wxSnJ0d3Rk",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/The-Cast-of-OTHER-DESERT-CITIES-Reflects-On-Grief-And-Taking-The-Broadway-Stage-20261018",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "c14f36b81f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-18T14:08:48+00:00",
-   "published": "2026-10-18T14:08:48+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Julia Louis-dreyfus Debuts on Broadway in Other Desert Cities",
-   "quote": "",
-   "quoteSource": "شبكة تواصل الإخبارية",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "شبكة تواصل الإخبارية",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Z09oa1d5LW9GUW9VRTU3amN6TmdlZUF3WVdnWF9jdGxoNDVyRV9Zb1FSeHdoSXVDdy03M3NDOVNrdE0zVUx3VFNwd2ZuckczWm1v",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "81d5fffd64",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-18T14:00:24+00:00",
-   "published": "2026-10-18T14:00:24+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Play BroadwayWorld's Sunday Crossword: October 18, 2026",
-   "quote": "This week's grid has 15 answers: six people, five shows and three theatre terms, all pulled from the stories you have been reading. A beloved score marked a milestone anniversary with a reunion of familiar faces, a play celebrated a new house record, and a casting decision at a high school production sparked a debate…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/logo-300-preview.png",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Play-BroadwayWorlds-Sunday-Crossword-October-18-2026-20261018",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
   }
  ]
 }
