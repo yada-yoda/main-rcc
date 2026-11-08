@@ -3607,8 +3607,8 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Gerald Schoenfeld Theatre",
-   "placedBy": "venue",
-   "type": "casting",
+   "placedBy": "words",
+   "type": "closing",
    "show": "Buena Vista Social Club",
    "title": "BUENA VISTA SOCIAL CLUB Sets Broadway Closing Date; West End Premiere Planned for 2027",
    "quote": "The Tony Award-winning musical Buena Vista Social Club will play its final Broadway performance at the Gerald Schoenfeld Theatre on Sunday, January 17, 2027. The production will conclude its Broadway engagement after 96 weeks and 767 performances.",
@@ -4126,6 +4126,11 @@
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmxkR1dDRW1ibi05cEVaSnEwd0ZLdm14NnpEMWdwenRCaXRiLVNPdjQ1ZExNZnA0cHBtMzhSakdoZFBrNS00bjhZRHViSTRmVHVzSGRRaU9PeThuSWNoMi1NMlY4TENHajhTSURLNnBhMVA0aTNzVWtRbXVVWTZDQnpKU3V6NFhFT0RrdU5NM3pzQU0",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -4158,50 +4163,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "55f5b60a76",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-05T15:04:50+00:00",
-   "published": "2026-11-05T15:04:50+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Great Gatsby",
-   "title": "Derek Klena to join 'The Great Gatsby' Broadway cast",
-   "quote": "He succeeds Ryan McCartan in the role, who will play his final performance on December 4.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/125142-28.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkl5RzMyMzVrVE1ycW9tLXBmUEdmWER2SUpVX3BDaVhiX0R5RVhlbG54MU40dVVVWGY4ZWxib2lNbHdRb2kxallEWnlNZm9kdzBjSGJwUnN4ZEwwRHItQXJ3bEVRRlhfcjM3SndSMXpvR290ZlBwSUdGNTViWUZ4ZEhFdXVhWkI1cVJfMng1VGd1aWJuRFU5c0ZmQkNtREVJN0RCQy0xSQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Aussietheatre",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGVwRFQ4Rm5NSkFoMlBndXQ4Z0t1ZWxyMnlObzJpZWUzTzRucWNMUGNRR1JBYmdOYWlNV2pmUFhiUWxyQXJqQ0t4R0RKR014eThKbmY0QXM4bXU0cTlzRUdGSFdUZzZyT3I1Z1B5Q2ZJaGJPdFZTQ0dEeEFOY0dkZlFTaHdqMk91a3JjcFI4em5KdHNFTlZiZWlYWXBid9IBowFBVV95cUxNUUVOZm5uQkdpR1VCWTZoWnp6SVhaY3FpaWdTVXZrRGE5RmtuWi1YYTdlcEpuMDdlMFF0WnZUeFB6Q01LOVVuSTZGcmpaU2J4Q1AtX2Q5WjNZdUk0NzVhVHZYYkpwMy1JRFl1aUVzb0JqUm41VngwMTUyTHB0al9neDNwdjZmN3RqdHgxem5yVG5pX0pYYkNXYkhRemJpM2xGbnBj",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2RPdjU1VVdVMXlWTzRqcTFHSXlFWFJDMWR6SHJEWkdmX2oxR2NaRTJkOFZPRFhScGNBUzM3UDhjTGZZSmdjaFZZeGNLNWx5NUh6R3MzTTVSSUNGdHdQZWl1blc4RzBLd25NZGlWTWlrdzcyZHgzNmdGM0UtaldMd3hQMENQanhJ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "04f2b621db",
@@ -13773,35 +13734,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "e9e86c1953",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-17T20:00:22+00:00",
-   "published": "2026-10-17T20:00:22+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Dreamgirls",
-   "title": "DREAMGIRLS Original Broadway Cast: Where Are They Now?",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORV9MVHBlVTlGTUQ2Tm5rbW9TMDRfdlJTN1NUWS1xVWdFSUZ5NUthbGtONHBXMFhuSnoxVzZWeDEwR0x1ZWNvM0FvTFg0RXFNd0V0NFFnWkVEcTc2UFdFa1lobFJBYm1XWnB3dkg5UWZ1VjItbzlBVEpNQi1RMWNiTC12NXNnY3lPQjVWelBGalVCQW55S2ItcVk1OHE2OHRG",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
   }
  ]
 }
