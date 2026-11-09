@@ -397,16 +397,6 @@
     },
     {
      "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1QtSlJBQUQ4eWNLdUZNeERpYVlrQVhseXp0SnBLVHNQcmw3andLUDN4aUFqV01XOEIydUFMbnUyYjNEVHhlNnY1bm9OYlhFUHpKLTJ6eHNpM0k5djZTNktBNDAxb2trWmI0OVFaVGM3eTA1TWZ0d1h2WTd3eTIxVmRnLVROQ0E1dFgtLWRqZFlER1Y1ZW1uVHpNNXM3Zm5mc2xGM2JzdktHVWF6QTdXVk5uQi1JdWk0dWJxWXkzXzFwTU5ZRFl5VWgxRQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdG9tNU9BUXhqS2l1eEMySGtSRUlqOXV5YmNrektaWTJvbGpMS1ljeG9aVUJPRlhHdGZTVEIzV0paeV9WUFNLanpvRDQ1UGJjQjFLUU51RjV3dWhIN0RGdjNYcElLWXhycW9MVUJRNWNnUGo0MTBqVzlWUTNMUzc5aVh5dGhyUUFpVGg2ZkM1Z1BXc0tpQkdBVG5qOEdvMVo2bnMxeg",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadways-harry-potter-and-the-cursed-child-announces-new-cast-members-ahead-of-rupert-grints-arrival/",
      "feed": "broadway-news"
     }
@@ -2848,47 +2838,6 @@
    "status": "review"
   },
   {
-   "id": "cc2cd38f18",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T07:00:00+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Lin-Manuel Miranda’s Warriors Announces Broadway Cast Led by Jasmine Cephas Jones and Amber Gray",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXNpNndoNTBheXl4ODhsbXdla1JDSGJESElxaGlVRGx0TzdvRFpNa0l4cWg3TVQ4Y25XOVhZM05uUDFOSDFVb29LRzV4akJSdjh0N3V2ZFp0YnFyUkpVdkxsbW54MjktRERseWpCamlUZ2xCdTY4dlNTRUJHbE0tdkVicExtNkUyVzVOT0VBeVF1dGhER3N6VlgtLVppN1FZdzVXak52ZWJMZ3Jka2ZiZmlVNlRvOHVHbjNweE9CdHNVcFpEby1yeUp5QU1Rdw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "USA Today",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXRhRi1vYjNlQjdwTzJnMmJTQ0NLNng2cUxxeG9sUm5kX0gxSzQzcXJ1RldyTUlvOXF3YnNmTl8xT3YxTXJ6VDlDRzl2OVlQcXFkbGQ4T2J6ZXhmNW5BQVJsMGx4djkzNURfazhPQmF3c2l6Ynk5alM2eW02dTJkLWVvU05BdVJGT2hYdFZ1cll4ZjBFRjVxSnF1LUlITTU3TEwybUhfNG04QzA3TTYycG95Ulo2QlVSWUpLTUlmTk9ieklGb0I3RQ",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "0f37cb1337",
    "priority": 2,
    "watched": [],
@@ -2959,6 +2908,47 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "cc2cd38f18",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-20T07:00:00+00:00",
+   "published": "2026-10-20T07:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Lin-Manuel Miranda’s Warriors Announces Broadway Cast Led by Jasmine Cephas Jones and Amber Gray",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Lin-Manuel Miranda",
+     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
+     "score": 45,
+     "qid": "Q1646482"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXNpNndoNTBheXl4ODhsbXdla1JDSGJESElxaGlVRGx0TzdvRFpNa0l4cWg3TVQ4Y25XOVhZM05uUDFOSDFVb29LRzV4akJSdjh0N3V2ZFp0YnFyUkpVdkxsbW54MjktRERseWpCamlUZ2xCdTY4dlNTRUJHbE0tdkVicExtNkUyVzVOT0VBeVF1dGhER3N6VlgtLVppN1FZdzVXak52ZWJMZ3Jka2ZiZmlVNlRvOHVHbjNweE9CdHNVcFpEby1yeUp5QU1Rdw",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXRhRi1vYjNlQjdwTzJnMmJTQ0NLNng2cUxxeG9sUm5kX0gxSzQzcXJ1RldyTUlvOXF3YnNmTl8xT3YxTXJ6VDlDRzl2OVlQcXFkbGQ4T2J6ZXhmNW5BQVJsMGx4djkzNURfazhPQmF3c2l6Ynk5alM2eW02dTJkLWVvU05BdVJGT2hYdFZ1cll4ZjBFRjVxSnF1LUlITTU3TEwybUhfNG04QzA3TTYycG95Ulo2QlVSWUpLTUlmTk9ieklGb0I3RQ",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "3975359c1e",
@@ -3367,6 +3357,35 @@
    "status": "review"
   },
   {
+   "id": "a5a8c42765",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-08T22:00:25+00:00",
+   "published": "2026-11-08T22:00:25+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "See Broadway's Brightest Stars This Holiday Season at The Shops at Columbus Circle",
+   "quote": "Broadway’s magic returns to The Shops at Columbus Circle with the beloved Broadway Under the Stars series. Enjoy captivating performances from today’s top shows and intimate conversations with the stars, moderated by Broadway alum, George Psomas.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-acc8dbe6ec27df3322dcbca1671554b7.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/See-Broadways-Brightest-Stars-This-Holiday-Season-at-The-Shops-at-Columbus-Circle-20261108",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "8fd00538a7",
    "priority": 3,
    "watched": [],
@@ -3546,10 +3565,10 @@
    "watched": [],
    "firstSeen": "2026-11-06T14:43:06+00:00",
    "published": "2026-11-06T14:43:06+00:00",
-   "city": "Chicago",
-   "tier": "Chicago storefront",
+   "city": "New York",
+   "tier": "Broadway",
    "venue": "Theater Wit",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "Welcome To Broadway",
    "title": "Exclusive: Check Out a Sneak Peek of New Children's Book, WELCOME TO BROADWAY",
@@ -4155,6 +4174,11 @@
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmxkR1dDRW1ibi05cEVaSnEwd0ZLdm14NnpEMWdwenRCaXRiLVNPdjQ1ZExNZnA0cHBtMzhSakdoZFBrNS00bjhZRHViSTRmVHVzSGRRaU9PeThuSWNoMi1NMlY4TENHajhTSURLNnBhMVA0aTNzVWtRbXVVWTZDQnpKU3V6NFhFT0RrdU5NM3pzQU0",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -4187,40 +4211,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "55f5b60a76",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-05T15:04:50+00:00",
-   "published": "2026-11-05T15:04:50+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Great Gatsby",
-   "title": "Derek Klena to join 'The Great Gatsby' Broadway cast",
-   "quote": "He succeeds Ryan McCartan in the role, who will play his final performance on December 4.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/125142-28.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkl5RzMyMzVrVE1ycW9tLXBmUEdmWER2SUpVX3BDaVhiX0R5RVhlbG54MU40dVVVWGY4ZWxib2lNbHdRb2kxallEWnlNZm9kdzBjSGJwUnN4ZEwwRHItQXJ3bEVRRlhfcjM3SndSMXpvR290ZlBwSUdGNTViWUZ4ZEhFdXVhWkI1cVJfMng1VGd1aWJuRFU5c0ZmQkNtREVJN0RCQy0xSQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "04f2b621db",
