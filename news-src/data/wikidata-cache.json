@@ -502,6 +502,15 @@
   "qid": "Q560516",
   "score": 27
  },
+ "Andrew Rannells Calls": {
+  "checkedAt": "2026-11-09T22:54:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Andrew Scott": {
   "checkedAt": "2026-09-25T17:55:51+00:00",
   "description": "Irish actor (born 1976)",
@@ -1032,6 +1041,15 @@
  },
  "Benjamin Button Grew": {
   "checkedAt": "2026-10-25T16:59:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Benjamin Pelteson": {
+  "checkedAt": "2026-11-09T22:54:08+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2123,6 +2141,15 @@
   "qid": "Q230943",
   "score": 44
  },
+ "Chip Zien": {
+  "checkedAt": "2026-11-09T22:54:16+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3413417",
+  "score": 10
+ },
  "Chloe Lukasiak": {
   "checkedAt": "2026-10-16T17:12:14+00:00",
   "description": "American actress, dancer and model",
@@ -2311,6 +2338,24 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Claybourne Elder": {
+  "checkedAt": "2026-11-09T22:54:21+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q18619184",
+  "score": 6
+ },
+ "Clifford Odets": {
+  "checkedAt": "2026-11-09T22:54:12+00:00",
+  "description": "American playwright, screenwriter, and actor (1906–1963)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q734944",
+  "score": 28
  },
  "Co-Stars Diego Rodriguez": {
   "checkedAt": "2026-09-25T17:52:20+00:00",
@@ -2790,6 +2835,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q140560350",
+  "score": 0
+ },
+ "David Archuleta Recalls": {
+  "checkedAt": "2026-11-09T22:54:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "David Corenswet": {
@@ -3805,6 +3859,15 @@
   "qid": null,
   "score": 0
  },
+ "Filming During": {
+  "checkedAt": "2026-11-09T22:54:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Final Bow": {
   "checkedAt": "2026-10-05T21:00:27+00:00",
   "description": null,
@@ -4056,6 +4119,15 @@
   "knownFor": [],
   "qid": "Q970787",
   "score": 27
+ },
+ "Freaking Out": {
+  "checkedAt": "2026-11-09T22:53:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Fred Hechinger": {
   "checkedAt": "2026-10-08T19:10:25+00:00",
@@ -4838,6 +4910,15 @@
   "qid": "Q107148555",
   "score": 0
  },
+ "Heavy Weight": {
+  "checkedAt": "2026-11-09T22:54:36+00:00",
+  "description": "rapper and songwriter",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q134527241",
+  "score": 0
+ },
  "Hefty Charioteer": {
   "checkedAt": "2026-11-08T18:14:30+00:00",
   "description": null,
@@ -5365,6 +5446,17 @@
   "qid": "Q777260",
   "score": 41
  },
+ "Jack Johnson": {
+  "checkedAt": "2026-11-09T22:54:38+00:00",
+  "description": "American singer-songwriter",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Hope"
+  ],
+  "qid": "Q297097",
+  "score": 43
+ },
  "Jack Thorne A": {
   "checkedAt": "2026-10-08T19:10:44+00:00",
   "description": null,
@@ -5748,6 +5840,15 @@
   "qid": null,
   "score": 0
  },
+ "Jessica Lee Goldyn": {
+  "checkedAt": "2026-11-09T22:54:22+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6187319",
+  "score": 3
+ },
  "Jessica Phillips": {
   "checkedAt": "2026-09-30T18:18:03+00:00",
   "description": "British politician (born 1981)",
@@ -5777,6 +5878,15 @@
   "knownFor": [],
   "qid": "Q6187642",
   "score": 53
+ },
+ "Jessie Mueller": {
+  "checkedAt": "2026-11-09T22:54:04+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6187776",
+  "score": 12
  },
  "Jimin Moon": {
   "checkedAt": "2026-10-24T01:24:32+00:00",
@@ -6136,6 +6246,17 @@
   "knownFor": [],
   "qid": "Q6279421",
   "score": 7
+ },
+ "Josh Gad": {
+  "checkedAt": "2026-11-09T22:54:29+00:00",
+  "description": "American actor (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Frozen"
+  ],
+  "qid": "Q1190319",
+  "score": 43
  },
  "Josh Sharp": {
   "checkedAt": "2026-10-07T19:14:05+00:00",
@@ -6641,6 +6762,18 @@
   "qid": null,
   "score": 0
  },
+ "Kristen Bell": {
+  "checkedAt": "2026-11-09T22:54:27+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Veronica Mars",
+   "Frozen"
+  ],
+  "qid": "Q178882",
+  "score": 84
+ },
  "Kristin Chenoweth": {
   "checkedAt": "2026-10-19T19:03:55+00:00",
   "description": "American actress, singer, author (born 1968)",
@@ -6996,6 +7129,24 @@
   ],
   "qid": "Q6530936",
   "score": 26
+ },
+ "Leslie Kritzer": {
+  "checkedAt": "2026-11-09T22:54:17+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6530963",
+  "score": 6
+ },
+ "Leslie Rodriguez Kritzer": {
+  "checkedAt": "2026-11-09T22:54:02+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6530963",
+  "score": 6
  },
  "Letter-Writing Initiative": {
   "checkedAt": "2026-10-05T21:00:38+00:00",
@@ -7452,6 +7603,15 @@
   "qid": null,
   "score": 0
  },
+ "Magic Mike Live": {
+  "checkedAt": "2026-11-09T22:54:19+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Magno Rubio": {
   "checkedAt": "2026-10-21T17:56:33+00:00",
   "description": null,
@@ -7478,6 +7638,15 @@
   "knownFor": [],
   "qid": "Q187832",
   "score": 63
+ },
+ "Manga Author Moyoco": {
+  "checkedAt": "2026-11-09T22:54:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Manual Cinema": {
   "checkedAt": "2026-10-28T18:41:54+00:00",
@@ -7915,6 +8084,15 @@
   "knownFor": [],
   "qid": "Q4068927",
   "score": 19
+ },
+ "Michael Aronov": {
+  "checkedAt": "2026-11-09T22:54:06+00:00",
+  "description": "American actor and playwright",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6828274",
+  "score": 9
  },
  "Michael Cerveris": {
   "checkedAt": "2026-10-05T21:00:02+00:00",
@@ -8774,6 +8952,15 @@
   "qid": null,
   "score": 0
  },
+ "Operation Mincemeat Help": {
+  "checkedAt": "2026-11-09T22:54:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Original Great Gatsby": {
   "checkedAt": "2026-10-24T01:24:26+00:00",
   "description": null,
@@ -8821,6 +9008,15 @@
  },
  "Other Palace": {
   "checkedAt": "2026-09-25T17:51:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Other Paths": {
+  "checkedAt": "2026-11-09T22:54:40+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -9324,6 +9520,15 @@
   "qid": null,
   "score": 0
  },
+ "Quinton Johnson": {
+  "checkedAt": "2026-11-09T22:54:01+00:00",
+  "description": "college basketball player (2019–2020) Texas-Rio Grande Valley",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q100853444",
+  "score": 0
+ },
  "Rachel Dratch": {
   "checkedAt": "2026-09-25T17:48:13+00:00",
   "description": "American actress and comedian",
@@ -9686,6 +9891,15 @@
   ],
   "qid": "Q361630",
   "score": 31
+ },
+ "Richard Schiff": {
+  "checkedAt": "2026-11-09T22:54:09+00:00",
+  "description": "American actor (born 1955)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q355209",
+  "score": 63
  },
  "Richard Thomas": {
   "checkedAt": "2026-09-25T17:55:16+00:00",
@@ -10388,6 +10602,15 @@
   "qid": null,
   "score": 0
  },
+ "Short Film": {
+  "checkedAt": "2026-11-09T22:54:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Short Stint": {
   "checkedAt": "2026-09-25T17:56:49+00:00",
   "description": null,
@@ -10405,6 +10628,15 @@
   "knownFor": [],
   "qid": "Q530077",
   "score": 8
+ },
+ "Show About Beloved": {
+  "checkedAt": "2026-11-09T22:54:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Shows Adds Android": {
   "checkedAt": "2026-10-13T19:46:10+00:00",
@@ -10649,6 +10881,15 @@
   "qid": null,
   "score": 0
  },
+ "Special Proposal": {
+  "checkedAt": "2026-11-09T22:54:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Spelling Bee Take": {
   "checkedAt": "2026-10-11T17:55:40+00:00",
   "description": null,
@@ -10765,6 +11006,15 @@
   "knownFor": [],
   "qid": "Q137106185",
   "score": 3
+ },
+ "Stephen Schnetzer Complete": {
+  "checkedAt": "2026-11-09T22:54:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Stephen Sondheim Advised": {
   "checkedAt": "2026-10-19T19:03:54+00:00",
@@ -12084,6 +12334,15 @@
  },
  "When You're Home": {
   "checkedAt": "2026-10-21T01:20:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "When You're Ready": {
+  "checkedAt": "2026-11-09T22:54:25+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
