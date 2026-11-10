@@ -6522,6 +6522,15 @@
   "qid": "Q6367560",
   "score": 6
  },
+ "Karen Ziemba": {
+  "checkedAt": "2026-11-10T04:30:28+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q11837826",
+  "score": 5
+ },
  "Kate Baldwin": {
   "checkedAt": "2026-10-30T02:25:44+00:00",
   "description": "American singer and actress",
@@ -11807,6 +11816,15 @@
   "knownFor": [],
   "qid": "Q294773",
   "score": 69
+ },
+ "Tony-Winning Actors Leading": {
+  "checkedAt": "2026-11-10T04:30:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Tony-Winning Director Daniel": {
   "checkedAt": "2026-10-30T18:27:14+00:00",

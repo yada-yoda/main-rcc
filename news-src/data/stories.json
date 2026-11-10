@@ -3298,6 +3298,98 @@
    "status": "review"
   },
   {
+   "id": "b590993354",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T02:00:12+00:00",
+   "published": "2026-11-10T02:00:12+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "Second Stage Theater",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "The Visitors: Playing the Organ",
+   "quote": "",
+   "quoteSource": "New York Stage Review",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Stage Review",
+     "url": "https://nystagereview.com/2026/11/09/the-visitors-playing-the-organ/",
+     "feed": "ny-stage-review"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9cf37c77cc",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T01:44:42+00:00",
+   "published": "2026-11-10T01:44:42+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Paddington",
+   "title": "'Paddington' Musical Sets Broadway Cast with Original UK Stars & Tony-Winning Actors Leading the Show",
+   "quote": "",
+   "quoteSource": "Just Jared",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVg5emt0ZzZyTTNBZlRmdGVTc3RjT1pVWUZEcnJEQk9yVkFfN2ljSTFaeGtfY3VscVM0d2xzT2lUeWZnMlJpOEswNjdrWnNQQWhNUFI2eElBbTk5blpVVlJhdC1HS2lNNFBNbjV6Wmc2RmZsV0M2ZnBYQlNiSHBSY01fd1VITlJEUldaWXVkQWs0T0hBYXd4STJ2dVYwY3hxWDQ5OF9IY3pLSDVkalREanU5OHZzQzRzR1dRZjZJWTNYR182MnkwVWkxN2RQU3Rs",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "c3b26d5027",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T01:00:00+00:00",
+   "published": "2026-11-10T01:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Paddington: The Musical",
+   "title": "'Paddington: The Musical' Sets Broadway Cast With Tony Hale, J. Quinton Johnson, Jessie Mueller & More",
+   "quote": "Paddington: The Musical, which opens in 2027, has set its cast, featuring Arrested Development’s Tony Hale in his Broadway debut. The musical will be led by Kelvin Dukes (America’s Got Talent) as Tony, Drew Gehling (Waitress) as Mr.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/paddington-the-musical-broadway-cast.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHRPdnNHLVBiazhzaE5NSFl6UVZfYldUUHM3MElJclVvTmNwMHp2LUFSSlF0aDRoSjVBenlUcXVxb1dVdjBtWkhuekJZemVKTFpWQ25jVDlhdDZGOTVrRTJuNFNWa28xQ18yQVlpMzVQREh2VzlQUkF4WEFyUVpQN1lUQ3EwOTJEelE",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/paddington-the-musical-broadway-cast-2026-1237218092/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "344b582ad8",
    "priority": 3,
    "watched": [],
@@ -3459,7 +3551,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": null,
-   "title": "Tony Hale, Jessie Mueller, Leslie Kritzer to Star in Paddington on Broadway",
+   "title": "Tony Hale, Jessie Mueller, Leslie Kritzer, Chip Zien to Star in Paddington on Broadway",
    "quote": "",
    "quoteSource": "TheaterMania",
    "image": null,
@@ -3477,20 +3569,20 @@
    "status": "published"
   },
   {
-   "id": "7a030b1dd6",
+   "id": "fdcdd313d6",
    "priority": 3,
    "watched": [],
-   "firstSeen": "2026-11-09T17:34:01+00:00",
-   "published": "2026-11-09T17:34:01+00:00",
+   "firstSeen": "2026-11-09T17:32:54+00:00",
+   "published": "2026-11-09T17:32:54+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "casting",
+   "type": null,
    "show": null,
-   "title": "Broadway casting announced for Paddington The Musical",
+   "title": "Tony Hale, Jessie Mueller and Karen Ziemba lead the Broadway cast of Paddington The Musical",
    "quote": "",
-   "quoteSource": "Substack",
+   "quoteSource": "West End Theatre",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -3498,19 +3590,19 @@
    "celebs": [],
    "sources": [
     {
-     "name": "Substack",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0JBMExlcGlwUldxTnFxS2ZnUlNCV3poQ2xqZDVXSDN3Wkp5X2RwU05hd0VfeG9nWTM5OTlBZy1CYmo4a2FzV2JjMTltTmlmMVA0NTl5NWVPZG9yaE5rNXVaemlzd0tCSTlMc0NSZXMxRkJTdzc2RmZnWV9yS3VxRGpRR3l1dXpWT2FHUGx3",
+     "name": "West End Theatre",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkowemQ0ajNMenppOGJSbXZ0SmRZUml5RFpOZmVPekNmeGtzdDJFT0JWbm8wc2FwLWVuLWg1RUw5d0lyclRtRjVUbkxteHR5M3ZadUoxbWZaZlJIRWpibGtsaWJiV0VHdGZjRUczcWpvQ3NMUTlqVkxvRjJ3VlRwclVqWUViQi03SFVuTmhtV2h4T2xZ",
      "feed": "gn-bway-casting"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "1ac93837eb",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-11-09T17:20:21+00:00",
-   "published": "2026-11-09T17:20:21+00:00",
+   "published": "2026-11-09T17:20:16+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -3718,6 +3810,35 @@
     {
      "name": "Playbill",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQelJqWk9xaTdlZjdZRjJNQUN6QlJyYzJwQ3ZLWUlFM2V6TmoyZDVWOUZHZjVCSHRHNUVQUHpqMERCV1RHcUNBRldMVEJkaVRLbkFmUGFYQ3VYMF9wblRnMzdsNTlWM1NTRHdDczAta0lLanIzVWoyUHpzVFZ0TC1TZXZnZEktRVpGajFCaTlQZ3RXMlNzaTkxRmt4SDdsVlhJcGZ1OXF6Z2ZRTDlYQWJOcXl4VHRPdFZUYVkwTm13OA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "7a030b1dd6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-09T17:34:01+00:00",
+   "published": "2026-11-09T17:05:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Broadway casting announced for Paddington The Musical",
+   "quote": "",
+   "quoteSource": "Substack",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Substack",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0JBMExlcGlwUldxTnFxS2ZnUlNCV3poQ2xqZDVXSDN3Wkp5X2RwU05hd0VfeG9nWTM5OTlBZy1CYmo4a2FzV2JjMTltTmlmMVA0NTl5NWVPZG9yaE5rNXVaemlzd0tCSTlMc0NSZXMxRkJTdzc2RmZnWV9yS3VxRGpRR3l1dXpWT2FHUGx3",
      "feed": "gn-bway-casting"
     }
    ],
@@ -13472,93 +13593,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "fb1b2a0782",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T00:59:43+00:00",
-   "published": "2026-10-20T00:59:43+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": null,
-   "title": "King of the Yees: Lauren Yee Opens Up the Family Photo Album",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/19/king-of-the-yees-lauren-yee-opens-up-the-family-photo-album/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "25b057a1eb",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-19T23:01:22+00:00",
-   "published": "2026-10-19T23:01:22+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Strictly judge Craig Revel Horwood to star in new Sister Act musical tour",
-   "quote": "",
-   "quoteSource": "Aol",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOFoyR2FOTTVCWmRlYUo0Z0MtVGZxQVV5YlhyRTVOenlmMzZiNmpMTUo5dEMtZU4wSHNhMU1qb0FnbFM3OVRiRU1mclVDY3g1ZVZadlU0ZzNOY3lDTmpFQTZENE05YnpPckE4QjRIVWZJTHpfdkpISGhZYWpoQ19XZGJjQUhsck0",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "cd6a1c56b3",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-19T23:00:11+00:00",
-   "published": "2026-10-19T23:00:11+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Copperfield! The New Musical",
-   "title": "'Copperfield! The New Musical' Off-Broadway review — Dickens novel gets a tuneful stage treatment",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaDBoV2Z0aE0tNW1LQ0h6TGd0TmRjZnlVcC11bWlPb3BpcTFaR1NTekotLVBFaHMtQmVxNU9GNjFZQ1FGR18xOVZfR3ExLWpabmhHSGlXc2NEbHdndGNLeTBVTUFJWkpFd0FmNkJINzY0X0lFZ0xSVVc2b3dvZFNaRWVoSVBadVhqTFpfaHE4M3ZrV3I1cGc",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "27661dda88",
