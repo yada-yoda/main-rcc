@@ -242,6 +242,15 @@
   "qid": null,
   "score": 0
  },
+ "Alec Baldwin": {
+  "checkedAt": "2026-11-10T20:16:54+00:00",
+  "description": "American actor (born 1958)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q170572",
+  "score": 89
+ },
  "Alex Brightman": {
   "checkedAt": "2026-10-06T18:48:54+00:00",
   "description": "American actor",
@@ -279,6 +288,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Ali Louis Bourzgui": {
+  "checkedAt": "2026-11-10T20:16:57+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q136178311",
+  "score": 2
  },
  "Alicia Keys": {
   "checkedAt": "2026-10-13T19:46:44+00:00",
@@ -1964,6 +1982,15 @@
   "qid": "Q17317909",
   "score": 38
  },
+ "Carried Me Home": {
+  "checkedAt": "2026-11-10T20:17:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Caryl Churchill": {
   "checkedAt": "2026-10-22T17:52:47+00:00",
   "description": "British dramatist",
@@ -2221,6 +2248,15 @@
   "knownFor": [],
   "qid": "Q96002191",
   "score": 3
+ },
+ "Christina Anderson": {
+  "checkedAt": "2026-11-10T20:17:02+00:00",
+  "description": "(died 1914)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q75942101",
+  "score": 0
  },
  "Christine Andreas": {
   "checkedAt": "2026-10-27T18:35:05+00:00",
@@ -4447,6 +4483,15 @@
   "qid": null,
   "score": 0
  },
+ "Go Crazy": {
+  "checkedAt": "2026-11-10T20:16:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "God Comes Crashing": {
   "checkedAt": "2026-09-25T17:57:04+00:00",
   "description": null,
@@ -5144,6 +5189,15 @@
   "qid": null,
   "score": 0
  },
+ "Iconic Purple Rain": {
+  "checkedAt": "2026-11-10T20:16:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Idina Menzel": {
   "checkedAt": "2026-10-09T02:49:12+00:00",
   "description": "American actress and singer",
@@ -5356,6 +5410,15 @@
  },
  "Inter Alia": {
   "checkedAt": "2026-09-25T17:54:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Inter Alia Delays": {
+  "checkedAt": "2026-11-10T20:16:58+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6173,6 +6236,15 @@
   "qid": null,
   "score": 0
  },
+ "Jonathan Groff-Led": {
+  "checkedAt": "2026-11-10T20:17:04+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jonathan Kent": {
   "checkedAt": "2026-10-30T18:27:16+00:00",
   "description": null,
@@ -6208,6 +6280,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Jordan Fisher": {
+  "checkedAt": "2026-11-10T20:16:48+00:00",
+  "description": "American singer and actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q19955856",
+  "score": 28
  },
  "Jordan Peele": {
   "checkedAt": "2026-10-23T01:15:28+00:00",
@@ -9481,6 +9562,15 @@
   "qid": null,
   "score": 0
  },
+ "Purple Rain": {
+  "checkedAt": "2026-11-10T20:16:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Purpose Playwright Branden": {
   "checkedAt": "2026-10-21T01:20:21+00:00",
   "description": null,
@@ -9910,6 +10000,15 @@
   "qid": "Q355209",
   "score": 63
  },
+ "Richard Schiff Among": {
+  "checkedAt": "2026-11-10T20:17:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Richard Thomas": {
   "checkedAt": "2026-09-25T17:55:16+00:00",
   "description": "American author",
@@ -10234,6 +10333,15 @@
   ],
   "qid": "Q316446",
   "score": 64
+ },
+ "Sam Rockwell-led A": {
+  "checkedAt": "2026-11-10T20:16:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Sandra Dee": {
   "checkedAt": "2026-09-28T20:01:28+00:00",
@@ -10571,6 +10679,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Shereen Ahmed": {
+  "checkedAt": "2026-11-10T20:17:01+00:00",
+  "description": "American actress, singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q138622211",
+  "score": 2
  },
  "Sherri Shepherd": {
   "checkedAt": "2026-09-25T17:54:22+00:00",
@@ -11099,6 +11216,15 @@
  },
  "Stream Final Week": {
   "checkedAt": "2026-10-21T17:56:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Stream Live": {
+  "checkedAt": "2026-11-10T20:16:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12631,6 +12757,15 @@
   "knownFor": [],
   "qid": "Q231891",
   "score": 50
+ },
+ "Zachary Noah Piser": {
+  "checkedAt": "2026-11-10T20:16:56+00:00",
+  "description": "American actor",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q113468261",
+  "score": 0
  },
  "Zohran Mamdani": {
   "checkedAt": "2026-10-05T21:00:43+00:00",

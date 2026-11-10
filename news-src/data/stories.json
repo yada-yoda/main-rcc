@@ -2,6 +2,287 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "a692fab16f",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T18:34:13+00:00",
+   "published": "2026-11-10T18:34:13+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Chosen",
+   "title": "Taye Diggs to Star in THE CHOSEN: THE THREE KINGS on FOX",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Taye Diggs",
+     "knownFor": "American actor",
+     "score": 27,
+     "qid": "Q534006"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjhiSTVxMG9oZ3VYWll1Z0k5N1FvMmJ4YkE4LXBnU1Z3MnVYZmtqZHprY2ExZHVyZ3dBTFM1N3IzNExDd0hKbW5xejV1R1M4MlZZU0lzWlVoYWlBY1FTeXczQVcxN3RMSTg3ZXVYWDJ0RjFYaXR5OWdBT2ZjZTZyRXRKLUV5X2ZmV0FYcGVuVWxUcFFTTHlVamE1aDhuX2xoVlB3RE0taU5rNVJm",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "bcfd3d4a22",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T18:29:00+00:00",
+   "published": "2026-11-10T18:29:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Horror",
+   "title": "Alec Baldwin to Star as Jonathan Penner in Staged Reading of HORROR: A LOVE STORY",
+   "quote": "Alec Baldwin stars as Jonathan Penner in the November 18 staged reading of the new autobiographical play Horror: A Love Story.Penned by actor, filmmaker, and Survivor contestant Jonathan Penner, Horror: A Love Story is described as 'part TED Talk, part family drama, part blood-soaked Grand Guignol.'When Penner's wife,…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-10e627d2f0de3f625648b043263f3ae4.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Alec Baldwin",
+     "knownFor": "American actor",
+     "score": 89,
+     "qid": "Q170572"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPajA2cmlRd0FDcXplNVlqN1g5Y0ZIVkRqZkkwZ0RBZk85UlF3RTRwblR3TWd4NUpnRWV0YVlrVjJDMzZWalNwN2puWU1NaVBnOGVYUi1ucTBEdFpvOXhabGJlLWVTem0wMlVtM244SXNSN1BUR0xMN29UUzA3SElmMVBaYUUwTUkyM1NxVjB5cWpMUXBJTXByRjBDM2YyYUZMSXdNd2UySXlYNHFNNW1hcTFBaWJGUzBnZjFSTkRrZjRnT29LNXc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Alec-Baldwin-to-Star-as-Jonathan-Penner-in-Staged-Reading-of-HORROR-A-LOVE-STORY-20261110",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9445fdb6f4",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T15:48:00+00:00",
+   "published": "2026-11-10T15:48:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Kid",
+   "title": "Broadway finds its Prince: Jordan Fisher cast as ‘The Kid’ in ‘Purple Rain’ musical",
+   "quote": "",
+   "quoteSource": "AP News",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmJaZ2pDWmUyb3FXOTJHcy1xQkFpSXAzdlhkTXI4X19MdGtsZEgzdUlQSW92WkUtTC1HdVp1c0ZzM0NURDhBQUpZNERnclJJajRaQ0hHTU5ESWQ3NXhSdFZHdHhEQmdxclA0MzVfZ2xFMXpZenpFM2xiQ3l1c0xyR2RrY1NXajVScDhKZXZDOGZld3JrTUJMVG1n",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "7f652ec7fd",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T13:32:07+00:00",
+   "published": "2026-11-10T13:32:07+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Jordan Fisher to Star in Prince Musical Purple Rain",
+   "quote": "",
+   "quoteSource": "TheaterMania",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXBwenQ3YXNSTXRwSi1aZVliNjRhTlhLbGFGQ1ppR0hDMnZjNHZfYkJ3ZFNxNlJ0YURJYS1OSWQxUHpiV2c2eDlLWTFvODBpSU95YVJOY1VkTWxZX29wX3VsemQ0OFI4UWsySFZjWVNmbjlLNFRMYnFuMk5vT3JiOU1MTjFkMzZnR2hZd3ZWMEw5UDNnc0ExNlRB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Female First",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGtJU25CUkVoWk1JVlBKUTRENjRrX21ERUZTUmhQVGhDdFk4RTNqemgtaGdDUWZDRzlwSU1WOG9XdV8zTkVZNjlyVlo1cXczOW1hS0RfS0hiTHZRTmJZTWpfZFoxZlpYa00zN090Z2dqUDFZOEpJZ2xocnRSNDAwQnFvSDZDbXBNSmJ3",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "1679643bff",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T13:30:49+00:00",
+   "published": "2026-11-10T13:30:49+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Go Crazy",
+   "title": "Jordan Fisher Is Ready to ‘Go Crazy’ as He Takes on Prince’s Iconic ‘Purple Rain’ Role on Broadway",
+   "quote": "",
+   "quoteSource": "People",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFBBRElWVEhPODBYNDVCR3ZzdGg2X1JnaUlZdWZwQUh1ZmFlUjJrLWZ2cXU1NUVsa2I3LW0tZUFpQXZ2LUZIamo2QXhtWWhRc0tuTGRGd1UxN1lKNzZXRVQ3NW9WbklTQnNHdm5RYU9qa0RzNnJVZnhuVUx6YnJyMElFTjZVZnJESm1ndEdkSFA0ajBUUmgw",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "0e82f6fe1d",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T13:30:00+00:00",
+   "published": "2026-11-10T13:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Majestic Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Purple Rain",
+   "title": "Jordan Fisher to Star as the Kid in Broadway’s ‘Purple Rain’",
+   "quote": "Producer Orin Wolf announced today that actor, producer, and musician Jordan Fisher will play the leading role of “The Kid” in the highly anticipated Broadway stage adaptation of PURPLE RAIN. This marks the first time that Jordan has created a role in a new Broadway musical.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-87e152d268a5007935a9c634f8ed7059.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkNGUFhSM3UzT0hpdzVoc1ktb0I0M0UtNTNKTjdGQm5YU3drczdfV1IyekJWRjVsV1dwbm9pMEdVUW51VjdtZVM5ZDBpVnBlWURUV3d1b21LWlVOTk9nQjU2azJQNldFdkxoMDJaNTAxTG14YzFXX05QYTN2ZkhpN3lnNTZYSExSbTVKRFNiNA",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRi1DVkZVQ1hjN1lseEw4aVN4cjFXUkVCY25OUnN2d3V0bWVDaWFuOVlLOVdRbEFqU2Fxc1VGMEJ0U2hYR2tZLWNYczNtN0FZdHowUXRNbThDT3Utd2RiV2NENFBhSHRaeWdfYVFXMkpRQlc2MDhIeXNuQmZVc3ZqdDZySTBPY09yUzFwS1o2ZWhmSEw3WF81eldVRQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Jordan-Fisher-Will-Lead-PURPLE-RAIN-on-Broadway-20261110",
+     "feed": "broadwayworld"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jordan-fisher-prince-role-broadway-adaptation-purple-rain-1236751251/",
+     "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/jordan-fisher-to-star-in-princes-purple-rain-on-broadway/",
+     "feed": "broadway-news"
+    },
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmJHU0FqOXlEenI5RkpacW1LM0NQVmlMcU5CamczRkRnQ0xZNFdEV1FHWWtsekRJd3h3bkpzeEVhRkJJZFhYYkV3MHpfb1VUcmpmbGhIRXF6WW9VZUx4M0hNZFhvMk9fV3dQUVJsRVRoVWJtbHpmR0Jfd0d2d1FXSXA0QkhLaXpWTW5lX2JvdHBkbGctOUVLZ0JR",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbllYZkhjYlFzaDhmV25URlVvRS0wY2ZhZ1NzVXNhYTRkWV9uMDRwcWdXM0JRZmhLbE5MeFFKallpRlVxQks4MTBZZENLbnhUX2h2d1Vuemg0Yy1INUdwLVEwWnpFaXJ2UVJ2TTBqSXRKRkJDWWx0NUEzSG9uNm16b244Q0NBdmhtdmdBNTlKVkRDdm9manlESDdB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "WhatsOnStage",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzI5RUY3TFVqLW1GQ2JsSFViNE45QzZGUnJMQjBfZUNUVDJyenlpN0xCT0ZNNWtXTk1MM1lRRnQ5cVFQMzl5Y1VIM2dKWDAycXBZX1M0UnBfZUhSWFZQMVdMeTRKRUJNdXZKVGlIVTM0UnNPQUVwcGg2dXVpSHgzNEZIT3NFV3RuU1dUQXhuWEwwcFZibnk4OTkwOFY4Wks4NmVIcHZsMV9mZw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/purple-rain-broadway-jordan-fisher-1237218438/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "505a5754ef",
    "priority": 2,
    "watched": [],
@@ -241,6 +522,42 @@
    "status": "review"
   },
   {
+   "id": "cc2cd38f18",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-20T07:00:00+00:00",
+   "published": "2026-11-07T11:07:30+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Lin-Manuel Miranda helped this former Yankees legend make his Broadway debut",
+   "quote": "",
+   "quoteSource": "USA Today",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Lin-Manuel Miranda",
+     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
+     "score": 45,
+     "qid": "Q1646482"
+    }
+   ],
+   "sources": [
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXRhRi1vYjNlQjdwTzJnMmJTQ0NLNng2cUxxeG9sUm5kX0gxSzQzcXJ1RldyTUlvOXF3YnNmTl8xT3YxTXJ6VDlDRzl2OVlQcXFkbGQ4T2J6ZXhmNW5BQVJsMGx4djkzNURfazhPQmF3c2l6Ynk5alM2eW02dTJkLWVvU05BdVJGT2hYdFZ1cll4ZjBFRjVxSnF1LUlITTU3TEwybUhfNG04QzA3TTYycG95Ulo2QlVSWUpLTUlmTk9ieklGb0I3RQ",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "fb34f6d864",
    "priority": 2,
    "watched": [],
@@ -402,7 +719,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "A History of Paper",
-   "title": "Alan Cumming, Shirley Henderson to star in 'A History of Paper' off Broadway",
+   "title": "Alan Cumming, Shirley Henderson to Star In Off-Broadway Musical ‘A History of Paper’ (Exclusive)",
    "quote": "The musical comes to New York after runs in Scotland, with Cumming saying he hopes to facilitate more of a pipeline.",
    "quoteSource": "The Hollywood Reporter",
    "image": null,
@@ -425,16 +742,6 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUZWYW82TkllbHliUVZNY3N4V1VJWU9uUElxeUNVMnc4c3dEQXhXMEJCSWpqeVo3TE5famFDUUFnSk1aSEIyZ3VNbktkaEN6YnZzaXg5NU9LbzJKZDVmZGcxVXloM3k4dF9YQkNmd3Jfd0xzQzNTUmZhZk1YZWZQODNHcWNkWG1JNnU3SVZqZ2tEMm5fMDYxZV9KcUdpNGI4Y2xoUGlDNVpvV3dNR2o0VGdmemlfaGd1TW55b1ZOUlRMOHNad2c",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0xEc2cwYWs0LTBaQ1ZobG1qQXlvREQzOHdsNWNPNlVtY1hDS0pfaG5yQmRsOUR0bGtWQXVDV1BHejhfYmc0UnM3RXZ3bXY2WXh6UmZQUVZQeE5jR0xQYjYzSWJINzRlVlZXdzFqanpHb0FsQ0t5dXJ4dHp1WXBITVlVVW1IVWpTVFpYM0lvVktfYWdpeWJ4WFlHX1hpMWlSTlR0eTZDdkVJVXQ1elAw",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/alan-cumming-shirley-henderson-a-history-of-paper-1236747712/",
      "feed": "thr-arts"
@@ -442,11 +749,6 @@
     {
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlVuTHU3VWFtQVhCaGdOVkkxQml0NzNyN3hyc25peHdHTjBvR2lrNlNHbXZxNExvNHBVRVhHajl1V3pxM0tXdzJyQmZBR2NxRmtwb1Q1SlJlMlU4NWNaaXoxblRjQlNOd2VxV09QS19Zb2RPRmR4TGdnaHBQYkxwQ0lOTHoyWE11OHIxbUNpb3JtRm5adjVITzdnTzgyV044YzJzWkVBQUJ2OUNqY2FrZTl2MWtMQQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlA5NEFmTk4ydy10U1FNdHpNbUJsZ0N0VFoyREJlLVRGSXdXU0lhc3RTN09fVG5oN2tCU0tTamxzTnY4cV8tWkFOLXdicF9iY1lrWTlNX2k3Z0wtYTVtRVBYend4YzBEMGZlbkVIRGhPRGJLcWFlakdEY3RLNTE5V3RtX09GbG82bTM1MTFZUkhKQ0tObmE2eGNFdDV6RlRBUWI4WUMwUWV4MjdPcjR6VkUtUk4xWHpmTU1zWg",
      "feed": "gn-to-star"
     }
    ],
@@ -2796,395 +3098,6 @@
    "status": "review"
   },
   {
-   "id": "d404be4a4a",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T18:08:33+00:00",
-   "published": "2026-10-20T18:08:33+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "A Christmas Carol",
-   "title": "Bryan Cranston, Jean Smart, Noah Wyle and More to Star in A CHRISTMAS CAROL Staged Reading",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Bryan Cranston",
-     "knownFor": "American actor",
-     "score": 87,
-     "qid": "Q23547"
-    },
-    {
-     "name": "Noah Wyle",
-     "knownFor": "American actor",
-     "score": 44,
-     "qid": "Q315208"
-    },
-    {
-     "name": "Jean Smart",
-     "knownFor": "American actress",
-     "score": 43,
-     "qid": "Q239069"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOWRaSE1VdG43RzlPSjdYX2stSFVUS1ZLQm9iRVA1V3F2MHUzVVB6LUlfb1E0a1NFZ2ZKaVJtVWJGTkRVQVFyNDQ3M3JjbjVBQ1A4NW5WQTRjTl9ubVl4dHZzMXR5YmRKZzBiVmd0eVJ0eHdSVmNVd0xCRXlmNWxXODhBM3drUTVDVFlpSW02bTIyQXd0TmF6R2ozUGJnQmVkOUhkY0hZM093NWVNZEozMmlkMXNTZkJGYmxSaXpBaDRaY1lWYTdCRTlNLVd1MHZM",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "755264a085",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T17:00:23+00:00",
-   "published": "2026-10-20T17:56:56+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "extension",
-   "show": "Just In Time",
-   "title": "Ariana Madix extends Broadway run in ‘Just In Time’ as Connie Francis",
-   "quote": "Originally scheduled for a 10-week engagement through November 22, she has extended for an additional week of performances.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/142827-12.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Connie Francis",
-     "knownFor": "American singer and actress (1937–2025)",
-     "score": 59,
-     "qid": "Q216341"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/ariana-madix-extends-broadway-run-in-just-in-time-as-connie-francis/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "b26007b829",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T17:23:49+00:00",
-   "published": "2026-10-20T17:23:49+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": "Lincoln in the Bardo",
-   "title": "Dua Lipa, Amy Poehler, Bowen Yang and More Come Out For ‘Lincoln in the Bardo’ Opera World Premiere",
-   "quote": "Lipa had previously selected the George Saunders novel for her book club.",
-   "quoteSource": "The Hollywood Reporter",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Amy Poehler",
-     "knownFor": "Parks and Recreation, Inside Out",
-     "score": 67,
-     "qid": "Q230203"
-    },
-    {
-     "name": "Bowen Yang",
-     "knownFor": "Chinese-American comedian",
-     "score": 25,
-     "qid": "Q60737294"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/dua-lipa-amy-poehler-bowen-yang-lincoln-in-the-bardo-opera-1236736336/",
-     "feed": "thr-arts"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "0c1d62c7f5",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T16:00:00+00:00",
-   "published": "2026-10-20T16:00:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Purpose",
-   "title": "Daniel Kaluuya to Star in ‘Purpose’ Playwright Branden Jacobs-Jenkins’ Next Show ‘Grass’",
-   "quote": "",
-   "quoteSource": "Variety",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Daniel Kaluuya",
-     "knownFor": "British actor",
-     "score": 55,
-     "qid": "Q510970"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN05McHFJOXFLZHUxUzNzNThxRFI2aXdyWlFOelBTTTgtbVRadm1wZ19PdjdraDdXUnEtS1p6dlNIcHlmYy1qVlRBS0dzWFhHLTVSb0RzODA5eVluUmFvMURCVkc3QkFSUTd6NkdLU3RpeTlweWo2eVc3SXVod0EtQUo0U2dPMXE4ekc0LTBaMU9ILXpHdUFyNVdLRQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "ae1cba3ee2",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T16:00:00+00:00",
-   "published": "2026-10-20T16:00:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "U.S.",
-   "title": "Daniel Kaluuya to Make U.S. Stage Debut in New Branden Jacobs-Jenkins Play",
-   "quote": "Kaluuya will star in 'Grass,' about a son reconstructing his family history through a surreal road trip, at Park Avenue Armory.",
-   "quoteSource": "The Hollywood Reporter",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Daniel Kaluuya",
-     "knownFor": "British actor",
-     "score": 55,
-     "qid": "Q510970"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/daniel-kaluuya-to-make-u-s-stage-debut-in-new-branden-jacobs-jenkins-play-1236735461/",
-     "feed": "thr-arts"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "7f090adf8b",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T14:15:53+00:00",
-   "published": "2026-10-20T14:15:53+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Glaad'",
-   "title": "Anika Noni Rose Will Pay Tribute to Dolly Parton at GLAAD's New York Gala",
-   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} GLAAD, the leading global media advocacy organization for lesbian, gay, bisexual, transgender, and queer (LGBTQ) equality, announced that Tony Award winner Anika Noni Rose will…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-4323b1b1af0f8b10e3872966befacaab.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Dolly Parton",
-     "knownFor": "All I Can Do, I Will Always Love You",
-     "score": 122,
-     "qid": "Q180453"
-    },
-    {
-     "name": "Anika Noni Rose",
-     "knownFor": "American actress",
-     "score": 28,
-     "qid": "Q259825"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Anika-Noni-Rose-Will-Pay-Tribute-to-Dolly-Parton-at-GLAADs-New-York-Gala-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "01d24cfc75",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:30:07+00:00",
-   "published": "2026-10-20T12:30:07+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Warriors",
-   "title": "Amber Gray, Jasmine Cephas Jones, and More Will Lead Lin-Manuel Miranda and Eisa Davis' WARRIORS",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWg0LUR1WWJGalBNVzdnOEhqbVQ5RExyYXBnZFFhTWFtSkJMbXZGc25pdThvZ2Q3TkNrSHktQ2JDR281bTk1TldKZUVhUHdFbl9ZQk5rcDRyd1RGVDl2bXJXOFNWRjZyYzVPV2dadWNPc1lqTGphbUFrbVh6M09oR1pneC1wN0x0dFZyOVhFWThlVy1hSkwzY0ZSUi1Bb0ZTWEV4dnVxLWlKQVVhdVN4WElZYzFlb1V2YUU1dkN0T01PeEN1eEt4aTFldF94aDdyZ1dkVi04RQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "8ea28e9300",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:30:07+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "s",
-   "title": "Lin-Manuel Miranda's 'Warriors' sets initial Broadway cast",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTdKQWFpNUdWZWowVFByRXJmWlBhSFpCeEJFYTBHRUppOGhjdzZKVi00cVdmLWlXejNUTHBRMmVQM083UERSS2IxTVNMMDhYSDFjbmJSblJJVUVEYXFybnZXY3paVXJwUGJOOHI2ZlBhNWRzRk1jSDBJQmI2bmlXcm9EcUZveksxZGo0YU9xZC0tYjYzRWs5TXhZMDlBT1ROUHVJbkQtWXh1X2YzaEE",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "cc2cd38f18",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T07:00:00+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Lin-Manuel Miranda’s Warriors Announces Broadway Cast Led by Jasmine Cephas Jones and Amber Gray",
-   "quote": "",
-   "quoteSource": "Broadway Shows",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVXNpNndoNTBheXl4ODhsbXdla1JDSGJESElxaGlVRGx0TzdvRFpNa0l4cWg3TVQ4Y25XOVhZM05uUDFOSDFVb29LRzV4akJSdjh0N3V2ZFp0YnFyUkpVdkxsbW54MjktRERseWpCamlUZ2xCdTY4dlNTRUJHbE0tdkVicExtNkUyVzVOT0VBeVF1dGhER3N6VlgtLVppN1FZdzVXak52ZWJMZ3Jka2ZiZmlVNlRvOHVHbjNweE9CdHNVcFpEby1yeUp5QU1Rdw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "USA Today",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXRhRi1vYjNlQjdwTzJnMmJTQ0NLNng2cUxxeG9sUm5kX0gxSzQzcXJ1RldyTUlvOXF3YnNmTl8xT3YxTXJ6VDlDRzl2OVlQcXFkbGQ4T2J6ZXhmNW5BQVJsMGx4djkzNURfazhPQmF3c2l6Ynk5alM2eW02dTJkLWVvU05BdVJGT2hYdFZ1cll4ZjBFRjVxSnF1LUlITTU3TEwybUhfNG04QzA3TTYycG95Ulo2QlVSWUpLTUlmTk9ieklGb0I3RQ",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "0f37cb1337",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:47:31+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Meet the Broadway Cast of Lin-Manuel Miranda and Eisa Davis' Warriors",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVhoRDRubm5yN2tIbC1keTE1NFhKTzBNM3VENElNNVFJQW1xQnhWVXlDS1FBY0hqaWNhUVI3M1pWU2RZeEQzUEhrVmRRT0ppM1hvZFhaaUdWT091a1pjTjB0QlBkUjQ5WTgzZ3R6ZU11UGs4TUEtYVptcnpYb01tVW02X2F6X0dPakZxWV9qZDVJZU9WaDVvUFMyS184Zw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "3975359c1e",
    "priority": 2,
    "watched": [],
@@ -3221,81 +3134,444 @@
    "status": "published"
   },
   {
-   "id": "4b01f0ec1c",
-   "priority": 2,
+   "id": "327887f8e8",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-20T12:30:00+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
+   "firstSeen": "2026-11-10T19:07:18+00:00",
+   "published": "2026-11-10T19:07:18+00:00",
+   "city": null,
+   "tier": null,
    "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Man to Man",
-   "title": "Tilda Swinton to Star Off-Broadway In Solo Show ‘Man to Man’",
-   "quote": "",
-   "quoteSource": "IMDb",
-   "image": null,
-   "imageCredit": null,
+   "placedBy": "none",
+   "type": "extension",
+   "show": "Rope",
+   "title": "ROPE Extends for Two Weeks at The New Group",
+   "quote": "Due to demand, The New Group just announced an additional two weeks for Rope, a new adaptation by Gordon Greenberg, based on the play by Patrick Hamilton, which was inspired by the Leopold and Loeb murder case. Originally slated through December 6, this production now plays a limited Off-Broadway engagement through De…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-177058f66a226406c5c55e718e9854e5.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Tilda Swinton",
-     "knownFor": "Scottish-British actress",
-     "score": 72,
-     "qid": "Q200534"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRnFoYWI0ZzN1Q2VCYURGcm5na3kyaGFpWkRwQ3pwbGlKWmFIdHlFczdHU01hUEVZWjFqM0FoNEpVLTlUWkNZMERiUTNXYy1uNHc",
-     "feed": "gn-to-star"
-    },
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/ROPE-Extends-for-Two-Weeks-at-The-New-Group-20261110",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "bfb9ec25e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T18:42:00+00:00",
+   "published": "2026-11-10T18:42:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Lunt-Fontanne Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Blue Man Group",
+   "title": "BLUE MAN GROUP: A NEW HOLIDAY SURPRISE to Offer $35 and $40 Tickets Through Rush and Lottery",
+   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} Blue Man Group will launch rush and lottery policies ahead of their Broadway debut Blue Man Group “A New Holiday Surprise,” its first-ever touring holiday production. The all-ne…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-aeb7b80017278fde3ff25b220c4e3905.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemtZYWthVWw0Ti1EQk9vSDl6M3BsM2hOOU9Od3FsT3pOcDBRakc3ci1XWlhnNk1zclFqeS1DdzktWlMzTzQ1TGdNWE81RDJpZTlDeFZYMGY5OUp3aHpyU2FCSkxsOEM2cFFsWnVva3QtMGVTZy03ZGF4M2VkajNBNk1nNUVpUFo1MmlYbnNVaktkVVpWOW5RanF6eU5PcV9PTXo2ZkFfcw",
-     "feed": "gn-to-star"
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/BLUE-MAN-GROUP-A-NEW-HOLIDAY-SURPRISE-to-Offer-35-and-40-Tickets-Through-Rush-and-Lottery-20261110",
+     "feed": "broadwayworld"
     }
    ],
    "status": "published"
   },
   {
-   "id": "2824c54d40",
-   "priority": 2,
+   "id": "e971d9e2a3",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-20T11:59:00+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
+   "firstSeen": "2026-11-10T17:15:01+00:00",
+   "published": "2026-11-10T17:15:01+00:00",
    "city": null,
    "tier": null,
    "venue": null,
    "placedBy": "none",
    "type": "casting",
+   "show": "The Prince Of Egypt",
+   "title": "Zachary Noah Piser, Ali Louis Bourzgui and More to Star in THE PRINCE OF EGYPT in Concert",
+   "quote": "Tickets are now on sale for Manhattan Concert Productions’ one-night-only concert presentation of The Prince of Egypt in concert, coming to David Geffen Hall at Lincoln Center on Monday, February 15, 2027, at 8 PM. Featuring music and lyrics by Academy Award-winning composer Stephen Schwartz and a book by Philip LaZeb…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-b4643999621ae549eb6b1e17ac0dc183.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSU9abktyZmYzeDE2cHdzWFJJdktoUFJpWUFqRks5ZWk0X1ZuLTc1a2dWeWswcnFDMlJhOHhZTENJRHlRbEp3bnBwVnFib1R4SGR4TFZBWHl2TlhIT3ZTOElXa0RCLU11Vkp0WERQWXEzbGRWTkNTVDJFRVVrSlA3WXRta3lBdmMwMWV1M1V4MHFMSTNrRzUxbnpvOTBrYlhFVThRRlNuOEZCOC1uYkxMeVhzSzZjamlvajBOXy1KLVh1Q1V0WHpTLVlDNVJqeHlU",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Zachary-Noah-Piser-Ali-Louis-Bourzgui-and-More-to-Star-in-THE-PRINCE-OF-EGYPT-in-Concert-20261110",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "da89a0e83c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T17:00:06+00:00",
+   "published": "2026-11-10T17:00:06+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
    "show": null,
-   "title": "Daniel Kaluuya to Star in Branden Jacobs-Jenkins’ Grass",
+   "title": "Where to Eat With Broadway Star Jessica Vosk",
+   "quote": "When she’s not going viral for her “Fiddler on the Roof” performance, the singer and actress can be found eating lots of Italian food.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/10/dining/10fd-wte-vosk/10fd-wte-vosk-mediumSquareAt3X.jpg",
+   "imageCredit": "Manny Carabel/Getty Images",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/dining/jessica-vosk-broadway.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "06be8eba31",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T15:29:02+00:00",
+   "published": "2026-11-10T15:29:02+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Disney on Broadway Sets Concert Lineup For 2027 Festival of the Arts",
+   "quote": "Disney on Broadway has announced the lineup for its 2027 concert series for the EPCOT International Festival of the Arts. First time participants this year include Sherie Rene Scott, Adam Pascal, Marisha Wallace, Ryan McCartan, Norm Lewis, and Mason Reeves.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-c291a34378a140d50c53dfb04cd98877.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Disney-on-Broadway-Sets-Concert-Lineup-For-2027-Festival-of-the-Arts-20261110",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "dc0d016b10",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T15:23:00+00:00",
+   "published": "2026-11-10T15:23:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Awake And Sing!",
+   "title": "Richard Schiff Among Cast Added To Broadway’s ‘Awake And Sing!’ Revival",
+   "quote": "UPDATE, Nov. 10: Additional cast has been announced for Manhattan Theatre Club’s upcoming Broadway production of Clifford Odets’ Awake and Sing!",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-1465908326-e1794324161545.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/broadway-awake-and-sing-micaela-diamond-will-pullen-1237012662/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "59f74908fa",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T15:00:24+00:00",
+   "published": "2026-11-10T15:00:24+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Broadhurst Theatre",
+   "placedBy": "venue",
+   "type": "opening",
+   "show": "The Amish Project",
+   "title": "Design Team Set For Jonathan Groff-Led THE AMISH PROJECT",
+   "quote": "Tickets are now on sale and the creative team has been set for the Broadway production of THE AMISH PROJECT, a solo play starring Tony Award winner Jonathan Groff, written by Jessica Dickey, and directed by Sarna Lapine. THE AMISH PROJECT will begin performances Wednesday, February 10, 2027, at Broadway’s Broadhurst T…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-ad7374995f360984711fa62e392682f5.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Design-Team-Set-For-Jonathan-Groff-Led-THE-AMISH-PROJECT-20261110",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a430270243",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T14:51:03+00:00",
+   "published": "2026-11-10T14:51:03+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "A View From the Bridge",
+   "title": "Complete cast set for Sam Rockwell-led 'A View From the Bridge' off Broadway",
    "quote": "",
-   "quoteSource": "Playbill",
+   "quoteSource": "New York Theatre Guide",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
+   "celebs": [],
+   "sources": [
     {
-     "name": "Daniel Kaluuya",
-     "knownFor": "British actor",
-     "score": 55,
-     "qid": "Q510970"
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWMxUnZlZ3hPbXoxT242ODczMXpSQ0FGckdfUC05Q29pSEhXYkd2WGdRRTZvbDd2bnlxX1BTc0dsVURLTHl5Q2h4MHd5YkJ4SldZNEZNS1hfOUhublNCMmNfcWZ4UmgtOEdpRmZJd2VCLTdLM2o5Y1FaRllWUlZXQTUtTWxGMjhzU2pUbkdCa1FZTFhwcHVZb3pVQUdUUWloMnBwLVJTN2U4enFNdG9EYm5HMXFPclZRY0xFNGNJSlp3ZDJoUGtF",
+     "feed": "gn-offbway-casting"
     }
    ],
+   "status": "published"
+  },
+  {
+   "id": "43a6c07fa5",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T14:26:00+00:00",
+   "published": "2026-11-10T14:26:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Inter Alia Delays Broadway Start",
+   "quote": "The production, which will see Rosamund Pike make her Broadway debut, has moved its first preview performance.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Rosamund-Pike-Jessica-in-Inter-Alia-at-the-National-Theatre.-c-Manuel-Harlan-056-2.jpeg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
    "sources": [
     {
      "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnhfUWRtYWNjRFF5Qng1bHFsc2pSVXRLU0FlWEtiNmc5bjFDZ1JYVFl2bU9XUFlxQXlTbV9yclZCa2JNdnZBajBtVGo2WmNtR2QydEtOR3JKYlFUSnV3c2RHNUhydHplYTZyUkVXQmo5dnN1b0R5aHJCbjdQdUdyX1dTS0FObTE0V1RB",
-     "feed": "gn-to-star"
+     "url": "https://playbill.com/article/inter-alia-delays-broadway-start",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "6beb765754",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T12:30:00+00:00",
+   "published": "2026-11-10T12:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Towson alum makes Broadway debut",
+   "quote": "",
+   "quoteSource": "Baltimore Fishbowl",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Baltimore Fishbowl",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaDJ6UTF5RFRNMFVWVkcwYjAxVHF0a0VhUVB3QWh6dER3NHJJRkk1Ymx1OW85R3MwbHpXUjU4R2tXMkMxNEh6S1VhYTZ5SDR6V2FPdk1VaFJDQkdkTGhGVmJNZ3dUeWpWZ181UTlvZWtiWnlnUGVKYUVJQ1B2VWVnaTh6TjQydlV3VHRhU3BWVURUUHVOSExOdEpoOVpUWEZOYUhYM0tyTm5KOVdSaUNOVGFRd1NySllSS004NkhjN0d2V085aWxTVXhRSjBma1ZQNG5ZYUZMQldrWkFiQV9oZFBYQUliZ1ZENFRKMlNhTExvQ1N6ZE9WbTRjUmpXejV2czV5NVRWSVlVeXJnRlBYZ1hsdUxROHVC",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "5702d7fb91",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T11:59:08+00:00",
+   "published": "2026-11-10T11:59:08+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "closing",
+   "show": null,
+   "title": "Met Opera's Lincoln in the Bardo to Stream Live",
+   "quote": "The final performance of the sold-out run will be made available for free on the Met's YouTube channel.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Lincoln_Piano_0478_C.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/met-operas-lincoln-in-the-bardo-to-stream-live",
+     "feed": "playbill"
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "d819249e00",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T11:59:00+00:00",
+   "published": "2026-11-10T11:59:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Nyc",
+   "title": "Ali Louis Bourzgui, Shereen Ahmed, Zachary Noah Piser, Brian Stokes Mitchell Will Lead NYC Prince of Egypt Concert",
+   "quote": "Sammi Cannold will direct the Stephen Schwartz and Philip LaZebnik musical at David Geffen Hall.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Ali-Louis-Bourzgui-Shereen-Ahmed-Zachary-Noah-Piser-Brian-Stokes-Mitchell-HR.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/ali-louis-bourzgui-shereen-ahmed-zachary-noah-piser-brian-stokes-mitchell-will-lead-nyc-prince-of-egypt-concert",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "e7ea841fb0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T10:43:53+00:00",
+   "published": "2026-11-10T10:43:53+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "What Are the Reviews for Christina Anderson's The Ripple, The Wave That Carried Me Home Off-Broadway?",
+   "quote": "Tiffany Nichole Greene is directing the New York premiere.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/5.-106_the_ripple_the_wave_Playwrights_Horizons_Production_Photos_2026_HR_Final.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/what-are-the-reviews-for-christina-andersons-the-ripple-off-broadway",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a761c00a3a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T09:44:50+00:00",
+   "published": "2026-11-10T09:44:50+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": "U.K.",
+   "title": "Joy: A New Musical Will Make U.K. Premiere in 2027",
+   "quote": "Lorin Latarro will direct with choreography by Joshua Bergasse.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Joy_0143r_2026-11-10-155015_zjku.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/joy-a-new-musical-will-make-u-k-premiere-in-2027",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9a5f1be74c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T04:54:25+00:00",
+   "published": "2026-11-10T04:54:25+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Hell",
+   "title": "Towson alum makes Broadway debut in ‘Hell’s Kitchen,’ performs in Baltimore this month",
+   "quote": "",
+   "quoteSource": "The Towerlight",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The Towerlight",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdF9jd1RNWHhhbFFacEpDdlhLYVhjMHBLSVZNTHI5b3Y4dzRHcGFPTlQ1bXl4RFN5TXdzdndNZ2NEQVJoc1BCeFl4WGJjYU1LdnE0MHQ5ZmtUWWZkSGVKNWVPSTJvZi0temYzd1l4blpTMkM2NWpzVHZtdl93UEV6OE5CelFxWHNTbjR6VDg0eDdyT2ozdHhZaDZBQzdyLVRpUVdQeHNUVExXd2cxM0E",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "b590993354",
@@ -3360,14 +3636,14 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-11-10T01:00:00+00:00",
-   "published": "2026-11-10T01:00:00+00:00",
+   "published": "2026-11-10T01:00:11+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Paddington: The Musical",
-   "title": "'Paddington: The Musical' Sets Broadway Cast With Tony Hale, J. Quinton Johnson, Jessie Mueller & More",
+   "title": "‘Paddington: The Musical’ Sets Broadway Cast With Tony Hale, J. Quinton Johnson, Jessie Mueller & More",
    "quote": "Paddington: The Musical, which opens in 2027, has set its cast, featuring Arrested Development’s Tony Hale in his Broadway debut. The musical will be led by Kelvin Dukes (America’s Got Talent) as Tony, Drew Gehling (Waitress) as Mr.",
    "quoteSource": "Deadline",
    "image": "https://deadline.com/wp-content/uploads/2026/11/paddington-the-musical-broadway-cast.jpg",
@@ -3376,11 +3652,6 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHRPdnNHLVBiazhzaE5NSFl6UVZfYldUUHM3MElJclVvTmNwMHp2LUFSSlF0aDRoSjVBenlUcXVxb1dVdjBtWkhuekJZemVKTFpWQ25jVDlhdDZGOTVrRTJuNFNWa28xQ18yQVlpMzVQREh2VzlQUkF4WEFyUVpQN1lUQ3EwOTJEelE",
-     "feed": "gn-bway-casting"
-    },
     {
      "name": "Deadline",
      "url": "https://deadline.com/2026/11/paddington-the-musical-broadway-cast-2026-1237218092/",
@@ -3679,39 +3950,10 @@
     {
      "name": "Broadway Direct",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnBXOXY1YW01WkhTQWNBSVZDMWlFbXl6WmZWbXZLc1hLcmtEdVZlR3lBSjFEWnV0aGRMVWs0LTJUZHpaTTNOZEFvNXNNczJtSXpKVUliQlFyWWNmZjR2dXBxNEVueUI4aDFyNWg4RnVVb1owSl9jcEZ6SEZpZTlvOTYtcFpYYk4ybkhmNQ",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "376e39e7b0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-09T17:15:09+00:00",
-   "published": "2026-11-09T17:15:09+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Paddington",
-   "title": "‘Paddington’ musical sets Broadway cast",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDhiM0RZdzRfX3FsSmRWYlJsa2JNQjMzeUNHQXdzNEJha0tpZzEySTlyU2w2ZVBTaVVRV0hSU19jSUJQaXM2TDYySDNDQ1lybU94WEV0N0w2U28zV3d4YkZlNzdzdFplTW0zNC1zajRoUjlLS24tWlZsUGMwb2lfSXdDcTYxQTg1NEtjbzFYWGcxWHhSUHc",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
   },
   {
    "id": "cf96de5143",
@@ -3926,7 +4168,7 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGNGWlI3eElhTkNxMnRpMmZRNHNpUnNrWnBWZTZDSjk5WkJFYjBzTlpyN01qZUZGMHlPekFFd1FVNXNGZlh5bktxZDVwcWxOdVJpdE84a0lDUGdZWFA1UGQ5WU53eXZuYTJrYTAwNHZ0MHlWWldIWDZrSk5kZ1hWVHFYN2tpRUdTQ3JxOUV2MWRvaWpHRjMxRE5CN1FLY1FTYURJTg",
-     "feed": "gn-bway-casting"
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -4130,6 +4372,35 @@
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/08/theater/the-charioteer-review.html",
      "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "376e39e7b0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-09T17:15:09+00:00",
+   "published": "2026-11-08T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Paddington",
+   "title": "‘Paddington’ musical sets Broadway cast",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDhiM0RZdzRfX3FsSmRWYlJsa2JNQjMzeUNHQXdzNEJha0tpZzEySTlyU2w2ZVBTaVVRV0hSU19jSUJQaXM2TDYySDNDQ1lybU94WEV0N0w2U28zV3d4YkZlNzdzdFplTW0zNC1zajRoUjlLS24tWlZsUGMwb2lfSXdDcTYxQTg1NEtjbzFYWGcxWHhSUHc",
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
@@ -4894,6 +5165,11 @@
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmxkR1dDRW1ibi05cEVaSnEwd0ZLdm14NnpEMWdwenRCaXRiLVNPdjQ1ZExNZnA0cHBtMzhSakdoZFBrNS00bjhZRHViSTRmVHVzSGRRaU9PeThuSWNoMi1NMlY4TENHajhTSURLNnBhMVA0aTNzVWtRbXVVWTZDQnpKU3V6NFhFT0RrdU5NM3pzQU0",
      "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -4926,45 +5202,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "55f5b60a76",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-05T15:04:50+00:00",
-   "published": "2026-11-05T15:04:50+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Great Gatsby",
-   "title": "Derek Klena to join 'The Great Gatsby' Broadway cast",
-   "quote": "He succeeds Ryan McCartan in the role, who will play his final performance on December 4.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/125142-28.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkl5RzMyMzVrVE1ycW9tLXBmUEdmWER2SUpVX3BDaVhiX0R5RVhlbG54MU40dVVVWGY4ZWxib2lNbHdRb2kxallEWnlNZm9kdzBjSGJwUnN4ZEwwRHItQXJ3bEVRRlhfcjM3SndSMXpvR290ZlBwSUdGNTViWUZ4ZEhFdXVhWkI1cVJfMng1VGd1aWJuRFU5c0ZmQkNtREVJN0RCQy0xSQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2RPdjU1VVdVMXlWTzRqcTFHSXlFWFJDMWR6SHJEWkdmX2oxR2NaRTJkOFZPRFhScGNBUzM3UDhjTGZZSmdjaFZZeGNLNWx5NUh6R3MzTTVSSUNGdHdQZWl1blc4RzBLd25NZGlWTWlrdzcyZHgzNmdGM0UtaldMd3hQMENQanhJ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/derek-klena-to-star-in-the-great-gatsby-on-broadway/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "04f2b621db",
@@ -12522,122 +12759,6 @@
    "status": "published"
   },
   {
-   "id": "86ef093bdf",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T19:55:39+00:00",
-   "published": "2026-10-20T19:55:39+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "James Earl Jones Theatre",
-   "placedBy": "words",
-   "type": "opening",
-   "show": "Hamilton",
-   "title": "Broadway Grosses: Week Ending 10/18/26 - HAMILTON Leads Grosses, OTHER DESERT CITIES Opens Strong",
-   "quote": "Click below to access all the Broadway grosses from all the shows for the week ending 10/18/2026 in BroadwayWorld's grosses section. Also, you will find information on each show's historical grosses, cumulative grosses and other statistics on how each show stacked up this week and in the past.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/680-076a41098774814880e8a2e6168285d9.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Broadway-Grosses-Week-Ending-101826-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "b74324440d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T19:21:33+00:00",
-   "published": "2026-10-20T19:21:33+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": null,
-   "title": "Broadway Contributed $21 Billion to New York City Economy in 2024-25 Season",
-   "quote": "Broadway contributed $21 billion to New York City’s economy during the 2024-25 season, according to a new analysis from the Broadway League. Most of that activity was driven by Broadway Tourists, defined as non-NYC residents who say Broadway theatre is a very important factor in their decision to visit.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-0ea71114515d960843b2b65f0cf3faec.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Broadway-Contributed-21-Billion-to-New-York-City-Economy-in-2024-25-Season-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "1bdee78143",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T19:10:53+00:00",
-   "published": "2026-10-20T19:10:53+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": null,
-   "title": "Warriors announces dates and cast! Rhinoceros on Broadway: Absurdity reigns! Stageworthy News of the Week",
-   "quote": "",
-   "quoteSource": "Newyorktheater",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Newyorktheater",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdE1zZGxXdlhPUzA1WmhRTVVXRGRzUTRvZlFuRUlzdWxqcjFQTHZHcl9MRzZILUhDalZndWJZSGlFZ0hkR3R6NUVia2YwUm05b1ZEV29NNFlZdlozd3l0YUc2Q01sTEtRWUk2RXpZekR1ZG1NeXR3bU55alRyYkU4THR6cUhPSUdhbk1pYUZHR3NCZXVjMzlMaHB0cDVPeU4xQnVMLTZsaGxsQVNDUURpOHBwMnl4RExzSXpfcEVvbWh4M2RHbHpUeElGbVdCR2czWXhyVnZsUQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "db11dc8353",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T18:46:19+00:00",
-   "published": "2026-10-20T18:46:19+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "extension",
-   "show": "Delirium",
-   "title": "DELIRIUM Sets Final One-Week Extension Off-Broadway",
-   "quote": "A final one-week extension has been set for the New York Premiere of the -Arlekin! production of Delirium, a bold new adaptation of Eugène Ionesco's Frenzy for Two, Or More, Delirium, adapted and directed by recent Lortel Award winner Igor Golyak.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-dda520665d2d766bd66a35d635e05dd5.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/DELIRIUM-Sets-Final-One-Week-Extension-Off-Broadway-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "ff109e2828",
    "priority": 3,
    "watched": [],
@@ -12662,64 +12783,6 @@
      "name": "Chicago Reader",
      "url": "https://chicagoreader.com/performing-arts/dance/dance-theatre-of-harlem-2026/",
      "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "90347b6a10",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T18:36:53+00:00",
-   "published": "2026-10-20T18:36:53+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "August Wilson Theatre",
-   "placedBy": "words",
-   "type": "extension",
-   "show": "Paranormal Activity",
-   "title": "PARANORMAL ACTIVITY on Broadway to Host Screening of Film for Halloween",
-   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} The Broadway production of PARANORMAL ACTIVITY will host a free screening of the original Paranormal Activity film outside the August Wilson Theatre to celebrate Halloween on Oc…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-7127194f8357fb3fdaf40e137a8e8ce3.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/PARANORMAL-ACTIVITY-on-Broadway-to-Host-Screening-of-Film-for-Halloween-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "9d151e52a5",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T17:15:57+00:00",
-   "published": "2026-10-20T17:15:57+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Contributed $21 Billion To New York City Economy Last Season Even As Production Costs Soared, According To New League Report",
-   "quote": "Broadway contributed $21 billion to the New York City economy during the 2024-2025 season, supporting 114,600 full-time equivalent jobs and generating $979 million in taxes for the city, even as production costs have soared over the past six years. Those figures come from the Broadway League’s latest annual report Bro…",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2025/08/GettyImages-71274738.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/broadway-league-annual-report-economy-production-costs-1237168727/",
-     "feed": "deadline-theater"
     }
    ],
    "status": "review"
@@ -12754,122 +12817,6 @@
    "status": "review"
   },
   {
-   "id": "56034bde1b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:58:00+00:00",
-   "published": "2026-10-20T15:58:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Loch Ness",
-   "title": "‘Loch Ness’ musical, penned by Sandy Rustin and more, announces Broadway-aimed staging at Two River Theater",
-   "quote": "Producers Victoria Lang, Mark Schwartz and Martian Entertainment are attached to the project.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/03/srustin-1.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/loch-ness-musical-penned-by-sandy-rustin-and-more-announces-broadway-aimed-staging-at-two-river-theater/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "ef3616b7c7",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:42:00+00:00",
-   "published": "2026-10-20T15:42:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "closing",
-   "show": null,
-   "title": "Jeremy Jordan Puts Just in Time Back in The $1 Million Club, and More From Last Week's Broadway Grosses",
-   "quote": "The Great Gatsby and Floyd Collins star played his final performance as Bobby Darin in the biomusical October 18.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Broadway-Grosses-Yellow-2026-HR.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/jeremy-jordan-puts-just-in-time-back-in-the-1-million-club-with-final-bow-and-more-from-last-weeks-broadway-grosses",
-     "feed": "playbill"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "eab7ce3915",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:40:38+00:00",
-   "published": "2026-10-20T15:40:38+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Terrence",
-   "title": "TERRENCE McNALLY FESTIVAL to Take Place in Austin, Texas",
-   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} The Terrence McNally Foundation, in partnership with Texas Performing Arts, the Harry Ransom Center at the University of Texas at Austin, and Rattlestick Theater, will launch th…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-d721306259f81df21874b09075ff55b6.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/TERRENCE-McNALLY-FESTIVAL-to-Take-Place-in-Austin-Texas-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "e87a29565a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:20:56+00:00",
-   "published": "2026-10-20T15:20:56+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Booth Theatre",
-   "placedBy": "words",
-   "type": "opening",
-   "show": "Downstate",
-   "title": "DOWNSTATE Further Delays First Broadway Preview",
-   "quote": "The first preview for Downstate by Pulitzer Prize and Tony Award winner Bruce Norris has been postponed once again. The previously-announced first preview date, scheduled for Tuesday, October 20, has been cancelled due to illness within the company.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-c15518d61ee51c84985f5bf02abcdb30.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/DOWNSTATE-Further-Delays-First-Broadway-Preview-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "071aef13bc",
    "priority": 3,
    "watched": [],
@@ -12894,412 +12841,6 @@
      "name": "American Theatre",
      "url": "https://www.americantheatre.org/2026/10/20/what-is-non-literal-casting-and-when-is-it-okay/",
      "feed": "american-theatre"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f8236391bc",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T14:30:00+00:00",
-   "published": "2026-10-20T14:30:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "The Castle Will Return Off-Broadway to Benefit The Fortune Society",
-   "quote": "The one-night-only performance of the David Rothenberg play will benefit the non-profit focused on the formerly incarcerated.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/head-shot-David-Rothenberg-Director-and-Conceiver-of-THE-CASTLE.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/the-castle-will-return-off-broadway-to-benefit-the-fortune-society",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "925c4772a5",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T14:24:00+00:00",
-   "published": "2026-10-20T14:24:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Seth Rudetsky Will Join Off-Broadway's The Dog Show for 4 Performances Only",
-   "quote": "The new comedy from The Daily Show writer David Javerbaum plays the Triad.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Seth-Rudetsky-Photo-by-Lauren-Kennedy-1024x550.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/seth-rudetsky-will-join-off-broadways-the-dog-show-for-4-performances-only",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "cc7f4d1021",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T14:09:00+00:00",
-   "published": "2026-10-20T14:09:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "New York City Center",
-   "placedBy": "venue",
-   "type": null,
-   "show": "96,000",
-   "title": "Preview In the Heights at New York City Center With '96,000' and 'When You're Home'",
-   "quote": "The gala production of the Lin-Manuel Miranda-Quiara Alegría Hudes musical will begin October 28 at the Manhattan venue.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/videos/Discovery/_verticalListLarge/ba322f094d07d69304bd5ae453466fc6.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/preview-in-the-heights-at-new-york-city-center-with-96-000-and-when-youre-home",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "642e604672",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T14:00:32+00:00",
-   "published": "2026-10-20T14:00:32+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Silver Linings Playbook",
-   "title": "SILVER LININGS PLAYBOOK Musical With Score by A Great Big World to Receive Industry Reading",
-   "quote": "A private industry reading of the new musical Silver Linings Playbook will take place on Friday, October 23, 2026. Featuring an original score by A Great Big World (Ian Axel and Chad King), the Grammy Award-winning duo behind 'Say Something' and 'This Is the New Year,' and a book by four-time Tony Award nominee Rick E…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-ef7c1301520a990614467adcfff707c7.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/SILVER-LININGS-PLAYBOOK-Musical-With-Score-by-A-Great-Big-World-to-Receive-Industry-Reading-20261020",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9e58004969",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T13:48:00+00:00",
-   "published": "2026-10-20T13:48:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Nyc",
-   "title": "Broadway Contributed $21 Billion in Economic Revenue for NYC in the 2024-2025 Season",
-   "quote": "The figure comes from newly released analysis from The Broadway League.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/shutterstock_2577765027.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-contributed-21-billion-in-economic-revenue-for-nyc-in-the-2024-2025-season",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "c0c8c1d5ca",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T13:31:06+00:00",
-   "published": "2026-10-20T13:31:06+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Chicago",
-   "title": "Bianca Marroquín will return to ‘Chicago’ on Broadway",
-   "quote": "Marroquín, who has appeared in more than 4,000 performances of the musical, will return to star this fall.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/210913_Chicago_266-1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/bianca-marroquin-will-return-to-chicago-on-broadway/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "fda6f6b0ec",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:30:35+00:00",
-   "published": "2026-10-20T12:30:35+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Amber Gray, Jasmine Cephas Jones, Casey Likes, and More to Star in Warriors on Broadway",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU1JmVWh1NExRajdaVUlsSnRZSE5HVV9rQkhZRTRsM1dMTHJsbmV4MWNFVlVETExsMEF3aGxrclJTNkphVnI5VTBDTjdpcjVfbjZ6T3hFWjlvMy1jYnl4OW5pZk44aFVPWlBqZGdiRzVYcG9Uc250X0JpWXFDVTNWMFl6SzQ3Wnhvd1g0QVB6N1dDMS1PMkxEcVd1Nllia3c0NmtQa1Z2TTBqM1FxbUhZZjFMMkttNzh5ck9UbS1OaWV0S3cycnc",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "1638178a6d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:30:30+00:00",
-   "published": "2026-10-20T12:30:30+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Warriors Announces Cast With Hamilton Alumni, Tony Winners, & More",
-   "quote": "",
-   "quoteSource": "Broadway Direct",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2xsbEx0a2w2YkF3OG9sd25jbnlRaHRYN0hOTWg4M1pkOFZUSnhuR0h4Zy1FaVpETEFzWG1BR0xKd0dNbXV4aEpQZVgyc2o4azZNMU1rU1pLSkg2SnJlRXI1c19rSi1vQklIN29JN252VHhQQUM1c3FWMjhVM0dlNHl3RmMxdnp1ZEl1amZ3ZG9BZVNf",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "354f533ec3",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T11:59:00+00:00",
-   "published": "2026-10-20T11:59:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Circle in the Square",
-   "placedBy": "words",
-   "type": "extension",
-   "show": null,
-   "title": "Ariana Madix Extends Run in Broadway's Just in Time",
-   "quote": "The reality star is playing Connie Francis in the Bobby Darin biomusical at the Circle in the Square.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/20260922_JIT_PhotobyMichaelahReynolds_EDIT-057.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/ariana-madix-extends-run-in-broadways-just-in-time",
-     "feed": "playbill"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "ef1bea029d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T11:50:05+00:00",
-   "published": "2026-10-20T11:50:05+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Producer Lia Vollack on making globally viable theater, Broadway’s untapped opportunity and more",
-   "quote": "The lead producer of “MJ,” the upcoming “Damn Yankees” and the in-development “Eurovision Song Contest” takes Broadway News inside her office.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/LIA_VOLLACK_2016-Headshot-1-1.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/producer-lia-vollack-on-making-globally-viable-theater-broadways-untapped-opportunity-and-more/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "8e250f3346",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T10:29:40+00:00",
-   "published": "2026-10-20T10:29:40+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "opening",
-   "show": null,
-   "title": "What Did Reviews Say About Lincoln in the Bardo at the Met Opera?",
-   "quote": "Lileana Blain-Cruz directs the world premiere of Missy Mazzoli's opera, which opened October 19.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Lincoln_Piano_1602_C.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/what-did-reviews-say-about-lincoln-in-the-bardo-at-the-met-opera",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "219e4b918b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T09:56:00+00:00",
-   "published": "2026-10-20T09:56:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Glasgow Theatre: EastEnders duo to star in Pretty Woman musical at King's Theatre",
-   "quote": "",
-   "quoteSource": "GlasgowWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "GlasgowWorld",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmxTUzh4ZUlzQk5tNTVtRy03WlZzeHhEQ29GWmEyS1JFazhFZXpvQ0ZJNTNvM1JjNUdCTGJ4WUlVdXVvdlVrMzhjdU1Hb2lZemVNM1VwUHVDeVl5ZTJRQUJLZm1MbHB6SXBGaWFuS09WdlJNUVFtbzc0MnlkNjFacFZHQVB5MG1BS2hKMXhJTVQ5RW91NDQxS3h6QUVlTVFmMW9hcHpSRFNOckVoN05RR2Eya1RNMjBVYVE",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "3fb79840f1",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T09:44:01+00:00",
-   "published": "2026-10-20T09:44:01+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Pretty Woman",
-   "title": "Cast Set For PRETTY WOMAN: THE MUSICAL UK Tour",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0EyMVNScm9pQVlUTE9OYW5mOGJPWHRYWVU1cEo4a3AweDZpODJUYXJtOURueGVpVng3bjRWWWE4X0pFdERmQXdGbDgxRS1iclBVTXF0QzVoaEI3UGdEYjloMHB6U2dLaUNvQ2VUTF9sNmRxNmVieHFzVFoxWGttTGNQYmtHUEJiM1QzamRPbHdtMXcwMWx2MDJOVVFBVHB6M2c",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "4aa8cdff20",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T09:08:19+00:00",
-   "published": "2026-10-20T09:08:19+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "Pretty Woman announces tour cast including Molly Rainford and Danny Walters",
-   "quote": "",
-   "quoteSource": "WhatsOnStage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "WhatsOnStage",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN05TcW12SGluMy1GMlB0M3JsRjV1MkMwWHU1WV9LYmtXNHo5d2xfOVhfZTNDcVBsNnFpOUZpNzBmdjRzdm9KSmZuX2VmYXVLUE53eDcxT09RZmY4T2FSVF9hZ1FHV3Q0b1pyWEEtZDItOFhkOEVqdGxKbHppU1kyYUNFbmlmb3U0NENvdGxQZGVJUGg3eW1KTDYxUWtGLXNVeE9jU180QklzY1czRzhzR1lkODNSOEQzUnc",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -13332,296 +12873,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "46925134e0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:56:20+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "The Dog Show",
-   "title": "Seth Rudetsky Joins THE DOG SHOW Cast Off-Broadway",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPektmZkJWQjJoTUFyUGNDWjJkSDVuRXBVdmF3WXQ5TTNsdktfN3ZlZUdNcy1lcVRFR1pUc3dEbFJGLWsxajR2MkFaQXIwU1FScEJTUG8xT3VvdlRRYVhKNEpDdkM5MXc3SGM4RFV4cjMtQ0dmOFVpaFBFSkM3NkZHNUVmZzFJcEtaaG9uaUpGTlZwRXZlTWtGR0FUMVlqUQ",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "99994d17da",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T19:00:40+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Inside Bowen Yang’s Broadway Debut as Mary Todd Lincoln in Oh, Mary!",
-   "quote": "",
-   "quoteSource": "Broadway Direct",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGtpdmVvSkxOY3pLTmNtWi01UDJMTWdDazZjV3RSMDJxMHNJb0loRGUzWjY3azR3al9OZmpDWlVfUDNkWk42YkxhcGVKWmhfaGRxaHBMX3Zrc0Yxa25lYVpWZW1TVWNzVUhpZ2E4bXM1Ym1sSTBfRlEyQkl5a0ZHTGNWWnY1WjBzT1B0MldVQUs1MFprd2hV",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "06506aefa9",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:29:55+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Warriors is Coming to Broadway—Here’s What We Know",
-   "quote": "",
-   "quoteSource": "Broadway Direct",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW9LUGVJaWVVQ212eEpqRUV0ZUdCbkJHUGlQcVlOcHdmNXB0Wm4wa0hoVWd4Q0RQVWkxeHpsdTV0T3c2dURTeUJqYjE3eFBmLVNXMHgteVpGLV9mUHA0dFJSWlFCb3plMy1sV004RlN5bDFmTmxOSzZZR2RWdmhSRTQ1UQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "65640e3821",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:30:30+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Warriors Announces Cast With Hamilton Alums, Tony Nominees, & More",
-   "quote": "",
-   "quoteSource": "Broadway Direct",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXJHcE00SEhmN1pOOUNJMHBEQjRidVYzNjJqRzdwTnRyYVF0al9uNnB0SElQMVJFZXZCUmdGVkdZS0JsLVV5b2dtaERDT0tCMjhSSENXZVFNOHd1S2t3V2xsTHVpcmFXQXdoMElwTl96YUVDbXUxNjVlcUZqSUV1emFOaHF6TVZtd3VCN1NYRUt0Z0ct",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "4aadb60336",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:30:00+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Warriors",
-   "title": "'Warriors' Broadway Cast To Include Casey Likes, Amber Gray, Jasmine Cephas Jones",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3J3SDFqVzdWUUJqSXV3b0JPb2hfa2huMTRpUjEzT29ESndadnZKOXNEaUxEZVRiM1l4eVNuWmdBak1vc3VhR1B2LTlWNFlubWhQQ3pNZUt6RFZWRUtTZmZzOFdIR3lBNHBzVWdzV1ZJbVVKWWxtdjdOamxxbV9DMmtxaUl3OGMzbk9zYXNkOUM5SHFEUGFWanc5bThUQ0ZQZHpzNQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "8c8b097fcd",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T15:15:17+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Wanted",
-   "title": "Rachel Zegler Supports ‘Wanted’ Broadway Cast Amid Rumored Link to Star Bradley Jaden as 1st Previews Sell Out: Buy Tickets!",
-   "quote": "",
-   "quoteSource": "IMDb",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EamU5WENIRUtucDhjR0M2WHQxaVZBbjhRWWozRmxGSlptRFI0UVViQUhDZHEzZG5heGVpZHU4NDBDX3M5NFBnVGNtXzNDWGxRdlZvUnoxenRZTUw2TEIxS3ItdTJ0Zw",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a9f941085b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-13T17:30:35+00:00",
-   "published": "2026-10-20T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway’s Biggest Stars: Celebrities on Stage in 2026",
-   "quote": "",
-   "quoteSource": "Broadway Direct",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iT2JjVXR0MnVNSzNWdUNNNWVZbFVqYzc5bzNBUEhnRUNObFR2S2VIMHNVdDY2WFpmY1ZyZHhxRV9uVmNFZFYwN0VxNEcyanAtY0VlekRFelVuekVoczd5WTZwdFh3RFFqRTl3MWR4TEs5eVlTaW82dEdTLW8",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "125548a3c2",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T06:29:42+00:00",
-   "published": "2026-10-20T06:29:42+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Supreme Court Justice Ketanji Brown Jackson makes Broadway debut",
-   "quote": "",
-   "quoteSource": "Modern Ghana",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Modern Ghana",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ma3Z1MHY2RnNqRjNiMWtPLTRDVHM0SU01TkRxUm44dGMzSE1OSWRHQTQ1MVNTUmR3N0VlOXVJMWJiV3VJZzdjSGxJQ1VILUFWWGZNTzhrMkpqZG0xeHfSAVxBVV95cUxOR3FtaDFtSlRjbzZxWXpIeGVtUmtXZEo1MjJueTVTdk9UWXF3V3Y4OHlTeUR1T2x1bkY4MmRFZlQwRjVwVmJBQ3RjTWYyYXBSRXJCRXJNVkdQUUw3YQ",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "a32435a74f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T04:37:03+00:00",
-   "published": "2026-10-20T04:37:38+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "Copperfield! The New Musical: A Dickens of a Cast, But Where Is David?",
-   "quote": "",
-   "quoteSource": "Times Square Chronicles",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Times Square Chronicles",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORW9yU0tuc2RIcGRzV2pvLVBRYWQ4M1JyRFY5WGtwaTRkbVRidk54VjZneWtFX1FLcWlsNGo2ajYyMTNwUGthUDIyTVljb05KMVR1VmFuUFNPYTBSZjR6X2FkZ05zN0QyOGRDTWxMMWpTSmZ4d0pjWGxWMHN3SkMxdEY1eHpZaW53V1M2VDlxblYzcXc",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "27661dda88",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-19T16:38:51+00:00",
-   "published": "2026-10-19T16:38:00+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Chicago Shakespeare Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "The Winter’s Tale Cannot Escape Problem Play Curse at Chicago Shakespeare",
-   "quote": "Photo by Kyle Flubacker. The company of The Winter’s Tale.",
-   "quoteSource": "Chicago Onstage",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Onstage",
-     "url": "https://chicagoonstage.com/the-winters-tale-cannot-escape-problem-play-curse-at-chicago-shakespeare/",
-     "feed": "chicago-onstage"
-    }
-   ],
-   "status": "review"
   }
  ]
 }
