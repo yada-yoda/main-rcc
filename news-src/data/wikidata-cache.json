@@ -206,6 +206,15 @@
   "qid": null,
   "score": 0
  },
+ "Ain't Never": {
+  "checkedAt": "2026-11-11T20:01:15+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Al Hirschfeld": {
   "checkedAt": "2026-09-30T01:52:48+00:00",
   "description": "American artist and caricaturist (1903-2003)",
@@ -1919,6 +1928,15 @@
  },
  "Cares Board": {
   "checkedAt": "2026-10-13T19:46:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Cares Fundraiser": {
+  "checkedAt": "2026-11-11T20:01:13+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4237,6 +4255,15 @@
   "qid": null,
   "score": 0
  },
+ "Friend Like Sherri": {
+  "checkedAt": "2026-11-11T20:01:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Frightful Lyrics": {
   "checkedAt": "2026-10-31T17:31:40+00:00",
   "description": null,
@@ -4860,6 +4887,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Hannah Solow": {
+  "checkedAt": "2026-11-11T20:01:11+00:00",
+  "description": "American actress",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q139790124",
+  "score": 1
  },
  "Hanukkah Spectacular World": {
   "checkedAt": "2026-10-14T01:37:42+00:00",
@@ -6639,6 +6675,15 @@
   "qid": "Q232646",
   "score": 36
  },
+ "Julie Briskman": {
+  "checkedAt": "2026-11-11T20:01:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Julie Taymor": {
   "checkedAt": "2026-10-16T01:01:47+00:00",
   "description": "American film and theatre director (born 1952)",
@@ -6791,6 +6836,15 @@
   "knownFor": [],
   "qid": "Q222008",
   "score": 67
+ },
+ "Kathryn Boswell": {
+  "checkedAt": "2026-11-11T20:01:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Kathryn Hahn": {
   "checkedAt": "2026-10-15T01:14:48+00:00",
@@ -7864,6 +7918,15 @@
   "qid": "Q16832048",
   "score": 1
  },
+ "Mandy Gonzalez": {
+  "checkedAt": "2026-11-11T20:01:14+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4950447",
+  "score": 9
+ },
  "Mandy Moore": {
   "checkedAt": "2026-10-14T17:49:09+00:00",
   "description": "American actress and singer (born 1984)",
@@ -8399,6 +8462,15 @@
   "knownFor": [],
   "qid": "Q1928565",
   "score": 1
+ },
+ "Michael Mott": {
+  "checkedAt": "2026-11-11T20:01:18+00:00",
+  "description": "British judge",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q106827618",
+  "score": 0
  },
  "Michael O'Keefe": {
   "checkedAt": "2026-10-31T02:03:14+00:00",
@@ -9535,6 +9607,15 @@
   "qid": null,
   "score": 0
  },
+ "Playing Six Instruments": {
+  "checkedAt": "2026-11-11T20:01:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Playwright Jocelyn Bioh": {
   "checkedAt": "2026-09-27T19:22:20+00:00",
   "description": null,
@@ -9618,6 +9699,15 @@
  },
  "Prayer Circle": {
   "checkedAt": "2026-09-25T17:57:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Pre-Existing Condition": {
+  "checkedAt": "2026-11-11T20:01:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
