@@ -2600,6 +2600,15 @@
   "qid": "Q15229529",
   "score": 9
  },
+ "Corey Stoll": {
+  "checkedAt": "2026-11-12T03:38:49+00:00",
+  "description": "American stage and screen actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q26231",
+  "score": 38
+ },
  "Cost Nothing": {
   "checkedAt": "2026-10-22T17:52:49+00:00",
   "description": null,
@@ -6047,6 +6056,27 @@
   "qid": null,
   "score": 0
  },
+ "Jessica Chastain": {
+  "checkedAt": "2026-11-12T03:38:52+00:00",
+  "description": "American actress and producer (born 1977)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Molly's Game",
+   "The Eyes of Tammy Faye"
+  ],
+  "qid": "Q229313",
+  "score": 80
+ },
+ "Jessica Chastain Returning": {
+  "checkedAt": "2026-11-12T03:38:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jessica Lee Goldyn": {
   "checkedAt": "2026-11-09T22:54:22+00:00",
   "description": "American actress",
@@ -7766,6 +7796,15 @@
   "qid": null,
   "score": 0
  },
+ "Lost Lear": {
+  "checkedAt": "2026-11-12T03:38:48+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Lottery Policies": {
   "checkedAt": "2026-10-28T18:41:38+00:00",
   "description": null,
@@ -8489,6 +8528,24 @@
   "knownFor": [],
   "qid": "Q298276",
   "score": 54
+ },
+ "Michael Urie": {
+  "checkedAt": "2026-11-12T03:38:54+00:00",
+  "description": "American actor (born 1980)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q356331",
+  "score": 31
+ },
+ "Michael Urie Co-Star": {
+  "checkedAt": "2026-11-12T03:38:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Michelle Obama": {
   "checkedAt": "2026-09-25T17:54:25+00:00",
@@ -9897,6 +9954,15 @@
   "knownFor": [],
   "qid": "Q100853444",
   "score": 0
+ },
+ "Rachel Chavkin": {
+  "checkedAt": "2026-11-12T03:38:55+00:00",
+  "description": "American theatre director",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q17986398",
+  "score": 8
  },
  "Rachel Dratch": {
   "checkedAt": "2026-09-25T17:48:13+00:00",

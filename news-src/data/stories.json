@@ -2,6 +2,109 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "75e78c970e",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-11T17:14:00+00:00",
+   "published": "2026-11-11T17:14:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Booth Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Lost Lear",
+   "title": "Jessica Chastain, Michael Urie, and Corey Stoll to Star in Lost Lear on Broadway",
+   "quote": "BroadwayWorld has just learned that Academy Award, Golden Globe, and Actor Award winner and Tony Award and Emmy Award nominee Jessica Chastain will return to the Broadway stage for 16 weeks in Lost Lear, a new play by playwright Dan Colley. Last seen on Broadway in the record-breaking Tony nominated revival, A Doll’s…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
+   "imageCredit": "Thea Traff for The New York Times",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [
+    {
+     "name": "Jessica Chastain",
+     "knownFor": "Molly's Game, The Eyes of Tammy Faye",
+     "score": 80,
+     "qid": "Q229313"
+    },
+    {
+     "name": "Corey Stoll",
+     "knownFor": "American stage and screen actor",
+     "score": 38,
+     "qid": "Q26231"
+    },
+    {
+     "name": "Michael Urie",
+     "knownFor": "American actor",
+     "score": 31,
+     "qid": "Q356331"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHZWZnRyMVBSVWJFS0xTR2RNclhsOHhOLXV2LXVDUGJRWHItNFl0TTJ3N1Q5LVVNRG9mUWVLOERoODczbDI0cHlLckR5TWYtTm5wRzkyOWRFcXdnSnowVXQxSzlDY2k2TEZyYldfajFjcWNYa0s0YWhvWVYxakU3Z1JiNXdlZ0lscVFsSE9kQ2g4N0tLb0pBME5mZmh2ZFgyREZiYW9MX1lCZ2x6Qy1xcWRZZWJKbEZndE5EZWdn",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/jessica-chastain-sets-broadway-return-in-lost-lear",
+     "feed": "playbill"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1RKYTQxUVdGemU0amVYdW1qTlplYjVMRk9zT1ZhdXBjNnAyNzI3NlQ5TzViT09DUkFidDcxNl9PVU9FLVVYU0NQMmhobXl6OXhxZHhQRjdEd19qV1lrOGFyQkZBZjEyNWF5SHZ2dWc2UXp6bDlNNUVjM3dXTmZfQUkwLVdDWTRtQW04QmFOLXhBLUdHVU9MQ3hWVHE",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjc3QlA5bHpzdVJHbHdLRGJqV3Q3NkUxaDF2T3EtaDE3anZENkRzcG9nUUN4ejktblNDQU5DUlNnLWdSRHdkeXk1dk9mUGJObmp2WGVlV05adHpHZTdLR3FuNEF0anBSd21KRGhxcnNxNWE0bmhORkY0cVA3SE1QQzhGWHpOQUd4bVNZ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzFiYi1mcmxXbjBsOGpiNDNsWVphamZ1dmZHa05yUG9ybXJLVUcwc05jSVM2M01BbjdKME5zeDZSSFM2dFhxWUFMZFc1c2hTLUIwQnRoMklvVVBuNTRkd1JhZGhnRDhqTFpyVmhuX3UxcmVKWEMxVElweUJnVWd6Y24yeS1zYWphU2VRM2JMaDM2cF9yQm1SeDJnRjBvbGVtTEd2S2tYeU9wNjc1MWU4NXJMR1NCbGR4TjgyNThYQ0ZyRFEwMHp1RmExcmZuNnVOclRmckxBM2lSMWswVUxkbjFJZw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTGFFd085RHhLdGhRVmc1Ul9GVE04Yks0SkZUNlg2dXJpcTJWekFMb2RMcmNnbzJGZ2NFcm5zOWp6MTRHUkhCTXpIZTEtRUpNcUFJeDI4VHhORDNBY3pTUklBVkFnOURMN2c",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Jessica-Chastain-Michael-Urie-Corey-Stoll-Will-Lead-LOST-LEAR-on-Broadway-20261111",
+     "feed": "broadwayworld"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/11/theater/jessica-chastain-broadway-lost-lear.html",
+     "feed": "nyt-theater"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jessica-chastain-broadway-lost-lear-1236753346/",
+     "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/jessica-chastain-to-return-to-broadway-in-lost-lear-also-starring-corey-stoll-and-michael-urie/",
+     "feed": "broadway-news"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0RxakpxMnM4UjltanVqTEs5SUE4ZFRyVnAwVzlvMldXQmcwb2tieHBpY3NOSUdMZkRaQS1kbklyVTdadjlzOVUzS3d1VjRESVVZaVZ6TjNGZWo3VWM0bzVVbjFQQi02WEdhYVBNdjNWdmVBcklZWkVNU0FhWGU5M0V3ZkM3X0dialhKQllCblh1MHNXcUJPSXhYQXNybGhTYjRn",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/jessica-chastain-broadway-corey-stoll-michael-urie-lost-lear-1237220878/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "7a9d37644f",
    "priority": 2,
    "watched": [],
@@ -42,7 +145,7 @@
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-11-11T16:04:03+00:00",
-   "published": "2026-11-11T16:04:03+00:00",
+   "published": "2026-11-11T16:04:33+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -229,9 +332,9 @@
    "placedBy": "none",
    "type": "casting",
    "show": null,
-   "title": "Jordan Fisher to star in Purple Rain",
+   "title": "Jordan Fisher to Star in Prince Musical Purple Rain",
    "quote": "",
-   "quoteSource": "Yahoo Lifestyle Canada",
+   "quoteSource": "TheaterMania",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -246,13 +349,13 @@
    ],
    "sources": [
     {
-     "name": "Yahoo Lifestyle Canada",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02WjV5OVJ1emQ5TzBaNlAxZnRycHAzd29VakZJQ18yOGhfNHQtZkd1WEY1NnkwNGxaN1RScHNPeHBaSzNPR2Z0MkVJMnd6S3EtSEtaS2pxbF9jaGI4WDVDU0ZVS1I1Zy1aVDEzRms0al9lSV8wSG9ENWh6b2Q",
+     "name": "TheaterMania",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXBwenQ3YXNSTXRwSi1aZVliNjRhTlhLbGFGQ1ppR0hDMnZjNHZfYkJ3ZFNxNlJ0YURJYS1OSWQxUHpiV2c2eDlLWTFvODBpSU95YVJOY1VkTWxZX29wX3VsemQ0OFI4UWsySFZjWVNmbjlLNFRMYnFuMk5vT3JiOU1MTjFkMzZnR2hZd3ZWMEw5UDNnc0ExNlRB",
      "feed": "gn-to-star"
     },
     {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXBwenQ3YXNSTXRwSi1aZVliNjRhTlhLbGFGQ1ppR0hDMnZjNHZfYkJ3ZFNxNlJ0YURJYS1OSWQxUHpiV2c2eDlLWTFvODBpSU95YVJOY1VkTWxZX29wX3VsemQ0OFI4UWsySFZjWVNmbjlLNFRMYnFuMk5vT3JiOU1MTjFkMzZnR2hZd3ZWMEw5UDNnc0ExNlRB",
+     "name": "Yahoo Lifestyle Canada",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02WjV5OVJ1emQ5TzBaNlAxZnRycHAzd29VakZJQ18yOGhfNHQtZkd1WEY1NnkwNGxaN1RScHNPeHBaSzNPR2Z0MkVJMnd6S3EtSEtaS2pxbF9jaGI4WDVDU0ZVS1I1Zy1aVDEzRms0al9lSV8wSG9ENWh6b2Q",
      "feed": "gn-to-star"
     }
    ],
@@ -328,11 +431,6 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "CBS News",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQldpWFBtRV9YYjVHUE5SbXJEWm82c3JxNURLbG5mQ3gyZUdIUWI3eGI5NmNXTUoxbF8yUDBYYzk1NmxuV256RXVxZ3NSb0ZtTXpHR3QzbkJDRk8wLW5LQmp3Qy1OYlQtMkVJRHRNTDJWTVFrbDlfLTlQbVNQUnpfZmpTcExIUENLc1hNbWI3bjVHQUJkYkhzMG4wbw",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "Broadway News",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkNGUFhSM3UzT0hpdzVoc1ktb0I0M0UtNTNKTjdGQm5YU3drczdfV1IyekJWRjVsV1dwbm9pMEdVUW51VjdtZVM5ZDBpVnBlWURUV3d1b21LWlVOTk9nQjU2azJQNldFdkxoMDJaNTAxTG14YzFXX05QYTN2ZkhpN3lnNTZYSExSbTVKRFNiNA",
      "feed": "gn-to-star"
@@ -343,13 +441,18 @@
      "feed": "gn-to-star"
     },
     {
+     "name": "TheGrio",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
+     "feed": "gn-to-star"
+    },
+    {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
      "feed": "gn-to-star"
     },
     {
-     "name": "TheGrio",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQldpWFBtRV9YYjVHUE5SbXJEWm82c3JxNURLbG5mQ3gyZUdIUWI3eGI5NmNXTUoxbF8yUDBYYzk1NmxuV256RXVxZ3NSb0ZtTXpHR3QzbkJDRk8wLW5LQmp3Qy1OYlQtMkVJRHRNTDJWTVFrbDlfLTlQbVNQUnpfZmpTcExIUENLc1hNbWI3bjVHQUJkYkhzMG4wbw",
      "feed": "gn-to-star"
     },
     {
@@ -375,6 +478,16 @@
     {
      "name": "Broadway Shows",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmJHU0FqOXlEenI5RkpacW1LM0NQVmlMcU5CamczRkRnQ0xZNFdEV1FHWWtsekRJd3h3bkpzeEVhRkJJZFhYYkV3MHpfb1VUcmpmbGhIRXF6WW9VZUx4M0hNZFhvMk9fV3dQUVJsRVRoVWJtbHpmR0Jfd0d2d1FXSXA0QkhLaXpWTW5lX2JvdHBkbGctOUVLZ0JR",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "News8000",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWcxR2NjaFdULTFmWkhHX1RDUEkxLWpqODdSMDZlSlZzZkdBREV6S0ZpaWZRRUliR0E4REhrSkg0dVhKSFZzMTFUN1VZUEp2NDAyeHdPa0VFWVF5M2NFcHg0bmFwNTg0VGR6eE01RUg4V1FWV28tdG55YWd4YmMxX3A4MG54eElyM2tvOVZUVjAzVHlZTkVmLVRFbkprNzdTd2VkR3pENlEtc211YldoMGVhOHhFRWplRUFKTnQ3SDZmVlJvcFJ0Y3ZKTFgyMng4ellB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Sweety High",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcXdnVTRqblE3TlhmTXVQR0JHTDV4QU1nNjQ0dXFFM2xpZzV6Wm8zcTJXSm41dEhLM1lERXVDZnZhT3ZTRHJnaTRPWHRlSDJaanhCaS12QXB1QUFaam9iNk95d3NnYVF3TmVzQmRLVnNoeThQUlB6c0lwX2xpYjQ",
      "feed": "gn-to-star"
     },
     {
@@ -631,15 +744,15 @@
    "published": "2026-11-09T14:04:42+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "Samuel J. Friedman Theatre",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Awake And Sing!",
    "title": "Full Cast Set For Clifford Odets' AWAKE AND SING! on Broadway",
-   "quote": "Manhattan Theatre Club has announced complete casting for the company's new Broadway production of Clifford Odets' landmark 1935 American drama, Awake and Sing! Directed by Tyne Rafaeli (Off-Broadway: Data, The Coast Starlight, Epiphany), Awake and Sing!",
+   "quote": "",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-091a74e991977a3cc0674b9b91870849.jpg",
-   "imageCredit": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -655,11 +768,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFFobEJBV0dtd2dJclk5RjBsZ0VvVFEwY3owNngta0ZUb0FKUThUbV9veE9CUWFTbkxKZ04teGdXU3o3TkxrWXY5blVENkw4VGpBd2RFOHp1b21YanktaWhkY3FrZUxPQlJka29oQjhhVVpwaFdDZ01yRlhVQU5vUjNaVkZGUk8xd25XTDdHSDh2Vm04N2t5bzBEQlVxMmVTMWNLSmtSQUdnZVJTcjJfbw",
      "feed": "gn-bway-casting"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Full-Cast-Set-For-Clifford-Odets-AWAKE-AND-SING-Broadway-Revival-20261109",
-     "feed": "broadwayworld"
     }
    ],
    "status": "published"
@@ -2916,76 +3024,62 @@
    "status": "published"
   },
   {
-   "id": "0f6717648d",
-   "priority": 2,
+   "id": "26855cd398",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-21T22:39:53+00:00",
-   "published": "2026-10-21T22:39:53+00:00",
+   "firstSeen": "2026-11-11T23:15:31+00:00",
+   "published": "2026-11-11T23:15:31+00:00",
    "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "Atlantic Theater Company",
-   "placedBy": "venue",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
    "type": null,
    "show": null,
-   "title": "Sydney Lemmon, Alison Pill, Ato Blankson-Wood, more join Atlantic Theater Company's 2026-27 season",
-   "quote": "",
-   "quoteSource": "New York Theatre Guide",
-   "image": null,
-   "imageCredit": null,
+   "title": "Broadway organizations win 2026 Anthem Awards",
+   "quote": "The winners include TDF, Springboard to Design and organizations tied to “Cats” and “Every Brilliant Thing.”",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/260725_Springboard_Day3-101-1-.jpg",
+   "imageCredit": "Broadway News",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Alison Pill",
-     "knownFor": "Canadian actress",
-     "score": 39,
-     "qid": "Q237781"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNXdBNi1IZVBleUdVZjFrMnBDQUlsNXlQOC1TWmlWVmQ4d2VSbTBNVThlM2Vuc0puUXVQNEZGMG5jMGFoMG1LclVnNklER0tjRjVqbTJpZll3NXVDd2dkVDlidmN0aXhvQ1pmWVpIRENkRFZ4eGhQYUxVLWZ2RnplZ0VsV1k3aHIwLTlpcEF0Slo0TXpIeHU4cTZ2YmNmZEhJTU1jdktBSi1GTEpHUzhvZjRXVWtHbUlnWXhnZUs4OGR6MzRMSHVRTWhMLW55aXBWY09wemE4a3hCS3AtaFlFRm5n",
-     "feed": "gn-bway-casting"
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadway-organizations-win-2026-anthem-awards/",
+     "feed": "broadway-news"
     }
    ],
    "status": "review"
   },
   {
-   "id": "871d706d0c",
-   "priority": 2,
+   "id": "23b8d42269",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-21T21:36:42+00:00",
-   "published": "2026-10-21T21:36:42+00:00",
-   "city": "New York",
-   "tier": "Broadway",
+   "firstSeen": "2026-11-11T22:26:53+00:00",
+   "published": "2026-11-11T22:26:53+00:00",
+   "city": null,
+   "tier": null,
    "venue": null,
-   "placedBy": "words",
+   "placedBy": "none",
    "type": "new production",
-   "show": null,
-   "title": "Lin-Manuel Miranda’s Warriors Announces Its Broadway Cast",
-   "quote": "",
-   "quoteSource": "Sweety High",
-   "image": null,
-   "imageCredit": null,
+   "show": "Waiting for Snow in Havana",
+   "title": "Rachel Chavkin to direct reading of new musical ‘Waiting for Snow in Havana’",
+   "quote": "Based on Carlos Eire’s memoirs, the show will follow Eire’s early childhood in Cuba and his upbringing in the U.S. foster system.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/GettyImages-2148654387-1-.jpg",
+   "imageCredit": "Broadway News",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "Sweety High",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42VW9vR1FUbF91am5sZDRhRVJaTS1iWHNqTzEyVTVsUFIyeWpDaVZiUEFncnFXSEk1eW81WjJCV0tCeGlXTy1Ic2czZ19QSjNHTlNzRm1sUWg5UVJqazNMT1RESF9CeWVHMEY4dXUwd3JVN1k",
-     "feed": "gn-bway-casting"
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/rachel-chavkin-to-direct-reading-of-new-musical-waiting-for-snow-in-havana/",
+     "feed": "broadway-news"
     }
    ],
-   "status": "published"
+   "status": "review"
   },
   {
    "id": "6bafefe018",
@@ -3012,6 +3106,64 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Hannah-Solow-to-Host-BROADWAY-STANDING-BY-at-New-Amsterdam-Theatre-20261111",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "e8628180ae",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-11T17:40:07+00:00",
+   "published": "2026-11-11T17:40:07+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Which Broadway show to see based on your favorite holiday movie",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3drM2QxM3dnb1pxVFUtYTNJbGs3c1NkZjNYRDZuNjR6N3RoMUdkZDFLa05ScDEtRlRyc3daRGFCTDhrYWpTSGRva3RycXdIWHpvY3gtM3JvZERGVkYwSjZXM0Y5OVFvTmdpVXlFWlVyeGhOakxhMWxXQVlQMzFyQlU5cXp5OVJ5Xy1NUl9oUlZCd1hUMVc4RVU2Qzd6ZTFpQWRuWlREc0NnVGhFRHFua3ZhdWNudjlk",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "603a20f1e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T19:30:00+00:00",
+   "published": "2026-11-11T17:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
+   "quote": "Keep track of the shows booked into each Broadway theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-real-estate",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3104,6 +3256,35 @@
    "status": "review"
   },
   {
+   "id": "aad0602137",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-11T09:38:22+00:00",
+   "published": "2026-11-11T14:38:22+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Michael Braun Will Join Cast of Pre-Existing Condition Off-Broadway",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmlUX2VWS0pVOHctR0lqdW5XWjhBbFd5WFR4SWEybkZtUWdBRmFERzdZd0w2cjdVa2UzYlFfTkJmVk11WHpYZ01ESVExaklsQzF5TFRtZkpDdUFSUndxX1o2QVJjRWFIVmZTVklodXlCb01Qc2J2Y0VHSExkWU5fTTUxblk3X2xHYzVYLU5LS0ZZR1RVUHpna3UwRDA",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "e4479efad6",
    "priority": 3,
    "watched": [],
@@ -3189,40 +3370,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "aad0602137",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-11T09:38:22+00:00",
-   "published": "2026-11-11T09:38:22+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Michael Braun Will Join Cast of Pre-Existing Condition Off-Broadway",
-   "quote": "Maria Dizzia directs the encore engagement of Marin Ireland's play.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/22566007/Michael-Braun.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmlUX2VWS0pVOHctR0lqdW5XWjhBbFd5WFR4SWEybkZtUWdBRmFERzdZd0w2cjdVa2UzYlFfTkJmVk11WHpYZ01ESVExaklsQzF5TFRtZkpDdUFSUndxX1o2QVJjRWFIVmZTVklodXlCb01Qc2J2Y0VHSExkWU5fTTUxblk3X2xHYzVYLU5LS0ZZR1RVUHpna3UwRDA",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/michael-braun-will-join-cast-of-pre-existing-condition-off-broadway",
-     "feed": "playbill"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "dafef30b69",
@@ -4774,15 +4921,20 @@
    "placedBy": "words",
    "type": "casting",
    "show": "Awake and Sing!",
-   "title": "Complete cast set for 'Awake and Sing!' on Broadway",
+   "title": "Manhattan Theatre Club Completes Cast for Broadway’s ‘Awake and Sing!’",
    "quote": "",
-   "quoteSource": "New York Theatre Guide",
+   "quoteSource": "TicketNews",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
    "sources": [
+    {
+     "name": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWIyZUdSaXlMT2lBTVRuR0NrckUzNGxMTThPMkdOVmEtNWpqLVRHT01QVW9IZXVienp3YnpOUGRibkM4OThFbXpJQUtnYUNvU3hXc29qWVl3UktibjM1T2tUQlBQR01BMUthT0RQWE9NVmZvTUFFNzl1cVRQY3BVUTJUdkliSFVoQWFDSGNheG5USDRwTEtYdk5XeG1xVEhmWVNHUw",
+     "feed": "gn-bway-casting"
+    },
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGNGWlI3eElhTkNxMnRpMmZRNHNpUnNrWnBWZTZDSjk5WkJFYjBzTlpyN01qZUZGMHlPekFFd1FVNXNGZlh5bktxZDVwcWxOdVJpdE84a0lDUGdZWFA1UGQ5WU53eXZuYTJrYTAwNHZ0MHlWWldIWDZrSk5kZ1hWVHFYN2tpRUdTQ3JxOUV2MWRvaWpHRjMxRE5CN1FLY1FTYURJTg",
@@ -8224,35 +8376,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSzRUTjdHNThFYlhqcWk4WXF5TFZaMlhLTlo4Yk1Lb3gtNnItcTBDUEtiZlhFNm91M1FIVzJRRTYzX1h2NlNDdXdIekJEdUVDSW1yODVVQ1F1WGF0aEtmQ1VsVWJ2OVFCVXlZZTB2WW1RakE5Q3NsTjJWb3dPdk9BNEdrZEl3NVVpNjNycnpNVTlIU25yM3hQUjFhYVktQmxMcnE2dUppX0g4TzVQVGdrYWlyZlo1aEg2Rk1EOFJDOA",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "603a20f1e0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T19:30:00+00:00",
-   "published": "2026-10-31T00:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
-   "quote": "Keep track of the shows booked into each Broadway theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-real-estate",
-     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -12821,93 +12944,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzNEZkVSeXJXdUNQNldTcjZhdE5VS2V1dDRPWUFGb2VYaU5vUDNzblRUSTR1RGxKb1RZeUhxVUNuc2hpcUVKM1l5RmdkT3ZZeWd4ckFTOVBlSzQxQzlZM3JDSlN2a3J4cGo4MlRMUGVjbFBiLTBDNjk4NWZVVXFIdjlDOEZZSUpPNUtqVVRKazhlNTR6R1NrdV8tSUpNd3dNMUx1RDdn",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "2ac48b1785",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-22T02:00:15+00:00",
-   "published": "2026-10-22T02:00:15+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "The Public Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "The Curious Case of Benjamin Button: Musical Fable Will Make You Feel Younger",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/21/the-curious-case-of-benjamin-button-a-musical-fable-that-will-make-you-feel-younger/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "db334f6905",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-22T02:00:15+00:00",
-   "published": "2026-10-22T02:00:15+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "The Public Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "The Curious Case of Benjamin Button: A Musical Fable That Will Make You Feel Younger",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/21/the-curious-case-of-benjamin-button-a-musical-fable-that-will-make-you-feel-younger/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "c9e704c5f1",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-22T01:59:48+00:00",
-   "published": "2026-10-22T01:59:48+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "The Curious Case of Benjamin Button: New Musical Pushes Button",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/21/the-curious-case-of-benjamin-button-new-musical-pushes-button/",
-     "feed": "ny-stage-review"
     }
    ],
    "status": "review"
