@@ -637,6 +637,15 @@
   "qid": "Q4766434",
   "score": 7
  },
+ "Ann Reinking": {
+  "checkedAt": "2026-11-13T03:10:33+00:00",
+  "description": "American dancer, choreographer and actress (1949-2020)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q3297953",
+  "score": 26
+ },
  "Anne Frank": {
   "checkedAt": "2026-10-02T02:02:18+00:00",
   "description": "German-born Dutch Jewish diarist and Holocaust victim (1929–1945)",
@@ -2546,6 +2555,15 @@
   "qid": null,
   "score": 0
  },
+ "Comedy Phenomenon": {
+  "checkedAt": "2026-11-13T03:10:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Comic Con": {
   "checkedAt": "2026-10-06T18:48:57+00:00",
   "description": null,
@@ -3271,6 +3289,15 @@
  },
  "Director Recalls Feeling": {
   "checkedAt": "2026-10-15T17:38:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Director Sam Pinkleton": {
+  "checkedAt": "2026-11-13T03:10:38+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4138,6 +4165,15 @@
   "qid": null,
   "score": 0
  },
+ "Fiyero Understudy": {
+  "checkedAt": "2026-11-13T03:10:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Flaco Navaja": {
   "checkedAt": "2026-10-15T17:38:45+00:00",
   "description": "American actor",
@@ -4401,6 +4437,15 @@
  },
  "Full Gallop": {
   "checkedAt": "2026-09-25T17:55:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Full Houses": {
+  "checkedAt": "2026-11-13T03:10:40+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5209,6 +5254,15 @@
  },
  "History Repeating Itself": {
   "checkedAt": "2026-10-19T19:04:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Hold Virtual": {
+  "checkedAt": "2026-11-13T03:10:35+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6286,6 +6340,15 @@
   "knownFor": [],
   "qid": "Q27064031",
   "score": 44
+ },
+ "Joel Grey Discuss": {
+  "checkedAt": "2026-11-13T03:10:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Joel Waggoner": {
   "checkedAt": "2026-10-15T17:38:56+00:00",
@@ -8279,6 +8342,15 @@
  },
  "Mary Jumps": {
   "checkedAt": "2026-09-25T17:56:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Mary Mania": {
+  "checkedAt": "2026-11-13T03:10:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10308,6 +10380,15 @@
  },
  "Receive Industry Reading": {
   "checkedAt": "2026-10-20T17:48:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Red Bucket Follies": {
+  "checkedAt": "2026-11-13T03:10:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

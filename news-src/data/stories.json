@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "2a5a8306fe",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-12T15:49:00+00:00",
+   "published": "2026-11-12T15:49:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "From the Archives: Ann Reinking, Joel Grey Discuss Bringing Chicago Back to Broadway",
+   "quote": "For Bob Fosse's longtime muse, 1996 is the perfect time for her to play Roxie.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Chicago-Broadway-1996-HR.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Ann Reinking",
+     "knownFor": "American dancer, choreographer and actress (1949-2020)",
+     "score": 26,
+     "qid": "Q3297953"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/from-the-archives-ann-reinking-joel-grey-discuss-bringing-chicago-back-to-broadway",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "19fcdcf449",
    "priority": 2,
    "watched": [],
@@ -135,8 +171,13 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHVnTU05enAyM2E4YXlqUnJsallXTUpIUktHaGg2N1RzUE9mVFFfWEVlMmZEYm5wZk0yLUZfal9IZFpVWDZfZk00VFNZOG9KYWlmcG4xNHJMTXlLQXJpT3BIYjNKaEtPOTNkREdueGt4N1huU0MyMGZvVENVTjdDd2xfc1ZSWF9WT3hlaGJVaTJpR29MeHMtcjNJZUxSeTg",
      "feed": "gn-to-star"
     },
     {
@@ -145,8 +186,8 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
      "feed": "gn-to-star"
     },
     {
@@ -183,6 +224,11 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/steve-carell-john-c-reilly-odd-couple-on-broadway-1236753889/",
      "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/steve-carell-and-john-c-reilly-to-star-in-the-odd-couple-on-broadway/",
+     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -415,9 +461,9 @@
    "placedBy": "words",
    "type": null,
    "show": "The Kid",
-   "title": "Broadway finds its Prince: Jordan Fisher cast as 'The Kid' in 'Purple Rain' musical",
+   "title": "Jordan Fisher Cast as ‘The Kid’ in Broadway’s ‘Purple Rain’ Musical",
    "quote": "",
-   "quoteSource": "Yoursun",
+   "quoteSource": "Foxy99",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -432,6 +478,11 @@
    ],
    "sources": [
     {
+     "name": "Foxy99",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnd6OWZ0c1pfTndRaDNNUW1tVklzYWJicklaV3lCNDJkX3dRclFhcjBOcjU1QjZfRjN1U3h6THVyUkJoLTNLYkpCNFFaNnlnaWRVR2s5UUM0NnQ5dVljeV9aX2lVRV9mVWRMMy04YmwzeDRUOU95ZEpaek9CTERaNF92UXhjU2ZoVjhpa0tPWWJrX21KUzRoRg",
+     "feed": "gn-bway-casting"
+    },
+    {
      "name": "Yoursun",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbHFsaEc2LXpoOHMwc25PVC1wQXVmQkF1SGotd3RmN1hhazQ0dFBNTm02U19uVzZWLXlqTGdUU2lzN2NYVWdUd3owVzVKSVZsU3ltMGNkeVNTRTZrZ2FwVXNQMW9OLWhQejdXWE03MFFxWWxYUHR5ZEdJMmphRWdZcUVEVi1NSElLYjFiTTJwQ3dweUZDcGFJcjFFWGlyZEZoUklUaHBLbnNQNlVITzhmVUEtdlFBWFRDLU9ENTNnVWdjRWF0dURSUnBhaUJ4cTlyanFicTFGVjFqcEo3cFNwcGJBZWpCRFoyeTBfejFkTTZhclI3TEhj",
      "feed": "gn-bway-casting"
@@ -439,11 +490,6 @@
     {
      "name": "Couriernews",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWVl3bl8wLVJ2NVZaeHNIaDl5Q3NUUUVibW5Genp6djNGckMtNGxfeGY5TVc0Y1RiU2lfWW14U2twUXNhM01nb3hzV0loRm84TFlfeFJPOVNTREJPNDR2OHdzX1BRTmNnWTRuR3hGdDVLSEdONEVUeERRVHhlbG01YUdsSXdYSTlVa21NdkRhXy1iU3p4b0VRWXJ1ZjZXeHBVSTlENXZaQVoxTG5EbFpBMjVkZHJLQlJEUVNxeVFGR0dTdVN5ZnVNQUd5ak90eGJVZERMdnFvZ0M3a1RHanBGcEF1Q2N4b1YwWENDdFRGVlNScHpOR3AxMzlxaHZ0ajQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "V 101.9 Charlotte",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHhmODZaMk1PMS1zT1Z6R2hxVTUxeGt6dFd0ZHpBS0xaRWhqRjlNUmh1Nlh4RU9nY281blVpR1p4MF9nTXVReGI3VVN0dGd4VHRUOG9fZ2JfcU45ckVoQVNyVm9iazBKUkdqcmJFS3NEWC1WRnVCaWw2c2U5VVRreTR6cF9XMXhVdjBtX3JSWU80eVVhcGs4",
      "feed": "gn-bway-casting"
     },
     {
@@ -532,6 +578,122 @@
    "status": "review"
   },
   {
+   "id": "ba82d8ef6c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T08:00:00+00:00",
+   "published": "2026-11-10T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Majestic Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Purple Rain",
+   "title": "Jordan Fisher Will Star in Prince’s Purple Rain on Broadway",
+   "quote": "Broadway’s Purple Rain has cast Jordan Fisher in the lead role of The Kid, the very Prince-like character portrayed by very real Prince in the original 1984 film. Producer Orin Wolf announced the casting today.",
+   "quoteSource": "Deadline",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/Copy-of-Situation-Pro-to-BN-Template--6-.png",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbllYZkhjYlFzaDhmV25URlVvRS0wY2ZhZ1NzVXNhYTRkWV9uMDRwcWdXM0JRZmhLbE5MeFFKallpRlVxQks4MTBZZENLbnhUX2h2d1Vuemg0Yy1INUdwLVEwWnpFaXJ2UVJ2TTBqSXRKRkJDWWx0NUEzSG9uNm16b244Q0NBdmhtdmdBNTlKVkRDdm9manlESDdB",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmJHU0FqOXlEenI5RkpacW1LM0NQVmlMcU5CamczRkRnQ0xZNFdEV1FHWWtsekRJd3h3bkpzeEVhRkJJZFhYYkV3MHpfb1VUcmpmbGhIRXF6WW9VZUx4M0hNZFhvMk9fV3dQUVJsRVRoVWJtbHpmR0Jfd0d2d1FXSXA0QkhLaXpWTW5lX2JvdHBkbGctOUVLZ0JR",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway at the Hobby Center",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUlod0ZDZmg0ZjYzeVgwd3Mwa2J0OFpTalpaM3JTTHJFLXRmWFdVSEpjcDlJMUlWMTE0cjFnNFZtbER1MWVVb3l3TGFZVDdna1VocWlFd0E4YWpieENEV0Zoa0paUEZrY1pyT2xJb1hTQ2lLM2hQMXpUUnp3ODZZTjIxeU9BRkxGY1psdEhkRWJDQ1laSWc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "News8000",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWcxR2NjaFdULTFmWkhHX1RDUEkxLWpqODdSMDZlSlZzZkdBREV6S0ZpaWZRRUliR0E4REhrSkg0dVhKSFZzMTFUN1VZUEp2NDAyeHdPa0VFWVF5M2NFcHg0bmFwNTg0VGR6eE01RUg4V1FWV28tdG55YWd4YmMxX3A4MG54eElyM2tvOVZUVjAzVHlZTkVmLVRFbkprNzdTd2VkR3pENlEtc211YldoMGVhOHhFRWplRUFKTnQ3SDZmVlJvcFJ0Y3ZKTFgyMng4ellB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Sweety High",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcXdnVTRqblE3TlhmTXVQR0JHTDV4QU1nNjQ0dXFFM2xpZzV6Wm8zcTJXSm41dEhLM1lERXVDZnZhT3ZTRHJnaTRPWHRlSDJaanhCaS12QXB1QUFaam9iNk95d3NnYVF3TmVzQmRLVnNoeThQUlB6c0lwX2xpYjQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "WhatsOnStage",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzI5RUY3TFVqLW1GQ2JsSFViNE45QzZGUnJMQjBfZUNUVDJyenlpN0xCT0ZNNWtXTk1MM1lRRnQ5cVFQMzl5Y1VIM2dKWDAycXBZX1M0UnBfZUhSWFZQMVdMeTRKRUJNdXZKVGlIVTM0UnNPQUVwcGg2dXVpSHgzNEZIT3NFV3RuU1dUQXhuWEwwcFZibnk4OTkwOFY4Wks4NmVIcHZsMV9mZw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Aol",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODZFcHQ1Ti1OT1NhY1Z0d19HMGFSSVdIRHJmTEpJbVJ3dFkxbkFwRkdhYmlvNEltY28xQW5CTG9rVy1yQXlpUXB3TlNscENGVnptMVU5RXlONW01QlRMcTVrRjRNeVVoUGQ4a2FsYVFfak5TanFSRWljbkJHeGNKS0pCQQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "TheGrio",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkNGUFhSM3UzT0hpdzVoc1ktb0I0M0UtNTNKTjdGQm5YU3drczdfV1IyekJWRjVsV1dwbm9pMEdVUW51VjdtZVM5ZDBpVnBlWURUV3d1b21LWlVOTk9nQjU2azJQNldFdkxoMDJaNTAxTG14YzFXX05QYTN2ZkhpN3lnNTZYSExSbTVKRFNiNA",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jordan-fisher-prince-role-broadway-adaptation-purple-rain-1236751251/",
+     "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/jordan-fisher-to-star-in-princes-purple-rain-on-broadway/",
+     "feed": "broadway-news"
+    },
+    {
+     "name": "Gold Derby",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3hGTVdOQVo1RTBOQ0E4RnBXMGNMT3poMU5VSGVRTnFTRW9YMHJ2d0ppM1g4Zmg2UDJXTzNvdHR3aGNoc2cybXI4WlpFcFh4MEhBWklCVjhaLWExOGNMcnNyYXU0eXZTcmJUTDRsZ3BFbE9vQVlVU0dZSXM1S2J2R2NFNWhmSVVWX0ZnNjhsQWgwTmhWV2JhLTREUkdzX1c0bDdqdS1iQnM2QQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlVtQUFKLXFweTBIZmlxUU5KcEdRUnphV2w4X28ycjUyanR2VlU4V09vM0NNdjJPSjFRTW92RXZyUG41ZUNkTGhPejQydjNQSkxkTWxiVEJiQUwyVm9MMTJBRHdyOV9MZ3pXUWlMY0JZUFhqeVNZem9hblNWbzEtUA",
+     "feed": "gn-offbway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/purple-rain-broadway-jordan-fisher-1237218438/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "b1d2171435",
    "priority": 2,
    "watched": [],
@@ -543,7 +705,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "Lost Lear",
-   "title": "Jessica Chastain, Michael Urie & Corey Stoll Will Lead LOST LEAR on Broadway",
+   "title": "Jessica Chastain, Michael Urie & Corey Stoll Lead LOST LEAR on Broadway",
    "quote": "BroadwayWorld has just learned that Academy Award, Golden Globe, and Actor Award winner and Tony Award and Emmy Award nominee Jessica Chastain will return to the Broadway stage for 16 weeks in Lost Lear, a new play by playwright Dan Colley. Last seen on Broadway in the record-breaking Tony nominated revival, A Doll’s…",
    "quoteSource": "BroadwayWorld",
    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
@@ -635,122 +797,6 @@
      "name": "TheaterMania",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHZWZnRyMVBSVWJFS0xTR2RNclhsOHhOLXV2LXVDUGJRWHItNFl0TTJ3N1Q5LVVNRG9mUWVLOERoODczbDI0cHlLckR5TWYtTm5wRzkyOWRFcXdnSnowVXQxSzlDY2k2TEZyYldfajFjcWNYa0s0YWhvWVYxakU3Z1JiNXdlZ0lscVFsSE9kQ2g4N0tLb0pBME5mZmh2ZFgyREZiYW9MX1lCZ2x6Qy1xcWRZZWJKbEZndE5EZWdn",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "ba82d8ef6c",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-10T08:00:00+00:00",
-   "published": "2026-11-10T08:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Majestic Theatre",
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Purple Rain",
-   "title": "Jordan Fisher Will Star in Prince’s Purple Rain on Broadway",
-   "quote": "Broadway’s Purple Rain has cast Jordan Fisher in the lead role of The Kid, the very Prince-like character portrayed by very real Prince in the original 1984 film. Producer Orin Wolf announced the casting today.",
-   "quoteSource": "Deadline",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/Copy-of-Situation-Pro-to-BN-Template--6-.png",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Jordan Fisher",
-     "knownFor": "American singer and actor",
-     "score": 28,
-     "qid": "Q19955856"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbllYZkhjYlFzaDhmV25URlVvRS0wY2ZhZ1NzVXNhYTRkWV9uMDRwcWdXM0JRZmhLbE5MeFFKallpRlVxQks4MTBZZENLbnhUX2h2d1Vuemg0Yy1INUdwLVEwWnpFaXJ2UVJ2TTBqSXRKRkJDWWx0NUEzSG9uNm16b244Q0NBdmhtdmdBNTlKVkRDdm9manlESDdB",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmJHU0FqOXlEenI5RkpacW1LM0NQVmlMcU5CamczRkRnQ0xZNFdEV1FHWWtsekRJd3h3bkpzeEVhRkJJZFhYYkV3MHpfb1VUcmpmbGhIRXF6WW9VZUx4M0hNZFhvMk9fV3dQUVJsRVRoVWJtbHpmR0Jfd0d2d1FXSXA0QkhLaXpWTW5lX2JvdHBkbGctOUVLZ0JR",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway at the Hobby Center",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUlod0ZDZmg0ZjYzeVgwd3Mwa2J0OFpTalpaM3JTTHJFLXRmWFdVSEpjcDlJMUlWMTE0cjFnNFZtbER1MWVVb3l3TGFZVDdna1VocWlFd0E4YWpieENEV0Zoa0paUEZrY1pyT2xJb1hTQ2lLM2hQMXpUUnp3ODZZTjIxeU9BRkxGY1psdEhkRWJDQ1laSWc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "News8000",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWcxR2NjaFdULTFmWkhHX1RDUEkxLWpqODdSMDZlSlZzZkdBREV6S0ZpaWZRRUliR0E4REhrSkg0dVhKSFZzMTFUN1VZUEp2NDAyeHdPa0VFWVF5M2NFcHg0bmFwNTg0VGR6eE01RUg4V1FWV28tdG55YWd4YmMxX3A4MG54eElyM2tvOVZUVjAzVHlZTkVmLVRFbkprNzdTd2VkR3pENlEtc211YldoMGVhOHhFRWplRUFKTnQ3SDZmVlJvcFJ0Y3ZKTFgyMng4ellB",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Sweety High",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcXdnVTRqblE3TlhmTXVQR0JHTDV4QU1nNjQ0dXFFM2xpZzV6Wm8zcTJXSm41dEhLM1lERXVDZnZhT3ZTRHJnaTRPWHRlSDJaanhCaS12QXB1QUFaam9iNk95d3NnYVF3TmVzQmRLVnNoeThQUlB6c0lwX2xpYjQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "WhatsOnStage",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzI5RUY3TFVqLW1GQ2JsSFViNE45QzZGUnJMQjBfZUNUVDJyenlpN0xCT0ZNNWtXTk1MM1lRRnQ5cVFQMzl5Y1VIM2dKWDAycXBZX1M0UnBfZUhSWFZQMVdMeTRKRUJNdXZKVGlIVTM0UnNPQUVwcGg2dXVpSHgzNEZIT3NFV3RuU1dUQXhuWEwwcFZibnk4OTkwOFY4Wks4NmVIcHZsMV9mZw",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODZFcHQ1Ti1OT1NhY1Z0d19HMGFSSVdIRHJmTEpJbVJ3dFkxbkFwRkdhYmlvNEltY28xQW5CTG9rVy1yQXlpUXB3TlNscENGVnptMVU5RXlONW01QlRMcTVrRjRNeVVoUGQ4a2FsYVFfak5TanFSRWljbkJHeGNKS0pCQQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkNGUFhSM3UzT0hpdzVoc1ktb0I0M0UtNTNKTjdGQm5YU3drczdfV1IyekJWRjVsV1dwbm9pMEdVUW51VjdtZVM5ZDBpVnBlWURUV3d1b21LWlVOTk9nQjU2azJQNldFdkxoMDJaNTAxTG14YzFXX05QYTN2ZkhpN3lnNTZYSExSbTVKRFNiNA",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Variety",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "TheGrio",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jordan-fisher-prince-role-broadway-adaptation-purple-rain-1236751251/",
-     "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/jordan-fisher-to-star-in-princes-purple-rain-on-broadway/",
-     "feed": "broadway-news"
-    },
-    {
-     "name": "Gold Derby",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3hGTVdOQVo1RTBOQ0E4RnBXMGNMT3poMU5VSGVRTnFTRW9YMHJ2d0ppM1g4Zmg2UDJXTzNvdHR3aGNoc2cybXI4WlpFcFh4MEhBWklCVjhaLWExOGNMcnNyYXU0eXZTcmJUTDRsZ3BFbE9vQVlVU0dZSXM1S2J2R2NFNWhmSVVWX0ZnNjhsQWgwTmhWV2JhLTREUkdzX1c0bDdqdS1iQnM2QQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlVtQUFKLXFweTBIZmlxUU5KcEdRUnphV2w4X28ycjUyanR2VlU4V09vM0NNdjJPSjFRTW92RXZyUG41ZUNkTGhPejQydjNQSkxkTWxiVEJiQUwyVm9MMTJBRHdyOV9MZ3pXUWlMY0JZUFhqeVNZem9hblNWbzEtUA",
-     "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/11/purple-rain-broadway-jordan-fisher-1237218438/",
-     "feed": "deadline-theater"
     }
    ],
    "status": "published"
@@ -2831,37 +2877,117 @@
    "status": "review"
   },
   {
-   "id": "db2d2ea515",
-   "priority": 2,
+   "id": "5c67b616f7",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-22T21:53:33+00:00",
-   "published": "2026-10-22T21:53:33+00:00",
+   "firstSeen": "2026-11-13T00:23:09+00:00",
+   "published": "2026-11-13T00:23:09+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Oh, Mary!",
+   "title": "‘Oh, Mary!’ Mania Takes Over L.A.: Director Sam Pinkleton on Bringing the Unruly Broadway Comedy Phenomenon to Full Houses at the Ahmanson",
+   "quote": "As most theater fans already know, “Oh, Mary!,” which is as hysterical as it is ahistorical, is the story of possibly unhinged presidential spouse Mary Todd Lincoln, and her thwarted aspirations to escape life in the parlors of the White House for a career in show business. If there is anything Mary would appreciate,…",
+   "quoteSource": "Variety",
+   "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-12-Nov-2026-03-36-PM-9087.jpg",
+   "imageCredit": "Variety",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://variety.com/2026/legit/news/oh-mary-ahmanson-director-sam-pinkleton-theater-interview-1236946678/",
+     "feed": "variety-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "f4908c87fa",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-12T22:59:45+00:00",
+   "published": "2026-11-12T22:59:45+00:00",
    "city": null,
    "tier": null,
    "venue": null,
    "placedBy": "none",
    "type": "casting",
-   "show": "Quasara",
-   "title": "Anika Noni Rose to Star in Benefit Reading of QUASARA",
-   "quote": "",
+   "show": "Wicked",
+   "title": "WICKED National Tour to Hold Virtual Open Call for Fiyero Understudy",
+   "quote": "The Telsey Office will hold a virtual open casting call for the national touring company of Wicked. The production is seeking a performer to appear in the ensemble and understudy the principal role of Fiyero.",
    "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-daec7e836d98ce3ec3f2db190405b232.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Anika Noni Rose",
-     "knownFor": "American actress",
-     "score": 28,
-     "qid": "Q259825"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
      "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0JRUWtsY0xkZTdPcVRJcTM3YVlWY19tSkpKcG1aSFNSYzlHMy1XS296VnBVZHh4dlpVV250UkpzZzRmcXdMcDBJNTNXeHNxNmpla1MwTW56bWRKYS1VZHlDZ2JMazhtNlJySnc3d1JmdDRub09kT3RmTGNDWlU0SlZqLW5fTW9tYnBsT0NVcERncUZwMWFqMmJwaURaVWlSZDZaQVE5WHAxWl9qNThUMF9nWQ",
-     "feed": "gn-to-star"
+     "url": "https://www.broadwayworld.com/article/WICKED-National-Tour-to-Hold-Virtual-Open-Call-for-Fiyero-Understudy-20261112",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9cb03cafc6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-03T12:00:00+00:00",
+   "published": "2026-11-12T21:54:08+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Chicago",
+   "title": "Broadway’s ‘Chicago’ announces 30th anniversary partnerships and events",
+   "quote": "The revival has announced a full calendar of local business activations for November.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/CHIBWAY_SEP26_2534_RWeaver_LDeGuzman_Roses-1-.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadways-chicago-announces-30th-anniversary-partnerships-and-events/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "22df0339df",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-12T21:44:58+00:00",
+   "published": "2026-11-12T21:44:58+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Broadway: Standing By",
+   "title": "Broadway Cares to launch new annual ‘Broadway: Standing By’ — replacing ‘Red Bucket Follies’",
+   "quote": "The inaugural “Standing By” will be hosted by “Oh, Mary!” understudy Hannah Solow.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/Untitled-Design-1.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/broadway-cares-to-launch-new-annual-broadway-standing-by-replacing-red-bucket-follies/",
+     "feed": "broadway-news"
     }
    ],
    "status": "review"
@@ -3249,6 +3375,35 @@
    "status": "review"
   },
   {
+   "id": "68297b63b3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-12T11:10:00+00:00",
+   "published": "2026-11-12T15:00:26+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Extra! Extra! Michelle Visage to Make Her Broadway Debut in Schmigadoon!",
+   "quote": "",
+   "quoteSource": "Vulture",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Vulture",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5LUl1cjlRdTdQNHVabWZmRDBkQ01qU2puZnM2OXkydGtUY1VEVkNrcGRpYW1DcDNzYXVEMUVrRWZzaXFhQ0tBOWREN2QzX2lWRFhKZnlHbzJEUWJTajZ3SEFnOUVJdFFPcU1WRkF2SE9nVDg4WWEtbUJXYVUwUQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "a919cbecf6",
    "priority": 3,
    "watched": [],
@@ -3392,40 +3547,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "68297b63b3",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-12T11:10:00+00:00",
-   "published": "2026-11-12T11:10:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Extra! Extra! Michelle Visage to Make Her Broadway Debut in Schmigadoon!",
-   "quote": "The longtime RuPaul's Drag Race judge and stage vet will be the Best Musical winner's next Mildred Layton.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/shutterstock_2449472523.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Vulture",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5LUl1cjlRdTdQNHVabWZmRDBkQ01qU2puZnM2OXkydGtUY1VEVkNrcGRpYW1DcDNzYXVEMUVrRWZzaXFhQ0tBOWREN2QzX2lWRFhKZnlHbzJEUWJTajZ3SEFnOUVJdFFPcU1WRkF2SE9nVDg4WWEtbUJXYVUwUQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/michelle-visage-will-make-broadway-debut-in-schmigadoon",
-     "feed": "playbill"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "603a20f1e0",
@@ -5272,15 +5393,15 @@
    "published": "2026-11-09T17:15:00+00:00",
    "city": "New York",
    "tier": "Broadway",
-   "venue": "Al Hirschfeld Theatre",
+   "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Paddington The Musical",
    "title": "Broadway’s ‘Paddington The Musical’ to Welcome Tony Hale and Jessie Mueller",
    "quote": "Arti Shah will reprise the onstage role of Paddington, after originating the role in London.",
    "quoteSource": "The Hollywood Reporter",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/143847-11.jpg",
-   "imageCredit": "Broadway News",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
@@ -5299,11 +5420,6 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/paddington-musical-broadway-1236750894/",
      "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/jessie-mueller-tony-hale-and-more-to-star-in-paddington-the-musical-on-broadway/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -7729,35 +7845,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "9cb03cafc6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-03T12:00:00+00:00",
-   "published": "2026-11-03T12:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Chicago",
-   "title": "Why Broadway’s ‘Chicago’ returned to its classic look for its 30th anniversary campaign",
-   "quote": "Producer Barry Weissler and ad executive Nick Pramik on creating the revival’s first video-led campaign since its opening.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/CHICAGO_BROADWAY_05_12_26_0082-4C-V8-1.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/why-broadways-chicago-returned-to-its-classic-look-for-its-30th-anniversary-campaign/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "e3d034b406",
@@ -12898,93 +12985,6 @@
      "name": "IMDb",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXR2E4aUFDNTBJUDQwVHNjMFJuZlp2Z1pRTWFuajMzVFl6MWRfVnJTTnBpNG9PLWN6am1vazNkb2hTWExUbkZiUDFMaWxZYWZZaUE",
      "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "4ec5b26ca6",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-23T01:59:42+00:00",
-   "published": "2026-10-23T01:59:42+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "The Imaginary Invalid: Hacks and Quacks",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/22/the-imaginary-invalid-hacks-and-quacks/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "98f22c8e2e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-22T21:32:29+00:00",
-   "published": "2026-10-22T21:32:29+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Mary Poppins",
-   "title": "Liz Leclerc and Ben Marshall to Star in MARY POPPINS at the Argyle Theatre",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWRDQ015bkVvRFlsMmNuazZ3b1E4SDlpYVFDZWRQY2RCeHczTmNrOTRFUWp4YjFtWFFvZHp5Sk1OWkFCWm1QY3c5MjZPeHJSeWgxUWZNaUJmM0ExTnpldS1STkNQRTl2b21PalB0MmVzeFctSzgzMHowTVV0V0o3d05iZGVMNkhBcUZEX01KZ01mUU54QjFpNlkyZHB3ZVg2d0pqRWc2RTlfamZrV1lqblpuTUtEZ2RoWEZRclJMbTc5TUp2akcySkJfMGg3UQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "2855e88111",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-22T21:13:50+00:00",
-   "published": "2026-10-22T21:13:50+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "Irish Repertory Theatre",
-   "placedBy": "venue",
-   "type": "casting",
-   "show": "The Dead",
-   "title": "Judy Kaye, Mary Beth Peil and More to Star in THE DEAD, 1904 at Irish Repertory Theatre",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMFpkUkQ2Y19TN3VFcndXTFBPLXJPQXhtc1VlSTg5b1NiQkx2TnlTOUNwUGZYNEFoMDNHY3ZGLUU2cDVPVjNzZmVLeHVoLW9PeS1pSVpyTXhZOTVYMjBlQ3dmY0l3Y3Z1SWZTZTA5dWpxZHRrVFZkT2hQRG5LbXpmZ2tyZjRDRllyc1QwOG9QQXFIbHVWT29sNVpQYURJZlBhV1lwd2JlbVRraW9wMFpHcW80d3FMdEFBQUpBSllOOENfWWQ5SzB1TVd2MWdaVXhwU3BqYlRVV0t0Vy05b0E",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
