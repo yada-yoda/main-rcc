@@ -98,6 +98,11 @@
   --dim:       #999999;
   --accent:    #00bcd4;
   --accent-2:  #00d2e8;
+  /* Same two tokens as the home page: cyan for text on card surfaces, and
+     an edge color for interactive controls that is >= 3:1 on every surface
+     the site uses (7.33 on this page's near-black). */
+  --accent-text: #4dd0e1;
+  --line-ui:   #9a9eae;
   --shadow:    0 10px 30px rgba(0,0,0,0.35);
   --max:       1400px;
 }
@@ -116,6 +121,9 @@ body{
 }
 a{color:var(--accent);text-decoration:none;transition:color .15s ease}
 a:hover{color:var(--accent-2)}
+/* Keyboard focus ring, same as the home page. Chrome's default dark ring
+   vanishes on near-black; the offset keeps it clear of the cyan button. */
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 h1,h2,h3{font-family:'Montserrat',sans-serif;font-weight:700;letter-spacing:.02em;color:#fff}
 img{max-width:100%;display:block}
 ul{list-style:none}
@@ -146,8 +154,12 @@ ul{list-style:none}
 }
 .chapters button{
   font-family:'Montserrat',sans-serif;font-size:10.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
-  background:rgba(255,255,255,.05);color:var(--muted);border:1px solid var(--line);border-radius:999px;
+  background:rgba(255,255,255,.05);color:var(--muted);border:1px solid var(--line-ui);border-radius:999px;
   padding:7px 13px;cursor:pointer;transition:color .15s ease,border-color .15s ease;
+}
+/* Touch context (coarse pointer or phone width): 44px-tall targets. */
+@media (pointer:coarse), (max-width:720px){
+  .chapters button{min-height:44px}
 }
 .chapters button:hover,.chapters button.on{color:var(--accent);border-color:var(--accent)}
 .chapters button small{color:var(--dim);font-weight:400;letter-spacing:0;margin-left:6px;font-variant-numeric:tabular-nums}
@@ -176,13 +188,16 @@ ul{list-style:none}
   text-decoration:none;transition:background .15s ease,border-color .15s ease,color .15s ease;
 }
 .btn:hover{background:var(--accent-2);border-color:var(--accent-2);color:#0d2226}
-.btn.ghost{background:transparent;color:var(--text);border-color:var(--line-2)}
+.btn.ghost{background:transparent;color:var(--text);border-color:var(--line-ui)}
 .btn.ghost:hover{background:transparent;border-color:var(--accent);color:var(--accent)}
 @media (max-width:640px){
   .strip{padding:18px 18px 56px;gap:16px}
   .who{align-items:flex-start}
   .acts{width:100%}
   .btn{flex:1 1 calc(50% - 5px);justify-content:center;padding:12px 10px;font-size:11px;letter-spacing:.14em}
+}
+@media (pointer:coarse), (max-width:720px){
+  .btn{min-height:44px}
 }
 
 /* ------- Footer (same as the home page) ------- */
@@ -259,6 +274,10 @@ footer .hits[hidden]{display:none}
 
   a{color:#000;text-decoration:none}
 
+  /* Text colors on the sheet: teal #00697a (6.36:1 on white) and grey #666
+     (5.74:1). The screen cyan #00bcd4 is only 2.30:1 on paper, so it is
+     kept for thin rules, never for text. */
+
   .rs-head{
     /* Two tracks by default (name block + headshot). Tier 3+ adds a third
        for the QR — declaring it here unconditionally would leave an empty
@@ -277,7 +296,7 @@ footer .hits[hidden]{display:none}
   .rs-head .rs-head-qr-label{
     text-align:center;font-family:'Montserrat',sans-serif;
     font-size:5.5pt;letter-spacing:.16em;text-transform:uppercase;
-    color:#888;margin-top:1px;
+    color:#666;margin-top:1px;
   }
   .rs-head h1{
     font-family:'Montserrat',sans-serif;font-weight:900;
@@ -291,7 +310,7 @@ footer .hits[hidden]{display:none}
   }
   .rs-head .rs-meta .rs-sub{
     font-family:'Montserrat',sans-serif;font-weight:700;font-size:8.5pt;
-    letter-spacing:.4em;text-transform:uppercase;color:#00bcd4;
+    letter-spacing:.4em;text-transform:uppercase;color:#00697a;
     padding-right:10px;border-right:1px solid #ccc;
   }
   .rs-head .rs-meta strong{color:#2c2e3d;font-weight:700;margin-right:3px}
@@ -317,7 +336,7 @@ footer .hits[hidden]{display:none}
   }
   .rs-stats div strong{
     display:block;font-family:'Montserrat',sans-serif;font-weight:700;
-    font-size:6.5pt;letter-spacing:.18em;text-transform:uppercase;color:#00bcd4;
+    font-size:6.5pt;letter-spacing:.18em;text-transform:uppercase;color:#00697a;
     margin-bottom:0;
   }
 
@@ -329,7 +348,7 @@ footer .hits[hidden]{display:none}
     padding-bottom:1px;border-bottom:1.5px solid #00bcd4;
   }
   .rs-theater-note{
-    font-size:6.5pt;color:#888;font-style:italic;
+    font-size:6.5pt;color:#666;font-style:italic;
     margin:0 0 3px 0;letter-spacing:.02em;
   }
   /* Footnote markers next to venue cells. Superscript, accent color, bold. */
@@ -340,7 +359,7 @@ footer .hits[hidden]{display:none}
   /* Footnote text at the bottom of the Theater section. Mirrors the
      old rs-theater-note styling but lives below the table. */
   .rs-theater-foot{
-    font-size:6.5pt;color:#888;font-style:italic;
+    font-size:6.5pt;color:#666;font-style:italic;
     margin:3px 0 0 0;letter-spacing:.02em;
     padding-top:2px;border-top:1px dotted #ddd;
   }
@@ -364,7 +383,7 @@ footer .hits[hidden]{display:none}
   .rs-table td.r{color:#00697a;width:38%}
   .rs-table td.d{color:#555;font-style:italic;width:30%;font-size:8.5pt;text-align:right}
   .rs-table td.d .rs-venue-sub{
-    display:block;color:#999;font-size:7pt;font-style:italic;
+    display:block;color:#666;font-size:7pt;font-style:italic;
     margin-top:1px;line-height:1.2;
   }
   .rs-table td.span3{font-style:italic;color:#555}
@@ -428,7 +447,7 @@ footer .hits[hidden]{display:none}
   .rs-foot .rs-qr-label{
     text-align:center;font-family:'Montserrat',sans-serif;
     font-size:5.5pt;letter-spacing:.2em;text-transform:uppercase;
-    color:#888;margin-top:1px;
+    color:#666;margin-top:1px;
   }
 
   /* ============ ONE-PAGE DENSITY TIERS ============
@@ -526,7 +545,7 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/footer.yml. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.16.2</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc <span class="ver">v0.17.0</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 
@@ -571,9 +590,9 @@ footer .hits[hidden]{display:none}
   <div class="rs-section">
     <h2>Film</h2>
     <table class="rs-table">
-      <tr><td class="t">El Frío Silencio <em style="color:#888;font-style:normal">(Feature, 2027)</em></td><td class="r">Homeowner</td><td class="d">dir. Zach Cortino</td></tr>
-      <tr><td class="t">Waiter Boys <em style="color:#888;font-style:normal">(Short, 2025)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
-      <tr><td class="t">Deadly Domicile <em style="color:#888;font-style:normal">(Short, 2024)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
+      <tr><td class="t">El Frío Silencio <em style="color:#666;font-style:normal">(Feature, 2027)</em></td><td class="r">Homeowner</td><td class="d">dir. Zach Cortino</td></tr>
+      <tr><td class="t">Waiter Boys <em style="color:#666;font-style:normal">(Short, 2025)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
+      <tr><td class="t">Deadly Domicile <em style="color:#666;font-style:normal">(Short, 2024)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
     </table>
   </div>
   <!-- /EDIT: print-film-credits -->
@@ -582,7 +601,7 @@ footer .hits[hidden]{display:none}
   <div class="rs-section">
     <h2>Television</h2>
     <table class="rs-table">
-      <tr><td class="t">Deli Boys <em style="color:#888;font-style:normal">(S01)</em></td><td class="r">Stand-in for Shahjehan Khan</td><td class="d">Hulu</td></tr>
+      <tr><td class="t">Deli Boys <em style="color:#666;font-style:normal">(S01)</em></td><td class="r">Stand-in for Shahjehan Khan</td><td class="d">Hulu</td></tr>
     </table>
   </div>
   <!-- /EDIT: print-tv-credits -->

@@ -93,6 +93,11 @@
   --accent:    #00bcd4;
   --accent-2:  #00d2e8;
   --accent-soft: rgba(0,188,212,.16);
+  /* Same two tokens as the home page: cyan for text on tinted or card
+     surfaces (where --accent drops under 4.5:1), and an edge color for
+     interactive controls that is >= 3:1 on --bg, --bg-2 and the cards. */
+  --accent-text: #4dd0e1;
+  --line-ui:   #9a9eae;
   --warn:      #ffc107;
   --shadow:    0 10px 30px rgba(0,0,0,0.35);
   --max:       1100px;
@@ -107,6 +112,9 @@ body{
 }
 a{color:var(--accent);text-decoration:none;transition:color .15s ease}
 a:hover{color:var(--accent-2)}
+/* Keyboard focus ring, same as the home page. Chrome's default dark ring
+   disappears on these navy surfaces. */
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 h1,h2,h3{font-family:'Montserrat',sans-serif;font-weight:700;letter-spacing:.02em;color:#fff}
 img{max-width:100%;display:block}
 ul{list-style:none}
@@ -133,7 +141,37 @@ ul{list-style:none}
 .nav{display:flex;gap:28px}
 .nav a{font-family:'Montserrat',sans-serif;font-weight:600;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--text)}
 .nav a:hover,.nav a.current{color:var(--accent)}
-@media (max-width:720px){.nav{gap:12px 16px;flex-wrap:wrap;justify-content:flex-end}.nav a{font-size:11px;letter-spacing:.14em}.topbar{padding:14px 18px;gap:12px}}
+/* Touch context (a coarse pointer, or a phone-width screen): the brand and
+   nav links get a 44px-tall hit area. Padding plus an equal negative margin
+   grows the target without moving anything. */
+@media (pointer:coarse), (max-width:720px){
+  .brand{padding:9px 0;margin:-9px 0}
+  .nav a{padding:13px 0;margin:-13px 0}
+}
+/* Phones: same header as the home page. Two rows on one solid bar (brand,
+   then the four links spread across the width), and not sticky: the
+   wrapped two-row bar used to hold 75px of a small screen the whole way
+   down. */
+@media (max-width:720px){
+  .topbar{
+    position:static;
+    /* gap 10px: the brand's 44px hit area reaches 9px below the logo, so
+       a smaller gap would let the link row sit on top of it. */
+    flex-direction:column;align-items:flex-start;gap:10px;
+    padding:9px 12px 4px;
+    background:var(--bg-2);
+  }
+  .nav{
+    align-self:stretch;
+    display:flex;flex-wrap:wrap;justify-content:space-between;gap:0 4px;
+  }
+  .nav a{
+    flex:1 1 auto;
+    display:flex;align-items:center;justify-content:center;
+    min-width:44px;min-height:44px;padding:0 6px;margin:0;
+    font-size:11px;letter-spacing:.14em;
+  }
+}
 
 /* ------- Hero ------- */
 .hero{padding:64px 0 28px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,var(--bg-2),var(--bg))}
@@ -149,29 +187,46 @@ ul{list-style:none}
 .rail{position:sticky;top:84px;align-self:start;display:flex;flex-direction:column;gap:14px}
 .search{position:relative}
 .search input{
-  width:100%;padding:11px 12px 11px 38px;border:1px solid var(--line-2);border-radius:10px;
+  width:100%;padding:11px 12px 11px 38px;border:1px solid var(--line-ui);border-radius:10px;
   background:var(--bg-2) url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="%238a90a0" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>') 13px center no-repeat;
   color:var(--text);font:inherit;font-size:15px;
 }
-.search input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+/* Focus keeps the accent border and soft glow; the page-wide :focus-visible
+   ring now shows outside them for keyboard users. */
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+/* Chrome's default placeholder grey was 3.19:1 here; --muted is 7.50:1 on
+   --bg-2. opacity:1 stops Firefox fading it further. */
+.search input::placeholder,.verbs-tools input::placeholder{color:var(--muted);opacity:1}
 .chips{display:flex;flex-direction:column;gap:2px}
 .chip{
-  border:1px solid transparent;background:transparent;border-radius:8px;
+  border:1px solid var(--line-ui);background:transparent;border-radius:8px;
   display:flex;justify-content:space-between;gap:10px;padding:8px 10px;text-align:left;
   font-family:inherit;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer;white-space:nowrap;
 }
 .chip .n{color:var(--dim);font-weight:400}
 .chip:hover{color:var(--text)}
-.chip.on{background:var(--accent-soft);color:var(--accent)}
-.chip.on .n{color:var(--accent)}
+/* --accent-text, not --accent: on the tinted fill --accent was 4.44:1. */
+.chip.on{background:var(--accent-soft);color:var(--accent-text)}
+.chip.on .n{color:var(--accent-text)}
 .rail-jump{padding:10px;border-top:1px solid var(--line)}
 .rail-jump a{font-family:'Montserrat',sans-serif;font-size:11px;letter-spacing:.18em;text-transform:uppercase}
+/* Touch: chips grow to 44px; the 14px-tall jump link gets a 44px hit area
+   from padding with an equal negative margin, so the rail does not move. */
+@media (pointer:coarse), (max-width:720px){
+  .chip{min-height:44px;min-width:44px;align-items:center}
+  .rail-jump a{display:inline-block;padding:15px 0;margin:-15px 0}
+}
 .empty{display:none;color:var(--dim);padding:24px 0 40px;font-style:italic}
 .empty.show{display:block}
 @media (max-width:820px){
   .layout{grid-template-columns:1fr;gap:16px;padding-top:24px}
   .rail{position:static}
-  .chips{flex-direction:row;flex-wrap:wrap}
+  /* 6px between the wrapped chips (was 2) so a thumb does not catch the
+     neighbor now that each chip is 44px. */
+  .chips{flex-direction:row;flex-wrap:wrap;gap:6px}
+  /* Count hidden here, so center the lone label (matters for "All" at
+     its 44px minimum width). */
+  .chip{justify-content:center}
   .chip .n{display:none}
   .rail-jump{display:none}
 }
@@ -195,12 +250,15 @@ section.blk{padding:0 0 36px}
 .card .name{color:#fff;font-weight:600;font-size:17px;line-height:1.3;display:block}
 .card .desc{color:var(--muted);font-size:14px;display:block}
 .card .foot{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:6px;gap:8px}
-.card .host{font-size:12px;color:var(--dim);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card .host{font-size:12px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .ico{
   width:30px;height:30px;border-radius:7px;flex:none;display:grid;place-items:center;
   font-family:'Montserrat',sans-serif;font-weight:800;font-size:12px;color:#fff;background:#1877f2;
 }
-.ico.web{background:var(--accent)}
+/* White on the cyan tile was 2.30:1; the dark ink is 7.18:1. The other
+   tiles already clear 3:1 with white (fb 4.23, gov 6.09, book 6.34,
+   school 3.44). */
+.ico.web{background:var(--accent);color:#0d2226}
 .ico.gov{background:#5b6275}
 .ico.book{background:#7a4b9c}
 .ico.school{background:#e0662a}
@@ -215,10 +273,10 @@ section.blk{padding:0 0 36px}
 .verbs-intro{color:var(--muted);max-width:640px;margin-bottom:16px}
 .verbs-tools{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
 .verbs-tools input{
-  flex:1 1 240px;min-width:0;background:var(--bg-2);border:1px solid var(--line-2);color:var(--text);
+  flex:1 1 240px;min-width:0;background:var(--bg-2);border:1px solid var(--line-ui);color:var(--text);
   border-radius:10px;padding:11px 14px;font:inherit;font-size:15px;
 }
-.verbs-tools input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.verbs-tools input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 .verbs-tools .n{color:var(--dim);font-size:13px}
 .vt-wrap{background:var(--bg-2);border:1px solid var(--line);border-radius:12px;overflow:hidden}
 .vt-wrap table{width:100%;border-collapse:collapse}
@@ -250,6 +308,11 @@ footer .ver{display:inline-block;margin-left:8px;border:1px solid var(--line);bo
 /* Link to another section of rizzo.cc (data/footer.yml > links). */
 footer .flink{margin-left:12px}
 footer .flink:hover{text-decoration:underline}
+/* Touch: the 25x18 link gets a 45x44 hit area from inline padding, which
+   does not change the footer line. */
+@media (pointer:coarse), (max-width:720px){
+  footer .flink{padding:13px 10px;margin-left:2px}
+}
 /* Visit counter chip, matching .ver. tabular-nums keeps the width steady. */
 footer .hits{
   display:inline-block;margin-left:6px;border:1px solid var(--line);
@@ -475,7 +538,7 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/footer.yml. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.16.2</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.17.0</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 

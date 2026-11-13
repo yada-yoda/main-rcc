@@ -174,6 +174,14 @@
   --dim:       #999999;
   --accent:    #00bcd4;
   --accent-2:  #00d2e8;
+  /* --accent reads 3.90:1 on --card, under the 4.5 text bar. This lighter
+     cyan is for TEXT on --card / --card-2 (4.88 / 5.72). --accent stays for
+     fills, text on --bg and the focus ring. */
+  --accent-text: #4dd0e1;
+  /* Edge color for interactive controls: >= 3:1 on --bg, --card, --card-2
+     and the footer, so a button or field outline is findable. Decorative
+     card borders keep the faint --line values. */
+  --line-ui:   #9a9eae;
   --shadow:    0 10px 30px rgba(0,0,0,0.35);
   --radius:    14px;
   --radius-sm: 8px;
@@ -193,6 +201,10 @@ body{
 }
 a{color:var(--accent);text-decoration:none;transition:color .15s ease}
 a:hover{color:var(--accent-2)}
+/* One keyboard focus ring for the whole page. Chrome's default ring is near
+   black and disappears on these navy surfaces. The 2px offset keeps the ring
+   visible around the cyan buttons too. */
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 h1,h2,h3,h4,h5,h6{font-family:'Montserrat',sans-serif;font-weight:700;letter-spacing:.02em;color:#fff}
 img{max-width:100%;display:block}
 ul{list-style:none}
@@ -271,15 +283,45 @@ ul{list-style:none}
   color:var(--text);
 }
 .nav a:hover{color:var(--accent)}
+/* Touch context (a coarse pointer, or a phone-width screen): the brand and
+   nav links get a 44px-tall hit area. Padding plus an equal negative margin
+   grows the target without moving anything. */
+@media (pointer:coarse), (max-width:720px){
+  .brand{padding:9px 0;margin:-9px 0}
+  .nav a{padding:13px 0;margin:-13px 0}
+}
+/* Phones: the four links used to be hidden with nothing in their place.
+   Now the header is two rows on one solid bar (brand, then the links spread
+   across the width) and it scrolls away with the page instead of covering
+   it. The hero keeps its 120px top padding, which still clears this bar. */
 @media (max-width:720px){
-  .nav{display:none}
-  .topbar{padding:14px 18px}
+  .topbar,.topbar.scrolled{
+    position:absolute;
+    /* gap 10px: the brand's 44px hit area reaches 9px below the logo, so
+       a smaller gap would let the link row sit on top of it. */
+    flex-direction:column;align-items:flex-start;gap:10px;
+    padding:9px 12px 4px;
+    background:var(--bg-2);box-shadow:0 1px 0 var(--line);
+  }
+  .nav{
+    align-self:stretch;
+    display:flex;flex-wrap:wrap;justify-content:space-between;gap:0 4px;
+  }
+  .nav a{
+    flex:1 1 auto;
+    display:flex;align-items:center;justify-content:center;
+    min-width:44px;min-height:44px;padding:0 6px;margin:0;
+    font-size:11px;letter-spacing:.14em;
+  }
 }
 
 /* ------- Header / Hero with video ------- */
 .hero{
   position:relative;
+  /* svh = the height with the phone's browser bars showing, so the hero
+     does not run under them. 100vh stays as the fallback. */
   min-height:100vh;
+  min-height:100svh;
   display:flex;align-items:center;justify-content:center;
   text-align:center;
   overflow:hidden;
@@ -337,24 +379,47 @@ video.hero-slide{
 .hero-mute .icon-muted{display:none}
 .hero-mute.muted .icon-muted{display:inline-block}
 .hero-mute.muted .icon-unmuted{display:none}
+/* The input itself is a transparent hit area; the 4px track is drawn by the
+   track pseudo-elements so the input can be 44px tall on touch screens
+   without the bar getting fatter. --line-ui on the track keeps it >= 3:1
+   against the dark pill (the old 30% white was about 1.9 over video). */
 .hero-volume-slider{
   -webkit-appearance:none;appearance:none;
-  width:90px;height:4px;
-  background:rgba(255,255,255,.3);
-  border-radius:999px;outline:none;cursor:pointer;
+  width:90px;height:16px;
+  background:transparent;
+  border-radius:999px;cursor:pointer;
+}
+.hero-volume-slider::-webkit-slider-runnable-track{
+  height:4px;border-radius:999px;background:var(--line-ui);
+}
+.hero-volume-slider::-moz-range-track{
+  height:4px;border-radius:999px;background:var(--line-ui);
 }
 .hero-volume-slider::-webkit-slider-thumb{
   -webkit-appearance:none;appearance:none;
   width:14px;height:14px;background:var(--accent);
   border-radius:50%;cursor:pointer;
+  margin-top:-5px;
 }
 .hero-volume-slider::-moz-range-thumb{
   width:14px;height:14px;background:var(--accent);
   border-radius:50%;cursor:pointer;border:none;
 }
+/* Keyboard focus: the page ring goes around the whole slider, and the
+   thumb gets a white rim so the focused handle itself stands out. */
+.hero-volume-slider:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 2px #fff}
+.hero-volume-slider:focus-visible::-moz-range-thumb{box-shadow:0 0 0 2px #fff}
 @media (max-width:560px){
   .hero-volume{bottom:18px;left:14px;padding:6px 10px;gap:8px}
   .hero-volume-slider{width:70px}
+}
+/* Touch: the mute button and slider become 44px tall targets. The negative
+   margins keep the pill at its drawn height; the targets reach 4px past its
+   edge, where there is nothing else to tap. */
+@media (pointer:coarse), (max-width:720px){
+  .hero-volume{padding:4px 14px 4px 2px}
+  .hero-mute{width:44px;height:44px;margin:-8px 0;justify-content:center}
+  .hero-volume-slider{height:44px;margin:-8px 0}
 }
 
 /* Dark gradient over slideshow so logo + quotes stay readable */
@@ -362,8 +427,19 @@ video.hero-slide{
   content:"";position:absolute;inset:0;z-index:2;pointer-events:none;
   background:linear-gradient(180deg, rgba(20,21,30,.55) 0%, rgba(20,21,30,.40) 40%, rgba(44,46,61,.95) 100%);
 }
+/* On phones the quote is 19.5px, below "large text", so it needs 4.5:1.
+   The .40 middle stop let the darkest video frames fall to 3.66 under the
+   quote; .60 holds every sampled frame above 4.5. */
+@media (max-width:720px){
+  .hero::after{
+    background:linear-gradient(180deg, rgba(20,21,30,.55) 0%, rgba(20,21,30,.60) 40%, rgba(44,46,61,.95) 100%);
+  }
+}
+/* width:100% makes the quote box the full 900px column. Without it the
+   column shrank to the logo's width (640px) and the longest quote line,
+   which cannot wrap, overflowed it to the right and sat off-center. */
 .hero-inner{
-  max-width:900px;padding:120px 24px 80px;
+  width:100%;max-width:900px;padding:120px 24px 80px;
   position:relative;z-index:3;
 }
 .hero-logo{
@@ -476,7 +552,15 @@ section + section{border-top:1px solid var(--line)}
 }
 .def .pron-play:hover{background:rgba(0,188,212,.15)}
 .def .pron-play:active{transform:translateY(1px)}
-.def .pron-play:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+/* Touch: a 44x44 invisible hit area centered on the 28x24 button, so the
+   pronunciation line keeps its height. */
+@media (pointer:coarse), (max-width:720px){
+  .def .pron-play{position:relative}
+  .def .pron-play::after{
+    content:"";position:absolute;left:50%;top:50%;
+    width:44px;height:44px;transform:translate(-50%,-50%);
+  }
+}
 .def .pron-play svg{
   width:18px;height:18px;
   stroke:currentColor;stroke-width:2.2;
@@ -605,7 +689,7 @@ section + section{border-top:1px solid var(--line)}
    it reads as "a file", not another look. Downloads the print-ready PDF. */
 .headshot-gallery a.pdf{
   height:65px;width:65px;border-radius:6px;
-  border:1px dashed var(--line-2);background:rgba(255,255,255,.03);
+  border:1px dashed var(--line-ui);background:rgba(255,255,255,.03);
   display:inline-flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
   color:var(--muted);text-decoration:none;
   font-family:'Montserrat',sans-serif;font-size:9px;font-weight:700;letter-spacing:.18em;
@@ -620,9 +704,12 @@ section + section{border-top:1px solid var(--line)}
 .socials a{
   display:inline-flex;align-items:center;justify-content:center;
   width:42px;height:42px;
-  border:1px solid var(--line-2);border-radius:999px;
+  border:1px solid var(--line-ui);border-radius:999px;
   color:var(--text);
   transition:border-color .15s, color .15s, background .15s;
+}
+@media (pointer:coarse), (max-width:720px){
+  .socials a{width:44px;height:44px}
 }
 .socials a:hover{
   border-color:var(--accent);color:var(--accent);
@@ -679,8 +766,8 @@ section + section{border-top:1px solid var(--line)}
   font-size:14.5px;
 }
 .panel ul li:last-child{border-bottom:none}
-.panel .label{color:var(--accent);font-weight:600;margin-right:6px}
-.panel .sub{color:var(--dim);font-size:13px;display:block;margin-top:2px}
+.panel .label{color:var(--accent-text);font-weight:600;margin-right:6px}
+.panel .sub{color:var(--muted);font-size:13px;display:block;margin-top:2px}
 .panel .kind{
   display:inline-flex;align-items:center;gap:4px;
   font-family:'Montserrat',sans-serif;
@@ -688,8 +775,8 @@ section + section{border-top:1px solid var(--line)}
   letter-spacing:.14em;text-transform:uppercase;
   padding:2px 7px;border-radius:3px;
   background:transparent;
-  color:var(--accent);
-  box-shadow:inset 0 0 0 1px rgba(0,188,212,.55);
+  color:var(--accent-text);
+  box-shadow:inset 0 0 0 1px rgba(77,208,225,.55);
   vertical-align:middle;
   white-space:nowrap;
   margin-left:2px;
@@ -756,6 +843,9 @@ section + section{border-top:1px solid var(--line)}
   .tabs .pill{top:4px;height:calc(100% - 8px)}
   .tab{padding:8px 14px;font-size:11px;letter-spacing:.16em}
 }
+@media (pointer:coarse), (max-width:720px){
+  .tab{min-height:44px}
+}
 .tab:hover{color:#fff}
 .tab.active{color:#0d2226;font-weight:700}
 
@@ -766,13 +856,17 @@ section + section{border-top:1px solid var(--line)}
   position:relative;
   min-height:380px;      /* Fallback before JS measures */
 }
+/* Inactive panels are also visibility:hidden so the keyboard cannot land on
+   links nobody can see. visibility flips only after the .30s fade ends
+   (delay on the way out, none on the way in), so the crossfade still plays. */
 .tab-panel{
   position:absolute;top:0;left:0;right:0;
-  opacity:0;pointer-events:none;
-  transition:opacity .30s ease;
+  opacity:0;pointer-events:none;visibility:hidden;
+  transition:opacity .30s ease, visibility 0s linear .30s;
 }
 .tab-panel.active{
-  opacity:1;pointer-events:auto;
+  opacity:1;pointer-events:auto;visibility:visible;
+  transition:opacity .30s ease, visibility 0s linear 0s;
 }
 
 @media (prefers-reduced-motion: reduce){
@@ -803,17 +897,27 @@ table.credits td.title a{
   transition:color .15s ease, border-color .15s ease;
 }
 table.credits td.title a:hover{
-  color:var(--accent);
-  border-bottom-color:var(--accent);
+  color:var(--accent-text);
+  border-bottom-color:var(--accent-text);
 }
-table.credits td.role{color:var(--accent)}
+/* Touch: the title link is one 22px line inside a row of about 51px, so an
+   invisible overlay reaching 12px above and below it (inside the cell's
+   14px padding) gives a 46px target without changing the row height. */
+@media (pointer:coarse), (max-width:720px){
+  table.credits td.title a{position:relative}
+  table.credits td.title a::after{
+    content:"";position:absolute;left:50%;top:-12px;bottom:-12px;
+    width:max(100%,44px);transform:translateX(-50%);
+  }
+}
+table.credits td.role{color:var(--accent-text)}
 table.credits td.dir{color:var(--muted);font-size:13px}
 table.credits td.dir .venue-sub{
-  display:block;color:var(--dim);font-size:11px;
+  display:block;color:var(--muted);font-size:11px;
   margin-top:2px;letter-spacing:.02em;font-style:italic;
 }
 table.credits td.dir .venue-mark{
-  color:var(--accent);font-weight:700;font-size:10px;
+  color:var(--accent-text);font-weight:700;font-size:10px;
   margin-left:1px;vertical-align:super;line-height:0;
   letter-spacing:0;
 }
@@ -873,6 +977,12 @@ table.credits td.dir .venue-mark{
   color:var(--accent);
 }
 .contact .email:hover{background:var(--accent);color:#0d2226}
+/* Phones get a smaller spacing step: desktop's 80px (and 90/110 on
+   Contact) left long empty bands between sections on a small screen. */
+@media (max-width:720px){
+  section{padding:56px 0}
+  .contact{padding:64px 0 72px}
+}
 
 /* ------- Footer ------- */
 footer{
@@ -885,6 +995,11 @@ footer .ver{color:var(--dim);margin-left:10px}
 /* Link to another section of rizzo.cc (data/footer.yml > links). */
 footer .flink{margin-left:12px}
 footer .flink:hover{color:var(--accent-2,var(--accent));text-decoration:underline}
+/* Touch: vertical padding on an inline link grows its hit area to 44px
+   tall without changing the footer line. */
+@media (pointer:coarse), (max-width:720px){
+  footer .flink{padding:15px 4px;margin-left:8px}
+}
 /* Visit counter, to the right of the version. tabular-nums stops the footer
    from twitching as the digit widths change. */
 footer .hits{
@@ -926,6 +1041,9 @@ footer .hits[hidden]{display:none}
 @media (max-width:560px){
   .print-btn{right:14px;bottom:14px;padding:12px 18px;font-size:11px}
   .print-btn span.lbl{display:none}
+}
+@media (pointer:coarse), (max-width:720px){
+  .print-btn{min-height:44px}
 }
 
 /* The resume sheet is hidden on screen, revealed only when printing */
@@ -987,6 +1105,10 @@ footer .hits[hidden]{display:none}
 
   a{color:#000;text-decoration:none}
 
+  /* Text colors on the sheet: teal #00697a (6.36:1 on white) and grey #666
+     (5.74:1). The screen cyan #00bcd4 is only 2.30:1 on paper, so it is
+     kept for thin rules, never for text. */
+
   .rs-head{
     /* Two tracks by default (name block + headshot). Tier 3+ adds a third
        for the QR — declaring it here unconditionally would leave an empty
@@ -1005,7 +1127,7 @@ footer .hits[hidden]{display:none}
   .rs-head .rs-head-qr-label{
     text-align:center;font-family:'Montserrat',sans-serif;
     font-size:5.5pt;letter-spacing:.16em;text-transform:uppercase;
-    color:#888;margin-top:1px;
+    color:#666;margin-top:1px;
   }
   .rs-head h1{
     font-family:'Montserrat',sans-serif;font-weight:900;
@@ -1019,7 +1141,7 @@ footer .hits[hidden]{display:none}
   }
   .rs-head .rs-meta .rs-sub{
     font-family:'Montserrat',sans-serif;font-weight:700;font-size:8.5pt;
-    letter-spacing:.4em;text-transform:uppercase;color:#00bcd4;
+    letter-spacing:.4em;text-transform:uppercase;color:#00697a;
     padding-right:10px;border-right:1px solid #ccc;
   }
   .rs-head .rs-meta strong{color:#2c2e3d;font-weight:700;margin-right:3px}
@@ -1045,7 +1167,7 @@ footer .hits[hidden]{display:none}
   }
   .rs-stats div strong{
     display:block;font-family:'Montserrat',sans-serif;font-weight:700;
-    font-size:6.5pt;letter-spacing:.18em;text-transform:uppercase;color:#00bcd4;
+    font-size:6.5pt;letter-spacing:.18em;text-transform:uppercase;color:#00697a;
     margin-bottom:0;
   }
 
@@ -1057,7 +1179,7 @@ footer .hits[hidden]{display:none}
     padding-bottom:1px;border-bottom:1.5px solid #00bcd4;
   }
   .rs-theater-note{
-    font-size:6.5pt;color:#888;font-style:italic;
+    font-size:6.5pt;color:#666;font-style:italic;
     margin:0 0 3px 0;letter-spacing:.02em;
   }
   /* Footnote markers next to venue cells. Superscript, accent color, bold. */
@@ -1068,7 +1190,7 @@ footer .hits[hidden]{display:none}
   /* Footnote text at the bottom of the Theater section. Mirrors the
      old rs-theater-note styling but lives below the table. */
   .rs-theater-foot{
-    font-size:6.5pt;color:#888;font-style:italic;
+    font-size:6.5pt;color:#666;font-style:italic;
     margin:3px 0 0 0;letter-spacing:.02em;
     padding-top:2px;border-top:1px dotted #ddd;
   }
@@ -1092,7 +1214,7 @@ footer .hits[hidden]{display:none}
   .rs-table td.r{color:#00697a;width:38%}
   .rs-table td.d{color:#555;font-style:italic;width:30%;font-size:8.5pt;text-align:right}
   .rs-table td.d .rs-venue-sub{
-    display:block;color:#999;font-size:7pt;font-style:italic;
+    display:block;color:#666;font-size:7pt;font-style:italic;
     margin-top:1px;line-height:1.2;
   }
   .rs-table td.span3{font-style:italic;color:#555}
@@ -1156,7 +1278,7 @@ footer .hits[hidden]{display:none}
   .rs-foot .rs-qr-label{
     text-align:center;font-family:'Montserrat',sans-serif;
     font-size:5.5pt;letter-spacing:.2em;text-transform:uppercase;
-    color:#888;margin-top:1px;
+    color:#666;margin-top:1px;
   }
 
   /* ============ ONE-PAGE DENSITY TIERS ============
@@ -1526,9 +1648,9 @@ footer .hits[hidden]{display:none}
     <!-- EDIT: credits-tabs — auto-generated from data/credits.yml > tab_visibility. -->
     <div class="tabs" role="tablist">
       <span class="pill" aria-hidden="true"></span>
-      <button class="tab active" data-tab="film" role="tab">Film</button>
-      <button class="tab" data-tab="tv" role="tab">TV</button>
-      <button class="tab" data-tab="theater" role="tab">Theater</button>
+      <button class="tab active" data-tab="film" role="tab" id="tab-film" aria-selected="true" aria-controls="film" tabindex="0">Film</button>
+      <button class="tab" data-tab="tv" role="tab" id="tab-tv" aria-selected="false" aria-controls="tv" tabindex="-1">TV</button>
+      <button class="tab" data-tab="theater" role="tab" id="tab-theater" aria-selected="false" aria-controls="theater" tabindex="-1">Theater</button>
     </div>
     <!-- /EDIT: credits-tabs -->
 
@@ -1540,31 +1662,31 @@ footer .hits[hidden]{display:none}
 
     <!-- EDIT: film-credits — to add a credit, copy any <tr> row and edit. Update the matching row in /EDIT: print-film-credits below too. Don't forget to update the JSON-LD Movie nodes.
          Title links go to IMDB. To swap the placeholder search URL for a real title page, replace the href with https://www.imdb.com/title/ttXXXXXXX/ (find the tt ID on imdb.com). -->
-    <div class="tab-panel active" id="film">
+    <div class="tab-panel active" id="film" role="tabpanel" aria-labelledby="tab-film">
       <table class="credits">
         <thead><tr><th>Title</th><th>Role</th><th>Director</th></tr></thead>
         <tbody>
-          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=El+Frío+Silencio" target="_blank" rel="noopener" title="View on IMDB">El Frío Silencio</a> <span class="sub" style="color:var(--dim)">(Feature, 2027)</span></td><td class="role">Homeowner</td><td class="dir">dir. Zach Cortino</td></tr>
-          <tr><td class="title"><a href="https://waiterboys.com/" target="_blank" rel="noopener" title="Official film site">Waiter Boys</a> <span class="sub" style="color:var(--dim)">(Short, 2025)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
-          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Deadly+Domicile" target="_blank" rel="noopener" title="View on IMDB">Deadly Domicile</a> <span class="sub" style="color:var(--dim)">(Short, 2024)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
+          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=El+Frío+Silencio" target="_blank" rel="noopener" title="View on IMDB">El Frío Silencio</a> <span class="sub" style="color:var(--muted)">(Feature, 2027)</span></td><td class="role">Homeowner</td><td class="dir">dir. Zach Cortino</td></tr>
+          <tr><td class="title"><a href="https://waiterboys.com/" target="_blank" rel="noopener" title="Official film site">Waiter Boys</a> <span class="sub" style="color:var(--muted)">(Short, 2025)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
+          <tr><td class="title"><a href="https://www.imdb.com/find/?s=tt&q=Deadly+Domicile" target="_blank" rel="noopener" title="View on IMDB">Deadly Domicile</a> <span class="sub" style="color:var(--muted)">(Short, 2024)</span></td><td class="role">Supporting</td><td class="dir">dir. Skylar Kendall</td></tr>
         </tbody>
       </table>
     </div>
     <!-- /EDIT: film-credits -->
 
     <!-- EDIT: tv-credits — copy a <tr> to add a row. Mirror in /EDIT: print-tv-credits below. -->
-    <div class="tab-panel" id="tv">
+    <div class="tab-panel" id="tv" role="tabpanel" aria-labelledby="tab-tv">
       <table class="credits">
         <thead><tr><th>Title</th><th>Role</th><th>Network</th></tr></thead>
         <tbody>
-          <tr><td class="title">Deli Boys <span class="sub" style="color:var(--dim)">(S01)</span></td><td class="role">Stand-in for Shahjehan Khan</td><td class="dir">Hulu</td></tr>
+          <tr><td class="title">Deli Boys <span class="sub" style="color:var(--muted)">(S01)</span></td><td class="role">Stand-in for Shahjehan Khan</td><td class="dir">Hulu</td></tr>
         </tbody>
       </table>
     </div>
     <!-- /EDIT: tv-credits -->
 
     <!-- EDIT: theater-credits — copy any <tr> to add a row. The <span class="venue-sub"> on the third column is the dimmed second-line venue. Mirror in /EDIT: print-theater-credits below. -->
-    <div class="tab-panel" id="theater">
+    <div class="tab-panel" id="theater" role="tabpanel" aria-labelledby="tab-theater">
       <table class="credits">
         <thead><tr><th>Production</th><th>Role / Sketches</th><th>Stage</th></tr></thead>
         <tbody>
@@ -1672,9 +1794,9 @@ footer .hits[hidden]{display:none}
   <div class="rs-section">
     <h2>Film</h2>
     <table class="rs-table">
-      <tr><td class="t">El Frío Silencio <em style="color:#888;font-style:normal">(Feature, 2027)</em></td><td class="r">Homeowner</td><td class="d">dir. Zach Cortino</td></tr>
-      <tr><td class="t">Waiter Boys <em style="color:#888;font-style:normal">(Short, 2025)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
-      <tr><td class="t">Deadly Domicile <em style="color:#888;font-style:normal">(Short, 2024)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
+      <tr><td class="t">El Frío Silencio <em style="color:#666;font-style:normal">(Feature, 2027)</em></td><td class="r">Homeowner</td><td class="d">dir. Zach Cortino</td></tr>
+      <tr><td class="t">Waiter Boys <em style="color:#666;font-style:normal">(Short, 2025)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
+      <tr><td class="t">Deadly Domicile <em style="color:#666;font-style:normal">(Short, 2024)</em></td><td class="r">Supporting</td><td class="d">dir. Skylar Kendall</td></tr>
     </table>
   </div>
   <!-- /EDIT: print-film-credits -->
@@ -1683,7 +1805,7 @@ footer .hits[hidden]{display:none}
   <div class="rs-section">
     <h2>Television</h2>
     <table class="rs-table">
-      <tr><td class="t">Deli Boys <em style="color:#888;font-style:normal">(S01)</em></td><td class="r">Stand-in for Shahjehan Khan</td><td class="d">Hulu</td></tr>
+      <tr><td class="t">Deli Boys <em style="color:#666;font-style:normal">(S01)</em></td><td class="r">Stand-in for Shahjehan Khan</td><td class="d">Hulu</td></tr>
     </table>
   </div>
   <!-- /EDIT: print-tv-credits -->
@@ -1764,15 +1886,18 @@ footer .hits[hidden]{display:none}
 
 <!-- EDIT: footer — auto-generated from data/site.yml > footer. Version chip controlled by show_version. -->
 <footer>
-  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.16.2</span><span class="hits" id="hits" hidden></span>
+  © <span id="yr"></span> Rizzo.cc<a class="flink" href="https://rizzo.cc/blog/" title="Short posts on acting, comedy and the tools behind this site">Blog</a> <span class="ver">v0.17.0</span><span class="hits" id="hits" hidden></span>
 </footer>
 <!-- /EDIT: footer -->
 
 <script>
-  // Sticky-bar shadow on scroll
+  // Sticky-bar shadow on scroll. On phones the bar is not fixed (it scrolls
+  // away with the page), so the scrolled look is skipped there: the brand
+  // would otherwise morph while it is leaving the screen.
   const bar = document.getElementById('topbar');
+  const phoneBar = window.matchMedia('(max-width:720px)');
   window.addEventListener('scroll', () => {
-    bar.classList.toggle('scrolled', window.scrollY > 40);
+    bar.classList.toggle('scrolled', window.scrollY > 40 && !phoneBar.matches);
   }, {passive:true});
 
   // Tabs — sliding cyan pill + crossfaded panels. The pill is a single
@@ -1815,12 +1940,35 @@ footer .hits[hidden]{display:none}
 
     function setActive(btn){
       const target = btn.dataset.tab;
-      buttons.forEach(t => t.classList.toggle('active', t === btn));
+      buttons.forEach(t => {
+        const on = t === btn;
+        t.classList.toggle('active', on);
+        // Roving tabindex: only the selected tab is in the Tab order; the
+        // arrow keys move between tabs (ARIA tabs pattern).
+        t.setAttribute('aria-selected', on ? 'true' : 'false');
+        t.tabIndex = on ? 0 : -1;
+      });
       panels.forEach(p => p.classList.toggle('active', p.id === target));
       positionPill(btn, false);
     }
 
     buttons.forEach(b => b.addEventListener('click', () => setActive(b)));
+
+    // Left/Right move to the neighbor tab and select it (wrapping at the
+    // ends); Home/End jump to the first/last tab.
+    tabs.addEventListener('keydown', (e) => {
+      const i = buttons.indexOf(document.activeElement);
+      if (i < 0) return;
+      let next = null;
+      if (e.key === 'ArrowRight') next = buttons[(i + 1) % buttons.length];
+      else if (e.key === 'ArrowLeft') next = buttons[(i - 1 + buttons.length) % buttons.length];
+      else if (e.key === 'Home') next = buttons[0];
+      else if (e.key === 'End') next = buttons[buttons.length - 1];
+      if (!next) return;
+      e.preventDefault();
+      next.focus();
+      setActive(next);
+    });
 
     function init(){
       const initial = buttons.find(b => b.classList.contains('active')) || buttons[0];
