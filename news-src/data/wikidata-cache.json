@@ -388,6 +388,15 @@
   "qid": null,
   "score": 0
  },
+ "Alongside Alex Wolff": {
+  "checkedAt": "2026-11-13T20:21:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Amalia Yoo": {
   "checkedAt": "2026-09-25T17:54:04+00:00",
   "description": "American actress",
@@ -1565,6 +1574,15 @@
   "qid": "Q29168300",
   "score": 37
  },
+ "Brass Teapot": {
+  "checkedAt": "2026-11-13T20:21:40+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Breaks All-Time House": {
   "checkedAt": "2026-10-14T01:37:43+00:00",
   "description": null,
@@ -2156,6 +2174,15 @@
   "qid": null,
   "score": 0
  },
+ "Catie Davis": {
+  "checkedAt": "2026-11-13T20:21:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Cedric Neal": {
   "checkedAt": "2026-10-21T17:56:38+00:00",
   "description": "actor",
@@ -2465,6 +2492,15 @@
   "qid": "Q133425095",
   "score": 0
  },
+ "Clare McMahon": {
+  "checkedAt": "2026-11-13T20:21:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Clark Gregg-Penned Political": {
   "checkedAt": "2026-10-27T01:51:14+00:00",
   "description": null,
@@ -2518,6 +2554,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Colin Donnell": {
+  "checkedAt": "2026-11-13T20:21:49+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q608086",
+  "score": 26
  },
  "Colton Ryan": {
   "checkedAt": "2026-10-21T17:56:35+00:00",
@@ -3271,6 +3316,15 @@
  },
  "Direct Peter Friedman": {
   "checkedAt": "2026-10-14T01:37:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Direct Workshop Presentations": {
+  "checkedAt": "2026-11-13T20:21:39+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4084,6 +4138,15 @@
   "qid": null,
   "score": 0
  },
+ "Final Bows": {
+  "checkedAt": "2026-11-13T20:21:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Final Day": {
   "checkedAt": "2026-11-12T20:40:44+00:00",
   "description": null,
@@ -4221,6 +4284,15 @@
  },
  "Fly Away": {
   "checkedAt": "2026-09-28T20:01:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Follow Along": {
+  "checkedAt": "2026-11-13T20:21:53+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4542,6 +4614,15 @@
   "knownFor": [],
   "qid": "Q464337",
   "score": 22
+ },
+ "Gap Year": {
+  "checkedAt": "2026-11-13T20:21:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Gaten Matarazzo Says": {
   "checkedAt": "2026-11-07T02:34:17+00:00",
@@ -6089,6 +6170,15 @@
   "qid": null,
   "score": 0
  },
+ "Jellicle Ball": {
+  "checkedAt": "2026-11-13T20:21:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jellicle Ball Liberation": {
   "checkedAt": "2026-10-07T19:13:56+00:00",
   "description": null,
@@ -6368,6 +6458,15 @@
   "qid": "Q28777599",
   "score": 7
  },
+ "John C Guild": {
+  "checkedAt": "2026-11-13T20:21:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "John C Reilly": {
   "checkedAt": "2026-10-27T01:50:55+00:00",
   "description": "American actor (born 1965)",
@@ -6628,6 +6727,15 @@
  },
  "Jordan Fisher Tapped": {
   "checkedAt": "2026-11-11T02:33:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Jordan Kouamé": {
+  "checkedAt": "2026-11-13T20:21:34+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7400,6 +7508,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Larissa FastHorse": {
+  "checkedAt": "2026-11-13T20:21:55+00:00",
+  "description": "playwright and choreographer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q25112391",
+  "score": 2
  },
  "Last Chance": {
   "checkedAt": "2026-10-14T17:49:07+00:00",
@@ -8273,6 +8390,15 @@
   "knownFor": [],
   "qid": "Q191828",
   "score": 66
+ },
+ "Mark Fourth": {
+  "checkedAt": "2026-11-13T20:21:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Mark O'Donnell": {
   "checkedAt": "2026-10-08T02:34:41+00:00",
@@ -9513,6 +9639,15 @@
   "qid": null,
   "score": 0
  },
+ "Olisa Odele": {
+  "checkedAt": "2026-11-13T20:21:32+00:00",
+  "description": "Nigerian student, actor, singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7086958",
+  "score": 1
+ },
  "Olivia Edward": {
   "checkedAt": "2026-10-15T17:38:47+00:00",
   "description": "American actress",
@@ -9811,6 +9946,15 @@
   ],
   "qid": "Q270324",
   "score": 33
+ },
+ "Patti Murin": {
+  "checkedAt": "2026-11-13T20:21:50+00:00",
+  "description": "American actress, singer, and dancer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q51337654",
+  "score": 3
  },
  "Paul Mescal": {
   "checkedAt": "2026-09-25T17:51:59+00:00",
@@ -10831,6 +10975,15 @@
   "qid": "Q94993175",
   "score": 24
  },
+ "Rumpleteazer Now Streaming": {
+  "checkedAt": "2026-11-13T20:21:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Run Early": {
   "checkedAt": "2026-11-11T02:34:15+00:00",
   "description": null,
@@ -11040,6 +11193,15 @@
   ],
   "qid": "Q230445",
   "score": 50
+ },
+ "Sara Chase": {
+  "checkedAt": "2026-11-13T20:21:42+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q19663198",
+  "score": 5
  },
  "Sara Jean Ford": {
   "checkedAt": "2026-09-28T20:01:08+00:00",
@@ -11453,6 +11615,15 @@
  },
  "Side Story Heads": {
   "checkedAt": "2026-11-05T20:29:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Silent Disco": {
+  "checkedAt": "2026-11-13T20:21:48+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -11957,6 +12128,15 @@
  },
  "Students Can Now": {
   "checkedAt": "2026-10-20T01:36:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Subtext Archive": {
+  "checkedAt": "2026-11-13T20:21:54+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12857,6 +13037,15 @@
  },
  "Underdog Shows Why": {
   "checkedAt": "2026-10-03T01:45:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Underground Railroad": {
+  "checkedAt": "2026-11-13T20:21:57+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
