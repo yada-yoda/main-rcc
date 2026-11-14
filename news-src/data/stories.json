@@ -197,7 +197,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "opening",
+   "type": "new production",
    "show": "Odd Couple",
    "title": "Steve Carell and John C. Reilly Lead Broadway ‘Odd Couple’ Revival",
    "quote": "The Neil Simon comedy will begin performances in March; the cast will also include the Tony winners Laura Benanti and James Monroe Iglehart.",
@@ -221,6 +221,11 @@
     }
    ],
    "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0RBa0pXZWp3eU5fSURsSmhMS2tXTUxaODV0RzlWd1psZGZKcHlVeFUycUF1WUEwaktZcXlGN29YVmQ5d09lb0ZKMW9nYlZzbUhCZ0NQbXFaT1dSTnVXNDRlOFNpbHIwNEx0VGZkaWhLMnJPaHBWTng4cS1maFVsNDBZQnQxVExKakdHNXVyaTQzN01mMkZBb05R",
+     "feed": "gn-offbway-casting"
+    },
     {
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/12/theater/steve-carell-john-c-reilly-odd-couple-broadway.html",
@@ -279,11 +284,6 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
-     "feed": "gn-bway-casting"
-    },
-    {
      "name": "Broadway News",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHVnTU05enAyM2E4YXlqUnJsallXTUpIUktHaGg2N1RzUE9mVFFfWEVlMmZEYm5wZk0yLUZfal9IZFpVWDZfZk00VFNZOG9KYWlmcG4xNHJMTXlLQXJpT3BIYjNKaEtPOTNkREdueGt4N1huU0MyMGZvVENVTjdDd2xfc1ZSWF9WT3hlaGJVaTJpR29MeHMtcjNJZUxSeTg",
      "feed": "gn-to-star"
@@ -299,6 +299,11 @@
      "feed": "gn-to-star"
     },
     {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
+     "feed": "gn-to-star"
+    },
+    {
      "name": "Rolling Stone",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzFzOGJuMmR6OWNTYkxfYnk2OFhuVE92TWphV1RQc0dRQlhJaFFfaFJ1QWI2OGtnVWRuTlRLQ190U05fQlU2UFNlSF9ZUWsyTnpTTHBicVFEanp3UExZMlVfQ0M0THhXWXd1QU1ORTNQbmhzMjNJSUJRMmw2OEZ5a1QzRG9UZEZranoxOWxTanN1aXhhN2ZTYnA0eDN5QVNBVFlaZ3JXejMzcUJxWlNYOXZlSHMyU1hMb0Vj",
      "feed": "gn-to-star"
@@ -309,13 +314,13 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjFkMjY0WjZ6Q05WWTVCTUNNeWhQN29mWG8yOGVkdTUxbTZyOXc3OFBsZEJkM0VxVjFuZkNRd3N2NURLUGthM0pDbFZRUkxKLUJpU0hWVFNfMEJmRlZhZE1wX0pUZnNDYl9sQXdOSHRWRHY2OVJYOXpBaWtGTlF2NXBjRU1xLXNsai14WUhManJndm54S1g4TDdxTzAxbU5jbzRF",
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRVZzNFNKelE2TlNONTNyUUdtb1RWZVo0eE5jQnRKSHAxZUhqdUtSZzJ6R3UzTkI2REYtcHJvTnBSWGdNd1c4WnlxbDZLN2xOSEVDWERUN0I1Ry1nME9MYVVSYnotZw",
      "feed": "gn-to-star"
     },
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRVZzNFNKelE2TlNONTNyUUdtb1RWZVo0eE5jQnRKSHAxZUhqdUtSZzJ6R3UzTkI2REYtcHJvTnBSWGdNd1c4WnlxbDZLN2xOSEVDWERUN0I1Ry1nME9MYVVSYnotZw",
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjFkMjY0WjZ6Q05WWTVCTUNNeWhQN29mWG8yOGVkdTUxbTZyOXc3OFBsZEJkM0VxVjFuZkNRd3N2NURLUGthM0pDbFZRUkxKLUJpU0hWVFNfMEJmRlZhZE1wX0pUZnNDYl9sQXdOSHRWRHY2OVJYOXpBaWtGTlF2NXBjRU1xLXNsai14WUhManJndm54S1g4TDdxTzAxbU5jbzRF",
      "feed": "gn-to-star"
     },
     {
@@ -332,6 +337,42 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/steve-carell-and-john-c-reilly-to-star-in-the-odd-couple-on-broadway/",
      "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "581d07d8fc",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-11T23:00:35+00:00",
+   "published": "2026-11-11T23:00:35+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Jessica Chastain to Return to Broadway in the New Play Lost Lear",
+   "quote": "",
+   "quoteSource": "Broadway Direct",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jessica Chastain",
+     "knownFor": "Molly's Game, The Eyes of Tammy Faye",
+     "score": 80,
+     "qid": "Q229313"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc3ZFZGNrenk3TTBoMG5KamtnMkZqZG5TUXlubFRiQ3p6aTFwRWU1RVV0emh3SDdJU2hOeTlCeTlNVzBUZldteVNfN1ZCNGVlWUl6M3hPTHI4N1JnT2NlYV9xVkFGb1lpSmhFVEZZZklJRWRfQ3hQeGJyN1JXbW1JVzNlcU9YMl9XUGhySGZENHE2V096U01N",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -600,9 +641,9 @@
    "placedBy": "words",
    "type": null,
    "show": "The Kid",
-   "title": "Broadway finds its Prince: Jordan Fisher cast as 'The Kid' in 'Purple Rain' musical",
+   "title": "Jordan Fisher Cast as ‘The Kid’ in Broadway’s ‘Purple Rain’ Musical",
    "quote": "",
-   "quoteSource": "Yoursun",
+   "quoteSource": "V 101.9 Charlotte",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -617,13 +658,13 @@
    ],
    "sources": [
     {
-     "name": "Yoursun",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbHFsaEc2LXpoOHMwc25PVC1wQXVmQkF1SGotd3RmN1hhazQ0dFBNTm02U19uVzZWLXlqTGdUU2lzN2NYVWdUd3owVzVKSVZsU3ltMGNkeVNTRTZrZ2FwVXNQMW9OLWhQejdXWE03MFFxWWxYUHR5ZEdJMmphRWdZcUVEVi1NSElLYjFiTTJwQ3dweUZDcGFJcjFFWGlyZEZoUklUaHBLbnNQNlVITzhmVUEtdlFBWFRDLU9ENTNnVWdjRWF0dURSUnBhaUJ4cTlyanFicTFGVjFqcEo3cFNwcGJBZWpCRFoyeTBfejFkTTZhclI3TEhj",
+     "name": "V 101.9 Charlotte",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHhmODZaMk1PMS1zT1Z6R2hxVTUxeGt6dFd0ZHpBS0xaRWhqRjlNUmh1Nlh4RU9nY281blVpR1p4MF9nTXVReGI3VVN0dGd4VHRUOG9fZ2JfcU45ckVoQVNyVm9iazBKUkdqcmJFS3NEWC1WRnVCaWw2c2U5VVRreTR6cF9XMXhVdjBtX3JSWU80eVVhcGs4",
      "feed": "gn-bway-casting"
     },
     {
-     "name": "V 101.9 Charlotte",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHhmODZaMk1PMS1zT1Z6R2hxVTUxeGt6dFd0ZHpBS0xaRWhqRjlNUmh1Nlh4RU9nY281blVpR1p4MF9nTXVReGI3VVN0dGd4VHRUOG9fZ2JfcU45ckVoQVNyVm9iazBKUkdqcmJFS3NEWC1WRnVCaWw2c2U5VVRreTR6cF9XMXhVdjBtX3JSWU80eVVhcGs4",
+     "name": "Yoursun",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbHFsaEc2LXpoOHMwc25PVC1wQXVmQkF1SGotd3RmN1hhazQ0dFBNTm02U19uVzZWLXlqTGdUU2lzN2NYVWdUd3owVzVKSVZsU3ltMGNkeVNTRTZrZ2FwVXNQMW9OLWhQejdXWE03MFFxWWxYUHR5ZEdJMmphRWdZcUVEVi1NSElLYjFiTTJwQ3dweUZDcGFJcjFFWGlyZEZoUklUaHBLbnNQNlVITzhmVUEtdlFBWFRDLU9ENTNnVWdjRWF0dURSUnBhaUJ4cTlyanFicTFGVjFqcEo3cFNwcGJBZWpCRFoyeTBfejFkTTZhclI3TEhj",
      "feed": "gn-bway-casting"
     },
     {
@@ -792,6 +833,11 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Blackfilm",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk4zeHdnMnlvNklkaWFObEdqMl9yZktRSkxoSTNqVkRsNVpnUXlZcVQtOExCbmVVaUVoVEtWdjhBVThfNXFNRnp2ZU9kS3BQeG9KZ2FsS2ZkZWhIWXZkRGdIOHROLWFEMHFnYTBENC1zSWd3Qnl2djd4OXJlbVRoYW83SF80NDVj",
      "feed": "gn-to-star"
     },
     {
@@ -2727,6 +2773,64 @@
    "status": "review"
   },
   {
+   "id": "efbe3ddd54",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-13T23:17:34+00:00",
+   "published": "2026-11-13T23:17:34+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "To Sir, With Love musical to tour – with initial casting confirmed",
+   "quote": "",
+   "quoteSource": "WhatsOnStage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "WhatsOnStage",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmo3WWxnR2Fvb216MFNLS2x2VU1FQXZLWmZTWkFLdXNBMHFHU3FTeXg5N28zeU01LXd4ZkNrZldoU0ZCbmV1Mi1Cd1p2V1VpSkxRSHRfbnpLTkVVaFdDZ1FETC16T2dsUHc5T0tJVHJRY3dnNTNZaF9GRHdWbkZ5WG9ZeXQ2X1pDRnRGNDlGSjQ3WGtJSnEtLTJBTFZmWFFkajljQ1o3UmpsQQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "8b6cff607c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-13T20:34:46+00:00",
+   "published": "2026-11-13T20:34:46+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Galileo",
+   "title": "GALILEO to Bring More Than 25,000 Students to Broadway Through Map the Sky Initiative",
+   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} The new Broadway musical Galileo has created the Map the Sky Initiative, an ambitious education and access program designed to bring more than 25,000 students to Broadway at no…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-07267bcb50d908845bc1105341c1b0a7.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/GALILEO-to-Bring-More-Than-25000-Students-to-Broadway-Through-Map-the-Sky-Initiative-20261113",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "1118215f6d",
    "priority": 3,
    "watched": [],
@@ -2751,6 +2855,35 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONTh1dGQ2eHdZNkZ0ektQejc0Y0xDVDFuOFpKU3ZEM2tRSHJCSnJJRWl2YlEwSjhnNGUxWVFOTXVkdVZkRHF2U0lsak83SEMxbHBlNVA2QkR5VGxGc2YxT0gzbXE5N3hFMGtrVnVWbDNyZUxEQXlCSE9KaC1BdWVtMEx5VEpSTkQyMDZfTVA5TU15a3R2ZHF2REExYkdReUcxSDFmd0U4dDJtZ1htb3NTUGRjQVJUR0xoRVFBYkJyLUM4NkZXci1xT1dpd2NRWS1kSW1wVjg2aW4",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "fc59f82ea6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-13T18:21:00+00:00",
+   "published": "2026-11-13T18:21:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "opening",
+   "show": null,
+   "title": "Judith LeClair Wants to Show the Versatility of the Bassoon",
+   "quote": "She will perform the world premiere of Pulitzer Prize–winning composer Kevin Puts’ Bassoon Concerto with the New York Phil.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/NY_Phil_2_JUDITH_LECLAIR_SHOT_02_035v2-by-Jason-Bell.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/judith-leclair-wants-to-show-the-versatility-of-the-bassoon",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -2838,6 +2971,35 @@
      "name": "Chicago Reader",
      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/mexodus-studebaker-theater-teatro-vista/",
      "feed": "chicago-reader"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9433e0cac0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-13T16:32:23+00:00",
+   "published": "2026-11-13T16:32:23+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway's The Lion King Celebrates 29th Anniversary November 13",
+   "quote": "The international hit musical won six 1998 Tony Awards, including Best Musical.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Mduduzi-Madela-as-Simba-PR-in-THE-LION-KING-on-Broadway_photo-by-Matthew-Murphy-c-Disney.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadways-the-lion-king-celebrates-29th-anniversary-november-13",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3199,7 +3361,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Nederlander Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": null,
    "show": null,
    "title": "Alex Brightman, Sara Chase Set Final Bows in Broadway's Schmigadoon!",
@@ -5018,35 +5180,6 @@
    "status": "published"
   },
   {
-   "id": "dc0d016b10",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-10T15:23:00+00:00",
-   "published": "2026-11-10T15:23:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Awake And Sing!",
-   "title": "Richard Schiff Among Cast Added To Broadway’s ‘Awake And Sing!’ Revival",
-   "quote": "UPDATE, Nov. 10: Additional cast has been announced for Manhattan Theatre Club’s upcoming Broadway production of Clifford Odets’ Awake and Sing!",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-1465908326-e1794324161545.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/11/broadway-awake-and-sing-micaela-diamond-will-pullen-1237012662/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "62122b96b3",
    "priority": 3,
    "watched": [],
@@ -5071,6 +5204,35 @@
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHo2VHAzT3NoRFp4UmJXcXV5dGdUd3dWZGNJSi1ZQUxtN19Ld014dTdsOWVsMjRzY2RuR3ZQWGM0R3U0akhyY09kTTJMUkxwU2dKQmZCMzU0aGVxcHBITnYwM3VmMTREbEhlbncyQVlpMGJSMk11NDRXT080bVA2RUVicXprM2hoV1FiY2NibW1FSW5KOHBF",
      "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "dc0d016b10",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T15:23:00+00:00",
+   "published": "2026-11-10T15:23:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Awake And Sing!",
+   "title": "Richard Schiff Among Cast Added To Broadway’s ‘Awake And Sing!’ Revival",
+   "quote": "UPDATE, Nov. 10: Additional cast has been announced for Manhattan Theatre Club’s upcoming Broadway production of Clifford Odets’ Awake and Sing!",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-1465908326-e1794324161545.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/broadway-awake-and-sing-micaela-diamond-will-pullen-1237012662/",
+     "feed": "deadline-theater"
     }
    ],
    "status": "published"
@@ -12636,64 +12798,6 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/need-a-halloween-costume-here-are-some-broadway-characters-you-can-pull-together-from-your-closet",
      "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "71012c6196",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-23T21:01:39+00:00",
-   "published": "2026-10-23T21:01:39+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Small Mouth Sounds",
-   "title": "‘Small Mouth Sounds’ on Broadway moves up first preview",
-   "quote": "The play by Bess Wohl will begin earlier in February 2027 than planned.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/2276229844-1.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/small-mouth-sounds-on-broadway-moves-up-first-preview/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "a10789c6fd",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-23T21:00:14+00:00",
-   "published": "2026-10-23T21:00:14+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "s Jasmine Cephas Jones leads Miranda",
-   "title": "Warriors musical Broadway cast: Hamilton's Jasmine Cephas Jones leads Miranda's new show",
-   "quote": "",
-   "quoteSource": "British Theatre",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "British Theatre",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1MtRlJKMVhxMFhIUU1EbXhIeldMcFVROUdNUC1Oa0xmT2MzQ3RQTDlKT0FoVlRNLXhxQW95TXlORXYyM1BiS2RoOElpNXAwcm1MV0RUMzNMQjZ2a2l3TlR5RGwxTlFYUnQ2djU1MkJfREpUUTU5ekZncldUTlYyeS1wRHpxVWJlLTJvVzFiZXdiR2UyYnc",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
