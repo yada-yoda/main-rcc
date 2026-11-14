@@ -86,10 +86,10 @@
    "type": "casting",
    "show": "Outside Of Cleveland",
    "title": "Lois Smith Joins The Cast Of OUTSIDE OF CLEVELAND Alongside Alex Wolff",
-   "quote": "Tony Award-winning actress Lois Smith has joined the cast of Outside of Cleveland, an upcoming fantasy dramedy from writer and director Colin West. The film also stars Alex Wolff, Brooklynn Prince, Jim Gaffigan, Sarah Wayne Callies, and Michael Ian Black.",
+   "quote": "",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-7d230bea604a12b53c19c49fe9b42195.jpg",
-   "imageCredit": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [
@@ -103,8 +103,8 @@
    "sources": [
     {
      "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Lois-Smith-Joins-The-Cast-Of-OUTSIDE-OF-CLEVELAND-Alongside-Alex-Wolff-20261113",
-     "feed": "broadwayworld"
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGp2NV9IaHhnSFQtQXlKeGVPLXB0T1JIU0FBcXdFclQ4ZGdBNEVjSXljcm1vM2Z6QmxIUGYwakhidjFxaW5yb3hXU1Q2d29jZXNVQ0p4UnBXczBmcnJYRzFrRDlTS09qV2sybGIwUzUxU0xNX29UX2tKWWRMRTVVQWNMakFTaTFBMDRvWGh3a0dXajlSalIzZG1ldFRFVS1uVUxXOXdBWC1kWkJkYmZuX3pOLVN5OTRN",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -188,6 +188,123 @@
    "status": "review"
   },
   {
+   "id": "22489b6f6c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-12T13:37:54+00:00",
+   "published": "2026-11-12T13:37:54+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Stephen Sondheim Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Odd Couple",
+   "title": "Steve Carell, John C. Reilly Cast in Broadway’s ‘The Odd Couple’",
+   "quote": "Steve Carell and John C. Reilly will star in a new Broadway production of Neil Simon’s The Odd Couple, with Hamilton director Thomas Kail on board.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/odd-e1794492216573.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Steve Carell",
+     "knownFor": "American actor and comedian",
+     "score": 71,
+     "qid": "Q216221"
+    },
+    {
+     "name": "John C Reilly",
+     "knownFor": "Step Brothers, Wreck-It Ralph",
+     "score": 63,
+     "qid": "Q223110"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Today",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGdoVExoVXZMT3g1VE9WaUpweGZoWlRYOHBkUmhMUUJCeTB0aHpyS2ZfM1hkaVdteXRkaElrWWtvdXhLakV1QUw1SjVWWFdTeXF2UGxETm8tdk9VWTFudGI5M0ZmY3Jjdm5pMDZ1dmxiWnVudTlXdHNMMHdqX25aRDB3RE1HSmlpZ0dmUHVkMVFZUHdvaFprNkpnbmpaM2lXSjVF",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHVnTU05enAyM2E4YXlqUnJsallXTUpIUktHaGg2N1RzUE9mVFFfWEVlMmZEYm5wZk0yLUZfal9IZFpVWDZfZk00VFNZOG9KYWlmcG4xNHJMTXlLQXJpT3BIYjNKaEtPOTNkREdueGt4N1huU0MyMGZvVENVTjdDd2xfc1ZSWF9WT3hlaGJVaTJpR29MeHMtcjNJZUxSeTg",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVk4bDNZZEZQS2g2eUJJeDZSY29TQXpmQ0k5ZVJhWjJqUGtPNkRkMmRoSDRraWFSck9hYjBjVGpjc1l2aENEcGhfeTY2MkVBX2FaWDNNVExoNTZVaEF2QnNmb1RpNVIzYVptbU84Um4zZ205YUVnZjRlbTlsTGppOF9hS1Y2U2lOSmtmeDNrRGZMVGhGdlhrWVVYbE5KdF9nMzNNNUNTZTBqUV9GRlhJ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Rolling Stone",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzFzOGJuMmR6OWNTYkxfYnk2OFhuVE92TWphV1RQc0dRQlhJaFFfaFJ1QWI2OGtnVWRuTlRLQ190U05fQlU2UFNlSF9ZUWsyTnpTTHBicVFEanp3UExZMlVfQ0M0THhXWXd1QU1ORTNQbmhzMjNJSUJRMmw2OEZ5a1QzRG9UZEZranoxOWxTanN1aXhhN2ZTYnA0eDN5QVNBVFlaZ3JXejMzcUJxWlNYOXZlSHMyU1hMb0Vj",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "West End Best Friend",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUZmaFVncW9iVUQ2RFp2N1dzd0xiSGhXcHJPZ0FBZVZzclljTVhwV3JCUzJyY1UwSlVZako5a0dMSHY1UGMyQXA5bXkzd05VZGwtZkJmdE5pTzJnUFhEczRNTzhaeUVkZWRiTU5UcFhNell4aHpVNS16TWhoWWpJZ3hqcWNybEhfSW15R1M2aUwtODE5TWR1WHM0NzlpOEJoWVh0MQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRVZzNFNKelE2TlNONTNyUUdtb1RWZVo0eE5jQnRKSHAxZUhqdUtSZzJ6R3UzTkI2REYtcHJvTnBSWGdNd1c4WnlxbDZLN2xOSEVDWERUN0I1Ry1nME9MYVVSYnotZw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjFkMjY0WjZ6Q05WWTVCTUNNeWhQN29mWG8yOGVkdTUxbTZyOXc3OFBsZEJkM0VxVjFuZkNRd3N2NURLUGthM0pDbFZRUkxKLUJpU0hWVFNfMEJmRlZhZE1wX0pUZnNDYl9sQXdOSHRWRHY2OVJYOXpBaWtGTlF2NXBjRU1xLXNsai14WUhManJndm54S1g4TDdxTzAxbU5jbzRF",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/the-odd-couple-broadway-steve-carell-john-c-reilly-1237221526/",
+     "feed": "deadline-theater"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/steve-carell-john-c-reilly-odd-couple-on-broadway-1236753889/",
+     "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/steve-carell-and-john-c-reilly-to-star-in-the-odd-couple-on-broadway/",
+     "feed": "broadway-news"
+    },
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEFOZjhWeUh1ckRyM0lCdjZjMVdweUdGM1JrSTNsTl9yMy1oeUZIRTZkd005UVJmV282NExTTUxDand0MklON1BHano4SkRQN241S2p5dVJjc0xiUThqekoya3ZCaHZ1Yy1ORW9zMFNSbzBtWWdHQnhaNkFTdG9qTjhhQ2lMOHhpSGlsaGlSTUZnU2xUZ193",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Film-news",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1lTTU5FaEpSV1FFUnZja1RQTXhGNzZZV3JzTkF3dG5Rd0pFdHBJOW00c0d4NHZ1RzNKRzZpRV9KOGVRN2JWNXA1MjJHLWtodi1tZXFhTVJueVdudThOU2g0eXdKSl92SktlVjYyZWlJVFk5TEpub25lWkFINjZYNXQ5bEs4SGdmaGNvaTl0X1BQN1ZwaFBsZVNIcDRTQUN2Yy1HMlI1S3pCbDNQeHhuUQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYWlweno0TzVuUFVwRGFZN2Z5cmNrYW5qSzlZTDJfdnBEVWRLcUVMa0txRC0ybmp2cGVoZXVnNEppbDdtVEUtTEZsbWpqWWlRblQ3emdKVmlhakRDdllBQnJYWGhfZDFodElwYzI5YXp4UEdidW5GSmotWTdOak9lb1hUQjNIcVlkUE1iNng5T3VuSjRJRVhtUTMwY2pKUVBJR180cEg0dm9RdlZaMTBjTFZLZGVpNUNXdXFxU1ZLc2dDVFFLRHBLNDNuNzJtYm0tcFgzVWRlVnFfRl85RHo1TVdVYVFuemMzbFVuRF95UnlwOWNRVmYzadIB_gFBVV95cUxQcDlIZ3RlLW02ejRlWFduajJNU3FqbXNYY1p0UGNyNU01SjdqYWx3R0trWExZcUt4V1pNU1VtUERkQWFlZVlEdmhJVXhrcmVWRWlRYTRlbjBHNDQzZkdtYTVIUjdQOG9ndnp2ZUFGczhVSFpWMHlxZHB0T0x1VUtuZmZsb1hPRnRrQTJSOUtCLVV0bWk2X1hPNkx3S05YNl9jaU1YU0JPeFR3N3NKdjhWOVIyV1FMQU9yT0c3R2tWUTdKU2ZpQjAzUWh4NVNRaE1OUWlpXzlEV25wNUlQZE5SQnN0bGJ3WVZiRm9xeUtScUE4SjUyNW9peE44WFBPdw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uZmpGaklQNUJ6RkRDSlpOdVZDWTNPbDZzVU5Ta09Mb0RQdmlVSHFlNnQ1S2pCd2RjemU5X18wM2xyLWhTQzdmN3U4aWY",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "53bee39b14",
    "priority": 2,
    "watched": [],
@@ -230,113 +347,6 @@
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/12/theater/steve-carell-john-c-reilly-odd-couple-broadway.html",
      "feed": "nyt-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "b3c1070141",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-12T12:44:37+00:00",
-   "published": "2026-11-12T12:44:37+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Stephen Sondheim Theatre",
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Odd Couple",
-   "title": "Video Steve Carrell, John C. Reilly set to star in Broadway adaptation of 'The Odd Couple' - ABC News",
-   "quote": "Steve Carell and John C. Reilly will star in a new Broadway production of Neil Simon’s The Odd Couple, with Hamilton director Thomas Kail on board.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/11/odd-e1794492216573.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Steve Carrell",
-     "knownFor": "American actor and comedian",
-     "score": 71,
-     "qid": "Q216221"
-    },
-    {
-     "name": "John C Reilly",
-     "knownFor": "Step Brothers, Wreck-It Ralph",
-     "score": 63,
-     "qid": "Q223110"
-    }
-   ],
-   "sources": [
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uZmpGaklQNUJ6RkRDSlpOdVZDWTNPbDZzVU5Ta09Mb0RQdmlVSHFlNnQ1S2pCd2RjemU5X18wM2xyLWhTQzdmN3U4aWY",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDJWd2RlaU5zOEdJRWhMYjdfOWxGbUxJZEZuV0htQkNyZWZkQzhEeW5wQnFMQ3Q0ZWR4YnZoaWlIMzQtNTRzSnd1TUVqeUgtVW9LTDFTM1R5MmRHc2lRdV9KbUtWX1dNdHB3UDBYb2dvLUplUjlKU1RKaERSMDBmb29n",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Today",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGdoVExoVXZMT3g1VE9WaUpweGZoWlRYOHBkUmhMUUJCeTB0aHpyS2ZfM1hkaVdteXRkaElrWWtvdXhLakV1QUw1SjVWWFdTeXF2UGxETm8tdk9VWTFudGI5M0ZmY3Jjdm5pMDZ1dmxiWnVudTlXdHNMMHdqX25aRDB3RE1HSmlpZ0dmUHVkMVFZUHdvaFprNkpnbmpaM2lXSjVF",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHVnTU05enAyM2E4YXlqUnJsallXTUpIUktHaGg2N1RzUE9mVFFfWEVlMmZEYm5wZk0yLUZfal9IZFpVWDZfZk00VFNZOG9KYWlmcG4xNHJMTXlLQXJpT3BIYjNKaEtPOTNkREdueGt4N1huU0MyMGZvVENVTjdDd2xfc1ZSWF9WT3hlaGJVaTJpR29MeHMtcjNJZUxSeTg",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVk4bDNZZEZQS2g2eUJJeDZSY29TQXpmQ0k5ZVJhWjJqUGtPNkRkMmRoSDRraWFSck9hYjBjVGpjc1l2aENEcGhfeTY2MkVBX2FaWDNNVExoNTZVaEF2QnNmb1RpNVIzYVptbU84Um4zZ205YUVnZjRlbTlsTGppOF9hS1Y2U2lOSmtmeDNrRGZMVGhGdlhrWVVYbE5KdF9nMzNNNUNTZTBqUV9GRlhJ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Rolling Stone",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzFzOGJuMmR6OWNTYkxfYnk2OFhuVE92TWphV1RQc0dRQlhJaFFfaFJ1QWI2OGtnVWRuTlRLQ190U05fQlU2UFNlSF9ZUWsyTnpTTHBicVFEanp3UExZMlVfQ0M0THhXWXd1QU1ORTNQbmhzMjNJSUJRMmw2OEZ5a1QzRG9UZEZranoxOWxTanN1aXhhN2ZTYnA0eDN5QVNBVFlaZ3JXejMzcUJxWlNYOXZlSHMyU1hMb0Vj",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "West End Best Friend",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUZmaFVncW9iVUQ2RFp2N1dzd0xiSGhXcHJPZ0FBZVZzclljTVhwV3JCUzJyY1UwSlVZako5a0dMSHY1UGMyQXA5bXkzd05VZGwtZkJmdE5pTzJnUFhEczRNTzhaeUVkZWRiTU5UcFhNell4aHpVNS16TWhoWWpJZ3hqcWNybEhfSW15R1M2aUwtODE5TWR1WHM0NzlpOEJoWVh0MQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRVZzNFNKelE2TlNONTNyUUdtb1RWZVo0eE5jQnRKSHAxZUhqdUtSZzJ6R3UzTkI2REYtcHJvTnBSWGdNd1c4WnlxbDZLN2xOSEVDWERUN0I1Ry1nME9MYVVSYnotZw",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjFkMjY0WjZ6Q05WWTVCTUNNeWhQN29mWG8yOGVkdTUxbTZyOXc3OFBsZEJkM0VxVjFuZkNRd3N2NURLUGthM0pDbFZRUkxKLUJpU0hWVFNfMEJmRlZhZE1wX0pUZnNDYl9sQXdOSHRWRHY2OVJYOXpBaWtGTlF2NXBjRU1xLXNsai14WUhManJndm54S1g4TDdxTzAxbU5jbzRF",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/11/the-odd-couple-broadway-steve-carell-john-c-reilly-1237221526/",
-     "feed": "deadline-theater"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/steve-carell-john-c-reilly-odd-couple-on-broadway-1236753889/",
-     "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/steve-carell-and-john-c-reilly-to-star-in-the-odd-couple-on-broadway/",
-     "feed": "broadway-news"
     }
    ],
    "status": "published"
@@ -753,122 +763,6 @@
    "status": "review"
   },
   {
-   "id": "ba82d8ef6c",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-10T08:00:00+00:00",
-   "published": "2026-11-10T08:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Majestic Theatre",
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Purple Rain",
-   "title": "Jordan Fisher Will Star in Prince’s Purple Rain on Broadway",
-   "quote": "Broadway’s Purple Rain has cast Jordan Fisher in the lead role of The Kid, the very Prince-like character portrayed by very real Prince in the original 1984 film. Producer Orin Wolf announced the casting today.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/11/purple_378d37.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Jordan Fisher",
-     "knownFor": "American singer and actor",
-     "score": 28,
-     "qid": "Q19955856"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbllYZkhjYlFzaDhmV25URlVvRS0wY2ZhZ1NzVXNhYTRkWV9uMDRwcWdXM0JRZmhLbE5MeFFKallpRlVxQks4MTBZZENLbnhUX2h2d1Vuemg0Yy1INUdwLVEwWnpFaXJ2UVJ2TTBqSXRKRkJDWWx0NUEzSG9uNm16b244Q0NBdmhtdmdBNTlKVkRDdm9manlESDdB",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmJHU0FqOXlEenI5RkpacW1LM0NQVmlMcU5CamczRkRnQ0xZNFdEV1FHWWtsekRJd3h3bkpzeEVhRkJJZFhYYkV3MHpfb1VUcmpmbGhIRXF6WW9VZUx4M0hNZFhvMk9fV3dQUVJsRVRoVWJtbHpmR0Jfd0d2d1FXSXA0QkhLaXpWTW5lX2JvdHBkbGctOUVLZ0JR",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway at the Hobby Center",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUlod0ZDZmg0ZjYzeVgwd3Mwa2J0OFpTalpaM3JTTHJFLXRmWFdVSEpjcDlJMUlWMTE0cjFnNFZtbER1MWVVb3l3TGFZVDdna1VocWlFd0E4YWpieENEV0Zoa0paUEZrY1pyT2xJb1hTQ2lLM2hQMXpUUnp3ODZZTjIxeU9BRkxGY1psdEhkRWJDQ1laSWc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "News8000",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWcxR2NjaFdULTFmWkhHX1RDUEkxLWpqODdSMDZlSlZzZkdBREV6S0ZpaWZRRUliR0E4REhrSkg0dVhKSFZzMTFUN1VZUEp2NDAyeHdPa0VFWVF5M2NFcHg0bmFwNTg0VGR6eE01RUg4V1FWV28tdG55YWd4YmMxX3A4MG54eElyM2tvOVZUVjAzVHlZTkVmLVRFbkprNzdTd2VkR3pENlEtc211YldoMGVhOHhFRWplRUFKTnQ3SDZmVlJvcFJ0Y3ZKTFgyMng4ellB",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Sweety High",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcXdnVTRqblE3TlhmTXVQR0JHTDV4QU1nNjQ0dXFFM2xpZzV6Wm8zcTJXSm41dEhLM1lERXVDZnZhT3ZTRHJnaTRPWHRlSDJaanhCaS12QXB1QUFaam9iNk95d3NnYVF3TmVzQmRLVnNoeThQUlB6c0lwX2xpYjQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "WhatsOnStage",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzI5RUY3TFVqLW1GQ2JsSFViNE45QzZGUnJMQjBfZUNUVDJyenlpN0xCT0ZNNWtXTk1MM1lRRnQ5cVFQMzl5Y1VIM2dKWDAycXBZX1M0UnBfZUhSWFZQMVdMeTRKRUJNdXZKVGlIVTM0UnNPQUVwcGg2dXVpSHgzNEZIT3NFV3RuU1dUQXhuWEwwcFZibnk4OTkwOFY4Wks4NmVIcHZsMV9mZw",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODZFcHQ1Ti1OT1NhY1Z0d19HMGFSSVdIRHJmTEpJbVJ3dFkxbkFwRkdhYmlvNEltY28xQW5CTG9rVy1yQXlpUXB3TlNscENGVnptMVU5RXlONW01QlRMcTVrRjRNeVVoUGQ4a2FsYVFfak5TanFSRWljbkJHeGNKS0pCQQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Variety",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "TheGrio",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkNGUFhSM3UzT0hpdzVoc1ktb0I0M0UtNTNKTjdGQm5YU3drczdfV1IyekJWRjVsV1dwbm9pMEdVUW51VjdtZVM5ZDBpVnBlWURUV3d1b21LWlVOTk9nQjU2azJQNldFdkxoMDJaNTAxTG14YzFXX05QYTN2ZkhpN3lnNTZYSExSbTVKRFNiNA",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Blackfilm",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk4zeHdnMnlvNklkaWFObEdqMl9yZktRSkxoSTNqVkRsNVpnUXlZcVQtOExCbmVVaUVoVEtWdjhBVThfNXFNRnp2ZU9kS3BQeG9KZ2FsS2ZkZWhIWXZkRGdIOHROLWFEMHFnYTBENC1zSWd3Qnl2djd4OXJlbVRoYW83SF80NDVj",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jordan-fisher-prince-role-broadway-adaptation-purple-rain-1236751251/",
-     "feed": "thr-arts"
-    },
-    {
-     "name": "Gold Derby",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3hGTVdOQVo1RTBOQ0E4RnBXMGNMT3poMU5VSGVRTnFTRW9YMHJ2d0ppM1g4Zmg2UDJXTzNvdHR3aGNoc2cybXI4WlpFcFh4MEhBWklCVjhaLWExOGNMcnNyYXU0eXZTcmJUTDRsZ3BFbE9vQVlVU0dZSXM1S2J2R2NFNWhmSVVWX0ZnNjhsQWgwTmhWV2JhLTREUkdzX1c0bDdqdS1iQnM2QQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlVtQUFKLXFweTBIZmlxUU5KcEdRUnphV2w4X28ycjUyanR2VlU4V09vM0NNdjJPSjFRTW92RXZyUG41ZUNkTGhPejQydjNQSkxkTWxiVEJiQUwyVm9MMTJBRHdyOV9MZ3pXUWlMY0JZUFhqeVNZem9hblNWbzEtUA",
-     "feed": "gn-offbway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/11/purple-rain-broadway-jordan-fisher-1237218438/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "b1d2171435",
    "priority": 2,
    "watched": [],
@@ -967,6 +861,127 @@
      "name": "TheaterMania",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHZWZnRyMVBSVWJFS0xTR2RNclhsOHhOLXV2LXVDUGJRWHItNFl0TTJ3N1Q5LVVNRG9mUWVLOERoODczbDI0cHlLckR5TWYtTm5wRzkyOWRFcXdnSnowVXQxSzlDY2k2TEZyYldfajFjcWNYa0s0YWhvWVYxakU3Z1JiNXdlZ0lscVFsSE9kQ2g4N0tLb0pBME5mZmh2ZFgyREZiYW9MX1lCZ2x6Qy1xcWRZZWJKbEZndE5EZWdn",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "ba82d8ef6c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T08:00:00+00:00",
+   "published": "2026-11-10T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Majestic Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Purple Rain",
+   "title": "Jordan Fisher Will Star in Prince’s Purple Rain on Broadway",
+   "quote": "Broadway’s Purple Rain has cast Jordan Fisher in the lead role of The Kid, the very Prince-like character portrayed by very real Prince in the original 1984 film. Producer Orin Wolf announced the casting today.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/purple_378d37.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbllYZkhjYlFzaDhmV25URlVvRS0wY2ZhZ1NzVXNhYTRkWV9uMDRwcWdXM0JRZmhLbE5MeFFKallpRlVxQks4MTBZZENLbnhUX2h2d1Vuemg0Yy1INUdwLVEwWnpFaXJ2UVJ2TTBqSXRKRkJDWWx0NUEzSG9uNm16b244Q0NBdmhtdmdBNTlKVkRDdm9manlESDdB",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmJHU0FqOXlEenI5RkpacW1LM0NQVmlMcU5CamczRkRnQ0xZNFdEV1FHWWtsekRJd3h3bkpzeEVhRkJJZFhYYkV3MHpfb1VUcmpmbGhIRXF6WW9VZUx4M0hNZFhvMk9fV3dQUVJsRVRoVWJtbHpmR0Jfd0d2d1FXSXA0QkhLaXpWTW5lX2JvdHBkbGctOUVLZ0JR",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway at the Hobby Center",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUlod0ZDZmg0ZjYzeVgwd3Mwa2J0OFpTalpaM3JTTHJFLXRmWFdVSEpjcDlJMUlWMTE0cjFnNFZtbER1MWVVb3l3TGFZVDdna1VocWlFd0E4YWpieENEV0Zoa0paUEZrY1pyT2xJb1hTQ2lLM2hQMXpUUnp3ODZZTjIxeU9BRkxGY1psdEhkRWJDQ1laSWc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "News8000",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWcxR2NjaFdULTFmWkhHX1RDUEkxLWpqODdSMDZlSlZzZkdBREV6S0ZpaWZRRUliR0E4REhrSkg0dVhKSFZzMTFUN1VZUEp2NDAyeHdPa0VFWVF5M2NFcHg0bmFwNTg0VGR6eE01RUg4V1FWV28tdG55YWd4YmMxX3A4MG54eElyM2tvOVZUVjAzVHlZTkVmLVRFbkprNzdTd2VkR3pENlEtc211YldoMGVhOHhFRWplRUFKTnQ3SDZmVlJvcFJ0Y3ZKTFgyMng4ellB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Sweety High",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkcXdnVTRqblE3TlhmTXVQR0JHTDV4QU1nNjQ0dXFFM2xpZzV6Wm8zcTJXSm41dEhLM1lERXVDZnZhT3ZTRHJnaTRPWHRlSDJaanhCaS12QXB1QUFaam9iNk95d3NnYVF3TmVzQmRLVnNoeThQUlB6c0lwX2xpYjQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "WhatsOnStage",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzI5RUY3TFVqLW1GQ2JsSFViNE45QzZGUnJMQjBfZUNUVDJyenlpN0xCT0ZNNWtXTk1MM1lRRnQ5cVFQMzl5Y1VIM2dKWDAycXBZX1M0UnBfZUhSWFZQMVdMeTRKRUJNdXZKVGlIVTM0UnNPQUVwcGg2dXVpSHgzNEZIT3NFV3RuU1dUQXhuWEwwcFZibnk4OTkwOFY4Wks4NmVIcHZsMV9mZw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Aol",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODZFcHQ1Ti1OT1NhY1Z0d19HMGFSSVdIRHJmTEpJbVJ3dFkxbkFwRkdhYmlvNEltY28xQW5CTG9rVy1yQXlpUXB3TlNscENGVnptMVU5RXlONW01QlRMcTVrRjRNeVVoUGQ4a2FsYVFfak5TanFSRWljbkJHeGNKS0pCQQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "The Arts Shelf",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVJIZkd4azQ0QmNfRS1jSzFRcF9DRFcxSEl1ZEpSY2lsQlc0VlVyTkVSeDVZbzJrVFVEamxtODVDTmVjVFhVXzBlal9aQUFXWlpOclBXMzJKUW5TcEp6dHA2UnpjTUNNRWJqVks2RDZsbm9zampCOUxqU1hQN3VJUkY4WHlidw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "TheGrio",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkNGUFhSM3UzT0hpdzVoc1ktb0I0M0UtNTNKTjdGQm5YU3drczdfV1IyekJWRjVsV1dwbm9pMEdVUW51VjdtZVM5ZDBpVnBlWURUV3d1b21LWlVOTk9nQjU2azJQNldFdkxoMDJaNTAxTG14YzFXX05QYTN2ZkhpN3lnNTZYSExSbTVKRFNiNA",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Blackfilm",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk4zeHdnMnlvNklkaWFObEdqMl9yZktRSkxoSTNqVkRsNVpnUXlZcVQtOExCbmVVaUVoVEtWdjhBVThfNXFNRnp2ZU9kS3BQeG9KZ2FsS2ZkZWhIWXZkRGdIOHROLWFEMHFnYTBENC1zSWd3Qnl2djd4OXJlbVRoYW83SF80NDVj",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jordan-fisher-prince-role-broadway-adaptation-purple-rain-1236751251/",
+     "feed": "thr-arts"
+    },
+    {
+     "name": "Gold Derby",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3hGTVdOQVo1RTBOQ0E4RnBXMGNMT3poMU5VSGVRTnFTRW9YMHJ2d0ppM1g4Zmg2UDJXTzNvdHR3aGNoc2cybXI4WlpFcFh4MEhBWklCVjhaLWExOGNMcnNyYXU0eXZTcmJUTDRsZ3BFbE9vQVlVU0dZSXM1S2J2R2NFNWhmSVVWX0ZnNjhsQWgwTmhWV2JhLTREUkdzX1c0bDdqdS1iQnM2QQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlVtQUFKLXFweTBIZmlxUU5KcEdRUnphV2w4X28ycjUyanR2VlU4V09vM0NNdjJPSjFRTW92RXZyUG41ZUNkTGhPejQydjNQSkxkTWxiVEJiQUwyVm9MMTJBRHdyOV9MZ3pXUWlMY0JZUFhqeVNZem9hblNWbzEtUA",
+     "feed": "gn-offbway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/purple-rain-broadway-jordan-fisher-1237218438/",
+     "feed": "deadline-theater"
     }
    ],
    "status": "published"
@@ -2737,66 +2752,88 @@
    "status": "review"
   },
   {
-   "id": "1c35db0d82",
-   "priority": 2,
+   "id": "6b19109691",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-23T17:02:23+00:00",
-   "published": "2026-10-23T17:02:23+00:00",
-   "city": "Chicago",
-   "tier": "Chicago storefront",
-   "venue": "Raven Theatre",
-   "placedBy": "venue",
+   "firstSeen": "2026-11-14T17:00:23+00:00",
+   "published": "2026-11-14T17:00:23+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
    "type": null,
    "show": null,
-   "title": "A Strange Loop encompasses metatheatricality, race, theater politics, and Tyler Perry",
-   "quote": "Eddie Weaver (center) and the ensemble of A Strange Loop , presented by About Face Theatre and Raven Theatre \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/cast-photo-by-Joe-Mazza-scaled-e1792774265943.jpg?fit=780%2C520&ssl=1\" /> A Strange Loop , through 12/13, About Face Theatre and…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/cast-photo-by-Joe-Mazza-scaled-e1792774265943.jpg?fit=1024%2C683&ssl=1",
-   "imageCredit": "Chicago Reader",
+   "title": "Exclusive: How and Where Broadway Stars Are Working Out and Building Strength",
+   "quote": "Performing eight shows a week is an incredibly demanding job for even the most experienced Broadway performer. Not only is it crucial to keep your voice in tip-top shape, but staying healthy and strong is of the utmost importance.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-00feb4c8314aeb736ff3972584636278.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Tyler Perry",
-     "knownFor": "American actor and filmmaker",
-     "score": 53,
-     "qid": "Q686301"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/strange-loop-raven-theatre-about-face-theatre/",
-     "feed": "chicago-reader"
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Exclusive-How-and-Where-Broadway-Stars-Are-Working-Out-and-Building-Strength-20261114",
+     "feed": "broadwayworld"
     }
    ],
    "status": "review"
   },
   {
-   "id": "efbe3ddd54",
+   "id": "8679c28d87",
    "priority": 3,
    "watched": [],
-   "firstSeen": "2026-11-13T23:17:34+00:00",
-   "published": "2026-11-13T23:17:34+00:00",
+   "firstSeen": "2026-11-14T13:00:29+00:00",
+   "published": "2026-11-14T13:00:29+00:00",
    "city": null,
    "tier": null,
    "venue": null,
    "placedBy": "none",
    "type": "casting",
    "show": null,
-   "title": "To Sir, With Love musical to tour – with initial casting confirmed",
-   "quote": "",
-   "quoteSource": "WhatsOnStage",
-   "image": null,
-   "imageCredit": null,
+   "title": "Atlantic Acting School Takes Over Our Instagram Today",
+   "quote": "Ever wonder what a day in the life of a student at Atlantic Acting School is like? Tune in to our Instagram Story today to step inside the world-renowned acting conservatory in NYC.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-4785c5b747627eecec906bfdd29c528a.jpg",
+   "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
    "sources": [
     {
-     "name": "WhatsOnStage",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmo3WWxnR2Fvb216MFNLS2x2VU1FQXZLWmZTWkFLdXNBMHFHU3FTeXg5N28zeU01LXd4ZkNrZldoU0ZCbmV1Mi1Cd1p2V1VpSkxRSHRfbnpLTkVVaFdDZ1FETC16T2dsUHc5T0tJVHJRY3dnNTNZaF9GRHdWbkZ5WG9ZeXQ2X1pDRnRGNDlGSjQ3WGtJSnEtLTJBTFZmWFFkajljQ1o3UmpsQQ",
-     "feed": "gn-bway-casting"
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Atlantic-Acting-School-Takes-Over-Our-Instagram-Today-20261114",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "240cfdb6d6",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-14T12:56:07+00:00",
+   "published": "2026-11-14T12:56:07+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "School Girls,",
+   "title": "Broadway Last Chance: ‘School Girls,’ ‘Two Strangers,’ ‘Imaginary Invalid’",
+   "quote": "The final curtain call is approaching for Jocelyn Bioh’s comedy, Bill Irwin’s take on Molière and a meet-cute musical. Plus, a few more titles to put on your holiday must-see list.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13cul-last-chance-broadway-schoolgirls-hclw/13cul-last-chance-broadway-schoolgirls-hclw-mediumSquareAt3X.jpg",
+   "imageCredit": "Sara Krulwich/The New York Times",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/13/theater/broadway-shows-closing-school-girls-two-strangers.html",
+     "feed": "nyt-theater"
     }
    ],
    "status": "review"
@@ -4160,6 +4197,35 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/broadway-real-estate",
      "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "efbe3ddd54",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-13T23:17:34+00:00",
+   "published": "2026-11-12T10:20:38+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "To Sir, With Love musical to tour – with initial casting confirmed",
+   "quote": "",
+   "quoteSource": "WhatsOnStage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "WhatsOnStage",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmo3WWxnR2Fvb216MFNLS2x2VU1FQXZLWmZTWkFLdXNBMHFHU3FTeXg5N28zeU01LXd4ZkNrZldoU0ZCbmV1Mi1Cd1p2V1VpSkxRSHRfbnpLTkVVaFdDZ1FETC16T2dsUHc5T0tJVHJRY3dnNTNZaF9GRHdWbkZ5WG9ZeXQ2X1pDRnRGNDlGSjQ3WGtJSnEtLTJBTFZmWFFkajljQ1o3UmpsQQ",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -7278,6 +7344,35 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/current-broadway-company-of-the-outsiders-to-present-the-outsiders-the-remix",
      "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "a9f941085b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-05T08:00:00+00:00",
+   "published": "2026-11-05T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway’s Biggest Stars: Celebrities on Stage in 2026",
+   "quote": "",
+   "quoteSource": "Broadway Direct",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iT2JjVXR0MnVNSzNWdUNNNWVZbFVqYzc5bzNBUEhnRUNObFR2S2VIMHNVdDY2WFpmY1ZyZHhxRV9uVmNFZFYwN0VxNEcyanAtY0VlekRFelVuekVoczd5WTZwdFh3RFFqRTl3MWR4TEs5eVlTaW82dEdTLW8",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -12685,180 +12780,6 @@
     }
    ],
    "status": "published"
-  },
-  {
-   "id": "4f2161a970",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-24T15:02:20+00:00",
-   "published": "2026-10-24T15:02:20+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Love Island winner and Strictly finalist Amber Davies is to star in Legally Blonde in Brighton and Woking. More here: https://bbc.in/4eIaFvj",
-   "quote": "",
-   "quoteSource": "Facebook",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX25KVXVfUTRwWUd6b2QxdUpFTXR3ZXNfZWtpRWs5RWtxd0t3WEtXSTZwTjBrRnFzbldSM0R5dlA0cFpxdHdQekNWWHBzc0RkUXNoTjZ4b2ppd1dRRWZIU2tNeUZrNGZMMzdEcGhlV0M4WFFZcGR2UUpTWTB2NHBfSGNVRXZnbklXeU1TR2ZzMW12VlRyOG9lamZQMkh6Wjc5Q0tuM25ZeGRqRThJYlBzZW1PWjE0V3pVbU0yWTZCcjMxRDFDelBIRDRxVzNuZHJERS1LRWFn",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "59ba239a3a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-24T13:00:23+00:00",
-   "published": "2026-10-24T13:00:23+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Vivian Beaumont Theater",
-   "placedBy": "venue",
-   "type": "new production",
-   "show": "A Few Good Men",
-   "title": "Character Breakdown: The Cast of A FEW GOOD MEN Unpacks Their Roles",
-   "quote": "Performances are officially underway at the Vivian Beaumont Theatre for Lincoln Center Theatre's revival of A Few Good Men, by Aaron Sorkin. What's it all about?",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-468916337bfe5729e2170da64178ca92.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Character-Breakdown-The-Cast-of-A-FEW-GOOD-MEN-Unpacks-Their-Roles-20261024",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "9bac79dd90",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-24T17:16:40+00:00",
-   "published": "2026-10-24T09:56:22+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Galileo",
-   "title": "Raúl Esparza to Star in Broadway Run of ‘Galileo’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZG12bFdyRWhRVjJJdXBDZHp3SWVxNFVraUhLeVJtbGo1dV9lbmNxQkw4RzZTMWVCeUNydnlNOUwwT0NZZWlYcUh6clkyNTRlaTVUMlhoQVRKTU5CLUpLSDUtbmZvSTBYTWQteTVCOUFaZGl3V1ltbXdMdlBCUXZuTlk4SmJkVzM4MTFN",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "ae8df8299e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-24T09:00:00+00:00",
-   "published": "2026-10-24T09:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Need a Halloween Costume? Here Are Some Broadway Characters You Can Pull Together From Your Closet",
-   "quote": "This year, why not be a vampire, Orpheus, or Mary Todd Lincoln?",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/1.-My-Favorite-Year.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/need-a-halloween-costume-here-are-some-broadway-characters-you-can-pull-together-from-your-closet",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f7d1d1b36e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-23T16:05:29+00:00",
-   "published": "2026-10-23T16:05:29+00:00",
-   "city": "Chicago",
-   "tier": "Chicago major",
-   "venue": "Chicago Shakespeare Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "The Winter’s Tale kicks off an experiment in repertory at Chicago Shakespeare Theater",
-   "quote": "Demetrios Troy (L), Jessica Dean Turner, and Issy van Randwyck in The Winter&#8217;s Tale at Chicago Shakespeare Theater \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/12_CST_WintersTale_byKyleFlubacker-scaled-e1792771902816.jpg?fit=780%2C520&ssl=1\" /> The Winter's Tale , through 12/…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/12_CST_WintersTale_byKyleFlubacker-scaled-e1792771902816.jpg?fit=1024%2C683&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/winters-tale-chicago-shakespeare-theater-2026/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "5c204a5785",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-23T15:50:14+00:00",
-   "published": "2026-10-23T15:50:14+00:00",
-   "city": "Chicago",
-   "tier": "Chicago storefront",
-   "venue": "Theater Wit",
-   "placedBy": "venue",
-   "type": null,
-   "show": null,
-   "title": "Mud Row digs into the tangled roots of one family’s history",
-   "quote": "Ayanna Bria Bakari (L), Toccara Castleman, Tiffany Renee Johnson, and Alexis Janae in Mud Row at Remy Bumppo Theatre Company \" data-large-file=\"https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/MUDROW_RemyBumppoTheatreCompany_Photographer_MichaelBrosilow9-e1792770274367.jpg?fit=780%2C534&ssl=1\" /> Mud Row…",
-   "quoteSource": "Chicago Reader",
-   "image": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/10/MUDROW_RemyBumppoTheatreCompany_Photographer_MichaelBrosilow9-e1792770274367.jpg?fit=1024%2C701&ssl=1",
-   "imageCredit": "Chicago Reader",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Chicago Reader",
-     "url": "https://chicagoreader.com/performing-arts/theater/theater-review/mud-row-remy-bumppo-theatre-company/",
-     "feed": "chicago-reader"
-    }
-   ],
-   "status": "review"
   }
  ]
 }
