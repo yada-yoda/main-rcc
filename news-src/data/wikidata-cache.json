@@ -12099,6 +12099,15 @@
   "qid": null,
   "score": 0
  },
+ "Stephen Sondheim": {
+  "checkedAt": "2026-11-15T19:15:54+00:00",
+  "description": "American composer and lyricist (1930–2021)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q153579",
+  "score": 46
+ },
  "Stephen Sondheim Advised": {
   "checkedAt": "2026-10-19T19:03:54+00:00",
   "description": null,

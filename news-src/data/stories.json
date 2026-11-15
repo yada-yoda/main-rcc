@@ -110,6 +110,42 @@
    "status": "review"
   },
   {
+   "id": "39359d3936",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-12T17:37:25+00:00",
+   "published": "2026-11-12T17:37:25+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Stephen Sondheim Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "The Odd Couple (Broadway, Stephen Sondheim Theatre, 2027)",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Stephen Sondheim",
+     "knownFor": "American composer and lyricist (1930–2021)",
+     "score": 46,
+     "qid": "Q153579"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUl9OTmJEY2VnQkYxbFJoWTEzei10REUtZEl5RVdGVlpiY2Z1RDFaNFFlTXVNZURyWlNCSl9JNU5mX2w5NEd0NWN4b1N5RDd5dHc1cFNpWFZrNmVHWVBZZm9UT1RuRVdmN1VfNFdQbXBpaThwNFBKanBvRFN1bnhXSGJrcS1UT0pscTRxaW53",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "2a5a8306fe",
    "priority": 2,
    "watched": [],
@@ -227,11 +263,6 @@
      "feed": "gn-bway-casting"
     },
     {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
-     "feed": "gn-bway-casting"
-    },
-    {
      "name": "Broadway News",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHVnTU05enAyM2E4YXlqUnJsallXTUpIUktHaGg2N1RzUE9mVFFfWEVlMmZEYm5wZk0yLUZfal9IZFpVWDZfZk00VFNZOG9KYWlmcG4xNHJMTXlLQXJpT3BIYjNKaEtPOTNkREdueGt4N1huU0MyMGZvVENVTjdDd2xfc1ZSWF9WT3hlaGJVaTJpR29MeHMtcjNJZUxSeTg",
      "feed": "gn-to-star"
@@ -244,6 +275,11 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVFWT0t0MktQWFVMejRZZXllVzJZT0F3RXBOZ1hybzlEc0EzR3BzbV9GaGNlMzR0aElUaWFXbktXNHpDX2IxRVJJTGRYam5fVVVacjY2aVNpM3pKZDYyZ0pFOGVGWFphS3ZkLUk2dVNydHpWZ2RDOTNXa1FhV2R3R29ISlFxVWROUEVNTnBKVmhpY2lnWGc",
      "feed": "gn-to-star"
     },
     {
@@ -314,7 +350,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "opening",
+   "type": "new production",
    "show": "Odd Couple",
    "title": "Steve Carell and John C. Reilly Lead Broadway ‘Odd Couple’ Revival",
    "quote": "The Neil Simon comedy will begin performances in March; the cast will also include the Tony winners Laura Benanti and James Monroe Iglehart.",
@@ -338,6 +374,11 @@
     }
    ],
    "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0RBa0pXZWp3eU5fSURsSmhMS2tXTUxaODV0RzlWd1psZGZKcHlVeFUycUF1WUEwaktZcXlGN29YVmQ5d09lb0ZKMW9nYlZzbUhCZ0NQbXFaT1dSTnVXNDRlOFNpbHIwNEx0VGZkaWhLMnJPaHBWTng4cS1maFVsNDBZQnQxVExKakdHNXVyaTQzN01mMkZBb05R",
+     "feed": "gn-offbway-casting"
+    },
     {
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/12/theater/steve-carell-john-c-reilly-odd-couple-broadway.html",
@@ -394,7 +435,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "Lost Lear",
-   "title": "Jessica Chastain to Star in New Broadway Play ‘Lost Lear’",
+   "title": "Jessica Chastain, Michael Urie & Corey Stoll Will Lead LOST LEAR on Broadway",
    "quote": "Oscar winner and Tony nominee Jessica Chastain will return to Broadway this spring for a limited engagement in a new play by Dan Colley titled Lost Lear, with Corey Stoll and Michael Urie co-starring. Lost Lear will begin the 16-week run at the Booth Theatre on Monday, March 29, 2027 with an opening night set […]",
    "quoteSource": "Deadline",
    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
@@ -423,13 +464,18 @@
    ],
    "sources": [
     {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlJGRDRMUl9qM1lnYWtkdkl3U1FUNHdZNTFIOGZHTWQ5bE1tcHhlaGRNMDBjV1BSTEtFSlpkY1BYREJ0bnhRN2pfSElvOWVhTTZPTDRMbHM4SGJReHJjLV9CMlJmemM2bm83alUwdlhkR2xSM3EyUDF6TFFlUEhlYnV5ck1adUpKUWRMZ2thQU9oZHd0eEFodTduR0dfajRLSHdmbkNqR3dxbFdBdjNrZVlTTzZjdEQxekJFaw",
+     "feed": "gn-bway-casting"
+    },
+    {
      "name": "The New York Times",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjc3QlA5bHpzdVJHbHdLRGJqV3Q3NkUxaDF2T3EtaDE3anZENkRzcG9nUUN4ejktblNDQU5DUlNnLWdSRHdkeXk1dk9mUGJObmp2WGVlV05adHpHZTdLR3FuNEF0anBSd21KRGhxcnNxNWE0bmhORkY0cVA3SE1QQzhGWHpOQUd4bVNZ",
      "feed": "gn-to-star"
     },
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1RKYTQxUVdGemU0amVYdW1qTlplYjVMRk9zT1ZhdXBjNnAyNzI3NlQ5TzViT09DUkFidDcxNl9PVU9FLVVYU0NQMmhobXl6OXhxZHhQRjdEd19qV1lrOGFyQkZBZjEyNWF5SHZ2dWc2UXp6bDlNNUVjM3dXTmZfQUkwLVdDWTRtQW04QmFOLXhBLUdHVU9MQ3hWVHE",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzFiYi1mcmxXbjBsOGpiNDNsWVphamZ1dmZHa05yUG9ybXJLVUcwc05jSVM2M01BbjdKME5zeDZSSFM2dFhxWUFMZFc1c2hTLUIwQnRoMklvVVBuNTRkd1JhZGhnRDhqTFpyVmhuX3UxcmVKWEMxVElweUJnVWd6Y24yeS1zYWphU2VRM2JMaDM2cF9yQm1SeDJnRjBvbGVtTEd2S2tYeU9wNjc1MWU4NXJMR1NCbGR4TjgyNThYQ0ZyRFEwMHp1RmExcmZuNnVOclRmckxBM2lSMWswVUxkbjFJZw",
      "feed": "gn-to-star"
     },
     {
@@ -605,6 +651,47 @@
    "status": "review"
   },
   {
+   "id": "9445fdb6f4",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T15:48:00+00:00",
+   "published": "2026-11-10T21:20:41+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Kid",
+   "title": "Jordan Fisher Cast as ‘The Kid’ in Broadway’s ‘Purple Rain’ Musical",
+   "quote": "",
+   "quoteSource": "V 101.9 Charlotte",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "V 101.9 Charlotte",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHhmODZaMk1PMS1zT1Z6R2hxVTUxeGt6dFd0ZHpBS0xaRWhqRjlNUmh1Nlh4RU9nY281blVpR1p4MF9nTXVReGI3VVN0dGd4VHRUOG9fZ2JfcU45ckVoQVNyVm9iazBKUkdqcmJFS3NEWC1WRnVCaWw2c2U5VVRreTR6cF9XMXhVdjBtX3JSWU80eVVhcGs4",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmJaZ2pDWmUyb3FXOTJHcy1xQkFpSXAzdlhkTXI4X19MdGtsZEgzdUlQSW92WkUtTC1HdVp1c0ZzM0NURDhBQUpZNERnclJJajRaQ0hHTU5ESWQ3NXhSdFZHdHhEQmdxclA0MzVfZ2xFMXpZenpFM2xiQ3l1c0xyR2RrY1NXajVScDhKZXZDOGZld3JrTUJMVG1n",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "178913299c",
    "priority": 2,
    "watched": [],
@@ -707,52 +794,6 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPajA2cmlRd0FDcXplNVlqN1g5Y0ZIVkRqZkkwZ0RBZk85UlF3RTRwblR3TWd4NUpnRWV0YVlrVjJDMzZWalNwN2puWU1NaVBnOGVYUi1ucTBEdFpvOXhabGJlLWVTem0wMlVtM244SXNSN1BUR0xMN29UUzA3SElmMVBaYUUwTUkyM1NxVjB5cWpMUXBJTXByRjBDM2YyYUZMSXdNd2UySXlYNHFNNW1hcTFBaWJGUzBnZjFSTkRrZjRnT29LNXc",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9445fdb6f4",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-10T15:48:00+00:00",
-   "published": "2026-11-10T15:48:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "The Kid",
-   "title": "Jordan Fisher Cast as ‘The Kid’ in Broadway’s ‘Purple Rain’ Musical",
-   "quote": "",
-   "quoteSource": "V 101.9 Charlotte",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Jordan Fisher",
-     "knownFor": "American singer and actor",
-     "score": 28,
-     "qid": "Q19955856"
-    }
-   ],
-   "sources": [
-    {
-     "name": "V 101.9 Charlotte",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHhmODZaMk1PMS1zT1Z6R2hxVTUxeGt6dFd0ZHpBS0xaRWhqRjlNUmh1Nlh4RU9nY281blVpR1p4MF9nTXVReGI3VVN0dGd4VHRUOG9fZ2JfcU45ckVoQVNyVm9iazBKUkdqcmJFS3NEWC1WRnVCaWw2c2U5VVRreTR6cF9XMXhVdjBtX3JSWU80eVVhcGs4",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Yoursun",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbHFsaEc2LXpoOHMwc25PVC1wQXVmQkF1SGotd3RmN1hhazQ0dFBNTm02U19uVzZWLXlqTGdUU2lzN2NYVWdUd3owVzVKSVZsU3ltMGNkeVNTRTZrZ2FwVXNQMW9OLWhQejdXWE03MFFxWWxYUHR5ZEdJMmphRWdZcUVEVi1NSElLYjFiTTJwQ3dweUZDcGFJcjFFWGlyZEZoUklUaHBLbnNQNlVITzhmVUEtdlFBWFRDLU9ENTNnVWdjRWF0dURSUnBhaUJ4cTlyanFicTFGVjFqcEo3cFNwcGJBZWpCRFoyeTBfejFkTTZhclI3TEhj",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmJaZ2pDWmUyb3FXOTJHcy1xQkFpSXAzdlhkTXI4X19MdGtsZEgzdUlQSW92WkUtTC1HdVp1c0ZzM0NURDhBQUpZNERnclJJajRaQ0hHTU5ESWQ3NXhSdFZHdHhEQmdxclA0MzVfZ2xFMXpZenpFM2xiQ3l1c0xyR2RrY1NXajVScDhKZXZDOGZld3JrTUJMVG1n",
      "feed": "gn-to-star"
     }
    ],
@@ -889,14 +930,9 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "WhatsOnStage",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzI5RUY3TFVqLW1GQ2JsSFViNE45QzZGUnJMQjBfZUNUVDJyenlpN0xCT0ZNNWtXTk1MM1lRRnQ5cVFQMzl5Y1VIM2dKWDAycXBZX1M0UnBfZUhSWFZQMVdMeTRKRUJNdXZKVGlIVTM0UnNPQUVwcGg2dXVpSHgzNEZIT3NFV3RuU1dUQXhuWEwwcFZibnk4OTkwOFY4Wks4NmVIcHZsMV9mZw",
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
      "feed": "gn-to-star"
-    },
-    {
-     "name": "Aol",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODZFcHQ1Ti1OT1NhY1Z0d19HMGFSSVdIRHJmTEpJbVJ3dFkxbkFwRkdhYmlvNEltY28xQW5CTG9rVy1yQXlpUXB3TlNscENGVnptMVU5RXlONW01QlRMcTVrRjRNeVVoUGQ4a2FsYVFfak5TanFSRWljbkJHeGNKS0pCQQ",
-     "feed": "gn-bway-casting"
     },
     {
      "name": "The Arts Shelf",
@@ -904,13 +940,13 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "Variety",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
+     "name": "TheGrio",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
      "feed": "gn-to-star"
     },
     {
-     "name": "TheGrio",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1c0tndHMxZVQ5bDFEQzBXZi12WG91NWM3MGpHdXNZMjR0cFBnMkNjVExidGQ5MkNsdC1KMlBhaXVlYmZtQ083cUxjWFpESXdEYnNELTBRWGF2UlQzTGRqRTVFV2tRRGVEZXkwWVplSWQ4WGhjQnlnbUlzU1Azems",
+     "name": "Blackfilm",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk4zeHdnMnlvNklkaWFObEdqMl9yZktRSkxoSTNqVkRsNVpnUXlZcVQtOExCbmVVaUVoVEtWdjhBVThfNXFNRnp2ZU9kS3BQeG9KZ2FsS2ZkZWhIWXZkRGdIOHROLWFEMHFnYTBENC1zSWd3Qnl2djd4OXJlbVRoYW83SF80NDVj",
      "feed": "gn-to-star"
     },
     {
@@ -924,13 +960,13 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "Blackfilm",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk4zeHdnMnlvNklkaWFObEdqMl9yZktRSkxoSTNqVkRsNVpnUXlZcVQtOExCbmVVaUVoVEtWdjhBVThfNXFNRnp2ZU9kS3BQeG9KZ2FsS2ZkZWhIWXZkRGdIOHROLWFEMHFnYTBENC1zSWd3Qnl2djd4OXJlbVRoYW83SF80NDVj",
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
      "feed": "gn-to-star"
     },
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQldpWFBtRV9YYjVHUE5SbXJEWm82c3JxNURLbG5mQ3gyZUdIUWI3eGI5NmNXTUoxbF8yUDBYYzk1NmxuV256RXVxZ3NSb0ZtTXpHR3QzbkJDRk8wLW5LQmp3Qy1OYlQtMkVJRHRNTDJWTVFrbDlfLTlQbVNQUnpfZmpTcExIUENLc1hNbWI3bjVHQUJkYkhzMG4wbw",
      "feed": "gn-to-star"
     },
     {
@@ -12647,93 +12683,6 @@
      "name": "IMDb",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCM3lqenJQRHpNbW5uSTBfeUktalB4TTYtSjhOZTZhOWlJeTJOcjZ3eGhUemc0ZkpyMHRFaVdQaWpzelRsNnVObEtBelZYRjc0dHdhV1NOUlU1alpDeWQ1SndBWTA5Sjg",
      "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f79d4307bc",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-25T14:00:23+00:00",
-   "published": "2026-10-25T14:00:23+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": null,
-   "title": "Play BroadwayWorld's Sunday Crossword: October 25, 2026",
-   "quote": "This week's grid has 17 answers tucked into a 15x19 layout, with 11 people, two shows and three theatre terms waiting to be filled in. Some clues lean on names making news, others on a new musical pulling together a notable cast, and a few on a beloved score finding its way back to screens.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/logo-300-preview.png",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Play-BroadwayWorlds-Sunday-Crossword-October-25-2026-20261025",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "307e1c2703",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T07:00:00+00:00",
-   "published": "2026-10-25T09:00:41+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": "The Public Theater",
-   "placedBy": "venue",
-   "type": null,
-   "show": "The Curious Case of Benjamin Button",
-   "title": "How ‘The Curious Case of Benjamin Button’ Grew Up",
-   "quote": "A musical adaptation of the F. Scott Fitzgerald short story has been in the works for nearly 10 years.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23cul-benjamin-button-mwpz/23cul-benjamin-button-mwpz-mediumSquareAt3X.jpg",
-   "imageCredit": "Elias Williams for The New York Times",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/10/25/theater/curious-case-benjamin-button-musical.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "27998648b3",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-25T04:06:52+00:00",
-   "published": "2026-10-25T04:06:52+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Rent",
-   "title": "Idina Menzel Recalls That RENT’s Original Broadway Cast Dressed From Their Own Closets",
-   "quote": "",
-   "quoteSource": "Aussietheatre",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Aussietheatre",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmF0U3V5c01jcFpFb05Zd3RGaFFyXy1ldTV6UXZWNlp6VmpMSXkzUFQ3M3k4NlZDdkR6QUs4SFhEWVZRZm95VHZIdm9EOGpaQ1NVOVJPU1FmQ3lYa20xN296dDVtSF9Lc3ZXYjZLckdfNTh0MDlfUEJOV0Z1N2dKUDM3ZUlOZTFNMTVMV3hCUWIyZ9IBlwFBVV95cUxNRzdXZXU1WlNDUTF6YkJLc0c1NnpLRWxsLWl1aUJ6ajYyc1BLYWN6cFpJc2c0cDhrajVJNXlpUFBzZlRCSVp2NGxsbXpoQkwwNks3WTA4WEI2QUpwcWpvM3NBSDVrMURjVktIeDY4ejdsY1hiUW1wSWR3SzlSU04tbDFveTFGZkFDdEhXY09iM2lmc0tVS1dZ",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
