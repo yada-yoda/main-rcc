@@ -958,6 +958,15 @@
   "qid": null,
   "score": 0
  },
+ "Ballad Lines": {
+  "checkedAt": "2026-11-15T02:25:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ballroom Dancing": {
   "checkedAt": "2026-09-26T01:13:49+00:00",
   "description": null,
@@ -2098,6 +2107,15 @@
   "knownFor": [],
   "qid": "Q17317909",
   "score": 38
+ },
+ "Carrie Hope Fletcher": {
+  "checkedAt": "2026-11-15T02:25:58+00:00",
+  "description": "English singer, songwriter, actress, author and vlogger",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2940241",
+  "score": 10
  },
  "Carried Me Home": {
   "checkedAt": "2026-11-10T20:17:03+00:00",
@@ -5548,6 +5566,15 @@
   "knownFor": [],
   "qid": "Q314603",
   "score": 42
+ },
+ "Hulu Reboot Gears": {
+  "checkedAt": "2026-11-15T02:26:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Human Things": {
   "checkedAt": "2026-10-08T19:10:42+00:00",

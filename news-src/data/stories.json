@@ -314,7 +314,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "new production",
+   "type": "opening",
    "show": "Odd Couple",
    "title": "Steve Carell and John C. Reilly Lead Broadway ‘Odd Couple’ Revival",
    "quote": "The Neil Simon comedy will begin performances in March; the cast will also include the Tony winners Laura Benanti and James Monroe Iglehart.",
@@ -338,11 +338,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0RBa0pXZWp3eU5fSURsSmhMS2tXTUxaODV0RzlWd1psZGZKcHlVeFUycUF1WUEwaktZcXlGN29YVmQ5d09lb0ZKMW9nYlZzbUhCZ0NQbXFaT1dSTnVXNDRlOFNpbHIwNEx0VGZkaWhLMnJPaHBWTng4cS1maFVsNDBZQnQxVExKakdHNXVyaTQzN01mMkZBb05R",
-     "feed": "gn-offbway-casting"
-    },
     {
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/12/theater/steve-carell-john-c-reilly-odd-couple-broadway.html",
@@ -383,6 +378,84 @@
      "name": "Broadway Direct",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc3ZFZGNrenk3TTBoMG5KamtnMkZqZG5TUXlubFRiQ3p6aTFwRWU1RVV0emh3SDdJU2hOeTlCeTlNVzBUZldteVNfN1ZCNGVlWUl6M3hPTHI4N1JnT2NlYV9xVkFGb1lpSmhFVEZZZklJRWRfQ3hQeGJyN1JXbW1JVzNlcU9YMl9XUGhySGZENHE2V096U01N",
      "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "b1d2171435",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T08:00:00+00:00",
+   "published": "2026-11-11T22:00:06+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Booth Theatre",
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Lost Lear",
+   "title": "Jessica Chastain to Star in New Broadway Play ‘Lost Lear’",
+   "quote": "Oscar winner and Tony nominee Jessica Chastain will return to Broadway this spring for a limited engagement in a new play by Dan Colley titled Lost Lear, with Corey Stoll and Michael Urie co-starring. Lost Lear will begin the 16-week run at the Booth Theatre on Monday, March 29, 2027 with an opening night set […]",
+   "quoteSource": "Deadline",
+   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
+   "imageCredit": "Thea Traff for The New York Times",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [
+    {
+     "name": "Jessica Chastain",
+     "knownFor": "Molly's Game, The Eyes of Tammy Faye",
+     "score": 80,
+     "qid": "Q229313"
+    },
+    {
+     "name": "Corey Stoll",
+     "knownFor": "American stage and screen actor",
+     "score": 38,
+     "qid": "Q26231"
+    },
+    {
+     "name": "Michael Urie",
+     "knownFor": "American actor",
+     "score": 31,
+     "qid": "Q356331"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjc3QlA5bHpzdVJHbHdLRGJqV3Q3NkUxaDF2T3EtaDE3anZENkRzcG9nUUN4ejktblNDQU5DUlNnLWdSRHdkeXk1dk9mUGJObmp2WGVlV05adHpHZTdLR3FuNEF0anBSd21KRGhxcnNxNWE0bmhORkY0cVA3SE1QQzhGWHpOQUd4bVNZ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1RKYTQxUVdGemU0amVYdW1qTlplYjVMRk9zT1ZhdXBjNnAyNzI3NlQ5TzViT09DUkFidDcxNl9PVU9FLVVYU0NQMmhobXl6OXhxZHhQRjdEd19qV1lrOGFyQkZBZjEyNWF5SHZ2dWc2UXp6bDlNNUVjM3dXTmZfQUkwLVdDWTRtQW04QmFOLXhBLUdHVU9MQ3hWVHE",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/11/theater/jessica-chastain-broadway-lost-lear.html",
+     "feed": "nyt-theater"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jessica-chastain-broadway-lost-lear-1236753346/",
+     "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/jessica-chastain-to-return-to-broadway-in-lost-lear-also-starring-corey-stoll-and-michael-urie/",
+     "feed": "broadway-news"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0RxakpxMnM4UjltanVqTEs5SUE4ZFRyVnAwVzlvMldXQmcwb2tieHBpY3NOSUdMZkRaQS1kbklyVTdadjlzOVUzS3d1VjRESVVZaVZ6TjNGZWo3VWM0bzVVbjFQQi02WEdhYVBNdjNWdmVBcklZWkVNU0FhWGU5M0V3ZkM3X0dialhKQllCblh1MHNXcUJPSXhYQXNybGhTYjRn",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/jessica-chastain-broadway-corey-stoll-michael-urie-lost-lear-1237220878/",
+     "feed": "deadline-theater"
     }
    ],
    "status": "published"
@@ -761,109 +834,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "b1d2171435",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-10T08:00:00+00:00",
-   "published": "2026-11-10T08:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Booth Theatre",
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Lost Lear",
-   "title": "Jessica Chastain, Michael Urie & Corey Stoll Will Lead LOST LEAR on Broadway",
-   "quote": "Oscar winner and Tony nominee Jessica Chastain will return to Broadway this spring for a limited engagement in a new play by Dan Colley titled Lost Lear, with Corey Stoll and Michael Urie co-starring. Lost Lear will begin the 16-week run at the Booth Theatre on Monday, March 29, 2027 with an opening night set […]",
-   "quoteSource": "Deadline",
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
-   "imageCredit": "Thea Traff for The New York Times",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [
-    {
-     "name": "Jessica Chastain",
-     "knownFor": "Molly's Game, The Eyes of Tammy Faye",
-     "score": 80,
-     "qid": "Q229313"
-    },
-    {
-     "name": "Corey Stoll",
-     "knownFor": "American stage and screen actor",
-     "score": 38,
-     "qid": "Q26231"
-    },
-    {
-     "name": "Michael Urie",
-     "knownFor": "American actor",
-     "score": 31,
-     "qid": "Q356331"
-    }
-   ],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlJGRDRMUl9qM1lnYWtkdkl3U1FUNHdZNTFIOGZHTWQ5bE1tcHhlaGRNMDBjV1BSTEtFSlpkY1BYREJ0bnhRN2pfSElvOWVhTTZPTDRMbHM4SGJReHJjLV9CMlJmemM2bm83alUwdlhkR2xSM3EyUDF6TFFlUEhlYnV5ck1adUpKUWRMZ2thQU9oZHd0eEFodTduR0dfajRLSHdmbkNqR3dxbFdBdjNrZVlTTzZjdEQxekJFaw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjc3QlA5bHpzdVJHbHdLRGJqV3Q3NkUxaDF2T3EtaDE3anZENkRzcG9nUUN4ejktblNDQU5DUlNnLWdSRHdkeXk1dk9mUGJObmp2WGVlV05adHpHZTdLR3FuNEF0anBSd21KRGhxcnNxNWE0bmhORkY0cVA3SE1QQzhGWHpOQUd4bVNZ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1RKYTQxUVdGemU0amVYdW1qTlplYjVMRk9zT1ZhdXBjNnAyNzI3NlQ5TzViT09DUkFidDcxNl9PVU9FLVVYU0NQMmhobXl6OXhxZHhQRjdEd19qV1lrOGFyQkZBZjEyNWF5SHZ2dWc2UXp6bDlNNUVjM3dXTmZfQUkwLVdDWTRtQW04QmFOLXhBLUdHVU9MQ3hWVHE",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzFiYi1mcmxXbjBsOGpiNDNsWVphamZ1dmZHa05yUG9ybXJLVUcwc05jSVM2M01BbjdKME5zeDZSSFM2dFhxWUFMZFc1c2hTLUIwQnRoMklvVVBuNTRkd1JhZGhnRDhqTFpyVmhuX3UxcmVKWEMxVElweUJnVWd6Y24yeS1zYWphU2VRM2JMaDM2cF9yQm1SeDJnRjBvbGVtTEd2S2tYeU9wNjc1MWU4NXJMR1NCbGR4TjgyNThYQ0ZyRFEwMHp1RmExcmZuNnVOclRmckxBM2lSMWswVUxkbjFJZw",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTGFFd085RHhLdGhRVmc1Ul9GVE04Yks0SkZUNlg2dXJpcTJWekFMb2RMcmNnbzJGZ2NFcm5zOWp6MTRHUkhCTXpIZTEtRUpNcUFJeDI4VHhORDNBY3pTUklBVkFnOURMN2c",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Aussietheatre",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUklNd2g4RFNPM3k3TVZhaWI2azZESUUtMmVhLUlsYkRPVlYxNVd6U3I1VGZlQktuZ3ZwbmFNNEFubVVoZjZvcUJKTjlXdjk5R0dHWFJBNXk1TExlWDl3OWE2NUlBU1N0bWlTWEVTSU9VOFBrS0ozTjJ2ZlFnaHpUYXlFcTFXcks0SFFF0gGQAUFVX3lxTE9FWkdnQTZnN0lvNTV4RXhPSUZmMjhidjl3NEw4OWRONDRRRWU5OE5zOU41dklhZmlTbTNmUFM1ZWdGWURGeUJfSTlNQmxPNWlRTkJPRno4ODZPN3o4eTJ2UFBWc1o0UU14Nnd4TGlaNFktbnZoNkFVM0NZYlJ1MUtVLTVFRjRFOGJaT2VpTHdveg",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/11/11/theater/jessica-chastain-broadway-lost-lear.html",
-     "feed": "nyt-theater"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jessica-chastain-broadway-lost-lear-1236753346/",
-     "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/jessica-chastain-to-return-to-broadway-in-lost-lear-also-starring-corey-stoll-and-michael-urie/",
-     "feed": "broadway-news"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0RxakpxMnM4UjltanVqTEs5SUE4ZFRyVnAwVzlvMldXQmcwb2tieHBpY3NOSUdMZkRaQS1kbklyVTdadjlzOVUzS3d1VjRESVVZaVZ6TjNGZWo3VWM0bzVVbjFQQi02WEdhYVBNdjNWdmVBcklZWkVNU0FhWGU5M0V3ZkM3X0dialhKQllCblh1MHNXcUJPSXhYQXNybGhTYjRn",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/11/jessica-chastain-broadway-corey-stoll-michael-urie-lost-lear-1237220878/",
-     "feed": "deadline-theater"
-    },
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHZWZnRyMVBSVWJFS0xTR2RNclhsOHhOLXV2LXVDUGJRWHItNFl0TTJ3N1Q5LVVNRG9mUWVLOERoODczbDI0cHlLckR5TWYtTm5wRzkyOWRFcXdnSnowVXQxSzlDY2k2TEZyYldfajFjcWNYa0s0YWhvWVYxakU3Z1JiNXdlZ0lscVFsSE9kQ2g4N0tLb0pBME5mZmh2ZFgyREZiYW9MX1lCZ2x6Qy1xcWRZZWJKbEZndE5EZWdn",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "ba82d8ef6c",
@@ -2710,43 +2680,30 @@
    "status": "review"
   },
   {
-   "id": "e059e319d6",
-   "priority": 2,
+   "id": "d60a42d2fc",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-24T23:30:00+00:00",
-   "published": "2026-10-24T23:30:00+00:00",
+   "firstSeen": "2026-11-14T21:14:17+00:00",
+   "published": "2026-11-14T21:14:17+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": null,
-   "show": null,
-   "title": "Lisa Rinna on Working with Harry Hamlin on Broadway Again After Nearly 20 Years (Exclusive)",
-   "quote": "",
-   "quoteSource": "People",
-   "image": null,
-   "imageCredit": null,
+   "show": "Glee",
+   "title": "‘Glee’ Stars Stage Broadway Mini-Reunion As Hulu Reboot Gears Up",
+   "quote": "Broadway’s The Rocky Horror Show was the setting for a Glee mini-reunion last night, as Lea Michele, Jenna Ushkowitz and Becca Tobin showed up to catch the show now starring their former castmate Kevin McHale. In a short video clip posted on the Rocky Horror Instagram page, the four Glee stars gather backstage and lip…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/glee_50536b-e1794688270566.jpg",
+   "imageCredit": "Deadline",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Harry Hamlin",
-     "knownFor": "American actor",
-     "score": 31,
-     "qid": "Q567830"
-    },
-    {
-     "name": "Lisa Rinna",
-     "knownFor": "actor, writer",
-     "score": 25,
-     "qid": "Q239576"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUHZNTGlKSGtXek0wazhlaGg5aGpvSF9tU3RMR1REUlFJMEFES3BaRTRqRzFxNk5iN2M0TDRZcEFaRUFCZGdwZmFnQklFR2FPMmZlQXRUQjYyS2w5S2xFMEItcWF4b3JIU1pqbUdHOHFrdmdUeUlmVk9GNW9EOVZweXRUdnFSYzNJNFVoUVcxbXM0cmloUzdPTF9lM2prVUJnVldQYmdYTU9TVWRVQ0g2dWRTVWw0VEJ4YWR3",
-     "feed": "gn-to-star"
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/glee-lea-michele-kevin-mchale-rocky-horror-1237224000/",
+     "feed": "deadline-theater"
     }
    ],
    "status": "review"
@@ -2814,7 +2771,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-11-14T12:56:07+00:00",
-   "published": "2026-11-14T12:56:07+00:00",
+   "published": "2026-11-14T12:56:08+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -3575,7 +3532,7 @@
    "placedBy": "words",
    "type": "new production",
    "show": "Chicago",
-   "title": "Broadway’s ‘Chicago’ announces 30th anniversary partnerships and events",
+   "title": "CHICAGO’s Original 1996 Broadway Revival Cast: Where Are They Now?",
    "quote": "The revival has announced a full calendar of local business activations for November.",
    "quoteSource": "Broadway News",
    "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/CHIBWAY_SEP26_2534_RWeaver_LDeGuzman_Roses-1-.jpg",
@@ -3584,6 +3541,11 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWc3Q3MwdUNGVDRsRUVxUWk3RGVJT3RrLVpPWHBYR25yNlhoUXlwZWZtOHNXVlhESGxPT09MQU5yUE5GVjVIbXVwOVJNSUVaRFpaTjEwQTZoZzFCQVF2VW5HT09Xb05JcC1acDBPbUFOMHFmNllneXRjVzFmT3JLeGtLY0Ixb3RnbFFhanpfZEVadS1Ma3FkM0hwWk54OHVNT24xNW5KQkxpRE1CZHY4",
+     "feed": "gn-bway-casting"
+    },
     {
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadways-chicago-announces-30th-anniversary-partnerships-and-events/",
@@ -4258,6 +4220,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "7b7afa4f65",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-12T09:30:21+00:00",
+   "published": "2026-11-12T09:30:21+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Carrie Hope Fletcher to star in Ballad Lines musical in 2027",
+   "quote": "",
+   "quoteSource": "WhatsOnStage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "WhatsOnStage",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTdEUUlzTmM4b0diZWZ0UVRvM0d2MVNrdUJQMEVCWlpyaFRDRmM0WHVhVEFxVFEyQnNtMUlVeXN0WVVLaTJnNlF2VGJ3Yno3aFNOd2lveEhxcFZwYzB5UlEzckdwNTQ3S0JpbHZSUDRQNnJXeW5ZVWZIX2d0V1JpZERtb0xtbF81Sm9lLVpiSzNuS3B5cjF3V2hPQlhQVU1YdU5lY0h3",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "26855cd398",
@@ -5246,35 +5237,6 @@
    "status": "published"
   },
   {
-   "id": "62122b96b3",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-10T15:23:00+00:00",
-   "published": "2026-11-10T15:23:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": "s",
-   "title": "Micaela Diamond & Will Pullen Join Broadway's 'Awake And Sing!' Revival",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHo2VHAzT3NoRFp4UmJXcXV5dGdUd3dWZGNJSi1ZQUxtN19Ld014dTdsOWVsMjRzY2RuR3ZQWGM0R3U0akhyY09kTTJMUkxwU2dKQmZCMzU0aGVxcHBITnYwM3VmMTREbEhlbncyQVlpMGJSMk11NDRXT080bVA2RUVicXprM2hoV1FiY2NibW1FSW5KOHBF",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "dc0d016b10",
    "priority": 3,
    "watched": [],
@@ -5299,6 +5261,35 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/11/broadway-awake-and-sing-micaela-diamond-will-pullen-1237012662/",
      "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "62122b96b3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T15:23:00+00:00",
+   "published": "2026-11-10T15:23:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "s",
+   "title": "Micaela Diamond & Will Pullen Join Broadway's 'Awake And Sing!' Revival",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHo2VHAzT3NoRFp4UmJXcXV5dGdUd3dWZGNJSi1ZQUxtN19Ld014dTdsOWVsMjRzY2RuR3ZQWGM0R3U0akhyY09kTTJMUkxwU2dKQmZCMzU0aGVxcHBITnYwM3VmMTREbEhlbncyQVlpMGJSMk11NDRXT080bVA2RUVicXprM2hoV1FiY2NibW1FSW5KOHBF",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -5831,35 +5822,6 @@
    "status": "published"
   },
   {
-   "id": "5f946d78ec",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-09T17:43:07+00:00",
-   "published": "2026-11-09T17:43:07+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Tony Hale, Jessie Mueller, Leslie Kritzer, Chip Zien to Star in Paddington on Broadway",
-   "quote": "",
-   "quoteSource": "TheaterMania",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TheaterMania",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdENNb1d2cjlQZG4tczZKUDR0b2hGVkZrSWdQS21vQ2dWNFVsYlRUUHdyeEhFajNGWllLT09HdThsTFd6NWd1Y2RGb2prdnBLMTFkb29DQUtZelFBNVJzWWgyTW1tUEVrUXRUd0FJT00wZkNLdEJ3Mi0xSzloY3NLYjJ2UUU3UG5ZdDd5aW9adl85eDlsNjAxbVRjRk85TGIteWp1SThzdmtTODVmT0NQejNlVlJCLTlTN0VpQlNKS09RS18x",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "fdcdd313d6",
    "priority": 3,
    "watched": [],
@@ -5887,6 +5849,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "5f946d78ec",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-09T17:43:07+00:00",
+   "published": "2026-11-09T17:22:40+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Jessie Mueller, Tony Hale and More to Star in Paddington The Musical on Broadway | Broadway Buzz",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEJNMDNQOHZWYVFHcGR3NnMyWmxTbXY3eDRSYUJfVnRwVjA4WnBmMVRkX0pDMjdnZjZnWWJhSXJHbzV6blJfdXVlcUxJeUJYdWUxZldaSVgtSmhEV19nOTI5V2IyYmljd0RiWkEzR3VxaVJEcFNNekQ4S05zTk5ERW1xb2d2RGV5WjdqdGN3RUUzRGRUbzd1dGVHSEd4Rl9yX0F2eW5UZGQzd1hvR1NfLXhUWW1NQjBn",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "1ac93837eb",
@@ -6676,27 +6667,22 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-11-06T14:00:00+00:00",
-   "published": "2026-11-06T14:00:00+00:00",
+   "published": "2026-11-06T14:00:04+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": "closing",
    "show": "Buena Vista Social Club",
-   "title": "‘Buena Vista Social Club’ Sets Broadway Closing; West End Production Announced For 2027",
-   "quote": "Buena Vista Social Club, the Tony-winning musical inspired by the legendary Cuban artists that give the show its title, will close on Broadway January 17, 2027, after a 96-week, 767-performance run. Producers announced the closing date today.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2025/03/BUENA_VISTA_SOCIAL_CLUB_BROADWAY_0644_PJZEDIT_v002.jpg",
-   "imageCredit": "Deadline",
+   "title": "‘Buena Vista Social Club’ to Close on Broadway in January",
+   "quote": "The show is on track to recoup before closing, and will make a move to London's West End in 2027.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/11/buena-vista-social-club-broadway-closing-date-1237214789/",
-     "feed": "deadline-theater"
-    },
     {
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/buena-vista-social-club-to-close-on-broadway-in-january-1236749360/",
@@ -12751,35 +12737,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "624914479b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-24T19:04:35+00:00",
-   "published": "2026-10-24T19:04:35+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Warriors",
-   "title": "NEWS: Initial Casting Confirmed for New Musical ‘Warriors’ on Broadway",
-   "quote": "",
-   "quoteSource": "Love London Love Culture",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Love London Love Culture",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG9MZG5HMDVmeWZsX3RoYTZOcG4tel9ERXhDYThPNmdiczVQb2JLOENzLTlkckFvR1dBMkFyRk5RalNOVGJ6NENyQlNmMnE1emRhNGMtN3Rpbmg1a0RRS1hObWxGYmhMU2Z1MVhQMnBJWVg5aS0weHN0R2VOSkdkc0FNSUVrNl9aS3Q3TTA2OWZMdzZVdVU5T0lfd3FVRkwzYzhKYmcyQzBCWFFtXzlyNlRjRdIBuAFBVV95cUxOYU5BSTdJTFdvcVJqcDI1Wl9xYldsQUdnaC1yMndtZE1sZng4MGluOUJFbHVyXzZtcmVOSXlMOHdCYUI2M3BNVTZHOElsQmFzeDVDY2JpVkNiZk1HMWN1Zm5fYWU3ZGluaEVXbG9NQzlhWldjRjEwWllsUDlha3BtbFJfTnpPV0k3cU5manVGNnFsbVFja1RjSGhvUURLc1FwOTV3c3haRHFLWjBxbjQtNFZuRTB0cF95",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
   }
  ]
 }
