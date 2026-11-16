@@ -268,13 +268,13 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVk4bDNZZEZQS2g2eUJJeDZSY29TQXpmQ0k5ZVJhWjJqUGtPNkRkMmRoSDRraWFSck9hYjBjVGpjc1l2aENEcGhfeTY2MkVBX2FaWDNNVExoNTZVaEF2QnNmb1RpNVIzYVptbU84Um4zZ205YUVnZjRlbTlsTGppOF9hS1Y2U2lOSmtmeDNrRGZMVGhGdlhrWVVYbE5KdF9nMzNNNUNTZTBqUV9GRlhJ",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
      "feed": "gn-to-star"
     },
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVk4bDNZZEZQS2g2eUJJeDZSY29TQXpmQ0k5ZVJhWjJqUGtPNkRkMmRoSDRraWFSck9hYjBjVGpjc1l2aENEcGhfeTY2MkVBX2FaWDNNVExoNTZVaEF2QnNmb1RpNVIzYVptbU84Um4zZ205YUVnZjRlbTlsTGppOF9hS1Y2U2lOSmtmeDNrRGZMVGhGdlhrWVVYbE5KdF9nMzNNNUNTZTBqUV9GRlhJ",
      "feed": "gn-to-star"
     },
     {
@@ -350,7 +350,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "new production",
+   "type": "opening",
    "show": "Odd Couple",
    "title": "Steve Carell and John C. Reilly Lead Broadway ‘Odd Couple’ Revival",
    "quote": "The Neil Simon comedy will begin performances in March; the cast will also include the Tony winners Laura Benanti and James Monroe Iglehart.",
@@ -374,11 +374,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0RBa0pXZWp3eU5fSURsSmhMS2tXTUxaODV0RzlWd1psZGZKcHlVeFUycUF1WUEwaktZcXlGN29YVmQ5d09lb0ZKMW9nYlZzbUhCZ0NQbXFaT1dSTnVXNDRlOFNpbHIwNEx0VGZkaWhLMnJPaHBWTng4cS1maFVsNDBZQnQxVExKakdHNXVyaTQzN01mMkZBb05R",
-     "feed": "gn-offbway-casting"
-    },
     {
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/12/theater/steve-carell-john-c-reilly-odd-couple-broadway.html",
@@ -435,7 +430,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "Lost Lear",
-   "title": "Jessica Chastain, Michael Urie & Corey Stoll Will Lead LOST LEAR on Broadway",
+   "title": "Jessica Chastain to Star in New Broadway Play ‘Lost Lear’",
    "quote": "Oscar winner and Tony nominee Jessica Chastain will return to Broadway this spring for a limited engagement in a new play by Dan Colley titled Lost Lear, with Corey Stoll and Michael Urie co-starring. Lost Lear will begin the 16-week run at the Booth Theatre on Monday, March 29, 2027 with an opening night set […]",
    "quoteSource": "Deadline",
    "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
@@ -464,18 +459,8 @@
    ],
    "sources": [
     {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlJGRDRMUl9qM1lnYWtkdkl3U1FUNHdZNTFIOGZHTWQ5bE1tcHhlaGRNMDBjV1BSTEtFSlpkY1BYREJ0bnhRN2pfSElvOWVhTTZPTDRMbHM4SGJReHJjLV9CMlJmemM2bm83alUwdlhkR2xSM3EyUDF6TFFlUEhlYnV5ck1adUpKUWRMZ2thQU9oZHd0eEFodTduR0dfajRLSHdmbkNqR3dxbFdBdjNrZVlTTzZjdEQxekJFaw",
-     "feed": "gn-bway-casting"
-    },
-    {
      "name": "The New York Times",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjc3QlA5bHpzdVJHbHdLRGJqV3Q3NkUxaDF2T3EtaDE3anZENkRzcG9nUUN4ejktblNDQU5DUlNnLWdSRHdkeXk1dk9mUGJObmp2WGVlV05adHpHZTdLR3FuNEF0anBSd21KRGhxcnNxNWE0bmhORkY0cVA3SE1QQzhGWHpOQUd4bVNZ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTzFiYi1mcmxXbjBsOGpiNDNsWVphamZ1dmZHa05yUG9ybXJLVUcwc05jSVM2M01BbjdKME5zeDZSSFM2dFhxWUFMZFc1c2hTLUIwQnRoMklvVVBuNTRkd1JhZGhnRDhqTFpyVmhuX3UxcmVKWEMxVElweUJnVWd6Y24yeS1zYWphU2VRM2JMaDM2cF9yQm1SeDJnRjBvbGVtTEd2S2tYeU9wNjc1MWU4NXJMR1NCbGR4TjgyNThYQ0ZyRFEwMHp1RmExcmZuNnVOclRmckxBM2lSMWswVUxkbjFJZw",
      "feed": "gn-to-star"
     },
     {
@@ -877,6 +862,47 @@
    "status": "review"
   },
   {
+   "id": "6b53239b50",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-08T15:13:04+00:00",
+   "published": "2026-11-10T13:30:34+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Boy",
+   "title": "Broadway finds its Prince: Jordan Fisher cast as 'The Boy' in 'Purple Rain' musical - ABC News",
+   "quote": "",
+   "quoteSource": "ABC News - Breaking News, Latest News and Videos",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWxGTmR3SloySktadFV0Smo5MmNndkl1M0xXcV9KLUlwdVJhM2cyTTNLZ3owd2U4d2d1OC1vTzV1SnlDZHQ0akFEa1FxVGEwbzBiYm1qNUtXYnN4M096TDVKMkZKaFlBVUpRWnNpRDd0SjVqdTBzX2s2V2ZSbjY0dHcxcHVseDdTd21jN3R1VW1lX1RiSDlhVHBFX1BILXUtTDUydk9ZSmjSAa4BQVVfeXFMTng2enVOalAtc1BmNElmS0RjTFJXWlJELUw1ZnRTR3gzeHFwY2htcWpKT0MzekhZYVFJU1BjeDhPZk9xdTg3MGM2Wlh6aHZSSUtVSDhEOG1Bc044V0JoWGtLQzJvZjdxa1RGOW44bXdrTTItV01kcG9kTWJ4TmZNVWRWbnNsekdTMWtOWnpxNHh0Y2FTYk01a1BpU1BMbnNINkFCVUR4c09NX2psWUZn",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Bozeman Daily Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQemJZZ1hyZVNONS1jVE5NSnVpZjFPbUx0Mjg5SG1Ed3Y0eHUyb01Ka3ozcWc3UUJjYkI0YnpWNUlpcFYxWmpNSjdGUC1kS0hSa0JCczZzZm1RX2VZeEdpc0V1SV9wa1ptUW5xbmFuc2hjbmNjNWFhS0MtanlVMi1hLVItX1pFM1cyQ3lpYmVyT29WNkIwbzItUmpDRm9HZEpXRjB4T09aMS04a2R4TlU1NDY2LWMtdEZiRjNjNkkxbjM2WWtHVlZZazhDYzRVUVg3R3JPSS1jT2ltOFVPbm5nV0FhSHlJVmRZei00amkydWpwMWZ2MlY1aHp6WVFLTTRIUkZ5WjNjM1Ntam5yWFdJ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "ba82d8ef6c",
    "priority": 2,
    "watched": [],
@@ -930,6 +956,11 @@
      "feed": "gn-to-star"
     },
     {
+     "name": "Aol",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODZFcHQ1Ti1OT1NhY1Z0d19HMGFSSVdIRHJmTEpJbVJ3dFkxbkFwRkdhYmlvNEltY28xQW5CTG9rVy1yQXlpUXB3TlNscENGVnptMVU5RXlONW01QlRMcTVrRjRNeVVoUGQ4a2FsYVFfak5TanFSRWljbkJHeGNKS0pCQQ",
+     "feed": "gn-bway-casting"
+    },
+    {
      "name": "Variety",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDhueTlCME5RUndWQ0NIUjc1cEhfbmxyRGd3TVdLVUNaOTMwb25YVWF4SVlDSkwxLWE5b0c5Ung3UjFIby1BcHRQa3FSVmRQd1FCeV9uWU9zam9jRmpDX1JwVi1ON2I5enFTbEFyMFgySlhtWGcxZjdRTlRvQ0RGNExIYU56VG8yamsxb2FNU1ZwbzVD",
      "feed": "gn-to-star"
@@ -962,11 +993,6 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFRqc1BlSXZKdjJyMnlvZGZBTkZ4ZVItRHlId1lUaTNOb3AyTHhrV1V2bnJYT2E5cW5ocE93VFpRNnNLTmNnczN1YzB3Z1N5SGxFc3MwcW9Xd3lKa3hfSC1ocm5jZVNRZ3BDbW5vM2tKMkxIUnJrTFlPTTFBTHRTOFV5dmo4ZGUxNEZMNWZYMHkyVld0cXlCSE9taWcyMnBGaEx4RXBNUVZZS0prR1kyTXk3dm5RUk9FMWc",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "CBS News",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQldpWFBtRV9YYjVHUE5SbXJEWm82c3JxNURLbG5mQ3gyZUdIUWI3eGI5NmNXTUoxbF8yUDBYYzk1NmxuV256RXVxZ3NSb0ZtTXpHR3QzbkJDRk8wLW5LQmp3Qy1OYlQtMkVJRHRNTDJWTVFrbDlfLTlQbVNQUnpfZmpTcExIUENLc1hNbWI3bjVHQUJkYkhzMG4wbw",
      "feed": "gn-to-star"
     },
     {
@@ -1258,47 +1284,6 @@
      "name": "Newcity Stage",
      "url": "https://www.newcitystage.com/2026/11/09/the-royale-spars-with-the-heavy-weight-of-jack-johnsons-story/",
      "feed": "newcity-stage"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "6b53239b50",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-08T15:13:04+00:00",
-   "published": "2026-11-08T15:13:04+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "The Boy",
-   "title": "Broadway finds its Prince: Jordan Fisher cast as 'The Boy' in 'Purple Rain' musical - ABC News",
-   "quote": "",
-   "quoteSource": "ABC News - Breaking News, Latest News and Videos",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Jordan Fisher",
-     "knownFor": "American singer and actor",
-     "score": 28,
-     "qid": "Q19955856"
-    }
-   ],
-   "sources": [
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWxGTmR3SloySktadFV0Smo5MmNndkl1M0xXcV9KLUlwdVJhM2cyTTNLZ3owd2U4d2d1OC1vTzV1SnlDZHQ0akFEa1FxVGEwbzBiYm1qNUtXYnN4M096TDVKMkZKaFlBVUpRWnNpRDd0SjVqdTBzX2s2V2ZSbjY0dHcxcHVseDdTd21jN3R1VW1lX1RiSDlhVHBFX1BILXUtTDUydk9ZSmjSAa4BQVVfeXFMTng2enVOalAtc1BmNElmS0RjTFJXWlJELUw1ZnRTR3gzeHFwY2htcWpKT0MzekhZYVFJU1BjeDhPZk9xdTg3MGM2Wlh6aHZSSUtVSDhEOG1Bc044V0JoWGtLQzJvZjdxa1RGOW44bXdrTTItV01kcG9kTWJ4TmZNVWRWbnNsekdTMWtOWnpxNHh0Y2FTYk01a1BpU1BMbnNINkFCVUR4c09NX2psWUZn",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "Bozeman Daily Chronicle",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQemJZZ1hyZVNONS1jVE5NSnVpZjFPbUx0Mjg5SG1Ed3Y0eHUyb01Ka3ozcWc3UUJjYkI0YnpWNUlpcFYxWmpNSjdGUC1kS0hSa0JCczZzZm1RX2VZeEdpc0V1SV9wa1ptUW5xbmFuc2hjbmNjNWFhS0MtanlVMi1hLVItX1pFM1cyQ3lpYmVyT29WNkIwbzItUmpDRm9HZEpXRjB4T09aMS04a2R4TlU1NDY2LWMtdEZiRjNjNkkxbjM2WWtHVlZZazhDYzRVUVg3R3JPSS1jT2ltOFVPbm5nV0FhSHlJVmRZei00amkydWpwMWZ2MlY1aHp6WVFLTTRIUkZ5WjNjM1Ntam5yWFdJ",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -2710,6 +2695,64 @@
     {
      "name": "Playbill",
      "url": "https://playbill.com/article/lin-manuel-miranda-sara-bareilles-pasek-and-paul-set-broadway-concerts-with-lct-composer-series",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "1729de3767",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T20:30:00+00:00",
+   "published": "2026-11-15T20:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Weekly Schedule of Current Broadway Shows",
+   "quote": "A rundown of current Broadway shows and their planned show times.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "603a20f1e0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T19:30:00+00:00",
+   "published": "2026-11-15T18:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
+   "quote": "Keep track of the shows booked into each Broadway theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-real-estate",
      "feed": "playbill"
     }
    ],
@@ -4171,35 +4214,6 @@
    "status": "review"
   },
   {
-   "id": "603a20f1e0",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T19:30:00+00:00",
-   "published": "2026-11-12T11:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Broadway Real Estate: Current and Future Theatre Bookings",
-   "quote": "Keep track of the shows booked into each Broadway theatre.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/bway-real-estate.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/broadway-real-estate",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "efbe3ddd54",
    "priority": 3,
    "watched": [],
@@ -4285,6 +4299,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "209603cdb8",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-10-30T07:00:00+00:00",
+   "published": "2026-11-12T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Schedule of Upcoming and Announced Broadway Shows",
+   "quote": "",
+   "quoteSource": "Playbill",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGxHczh3MzFoeWxsVFNxenVrd3Q2OFRwcGc3akRZYUFIVzdjMWR0QTl2dGdYcWIxMjB2N1FNY0ZLS2lIXzU2MU9ORG5CQ0wxWmhkUUdSNU9BaU00SlZGZU9YVHZPc2hTMjJZZTI3U284TFlXYUhfNjI1Y1lRSlJZcGFyU00",
+     "feed": "gn-chicago-announces"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "26855cd398",
@@ -5532,6 +5575,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "0d9862de0f",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T10:11:52+00:00",
+   "published": "2026-11-10T10:11:52+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New York Theatre Workshop",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Wild Rose",
+   "title": "Full Cast and Additional Details Set For WILD ROSE at New York Theatre Workshop",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmdGUWVZYzZTOFcwOVZ6QkdVRFJQLTNTdEVtR3lhYUlMOWk2RTNKU3QxdXQ5OEVBVXFXWHBGQkpBZnVsUmd4ckxSNEMxa2x5M0hzLXJOYkxVOXRkMmx5SlcxdDRBc2JRSm1Eb1lwMWc4cXRENUJSeXRHNEZKOEdRNmVtcWxuV1lhV0tFS1FYaGd6ZDBwLW9ydFZoOVgwQTBZVURXbUJ4VEFLTk5SLW5hMlpJUkw3RkM4cWlOMGtEeW1xeWNSY2lJTkdKbnVYTjBOZVlGUXd3",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "a761c00a3a",
@@ -9343,35 +9415,6 @@
    "status": "review"
   },
   {
-   "id": "1729de3767",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T20:30:00+00:00",
-   "published": "2026-11-01T20:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Weekly Schedule of Current Broadway Shows",
-   "quote": "A rundown of current Broadway shows and their planned show times.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "c05eacca21",
    "priority": 3,
    "watched": [],
@@ -10100,35 +10143,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "209603cdb8",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-30T07:00:00+00:00",
-   "published": "2026-10-30T07:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "new production",
-   "show": null,
-   "title": "Schedule of Upcoming and Announced Broadway Shows",
-   "quote": "",
-   "quoteSource": "Playbill",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGxHczh3MzFoeWxsVFNxenVrd3Q2OFRwcGc3akRZYUFIVzdjMWR0QTl2dGdYcWIxMjB2N1FNY0ZLS2lIXzU2MU9ORG5CQ0wxWmhkUUdSNU9BaU00SlZGZU9YVHZPc2hTMjJZZTI3U284TFlXYUhfNjI1Y1lRSlJZcGFyU00",
-     "feed": "gn-chicago-announces"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "94044df5d7",
@@ -12654,35 +12668,6 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/broadway-rush-lottery-and-standing-room-only-policies-com-116003",
      "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "94757b67d4",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-25T20:24:13+00:00",
-   "published": "2026-10-25T20:24:13+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Little Shop of Horrors Off-Broadway Casts Maude Apatow",
-   "quote": "",
-   "quoteSource": "IMDb",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCM3lqenJQRHpNbW5uSTBfeUktalB4TTYtSjhOZTZhOWlJeTJOcjZ3eGhUemc0ZkpyMHRFaVdQaWpzelRsNnVObEtBelZYRjc0dHdhV1NOUlU1alpDeWQ1SndBWTA5Sjg",
-     "feed": "gn-offbway-casting"
     }
    ],
    "status": "review"
