@@ -1989,6 +1989,15 @@
   "qid": null,
   "score": 0
  },
+ "Can See": {
+  "checkedAt": "2026-11-16T22:46:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Can Simply": {
   "checkedAt": "2026-09-25T17:52:24+00:00",
   "description": null,
@@ -2027,6 +2036,15 @@
  },
  "Cares Fundraiser": {
   "checkedAt": "2026-11-11T20:01:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Cares Legends Ornament": {
+  "checkedAt": "2026-11-16T22:46:50+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3044,6 +3062,15 @@
   "qid": null,
   "score": 0
  },
+ "Danish Girl": {
+  "checkedAt": "2026-11-16T22:46:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Danny Walters": {
   "checkedAt": "2026-10-20T17:48:29+00:00",
   "description": "British actor",
@@ -3496,6 +3523,15 @@
   "knownFor": [],
   "qid": "Q107178155",
   "score": 3
+ },
+ "Donna Lynne Champlin": {
+  "checkedAt": "2026-11-16T22:46:46+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5296398",
+  "score": 11
  },
  "Donna Vivino": {
   "checkedAt": "2026-09-25T17:55:33+00:00",
@@ -5268,6 +5304,15 @@
   "qid": "Q55395897",
   "score": 18
  },
+ "Haunting True Story": {
+  "checkedAt": "2026-11-16T22:46:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hayley Atwell": {
   "checkedAt": "2026-09-30T01:52:26+00:00",
   "description": "English and American actress (born 1982)",
@@ -5921,6 +5966,15 @@
   "qid": null,
   "score": 0
  },
+ "Ivo Van Hove": {
+  "checkedAt": "2026-11-16T22:47:00+00:00",
+  "description": "Belgian theatre director (born 1958)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q2424727",
+  "score": 15
+ },
  "Ivy Spent": {
   "checkedAt": "2026-11-04T20:18:39+00:00",
   "description": null,
@@ -6269,6 +6323,15 @@
   "qid": "Q6178332",
   "score": 3
  },
+ "Jenn Thompson Starred": {
+  "checkedAt": "2026-11-16T22:46:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jennifer Hudson Helps": {
   "checkedAt": "2026-09-27T17:33:05+00:00",
   "description": null,
@@ -6550,6 +6613,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "John Kander": {
+  "checkedAt": "2026-11-16T22:46:35+00:00",
+  "description": "American musical theatre composer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1685876",
+  "score": 23
  },
  "John Legend": {
   "checkedAt": "2026-09-25T17:55:44+00:00",
@@ -7283,6 +7355,15 @@
  },
  "Kelli O’Hara Heading": {
   "checkedAt": "2026-10-22T17:52:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kelli Rabke": {
+  "checkedAt": "2026-11-16T22:46:44+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8057,6 +8138,15 @@
   "qid": null,
   "score": 0
  },
+ "Live Capture": {
+  "checkedAt": "2026-11-16T22:46:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Live Radio": {
   "checkedAt": "2026-10-01T18:43:19+00:00",
   "description": null,
@@ -8444,6 +8534,27 @@
   "knownFor": [],
   "qid": "Q17466570",
   "score": 2
+ },
+ "Marianne Jean-Baptiste": {
+  "checkedAt": "2026-11-16T22:46:57+00:00",
+  "description": "British actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Rumble Through the Dark",
+   "The Book of Clarence"
+  ],
+  "qid": "Q430872",
+  "score": 33
+ },
+ "Marianne Jean-Baptiste Heading": {
+  "checkedAt": "2026-11-16T22:47:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Marie Eife": {
   "checkedAt": "2026-10-09T02:49:22+00:00",
@@ -9114,6 +9225,15 @@
   "qid": "Q21066150",
   "score": 2
  },
+ "Morgan Lee": {
+  "checkedAt": "2026-11-16T22:46:53+00:00",
+  "description": "American pornographic actress",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q22958073",
+  "score": 5
+ },
  "Mormon Becomes": {
   "checkedAt": "2026-09-25T19:53:50+00:00",
   "description": null,
@@ -9185,6 +9305,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Myles Frost": {
+  "checkedAt": "2026-11-16T22:46:55+00:00",
+  "description": "American actor",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q112461131",
+  "score": 5
  },
  "NaTasha Yvette Williams": {
   "checkedAt": "2026-09-30T01:52:19+00:00",
@@ -9356,6 +9485,15 @@
  },
  "Next Month": {
   "checkedAt": "2026-09-25T17:52:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Next Spring": {
+  "checkedAt": "2026-11-16T22:47:02+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10459,6 +10597,15 @@
   "qid": "Q100853444",
   "score": 0
  },
+ "Rachel Bloom": {
+  "checkedAt": "2026-11-16T22:46:45+00:00",
+  "description": "American actress, singer, and producer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16199509",
+  "score": 29
+ },
  "Rachel Chavkin": {
   "checkedAt": "2026-11-12T03:38:55+00:00",
   "description": "American theatre director",
@@ -10740,6 +10887,15 @@
  },
  "Replacements Led": {
   "checkedAt": "2026-10-16T17:11:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Reprise Roles": {
+  "checkedAt": "2026-11-16T22:46:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -11147,6 +11303,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Ryan McCartan": {
+  "checkedAt": "2026-11-16T22:46:47+00:00",
+  "description": "American actor and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q19864737",
+  "score": 10
  },
  "Sabrina Carpenter": {
   "checkedAt": "2026-09-26T01:13:45+00:00",
@@ -11784,6 +11949,15 @@
   "qid": null,
   "score": 0
  },
+ "Sky Initiative Offering": {
+  "checkedAt": "2026-11-16T22:46:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Skylight Music": {
   "checkedAt": "2026-10-23T01:15:24+00:00",
   "description": null,
@@ -12236,6 +12410,15 @@
  },
  "Students Can Now": {
   "checkedAt": "2026-10-20T01:36:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Students Free": {
+  "checkedAt": "2026-11-16T22:46:42+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12819,6 +13002,15 @@
   "qid": null,
   "score": 0
  },
+ "Title Role": {
+  "checkedAt": "2026-11-16T22:46:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Titus Burgess": {
   "checkedAt": "2026-10-01T18:43:17+00:00",
   "description": null,
@@ -13359,6 +13551,15 @@
   "qid": null,
   "score": 0
  },
+ "Warehouse Spring": {
+  "checkedAt": "2026-11-16T22:46:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Watch His Cover": {
   "checkedAt": "2026-09-25T17:47:45+00:00",
   "description": null,
@@ -13433,6 +13634,15 @@
  },
  "Welcomes Historian": {
   "checkedAt": "2026-11-03T19:58:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Welcomes Miki Abraham": {
+  "checkedAt": "2026-11-16T22:46:43+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13687,6 +13897,15 @@
  },
  "Wonderful Life Plans": {
   "checkedAt": "2026-10-01T18:43:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Wooster Group": {
+  "checkedAt": "2026-11-16T22:46:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
