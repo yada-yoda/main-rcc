@@ -664,6 +664,15 @@
   "qid": "Q3297953",
   "score": 26
  },
+ "Anna Mack Pardee": {
+  "checkedAt": "2026-11-17T21:32:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Anne Frank": {
   "checkedAt": "2026-10-02T02:02:18+00:00",
   "description": "German-born Dutch Jewish diarist and Holocaust victim (1929–1945)",
@@ -2300,6 +2309,15 @@
   "qid": null,
   "score": 0
  },
+ "Central Texas": {
+  "checkedAt": "2026-11-17T21:32:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Character Breakdown": {
   "checkedAt": "2026-10-24T16:27:39+00:00",
   "description": null,
@@ -3062,6 +3080,15 @@
   "qid": "Q510970",
   "score": 55
  },
+ "Daniel Radcliffe Credits": {
+  "checkedAt": "2026-11-17T21:31:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Daniel Sullivan": {
   "checkedAt": "2026-10-30T18:27:18+00:00",
   "description": "Millionaire Texas banker (1843-1931)",
@@ -3331,6 +3358,15 @@
   "knownFor": [],
   "qid": "Q26702160",
   "score": 10
+ },
+ "Derek DelGaudio": {
+  "checkedAt": "2026-11-17T21:32:16+00:00",
+  "description": "American performance artist",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16728477",
+  "score": 2
  },
  "Derek Klena": {
   "checkedAt": "2026-11-05T20:29:15+00:00",
@@ -4093,6 +4129,15 @@
   "qid": null,
   "score": 0
  },
+ "Executive Director Resigns": {
+  "checkedAt": "2026-11-17T21:32:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Exquisite Corpse": {
   "checkedAt": "2026-10-16T01:01:52+00:00",
   "description": null,
@@ -4444,6 +4489,15 @@
   "qid": null,
   "score": 0
  },
+ "Former Clinton Non-Profit": {
+  "checkedAt": "2026-11-17T21:32:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Former Dallas Cowboys": {
   "checkedAt": "2026-09-25T17:56:59+00:00",
   "description": null,
@@ -4533,6 +4587,17 @@
   "knownFor": [],
   "qid": "Q5481173",
   "score": 12
+ },
+ "Frank Oz": {
+  "checkedAt": "2026-11-17T21:32:17+00:00",
+  "description": "British and American director, actor, and puppeteer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [
+   "Little Shop of Horrors"
+  ],
+  "qid": "Q311319",
+  "score": 55
  },
  "Frankie Loyal": {
   "checkedAt": "2026-10-15T17:38:48+00:00",
@@ -5468,6 +5533,15 @@
   "qid": null,
   "score": 0
  },
+ "Henry Higgins": {
+  "checkedAt": "2026-11-17T21:32:05+00:00",
+  "description": "Genealogics person",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q110459178",
+  "score": 0
+ },
  "Here There": {
   "checkedAt": "2026-10-05T21:00:00+00:00",
   "description": null,
@@ -5605,6 +5679,15 @@
  },
  "Host Rent": {
   "checkedAt": "2026-10-23T17:45:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Host Rockefeller": {
+  "checkedAt": "2026-11-17T21:32:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6740,6 +6823,15 @@
   "qid": "Q311271",
   "score": 64
  },
+ "John Malkovich": {
+  "checkedAt": "2026-11-17T21:32:01+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q172261",
+  "score": 77
+ },
  "John Proctor": {
   "checkedAt": "2026-10-02T02:02:12+00:00",
   "description": "Convicted of witchcraft during the Salem Witch Trials",
@@ -7752,6 +7844,15 @@
   "qid": "Q25112391",
   "score": 2
  },
+ "Last Castaway": {
+  "checkedAt": "2026-11-17T21:32:14+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Last Chance": {
   "checkedAt": "2026-10-14T17:49:07+00:00",
   "description": null,
@@ -8664,6 +8765,15 @@
   "qid": null,
   "score": 0
  },
+ "Mario Cantone": {
+  "checkedAt": "2026-11-17T21:32:26+00:00",
+  "description": "American actor and comedian",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1321626",
+  "score": 18
+ },
  "Marisa Tomei": {
   "checkedAt": "2026-10-05T21:00:47+00:00",
   "description": "American actress (born 1964)",
@@ -9153,6 +9263,15 @@
   "qid": "Q575761",
   "score": 21
  },
+ "Michael Park Stepping": {
+  "checkedAt": "2026-11-17T21:32:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Michael Sheen": {
   "checkedAt": "2026-10-01T18:43:34+00:00",
   "description": "Welsh actor",
@@ -9485,6 +9604,15 @@
   "knownFor": [],
   "qid": "Q113687844",
   "score": 0
+ },
+ "Nathan Lee Graham": {
+  "checkedAt": "2026-11-17T21:32:27+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16185735",
+  "score": 12
  },
  "Nearly Neighbors Ahead": {
   "checkedAt": "2026-11-12T20:40:35+00:00",
@@ -10804,6 +10932,15 @@
   "qid": null,
   "score": 0
  },
+ "Razzle Dazzle": {
+  "checkedAt": "2026-11-17T21:32:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Raúl Esparza": {
   "checkedAt": "2026-09-25T17:55:14+00:00",
   "description": "American actor",
@@ -10812,6 +10949,15 @@
   "knownFor": [],
   "qid": "Q747697",
   "score": 20
+ },
+ "Raúl Esparza Missing": {
+  "checkedAt": "2026-11-17T21:32:33+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Real Estate": {
   "checkedAt": "2026-09-28T01:26:16+00:00",
@@ -10874,6 +11020,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q130706312",
+  "score": 0
+ },
+ "Rebecca Reid": {
+  "checkedAt": "2026-11-17T21:32:04+00:00",
+  "description": "researcher (ORCID 0000-0002-3633-5465)",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q91589985",
   "score": 0
  },
  "Receive Industry Reading": {
@@ -11212,6 +11367,15 @@
   "qid": "Q344567",
   "score": 32
  },
+ "Robert O'Hara Comedy": {
+  "checkedAt": "2026-11-17T21:32:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Rock Opera": {
   "checkedAt": "2026-10-01T18:43:40+00:00",
   "description": null,
@@ -11247,6 +11411,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Rosalind Eleazar": {
+  "checkedAt": "2026-11-17T21:32:02+00:00",
+  "description": "English actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q69010887",
+  "score": 12
  },
  "Rosamund Pike": {
   "checkedAt": "2026-09-25T17:54:18+00:00",
@@ -11304,6 +11477,15 @@
  },
  "Roxie Hart": {
   "checkedAt": "2026-09-25T17:57:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Royal Bath": {
+  "checkedAt": "2026-11-17T21:32:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -11768,6 +11950,24 @@
  },
  "Sea Wall": {
   "checkedAt": "2026-09-25T17:55:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Seaview Adds Justin": {
+  "checkedAt": "2026-11-17T21:32:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Seaview Taps": {
+  "checkedAt": "2026-11-17T21:32:29+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12579,6 +12779,15 @@
   "qid": null,
   "score": 0
  },
+ "Suffering Concussion During": {
+  "checkedAt": "2026-11-17T21:32:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sullivan Players": {
   "checkedAt": "2026-10-13T19:46:21+00:00",
   "description": null,
@@ -12920,6 +13129,15 @@
  },
  "Three-Day Intensive": {
   "checkedAt": "2026-10-08T02:34:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Thriller Trust": {
+  "checkedAt": "2026-11-17T21:32:00+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13362,6 +13580,15 @@
   "qid": null,
   "score": 0
  },
+ "Tree-Lighting Special": {
+  "checkedAt": "2026-11-17T21:32:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Triple Threat": {
   "checkedAt": "2026-10-05T21:00:33+00:00",
   "description": null,
@@ -13506,6 +13733,15 @@
   "qid": null,
   "score": 0
  },
+ "Unauthorized Batman Parody": {
+  "checkedAt": "2026-11-17T21:32:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Underdog Shows Why": {
   "checkedAt": "2026-10-03T01:45:52+00:00",
   "description": null,
@@ -13535,6 +13771,15 @@
  },
  "United Interns": {
   "checkedAt": "2026-10-23T01:15:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Unknown Caller": {
+  "checkedAt": "2026-11-17T21:32:20+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13614,6 +13859,15 @@
   "qid": null,
   "score": 0
  },
+ "Ups Anna Mack": {
+  "checkedAt": "2026-11-17T21:32:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Upside Down": {
   "checkedAt": "2026-09-29T18:29:39+00:00",
   "description": null,
@@ -13652,6 +13906,15 @@
  },
  "Very Happy Hour": {
   "checkedAt": "2026-10-13T19:46:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Via Audible": {
+  "checkedAt": "2026-11-17T21:32:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -14161,6 +14424,15 @@
  },
  "Yollin Lee": {
   "checkedAt": "2026-10-14T17:49:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "York-Based Exec": {
+  "checkedAt": "2026-11-17T21:32:30+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
