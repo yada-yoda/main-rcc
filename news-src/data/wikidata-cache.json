@@ -1278,6 +1278,15 @@
   "qid": "Q3875035",
   "score": 5
  },
+ "Bianca Rogoff": {
+  "checkedAt": "2026-11-17T04:58:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Big Bang Theory": {
   "checkedAt": "2026-10-07T19:14:12+00:00",
   "description": null,
@@ -2282,6 +2291,15 @@
   "qid": null,
   "score": 0
  },
+ "Central Pa": {
+  "checkedAt": "2026-11-17T04:58:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Character Breakdown": {
   "checkedAt": "2026-10-24T16:27:39+00:00",
   "description": null,
@@ -3170,6 +3188,15 @@
   "qid": "Q5241354",
   "score": 6
  },
+ "David Zayas": {
+  "checkedAt": "2026-11-17T04:58:34+00:00",
+  "description": "Puerto Rican actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q439438",
+  "score": 30
+ },
  "Dead Girl": {
   "checkedAt": "2026-10-08T19:10:54+00:00",
   "description": null,
@@ -3260,6 +3287,15 @@
   "qid": null,
   "score": 0
  },
+ "Delphi Borich": {
+  "checkedAt": "2026-11-17T04:58:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Demi Moore Visits": {
   "checkedAt": "2026-11-02T22:11:15+00:00",
   "description": null,
@@ -3268,6 +3304,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Denis O'Hare": {
+  "checkedAt": "2026-11-17T04:58:24+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q629696",
+  "score": 35
  },
  "Dennis Crowley": {
   "checkedAt": "2026-11-03T19:58:57+00:00",
@@ -4705,6 +4750,15 @@
   "qid": null,
   "score": 0
  },
+ "Garrett Clayton": {
+  "checkedAt": "2026-11-17T04:58:33+00:00",
+  "description": "American actor, singer and dancer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q5523873",
+  "score": 25
+ },
  "Gaten Matarazzo Says": {
   "checkedAt": "2026-11-07T02:34:17+00:00",
   "description": null,
@@ -5007,6 +5061,15 @@
  },
  "Green Room": {
   "checkedAt": "2026-11-02T22:11:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Greg Keller": {
+  "checkedAt": "2026-11-17T04:58:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6051,6 +6114,15 @@
   "qid": "Q77283105",
   "score": 0
  },
+ "Jade King Carroll": {
+  "checkedAt": "2026-11-17T04:58:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jake Shears": {
   "checkedAt": "2026-10-24T01:24:31+00:00",
   "description": "American singer (born 1978)",
@@ -6604,6 +6676,15 @@
   ],
   "qid": "Q223110",
   "score": 63
+ },
+ "John C.Reilly": {
+  "checkedAt": "2026-11-17T04:58:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "John El-Jor": {
   "checkedAt": "2026-11-02T22:11:32+00:00",
@@ -8574,6 +8655,15 @@
   "qid": "Q72749",
   "score": 24
  },
+ "Marin Shakespeare": {
+  "checkedAt": "2026-11-17T04:58:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Marisa Tomei": {
   "checkedAt": "2026-10-05T21:00:47+00:00",
   "description": "American actress (born 1964)",
@@ -9360,6 +9450,15 @@
   "qid": "Q137659925",
   "score": 1
  },
+ "Natalie Gold": {
+  "checkedAt": "2026-11-17T04:58:38+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q17486612",
+  "score": 12
+ },
  "Natalie Portman": {
   "checkedAt": "2026-10-05T21:00:22+00:00",
   "description": "Israeli-American actress (born 1981)",
@@ -9705,6 +9804,15 @@
   "qid": null,
   "score": 0
  },
+ "Nominee Jenn Colella": {
+  "checkedAt": "2026-11-17T04:58:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Non-Film Nominees List": {
   "checkedAt": "2026-10-07T19:14:31+00:00",
   "description": null,
@@ -9923,6 +10031,15 @@
  },
  "One-night-only Bill Pay": {
   "checkedAt": "2026-09-25T17:55:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Only Good Feelings": {
+  "checkedAt": "2026-11-17T04:58:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10236,6 +10353,15 @@
  },
  "Perelman Performing Arts": {
   "checkedAt": "2026-11-12T20:40:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Performances Due": {
+  "checkedAt": "2026-11-17T04:58:44+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10851,6 +10977,15 @@
  },
  "Rema Webb": {
   "checkedAt": "2026-10-16T17:12:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ren Parker": {
+  "checkedAt": "2026-11-17T04:58:26+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12066,6 +12201,15 @@
   "qid": null,
   "score": 0
  },
+ "Sons Next Spring": {
+  "checkedAt": "2026-11-17T04:58:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sony Hall": {
   "checkedAt": "2026-09-25T17:51:28+00:00",
   "description": null,
@@ -13182,6 +13326,15 @@
   "qid": null,
   "score": 0
  },
+ "Tracee Chimo": {
+  "checkedAt": "2026-11-17T04:58:39+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7831171",
+  "score": 7
+ },
  "Tragedy Plus Comedy": {
   "checkedAt": "2026-11-03T03:51:27+00:00",
   "description": null,
@@ -13344,6 +13497,15 @@
   "qid": "Q686301",
   "score": 53
  },
+ "Téa Wolk": {
+  "checkedAt": "2026-11-17T04:58:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Underdog Shows Why": {
   "checkedAt": "2026-10-03T01:45:52+00:00",
   "description": null,
@@ -13495,6 +13657,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Victor Talmadge": {
+  "checkedAt": "2026-11-17T04:58:29+00:00",
+  "description": null,
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q99619887",
   "score": 0
  },
  "Victoria Livengood": {
