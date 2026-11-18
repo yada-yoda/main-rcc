@@ -2,6 +2,131 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "1a02f9b7a6",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-17T22:52:12+00:00",
+   "published": "2026-11-17T22:52:12+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Buena Vista Social Club",
+   "title": "Cobra Kai’s Xolo Maridueña Makes Broadway Debut in ‘Buena Vista Social Club’ Musical, First Photos Released",
+   "quote": "",
+   "quoteSource": "IMDb",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Xolo Maridueña",
+     "knownFor": "Cobra Kai, Blue Beetle",
+     "score": 36,
+     "qid": "Q53870611"
+    }
+   ],
+   "sources": [
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85ZWhoQVJxR1VxS1JJaU5aQkhxN1FYMGRJajYzNko4QWctMFMxLWdLU3l3cEJtT0RFS0pSOW9nTzEyclh5ZktRWldMcGJnWmRqWV9PMVBHenJzMVpfLWg5RzZUbGZNQQ",
+     "feed": "gn-bway-debut"
+    },
+    {
+     "name": "Just Jared",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVptRlQ1UnBDUldpcHhaNDN5T2Q4RnVsdGNwZXBsNUdTQjc5Q19nWU1yTlF4MGh1Tkx0WjRYeGhLbXZFaDlkMmZwcWFIdFVyRGFsRmFNRVNidEpyUnJvTC02ZWNmX2tDbXlIU010Q3FtS0NmTmVXYVpMS0htb2ExVXFBOW81R1lRTHJJNW11eXFKR1gtSkdZMWcwd1NfYnhqT05XTjZuZ0RpSUxqNHgzeDRxSmJQS1ZweFRJS1ljTy1NUS0zWC13SmpPVUt1c2NUUEtoT3pHRzM",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "178913299c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-14T19:24:43+00:00",
+   "published": "2026-11-17T22:33:50+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Much Ado About Nothing",
+   "title": "‘Much Ado About Nothing’ With Tom Hiddleston & Hayley Atwell Takes Hefty $2.4M; Billy Crystal’s ‘860’ Breaks House Record – Broadway Box Office",
+   "quote": "Broadway got an early jump on the usual holiday business boost, with star-driven productions like Much Ado About Nothing, Billy Crystal’s 860 and Other Desert Cities with Julia Louis-Dreyfus doing excellent box office last week. In fact, Much Ado, the Jamie Lloyd staging starring Tom Hiddleston and Hayley Atwell, was…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/bo.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Tom Hiddleston",
+     "knownFor": "English actor",
+     "score": 80,
+     "qid": "Q295803"
+    },
+    {
+     "name": "Billy Crystal",
+     "knownFor": "Monsters, Inc.",
+     "score": 62,
+     "qid": "Q186485"
+    },
+    {
+     "name": "Hayley Atwell",
+     "knownFor": "Peggy Carter",
+     "score": 58,
+     "qid": "Q234959"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-billy-crystal-1237226593/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "2e43182b80",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-17T21:52:19+00:00",
+   "published": "2026-11-17T21:52:19+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Inter Alia,",
+   "title": "Broadway Box Office: ‘Inter Alia,’ Starring Rosamund Pike, Starts Strong, ‘860’ Breaks Play House Record",
+   "quote": "New musical 'Galileo' also played its first five previews last week at 100 percent capacity.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Rosamund Pike",
+     "knownFor": "British actress",
+     "score": 75,
+     "qid": "Q230004"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-inter-alia-rosamund-pike-860-record-1236757799/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "1730a53ee0",
    "priority": 2,
    "watched": [],
@@ -36,6 +161,42 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "864f9ed361",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-17T16:50:45+00:00",
+   "published": "2026-11-17T16:50:45+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "s 860 Breaks House Record and More From Last Week",
+   "title": "Billy Crystal's 860 Breaks House Record and More From Last Week's Broadway Grosses",
+   "quote": "Four plays led by celebrities were in the top five highest-grossing shows last week.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Broadway-Grosses-Teal-2026-HR.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Billy Crystal",
+     "knownFor": "Monsters, Inc.",
+     "score": 62,
+     "qid": "Q186485"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/860-breaks-house-record-set-by-billy-crystals-700-sundays-and-more-from-last-weeks-broadway-grosses",
+     "feed": "playbill"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "2d288d4292",
@@ -296,6 +457,48 @@
    "status": "review"
   },
   {
+   "id": "19cd0c2f83",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-16T17:29:28+00:00",
+   "published": "2026-11-16T17:29:28+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Before I Let Go",
+   "title": "Teyonah Parris and Danielle Brooks to Star in Peacock’s ‘Before I Let Go’ Series",
+   "quote": "",
+   "quoteSource": "Blackfilm",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Teyonah Parris",
+     "knownFor": "American actress",
+     "score": 35,
+     "qid": "Q19666388"
+    },
+    {
+     "name": "Danielle Brooks",
+     "knownFor": "American actress",
+     "score": 33,
+     "qid": "Q16727679"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Blackfilm",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1ZOTlRvZXIta0Q2T2ZrMk9VVUJaV3BfRF9MQ0h1NTZuRjlTV3NrcW9rMXFiVWJWaEF0LVVCWU5EdUVTZXpUZkNkMEtucG9mTHNLcktwLXNibG1hR3RtQXlhM2tYcEJXekFhemV3dmRuUllxYUtra3dSYkJvZ1RhVlRpcTV4UTdyZDRNMmZLQQ",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "32ebad4953",
    "priority": 2,
    "watched": [],
@@ -443,13 +646,13 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDdlVHlyVFo4MzFnX0xOZ2Z2TUpPYl9fSGJMSlg4RW5xdUdZb3RVa0huTVY1R1NhaWJzZUtxNG9rSGlVb2YyZ2NXMl9zZ0x5Nlc2ODhWdTZZTjFCSVFDTENybTVGOTJsLU15TDVveVNURG93LUdXbmJJWGoxRUhPRTA4NmEyTkNXTDhiQUN4WFFWci1aTU1rQmNoVXMzYWNoQUdDVG1wd3Q0WVFmRXEtVVc2NlhwYmV5TXlUU2l0NGxvTFBGNDJqblh5RjBScWQtVnI4eA",
+     "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcjEyc0lhZzlSdVAzMWhRSlhQZ2NzbGkxN1dNX0dUZV9MMzBFMVBabXZlcmhuOEFFYkdjWW5aQ1pfOWxGb2x3VzNvS0FmQXlweUVpTExMcmRFalI2V0w4NGpnZWhBazFLQ1ptZm8wWE9WUm1xaTZXRjM2OGZneVRIcHlxdG1MMGtHdWhKY3NuVFVQdVNqOGhLRFB2OGsxMmY0ZXVMNUp0OXV6U0RoeEhKbVVWVTl1NVNzaGg4",
      "feed": "gn-to-star"
     },
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcjEyc0lhZzlSdVAzMWhRSlhQZ2NzbGkxN1dNX0dUZV9MMzBFMVBabXZlcmhuOEFFYkdjWW5aQ1pfOWxGb2x3VzNvS0FmQXlweUVpTExMcmRFalI2V0w4NGpnZWhBazFLQ1ptZm8wWE9WUm1xaTZXRjM2OGZneVRIcHlxdG1MMGtHdWhKY3NuVFVQdVNqOGhLRFB2OGsxMmY0ZXVMNUp0OXV6U0RoeEhKbVVWVTl1NVNzaGg4",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDdlVHlyVFo4MzFnX0xOZ2Z2TUpPYl9fSGJMSlg4RW5xdUdZb3RVa0huTVY1R1NhaWJzZUtxNG9rSGlVb2YyZ2NXMl9zZ0x5Nlc2ODhWdTZZTjFCSVFDTENybTVGOTJsLU15TDVveVNURG93LUdXbmJJWGoxRUhPRTA4NmEyTkNXTDhiQUN4WFFWci1aTU1rQmNoVXMzYWNoQUdDVG1wd3Q0WVFmRXEtVVc2NlhwYmV5TXlUU2l0NGxvTFBGNDJqblh5RjBScWQtVnI4eA",
      "feed": "gn-to-star"
     },
     {
@@ -459,7 +662,7 @@
     },
     {
      "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sR1kzQjVncG9jLVgyMWF0OWp3aG0tcGlETW9oTHFsVlJJOXY3ZEg1R1gyTU9uRWQ0WTNnUjN5SHdfY1ZOYVcyYkRFTEpuMXFyc2Q4SUUzWDg2YVA5ZUdmQkttbWxsRjllY3c",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZ20yTzJmYl9iWTJtc2NZRUVRWWdxYjFjaXBTNExaS0FLUlI5dVljbTAzbVQ5RVdJaGRuRVBaR2RnZzZGNHMwNC1zRmhSRjE0T2t5YUc4R3pOTXhyb1lqQjB6M0FmS1N6Mmc",
      "feed": "gn-to-star"
     },
     {
@@ -788,11 +991,6 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVk4bDNZZEZQS2g2eUJJeDZSY29TQXpmQ0k5ZVJhWjJqUGtPNkRkMmRoSDRraWFSck9hYjBjVGpjc1l2aENEcGhfeTY2MkVBX2FaWDNNVExoNTZVaEF2QnNmb1RpNVIzYVptbU84Um4zZ205YUVnZjRlbTlsTGppOF9hS1Y2U2lOSmtmeDNrRGZMVGhGdlhrWVVYbE5KdF9nMzNNNUNTZTBqUV9GRlhJ",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
      "feed": "gn-to-star"
@@ -917,7 +1115,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Booth Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "Lost Lear",
    "title": "Jessica Chastain Returning To Broadway In New Play ‘Lost Lear’; Corey Stoll, Michael Urie Co-Star",
@@ -972,11 +1170,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjc3QlA5bHpzdVJHbHdLRGJqV3Q3NkUxaDF2T3EtaDE3anZENkRzcG9nUUN4ejktblNDQU5DUlNnLWdSRHdkeXk1dk9mUGJObmp2WGVlV05adHpHZTdLR3FuNEF0anBSd21KRGhxcnNxNWE0bmhORkY0cVA3SE1QQzhGWHpOQUd4bVNZ",
-     "feed": "gn-to-star"
-    },
     {
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/11/theater/jessica-chastain-broadway-lost-lear.html",
@@ -1133,42 +1326,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "178913299c",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-14T19:24:43+00:00",
-   "published": "2026-11-10T21:03:01+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Winter Garden Theatre",
-   "placedBy": "words",
-   "type": "new production",
-   "show": "Much Ado About Nothing",
-   "title": "‘Much Ado About Nothing’ With Tom Hiddleston & Hayley Atwell Sells Out, Tops $2M Gross; ‘Here There Are Blueberries’, ‘Downstate’, ‘Fantasticks’ Fill Seats – Broadway Box Office",
-   "quote": "Much Ado About Nothing, the new Jamie Lloyd-directed revival starring Tom Hiddleston and Hayley Atwell, took in more than $2 million in grosses last week at the Winter Garden, one of only three Broadway productions hitting that mark and doing so during its first full week of previews. Much Ado, already a hit in London…",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/05/Much-Ado-About-Nothing.-Mika-Onyx-Johnson-Tim-Steed-Tom-Hiddleston-James-Phoon-Gerald-Kyd.-Credit-Marc-Brenner.-8063.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Tom Hiddleston",
-     "knownFor": "English actor",
-     "score": 80,
-     "qid": "Q295803"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-tom-hiddleston-1237218523/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "a692fab16f",
@@ -1359,6 +1516,57 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "0e82f6fe1d",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T13:30:00+00:00",
+   "published": "2026-11-10T13:30:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Purple Rain",
+   "title": "Jordan Fisher to Star in Prince’s ‘Purple Rain’ Musical on Broadway",
+   "quote": "Fisher will star in the new musical after leading roles in 'Moulin Rouge!' 'Hadestown' and more.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Arts Shelf",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVJIZkd4azQ0QmNfRS1jSzFRcF9DRFcxSEl1ZEpSY2lsQlc0VlVyTkVSeDVZbzJrVFVEamxtODVDTmVjVFhVXzBlal9aQUFXWlpOclBXMzJKUW5TcEp6dHA2UnpjTUNNRWJqVks2RDZsbm9zampCOUxqU1hQN3VJUkY4WHlidw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Blackfilm",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk4zeHdnMnlvNklkaWFObEdqMl9yZktRSkxoSTNqVkRsNVpnUXlZcVQtOExCbmVVaUVoVEtWdjhBVThfNXFNRnp2ZU9kS3BQeG9KZ2FsS2ZkZWhIWXZkRGdIOHROLWFEMHFnYTBENC1zSWd3Qnl2djd4OXJlbVRoYW83SF80NDVj",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jordan-fisher-prince-role-broadway-adaptation-purple-rain-1236751251/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "ba82d8ef6c",
@@ -2679,6 +2887,122 @@
    "status": "published"
   },
   {
+   "id": "f4d85fe9e9",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-18T01:38:11+00:00",
+   "published": "2026-11-18T01:38:11+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "A Christmas Carol",
+   "title": "Mark Mineart to Star in A CHRISTMAS CAROL at Cincinnati Playhouse in the Park",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUWhiMUdoZkxYWURoNFQ1aFpnTEttTm83TU5pdndIN2NSNzJadW9RTWFGUnhxOXE4T1MwSzlOQ0xGMHk0OGd4SGRVS2w0N2ZsaElTdk1DUjVwbHhwS2o0X2ltemdWTlpPbXU3bjA5bmY1TFduWG5TUjdVZHhDZFNnTFBZMEtuRGgyRVo1ZUFoX1NEbURfcGpnX0RYZlJFSEFaMG5MYTZvT3lqeUlrZ0VpTmhKYW5aNlRIMmdYTTQycTR1X0s0M21qU1ZBYzBBcVky",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "2034ab6b59",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-17T23:02:19+00:00",
+   "published": "2026-11-17T23:02:19+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Awake and Sing!",
+   "title": "NYC Tenement Museum to host talk with Broadway’s ‘Awake and Sing!’ director Tyne Rafaeli",
+   "quote": "The talk will examine the play’s connection to New York’s tenement housing history.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/Tenement-talk.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/nyc-tenement-museum-to-host-talk-with-broadways-awake-and-sing-director-tyne-rafaeli/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "54f0f92946",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-17T22:31:35+00:00",
+   "published": "2026-11-17T22:31:35+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "opening",
+   "show": "The Conversation",
+   "title": "THE CONVERSATION to Offer $39 Tickets Through Digital Ticket Lottery",
+   "quote": "The Conversation, a new original musical conceived, co-written and starring Tony Award winner Joshua Henry and Julia Harriman will offer a $39 digital ticket lottery throughout the run via Lucky Seat. The production, with music and lyrics by Henry and Harriman, book by Dora Award winner Nick Green, and directed by Ton…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-5f630125f8b6a3bbde89c5b4155145f4.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/THE-CONVERSATION-to-Offer-39-Tickets-Through-Digital-Ticket-Lottery-20261117",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "086f1da042",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-17T20:59:00+00:00",
+   "published": "2026-11-17T20:59:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Lunt-Fontanne Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Reviews: Blue Man Groups Brings A New Holiday Surprise to Broadway",
+   "quote": "The limited engagement opened November 17 at the Lunt-Fontanne Theatre.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/20240815_BMG_Marketing_690_FINAL.jpeg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/reviews-blue-man-groups-brings-a-new-holiday-surprise-to-broadway",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "21a211aa44",
    "priority": 3,
    "watched": [],
@@ -2732,6 +3056,35 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Central-Texas-Theatre-Postpones-JAGGED-LITTLE-PILL-as-Executive-Director-Resigns-20261117",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "6b09750ff1",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-17T19:00:06+00:00",
+   "published": "2026-11-17T19:00:06+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "s",
+   "title": "Derek DelGaudio's 'Unknown Caller' to open off Broadway this spring",
+   "quote": "",
+   "quoteSource": "New York Theatre Guide",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenczUl9LM0NBUG1PV1RGa1NObHpoMnBwQXFUeUVnME5nQUpreDRacnNvd2hPdVRzN1hIOThrU3VQMnB4NWxQdkNwSE1YaTNKczBZMElzQVpJUUNkNVhfTXlzV2Vtc1o5MjVfOF9yTzF0WGtGSDhtbzVIRzhyMkdKd3BQZUtiNVNGV0FkTEI5UXpVSjRrNE94LWs2TWtaVkRiY1I5WGRlZE1vN3kyeDJENE1WNWtfbFlGZmc",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -2848,6 +3201,35 @@
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Mario-Cantone-Nathan-Lee-Graham-and-More-to-Join-SUPERFUCKED-Developmental-Reading-20261117",
      "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "c4d62a466e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-17T16:05:39+00:00",
+   "published": "2026-11-17T16:05:39+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Nyc",
+   "title": "Superhero Parody Musical Superf*cked Will Get NYC Industry Reading",
+   "quote": "Nathan Lee Graham, Mario Cantone, Brenda Braxton and more will star in the newly renamed project.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/2026-04-12-Titanique-Opening-Night-Carpet-129.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/superhero-parody-musical-superf-cked-will-get-nyc-industry-reading",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -9340,35 +9722,6 @@
    "status": "review"
   },
   {
-   "id": "a88502642f",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-03T19:08:28+00:00",
-   "published": "2026-11-03T19:08:28+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Winter Garden Theatre",
-   "placedBy": "words",
-   "type": "opening",
-   "show": null,
-   "title": "Broadway Grosses: Week Ending 11/1/26",
-   "quote": "Click below to access all the Broadway grosses from all the shows for the week ending 11/01/2026 in BroadwayWorld's grosses section. Also, you will find information on each show's historical grosses, cumulative grosses and other statistics on how each show stacked up this week and in the past.",
-   "quoteSource": "OTHER DESERT CITIES Tops the Grosses",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/680-076a41098774814880e8a2e6168285d9.jpg",
-   "imageCredit": "OTHER DESERT CITIES Tops the Grosses",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "OTHER DESERT CITIES Tops the Grosses",
-     "url": "https://www.broadwayworld.com/article/Broadway-Grosses-Week-Ending-11126-20261103",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "5a780743ef",
    "priority": 3,
    "watched": [],
@@ -12385,93 +12738,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/broadway-pipeline-october-28-2026/",
      "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "cb850ed962",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-28T01:53:38+00:00",
-   "published": "2026-10-28T01:53:38+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Park Slope Quartet",
-   "title": "Michael Cullen and Maja Wampuszyc to Star in PARK SLOPE QUARTET Staged Reading",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQVhpQkNJaS1yaFRpRGo5NDdlMlJXREdhOHRQYVltREtVZFFFQnNNOVJEbXl2V0Q2bkd0N182eXQzQVRJY2NORjVMTmpLdDJVS29Ib3YxVzF0T20wSi1Nb3ZveVJqMFMxNHd4M3l3SWIzN3gzcTVaUC1xUkFUR2NZOFFzLXRlRnR1aEVSa21KdHo4bDloVDI5SUFGUFRxQkdMWDNYaG8yd21TYnBuc2NFTjUwVWZPWXY0emhGR1I0Ml9oWXdWcXRyb2xHVWlQc0F0eGo0QW1KOG9oUQ",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "02134b9e2b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-28T00:43:58+00:00",
-   "published": "2026-10-28T00:43:58+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "The Jolly Christmas Postman",
-   "title": "THE JOLLY CHRISTMAS POSTMAN Cast Announced for Lowry Production",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2ZjZG15MVNlX090MnlCVF92UWFWclNfY25TYktWOUN3VnAwalhHQ2V4SHZ0cHZnYjQ5SWZ6MFVBUXRuN04zWHlZamJWVV9Od0N2V2FfNW8zMlV6clN4MEZFZ0N3cTRocmtlOUQyRzR1M0JtUFhIbFprd3E5M1RtM1VYLTZMOEdjWlFTMkdQTVZzdTk4V3J0S01udUItMEdpdm1RWDgwZ3dLQUNEMUY4TFQyQTBqd0ltN1ZsT3J2dw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "f3d628f6d4",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-27T23:14:45+00:00",
-   "published": "2026-10-27T23:14:45+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "US",
-   "title": "TO BEING AN 'US' FOR ONCE INSTEAD OF A 'THEM' The hit Broadway musical \"Rent\" is celebrating its 30th anniversary by reuniting cast members from across all iterations for one special show, including the original Broadway cast. Notably in attendance we",
-   "quote": "",
-   "quoteSource": "Facebook",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN2Z5dFg1X2dCbjFuN3NCRjhJMVdVd0hPY1JRTDVBbk5XUGNmVFZJc05ZaFB0YjNneURGcHFZR1NMcUY2OEJXSjZ1b3Y3eEg4MHJWaTREc05yeW0tQWF1WFFBWldZckRJeWJWeFFURXFLYlQtdjdELU43bTdJZEFicWFOcGFKTDZxaFc0T21JMzBreVd1NkZLUWt4em9ZWWxCZzBKRENrRno3dWtpNFQ0a2hSRmpzRV9HVDNMb2JVaXF1NXhYbExHSkZoYUYzOUZPSWhIQUt6eFo",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"

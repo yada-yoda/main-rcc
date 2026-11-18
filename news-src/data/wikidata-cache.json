@@ -1437,6 +1437,15 @@
   "qid": null,
   "score": 0
  },
+ "Blue Man Groups": {
+  "checkedAt": "2026-11-18T04:02:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Blue Parts": {
   "checkedAt": "2026-09-30T01:52:34+00:00",
   "description": null,
@@ -1630,6 +1639,15 @@
  },
  "Breaks All-Time House": {
   "checkedAt": "2026-10-14T01:37:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Breaks House Record": {
+  "checkedAt": "2026-11-18T04:02:47+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2537,6 +2555,15 @@
   "qid": null,
   "score": 0
  },
+ "Cincinnati Playhouse": {
+  "checkedAt": "2026-11-18T04:02:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Cinco Paul Receives": {
   "checkedAt": "2026-10-02T18:15:08+00:00",
   "description": null,
@@ -3097,6 +3124,15 @@
   "knownFor": [],
   "qid": "Q141191414",
   "score": 0
+ },
+ "Danielle Brooks": {
+  "checkedAt": "2026-11-18T04:02:43+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q16727679",
+  "score": 33
  },
  "Danielle Ferland": {
   "checkedAt": "2026-10-27T18:35:09+00:00",
@@ -5713,6 +5749,15 @@
   "qid": null,
   "score": 0
  },
+ "House Record": {
+  "checkedAt": "2026-11-18T04:02:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "How Black": {
   "checkedAt": "2026-10-23T01:15:40+00:00",
   "description": null,
@@ -8098,6 +8143,15 @@
   "qid": "Q6530963",
   "score": 6
  },
+ "Let Go": {
+  "checkedAt": "2026-11-18T04:02:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Letter-Writing Initiative": {
   "checkedAt": "2026-10-05T21:00:38+00:00",
   "description": null,
@@ -8785,6 +8839,15 @@
  },
  "Mark Fourth": {
   "checkedAt": "2026-11-13T20:21:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Mark Mineart": {
+  "checkedAt": "2026-11-18T04:02:40+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12599,6 +12662,15 @@
   "qid": null,
   "score": 0
  },
+ "Starts Strong": {
+  "checkedAt": "2026-11-18T04:02:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Steel Man": {
   "checkedAt": "2026-10-12T21:35:00+00:00",
   "description": "Mexican general and politician (1891-1965)",
@@ -12790,6 +12862,15 @@
  },
  "Sullivan Players": {
   "checkedAt": "2026-10-13T19:46:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Superhero Parody": {
+  "checkedAt": "2026-11-18T04:02:48+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13007,6 +13088,15 @@
   "qid": null,
   "score": 0
  },
+ "Tenement Museum": {
+  "checkedAt": "2026-11-18T04:02:52+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Tennessee Williams": {
   "checkedAt": "2026-09-25T17:57:23+00:00",
   "description": "American playwright (1911–1983)",
@@ -13054,6 +13144,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Teyonah Parris": {
+  "checkedAt": "2026-11-18T04:02:42+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q19666388",
+  "score": 35
  },
  "Thanksgiving Week": {
   "checkedAt": "2026-11-04T20:18:51+00:00",
@@ -13156,6 +13255,15 @@
  },
  "Through Digital Rush": {
   "checkedAt": "2026-11-05T20:29:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Through Digital Ticket": {
+  "checkedAt": "2026-11-18T04:02:49+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13723,6 +13831,15 @@
   "knownFor": [],
   "qid": "Q686301",
   "score": 53
+ },
+ "Tyne Rafaeli": {
+  "checkedAt": "2026-11-18T04:02:54+00:00",
+  "description": "theater and television director",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q129169314",
+  "score": 1
  },
  "Téa Wolk": {
   "checkedAt": "2026-11-17T04:58:42+00:00",
