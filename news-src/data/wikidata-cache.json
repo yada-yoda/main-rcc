@@ -17,6 +17,24 @@
   "qid": "Q111509223",
   "score": 5
  },
+ "About Jewish Divisions": {
+  "checkedAt": "2026-11-19T21:13:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Acclaimed Birthright": {
+  "checkedAt": "2026-11-19T21:12:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Acquires Licensing Rights": {
   "checkedAt": "2026-10-29T18:49:07+00:00",
   "description": null,
@@ -1234,6 +1252,15 @@
   "qid": null,
   "score": 0
  },
+ "Beth Behrs": {
+  "checkedAt": "2026-11-19T21:12:50+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q264306",
+  "score": 39
+ },
  "Beth Leavel": {
   "checkedAt": "2026-09-30T18:17:58+00:00",
   "description": "American actress",
@@ -1406,6 +1433,15 @@
  },
  "Birthday Trip": {
   "checkedAt": "2026-11-18T21:07:56+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Birthright About Differing": {
+  "checkedAt": "2026-11-19T21:12:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2091,6 +2127,15 @@
   "qid": null,
   "score": 0
  },
+ "Cara Rose DiPietro": {
+  "checkedAt": "2026-11-19T21:13:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Cares Board": {
   "checkedAt": "2026-10-13T19:46:25+00:00",
   "description": null,
@@ -2639,6 +2684,15 @@
   "qid": null,
   "score": 0
  },
+ "City Safety Inspection": {
+  "checkedAt": "2026-11-19T21:13:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Claire Leyden": {
   "checkedAt": "2026-11-06T19:52:11+00:00",
   "description": null,
@@ -2873,6 +2927,15 @@
   "qid": null,
   "score": 0
  },
+ "Cooper Jennings": {
+  "checkedAt": "2026-11-19T21:12:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Corbin Bleu": {
   "checkedAt": "2026-10-21T17:56:34+00:00",
   "description": "American actor (born 1989)",
@@ -3010,6 +3073,15 @@
  },
  "Cultural Reawakening": {
   "checkedAt": "2026-09-25T17:56:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Culture House": {
+  "checkedAt": "2026-11-19T21:13:27+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3818,6 +3890,15 @@
   "qid": null,
   "score": 0
  },
+ "East Village Basement": {
+  "checkedAt": "2026-11-19T21:13:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Ebenezer Scrooge": {
   "checkedAt": "2026-11-03T19:58:48+00:00",
   "description": null,
@@ -3946,6 +4027,15 @@
   ],
   "qid": "Q230209",
   "score": 51
+ },
+ "Ella Stevens": {
+  "checkedAt": "2026-11-19T21:12:55+00:00",
+  "description": "American soccer player",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q97057356",
+  "score": 3
  },
  "Elliot Goldenthal": {
   "checkedAt": "2026-10-16T01:01:48+00:00",
@@ -4267,6 +4357,15 @@
   "qid": null,
   "score": 0
  },
+ "Fantasticks Finally": {
+  "checkedAt": "2026-11-19T21:12:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Favorite James Lapine": {
   "checkedAt": "2026-09-29T18:29:31+00:00",
   "description": null,
@@ -4278,6 +4377,15 @@
  },
  "Favorite Tichina Arnold": {
   "checkedAt": "2026-10-13T19:46:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Feature All-Star": {
+  "checkedAt": "2026-11-19T21:12:58+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4654,6 +4762,15 @@
   "qid": null,
   "score": 0
  },
+ "Founding Playwrights Ensemble": {
+  "checkedAt": "2026-11-19T21:13:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Four Performances": {
   "checkedAt": "2026-09-27T19:22:22+00:00",
   "description": null,
@@ -4917,6 +5034,15 @@
   "qid": "Q464337",
   "score": 22
  },
+ "Gabriella Pizzolo": {
+  "checkedAt": "2026-11-19T21:13:00+00:00",
+  "description": "American actress and singer (2003)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q26837233",
+  "score": 8
+ },
  "Gap Year": {
   "checkedAt": "2026-11-13T20:21:36+00:00",
   "description": null,
@@ -5018,6 +5144,15 @@
   ],
   "qid": "Q23844",
   "score": 128
+ },
+ "George Floyd": {
+  "checkedAt": "2026-11-19T21:12:38+00:00",
+  "description": "African American man who was a victim of police violence in the United States, killed by Derek Chauvin",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q95677819",
+  "score": 61
  },
  "Gershwins Let Em": {
   "checkedAt": "2026-09-25T17:52:11+00:00",
@@ -5664,6 +5799,24 @@
  },
  "High Note": {
   "checkedAt": "2026-09-25T17:48:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Higher Ground": {
+  "checkedAt": "2026-11-19T21:13:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Higher Ground Signs": {
+  "checkedAt": "2026-11-19T21:13:18+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7135,6 +7288,15 @@
   "qid": "Q130860122",
   "score": 0
  },
+ "Jonathan Spector": {
+  "checkedAt": "2026-11-19T21:12:42+00:00",
+  "description": "American soccer player",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q161041",
+  "score": 36
+ },
  "Jones Sits Down": {
   "checkedAt": "2026-09-25T17:48:00+00:00",
   "description": null,
@@ -7219,6 +7381,15 @@
   ],
   "qid": "Q1190319",
   "score": 43
+ },
+ "Josh Radnor": {
+  "checkedAt": "2026-11-19T21:12:52+00:00",
+  "description": "American actor, director, producer, and screenwriter",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q223455",
+  "score": 54
  },
  "Josh Sharp": {
   "checkedAt": "2026-10-07T19:14:05+00:00",
@@ -8611,6 +8782,15 @@
   "qid": null,
   "score": 0
  },
+ "Lost Boys": {
+  "checkedAt": "2026-11-19T21:12:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Lost Boys Halloween": {
   "checkedAt": "2026-11-04T20:18:55+00:00",
   "description": null,
@@ -8694,6 +8874,15 @@
   "knownFor": [],
   "qid": "Q6697293",
   "score": 3
+ },
+ "Lucy Cohu": {
+  "checkedAt": "2026-11-19T21:13:04+00:00",
+  "description": "British actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q517974",
+  "score": 15
  },
  "Lucy Hale": {
   "checkedAt": "2026-10-06T18:48:45+00:00",
@@ -9848,8 +10037,26 @@
   "qid": "Q315808",
   "score": 47
  },
+ "Neil Simon Rumors": {
+  "checkedAt": "2026-11-19T21:12:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "New-Play Legacy": {
   "checkedAt": "2026-10-20T17:49:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Newest Residents": {
+  "checkedAt": "2026-11-19T21:12:53+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10520,8 +10727,26 @@
   "qid": null,
   "score": 0
  },
+ "Oxford Playhouse": {
+  "checkedAt": "2026-11-19T21:13:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Pals Cheer Him": {
   "checkedAt": "2026-09-25T17:54:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Pan Asian Repertory": {
+  "checkedAt": "2026-11-19T21:12:48+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10734,8 +10959,35 @@
   "qid": null,
   "score": 0
  },
+ "Playbill Apologizes": {
+  "checkedAt": "2026-11-19T21:12:41+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Playbill Covers": {
   "checkedAt": "2026-10-08T02:34:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Playbill Removes": {
+  "checkedAt": "2026-11-19T21:12:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Players Historic State": {
+  "checkedAt": "2026-11-19T21:13:15+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10754,6 +11006,15 @@
  },
  "Playwright Jocelyn Bioh": {
   "checkedAt": "2026-09-27T19:22:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Playwright Stephanie Alison": {
+  "checkedAt": "2026-11-19T21:13:29+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10781,6 +11042,15 @@
  },
  "Pod U Guys-": {
   "checkedAt": "2026-10-13T19:46:29+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Police Killing Sparks": {
+  "checkedAt": "2026-11-19T21:12:45+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10925,6 +11195,24 @@
  },
  "Producer Lia Vollack": {
   "checkedAt": "2026-10-20T17:49:13+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Producers Continue Contract": {
+  "checkedAt": "2026-11-19T21:13:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Producers Struggle": {
+  "checkedAt": "2026-11-19T21:13:13+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -11250,6 +11538,15 @@
   "qid": null,
   "score": 0
  },
+ "Red Menace": {
+  "checkedAt": "2026-11-19T21:13:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Red Orchid": {
   "checkedAt": "2026-09-25T17:57:29+00:00",
   "description": null,
@@ -11496,6 +11793,15 @@
   "qid": null,
   "score": 0
  },
+ "Richard Teverson": {
+  "checkedAt": "2026-11-19T21:13:05+00:00",
+  "description": "actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q111544360",
+  "score": 0
+ },
  "Richard Thomas": {
   "checkedAt": "2026-09-25T17:55:16+00:00",
   "description": "American author",
@@ -11721,6 +12027,24 @@
   "qid": "Q94993175",
   "score": 24
  },
+ "Rumors Off": {
+  "checkedAt": "2026-11-19T21:13:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Rumors Producing Team": {
+  "checkedAt": "2026-11-19T21:13:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Rumpleteazer Now Streaming": {
   "checkedAt": "2026-11-13T20:21:45+00:00",
   "description": null,
@@ -11904,6 +12228,15 @@
  },
  "Sam Rockwell-led A": {
   "checkedAt": "2026-11-10T20:16:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "San Diego": {
+  "checkedAt": "2026-11-19T21:13:25+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12575,6 +12908,15 @@
   "qid": null,
   "score": 0
  },
+ "Solo Performances": {
+  "checkedAt": "2026-11-19T21:13:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Solo Show Man": {
   "checkedAt": "2026-10-20T17:48:33+00:00",
   "description": null,
@@ -12739,6 +13081,15 @@
  },
  "Stagedoor Manor": {
   "checkedAt": "2026-09-25T17:47:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Stagehands Union": {
+  "checkedAt": "2026-11-19T21:13:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12946,6 +13297,15 @@
  },
  "Stream These Movies": {
   "checkedAt": "2026-11-06T19:52:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Strike Remains Possible": {
+  "checkedAt": "2026-11-19T21:13:23+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13282,6 +13642,24 @@
   "knownFor": [],
   "qid": "Q19666388",
   "score": 35
+ },
+ "Thanksgiving Day Parade": {
+  "checkedAt": "2026-11-19T21:13:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Thanksgiving Parade": {
+  "checkedAt": "2026-11-19T21:12:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Thanksgiving Week": {
   "checkedAt": "2026-11-04T20:18:51+00:00",
@@ -14195,6 +14573,15 @@
   "qid": null,
   "score": 0
  },
+ "Viola Davis": {
+  "checkedAt": "2026-11-19T21:12:40+00:00",
+  "description": "American actress and producer (born 1965)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q229181",
+  "score": 81
+ },
  "Viveca Chow": {
   "checkedAt": "2026-10-07T19:14:02+00:00",
   "description": null,
@@ -14595,6 +14982,15 @@
  },
  "Wooster Group": {
   "checkedAt": "2026-11-16T22:46:51+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Wooster Group Remount": {
+  "checkedAt": "2026-11-19T21:13:14+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
