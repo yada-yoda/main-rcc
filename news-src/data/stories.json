@@ -756,11 +756,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/all-my-sons-starring-bryan-cranston-announces-broadway-transfer/",
      "feed": "broadway-news"
-    },
-    {
-     "name": "SSBCrack",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0RFTTlxLTI3cFFJVFVpMGlWSzVQM3IzckEtR1Y1dVpPRWpTS202RXZBQzMwRDFKM09lQ2s2dHZONmZfcXFrTC16TExoUE4yZjFidVhiNmRNYjJkckUtNTN5c1VaQk1rMUxEbEVRSDFLVjloMTBBekxpZTRhZS1lcHBOTUdES0ZNQ01EdVA1MzRHSGVKTG9OaUhRcDc",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -982,6 +977,58 @@
    "status": "published"
   },
   {
+   "id": "22489b6f6c",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-12T13:37:54+00:00",
+   "published": "2026-11-12T15:39:42+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Odd Couple",
+   "title": "Steve Carell, John C. Reilly to Star in ‘The Odd Couple’ on Broadway",
+   "quote": "Laura Benanti, James Monroe Iglehart, Rob McClure and more fill out the cast.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Steve Carell",
+     "knownFor": "American actor and comedian",
+     "score": 71,
+     "qid": "Q216221"
+    },
+    {
+     "name": "John C Reilly",
+     "knownFor": "Step Brothers, Wreck-It Ralph",
+     "score": 63,
+     "qid": "Q223110"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/steve-carell-john-c-reilly-odd-couple-on-broadway-1236753889/",
+     "feed": "thr-arts"
+    },
+    {
+     "name": "Love London Love Culture",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUURQeElZa192Z3RwaVFhR09DTG52akpJR0QyYmxrRDQxZUttOWZ3RHNnbHpzQU5pcTM1UDF3ZExSbDF1eDgxU0Y5WHFyRHo5LXhBN28xWnlDbkFZSGQwWWZ5U1pyMW5WZW1EZUZ5WjhBUnFzaDZ1VzdCTXVpVDJCS3BIRFJTMG1hdi1zRVhNLVg2MGdHRU1rY054NWNBbFNaaDUzRVhiSWx0cWVHcDA3Tnp4b1dQQdIBuwFBVV95cUxNRXNncDRVQlR6WGxiLW9YT05uaFNLdGRGSExZd3U3Qnp1ZkJfaG9XdkwwbGpDSG9UeGlZUEFsNlRBX2V1Q1R0bmxiQ21BN0hiS3l1eVlvNzFaa2F1VW81SWdDQ2hscEx5T0s3b2k1THZZR1FpUE1acG0xdlFZU0hDNGdDdWpVcFlDaGk3YnBUdFBjejVvZGNUUHFNQmt2TVF0b29DR2FiUm9UN1FUSk02LVo4NTJ5QjllaHpB",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Theatrely",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU05weHV3MXYtTjlYRjNyUFU0YnZfenJ1dTdCYVZWVlVOLUtTSmgwd1h1Z2NiWktTVnZjZkhUUEQwTmFXU3Y1cVBWTjhYMkVfanNnZ2c3ZlVVWXQ0ektTOGx5ckRxRUR0bndCcUVvU25qeTMwbEZzclIyM0VtcENpTE83MTJpd21oODk3VFRiWHdkTTItSWhDMmgzZnVjdnRXX0IzTDZ6TUg5cmtwVXF1ZzZtUmJiZ0poa1VmMkNuc3JneGNYU3NQQmRoUFZvdmFFcll3U1FjcHM",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "19fcdcf449",
    "priority": 2,
    "watched": [],
@@ -1022,73 +1069,6 @@
     }
    ],
    "status": "review"
-  },
-  {
-   "id": "22489b6f6c",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-12T13:37:54+00:00",
-   "published": "2026-11-12T13:37:54+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "The Odd Couple",
-   "title": "Steve Carell, John C. Reilly to star in ‘The Odd Couple’ on Broadway this spring",
-   "quote": "Laura Benanti, James Monroe Iglehart, Rob McClure and more fill out the cast.",
-   "quoteSource": "The Hollywood Reporter",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Steve Carell",
-     "knownFor": "American actor and comedian",
-     "score": 71,
-     "qid": "Q216221"
-    },
-    {
-     "name": "John C Reilly",
-     "knownFor": "Step Brothers, Wreck-It Ralph",
-     "score": 63,
-     "qid": "Q223110"
-    }
-   ],
-   "sources": [
-    {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JuOWFydTBCczNwRUg0NW9qR09RSEM4RTNFaU9FSmNHTVF4aGl6c0c0ZVhTR1VKVkJOTHVNdkJtcmFIdWhodmxxd09YQ0lKd1dOZnd1SjF6dFVrUFJ4VGZJVlh5QnlZQkFVWUZ4M3pveTZHUW9OME1Nd2d4dUJCY1l3cl95VjRfcmExenhQdHRHam8yeVR5dzVDVUZObHJjQkVjU1MyZDl2UTRzMmJKaXlwN3NZbjVNbDQyQTFYOC0ydEV4WDdDaGxB",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/steve-carell-john-c-reilly-odd-couple-on-broadway-1236753889/",
-     "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEFOZjhWeUh1ckRyM0lCdjZjMVdweUdGM1JrSTNsTl9yMy1oeUZIRTZkd005UVJmV282NExTTUxDand0MklON1BHano4SkRQN241S2p5dVJjc0xiUThqekoya3ZCaHZ1Yy1ORW9zMFNSbzBtWWdHQnhaNkFTdG9qTjhhQ2lMOHhpSGlsaGlSTUZnU2xUZ193",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Broadway Shows",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTAtSWpQMEUwNF83WHNDeHFyZ3prb05uOFhpakZUMko1ZkRWdkstUHRRcDJVRjNjcnZRLURDcFlta2RGdnMwRnd4YUM5Q04yeE5GUHY4bTR5aUNobnJiUGNDU0FYUVMzaHdya3N4RkVtSnNaVTdYc1YtbDEybkh5OXA5SzhjWmotbklQNWg2N2FDZXZKeldLQnFSdXpfMjdDemJRbjBnMXZzZw",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Love London Love Culture",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUURQeElZa192Z3RwaVFhR09DTG52akpJR0QyYmxrRDQxZUttOWZ3RHNnbHpzQU5pcTM1UDF3ZExSbDF1eDgxU0Y5WHFyRHo5LXhBN28xWnlDbkFZSGQwWWZ5U1pyMW5WZW1EZUZ5WjhBUnFzaDZ1VzdCTXVpVDJCS3BIRFJTMG1hdi1zRVhNLVg2MGdHRU1rY054NWNBbFNaaDUzRVhiSWx0cWVHcDA3Tnp4b1dQQdIBuwFBVV95cUxNRXNncDRVQlR6WGxiLW9YT05uaFNLdGRGSExZd3U3Qnp1ZkJfaG9XdkwwbGpDSG9UeGlZUEFsNlRBX2V1Q1R0bmxiQ21BN0hiS3l1eVlvNzFaa2F1VW81SWdDQ2hscEx5T0s3b2k1THZZR1FpUE1acG0xdlFZU0hDNGdDdWpVcFlDaGk3YnBUdFBjejVvZGNUUHFNQmt2TVF0b29DR2FiUm9UN1FUSk02LVo4NTJ5QjllaHpB",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "Theatrely",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU05weHV3MXYtTjlYRjNyUFU0YnZfenJ1dTdCYVZWVlVOLUtTSmgwd1h1Z2NiWktTVnZjZkhUUEQwTmFXU3Y1cVBWTjhYMkVfanNnZ2c3ZlVVWXQ0ektTOGx5ckRxRUR0bndCcUVvU25qeTMwbEZzclIyM0VtcENpTE83MTJpd21oODk3VFRiWHdkTTItSWhDMmgzZnVjdnRXX0IzTDZ6TUg5cmtwVXF1ZzZtUmJiZ0poa1VmMkNuc3JneGNYU3NQQmRoUFZvdmFFcll3U1FjcHM",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
   },
   {
    "id": "53bee39b14",
@@ -1591,7 +1571,7 @@
    "placedBy": "words",
    "type": "casting",
    "show": "Purple Rain",
-   "title": "Jordan Fisher to Star as The Kid in Broadway Adaptation of Prince’s ‘Purple Rain’",
+   "title": "Jordan Fisher to star in ‘Purple Rain’ Broadway musical",
    "quote": "Fisher will star in the new musical after leading roles in 'Moulin Rouge!' 'Hadestown' and more.",
    "quoteSource": "The Hollywood Reporter",
    "image": null,
@@ -1607,11 +1587,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "Blackfilm",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk4zeHdnMnlvNklkaWFObEdqMl9yZktRSkxoSTNqVkRsNVpnUXlZcVQtOExCbmVVaUVoVEtWdjhBVThfNXFNRnp2ZU9kS3BQeG9KZ2FsS2ZkZWhIWXZkRGdIOHROLWFEMHFnYTBENC1zSWd3Qnl2djd4OXJlbVRoYW83SF80NDVj",
-     "feed": "gn-to-star"
-    },
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRXdyZ3VWc1FuVGlUaTVzQlE4SlhwaWtTN2tvby1GNUFUbnQzblZYVjVuSkhpZlpJclEzbThidTBCeWJrdjU2NGpOMncxUmJ4RjVhRTBrandxRkU4eFlGcHFNOEJjV1dGY2xKZ1puS21NSDBUYlBjY3ZIdWJhSUtieXZTNXVNZkswNGVyVjNHdG9MaW81VDFkdnc0UmZxSE50dk56bTd5OHByMDQ",
@@ -1772,42 +1747,6 @@
    "status": "published"
   },
   {
-   "id": "cc2cd38f18",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-20T07:00:00+00:00",
-   "published": "2026-11-09T17:42:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Lin-Manuel Miranda helped this former Yankees legend make his Broadway debut",
-   "quote": "",
-   "quoteSource": "USA Today",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Lin-Manuel Miranda",
-     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
-     "score": 45,
-     "qid": "Q1646482"
-    }
-   ],
-   "sources": [
-    {
-     "name": "USA Today",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXRhRi1vYjNlQjdwTzJnMmJTQ0NLNng2cUxxeG9sUm5kX0gxSzQzcXJ1RldyTUlvOXF3YnNmTl8xT3YxTXJ6VDlDRzl2OVlQcXFkbGQ4T2J6ZXhmNW5BQVJsMGx4djkzNURfazhPQmF3c2l6Ynk5alM2eW02dTJkLWVvU05BdVJGT2hYdFZ1cll4ZjBFRjVxSnF1LUlITTU3TEwybUhfNG04QzA3TTYycG95Ulo2QlVSWUpLTUlmTk9ieklGb0I3RQ",
-     "feed": "gn-bway-debut"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "9523d1418f",
    "priority": 2,
    "watched": [],
@@ -1950,6 +1889,42 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "cc2cd38f18",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-10-20T07:00:00+00:00",
+   "published": "2026-11-09T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Lin-Manuel Miranda helped this former Yankees legend make his Broadway debut",
+   "quote": "",
+   "quoteSource": "USA Today",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Lin-Manuel Miranda",
+     "knownFor": "In the Heights, Star Wars: Episode VII – The Force Awakens",
+     "score": 45,
+     "qid": "Q1646482"
+    }
+   ],
+   "sources": [
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXRhRi1vYjNlQjdwTzJnMmJTQ0NLNng2cUxxeG9sUm5kX0gxSzQzcXJ1RldyTUlvOXF3YnNmTl8xT3YxTXJ6VDlDRzl2OVlQcXFkbGQ4T2J6ZXhmNW5BQVJsMGx4djkzNURfazhPQmF3c2l6Ynk5alM2eW02dTJkLWVvU05BdVJGT2hYdFZ1cll4ZjBFRjVxSnF1LUlITTU3TEwybUhfNG04QzA3TTYycG95Ulo2QlVSWUpLTUlmTk9ieklGb0I3RQ",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "fb34f6d864",
@@ -2707,6 +2682,64 @@
    "status": "review"
   },
   {
+   "id": "6421fba4cb",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-18T21:47:00+00:00",
+   "published": "2026-11-18T21:47:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "extension",
+   "show": "Galileo",
+   "title": "Raúl Esparza Still On Concussion-Caused Leave From Broadway’s ‘Galileo’; Michael Park Stepping In",
+   "quote": "UPDATE: Raúl Esparza extended his two-day leave of absence from Broadway’s Galileo to include two performances today (Wednesday, November 18). In his place, Michael Park will take the title role at both today’s matinee performance and tonight’s evening performance.",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/gal-e1794935520606.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/raul-esparza-michael-park-broadway-galileo-1237226617/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a24025ef9d",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-18T21:36:39+00:00",
+   "published": "2026-11-18T21:36:39+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Conspiracy",
+   "title": "Stage Adaptation of CONSPIRACY Is Eying Broadway",
+   "quote": "BroadwayWorld has just learned that a stage version of the 2001 HBO film, Conspiracy, is currently being developed, written by original screenwriter Loring Mandel. Scott Schwartz is attached to direct.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-f9ee70a9222c777521147a7911eb83bf.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Stage-Adaptation-of-CONSPIRACY-Is-Eying-Broadway-20261118",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "8d632f5bc5",
    "priority": 3,
    "watched": [],
@@ -2794,11 +2827,40 @@
    "status": "published"
   },
   {
+   "id": "518eadc307",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-18T20:00:23+00:00",
+   "published": "2026-11-18T20:00:23+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "The Cast of The Fantasticks on Its Broadway Reinvention",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEVoNVRkSUppUUVuVHdqenZqVEdZdzIzQXdTMjJZOEVsYzhTRWRET1VIdmJ1ZnVjaDRBZ2VtXy1YTEM0b2FrR1pGUjJPUjA0Ym5LSF9KT3p3dmVUdU8wN3FEdm9lWmROWUg3bDlWNEp3Q0JpcVRNdmtZbVpRVnUwNHU5eHdVS0xBakwxZ1ZBbXpqakQ3eElwOQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "ebe05fe22f",
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-11-18T19:29:52+00:00",
-   "published": "2026-11-18T19:29:52+00:00",
+   "published": "2026-11-18T19:30:44+00:00",
    "city": null,
    "tier": null,
    "venue": null,
@@ -2934,6 +2996,35 @@
      "name": "Chicago Reader",
      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/our-town-lazy-susan-theatre-co/",
      "feed": "chicago-reader"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9a6aa1e954",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-18T16:40:00+00:00",
+   "published": "2026-11-18T16:40:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Broadway Night Off Concert Series Welcomes Mariah Lyttle and Tony Kadleck November 23",
+   "quote": "The weekly series at the speakeasy-themed venue recently celebrated its first anniversary.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/BADCINDERELLA_OPENING_PhotobyMichaelahReynolds_EDIT-057.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-night-off-concert-series-welcomes-mariah-lyttle-and-tony-kadleck-november-23",
+     "feed": "playbill"
     }
    ],
    "status": "review"
@@ -3208,7 +3299,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Al Hirschfeld Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "opening",
    "show": null,
    "title": "Broadway Grosses: Week Ending 11/15/26",
@@ -12268,64 +12359,6 @@
      "name": "Time Out Worldwide",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM2RCSzQ2eWtwRUxrU3R0V0M1cDF1VUxURkw5ZF9FX2dOYzdwaGZiR1REOXV3bWNGNzg0VUQyN3FNYjk3bFpRV0lNS05qcDI4empQWl9SWC1DNVltVWJ6Vm1hNTJueWFXV1JhWkpsQVd1NzJlLUN0TUVTZnRWWDNHaW9SZUxXc1Q3ZnNzWTUtSzJBdW1tYV9LM0JRbUFfbGlmVHpqa2FHZ1pFREhxbHBlTEJJeUc3YUs5aEhGUHZ5OEprNHpQUFUzbUhqMjJhOTdQYWZMcENYTFhWUzhYejdYQzJ0RTJrUms",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "92eac34113",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-28T21:44:44+00:00",
-   "published": "2026-10-28T21:44:44+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Come & Sing",
-   "title": "Lincoln Center to Dedicate Upcoming 'Come & Sing' Event to Gavin Creel",
-   "quote": "Lincoln Center will host a special edition of Come & Sing in memory of Gavin Creel. Participants will learn two iconic Broadway finales: “Aquarius / Let the Sunshine In” from Hair and “Children Will Listen” from Stephen Sondheim and James Lapine’s Into the Woods.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-c6697b50eb3e37d2d5d4e097be40158c.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Lincoln-Center-to-Dedicate-Upcoming-Come-Sing-Event-to-Gavin-Creel-20261028",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "48b9e9d744",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-28T21:29:49+00:00",
-   "published": "2026-10-28T21:29:49+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Barney Miller",
-   "title": "Barbara Barrie Dies: Star Of Broadway And ‘Barney Miller’ Was 95",
-   "quote": "Barbara Barrie, who received a Tony nomination for her role in Broadway’s original Company, an Oscar nomination for her performance in Breaking Away and wide recognition as the wife of Hal Linden’s police captain on TV’s Barney Miller, died October 28 at her home in Manhattan. She was 95.",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2026/10/Barbara-Barrie.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/barbara-barrie-dead-1237207578/",
-     "feed": "deadline-theater"
     }
    ],
    "status": "review"
