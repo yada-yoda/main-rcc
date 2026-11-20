@@ -143,6 +143,15 @@
   "qid": null,
   "score": 0
  },
+ "Adds Naomi Weinstock": {
+  "checkedAt": "2026-11-20T20:57:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Adirondack Chair Circle": {
   "checkedAt": "2026-11-04T02:56:08+00:00",
   "description": null,
@@ -423,6 +432,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Alysha Umphress": {
+  "checkedAt": "2026-11-20T20:57:13+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q23664710",
+  "score": 4
  },
  "Amalia Yoo": {
   "checkedAt": "2026-09-25T17:54:04+00:00",
@@ -846,6 +864,15 @@
  },
  "Asolo Rep": {
   "checkedAt": "2026-09-30T18:18:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Asolo Repertory": {
+  "checkedAt": "2026-11-20T20:57:16+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2062,6 +2089,15 @@
   "qid": null,
   "score": 0
  },
+ "Call Sparks Playbill": {
+  "checkedAt": "2026-11-20T20:56:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Calls Ahead": {
   "checkedAt": "2026-11-03T19:58:43+00:00",
   "description": null,
@@ -2395,6 +2431,15 @@
  },
  "Celebrates Tim Curry": {
   "checkedAt": "2026-10-30T18:27:04+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Celebs Sound Off": {
+  "checkedAt": "2026-11-20T20:56:55+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3035,6 +3080,15 @@
   "qid": null,
   "score": 0
  },
+ "Creators Defend Controversial": {
+  "checkedAt": "2026-11-20T20:56:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Crescent City": {
   "checkedAt": "2026-11-05T03:13:26+00:00",
   "description": null,
@@ -3560,8 +3614,26 @@
   "qid": null,
   "score": 0
  },
+ "Development Capital": {
+  "checkedAt": "2026-11-20T20:57:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Developmental Reading": {
   "checkedAt": "2026-10-07T19:13:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Devin Cortez": {
+  "checkedAt": "2026-11-20T20:57:14+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3790,6 +3862,15 @@
  },
  "Don’t Walk": {
   "checkedAt": "2026-09-25T17:57:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Doors Online Auction": {
+  "checkedAt": "2026-11-20T20:57:18+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -4278,6 +4359,15 @@
  },
  "Evangelical Upbringing": {
   "checkedAt": "2026-11-05T20:29:37+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Eve Soirée": {
+  "checkedAt": "2026-11-20T20:57:17+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5316,6 +5406,15 @@
   "qid": null,
   "score": 0
  },
+ "Gotham Group": {
+  "checkedAt": "2026-11-20T20:57:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Grammy-Winning Rapper Nas": {
   "checkedAt": "2026-09-29T18:29:37+00:00",
   "description": null,
@@ -6076,6 +6175,15 @@
   "qid": null,
   "score": 0
  },
+ "Hunger Games": {
+  "checkedAt": "2026-11-20T20:56:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "I'm Here": {
   "checkedAt": "2026-11-11T02:33:52+00:00",
   "description": null,
@@ -6297,6 +6405,15 @@
  },
  "Innovative Rights Deal": {
   "checkedAt": "2026-10-13T19:46:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Insanely Awful": {
+  "checkedAt": "2026-11-20T20:56:48+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6803,6 +6920,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Jennifer Sánchez": {
+  "checkedAt": "2026-11-20T20:57:11+00:00",
+  "description": "researcher",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q60311220",
   "score": 0
  },
  "Jeremy Jordan": {
@@ -7799,6 +7925,15 @@
   "qid": "Q271986",
   "score": 50
  },
+ "Katie Finneran": {
+  "checkedAt": "2026-11-20T20:57:01+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q4484894",
+  "score": 16
+ },
  "Katie Rose Clarke": {
   "checkedAt": "2026-10-02T18:14:41+00:00",
   "description": "American actress",
@@ -7942,6 +8077,15 @@
  },
  "Kidman Carol Completes": {
   "checkedAt": "2026-10-26T19:03:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kieran Culkin Heard": {
+  "checkedAt": "2026-11-20T20:56:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8146,6 +8290,15 @@
  },
  "Lampoons Nazis": {
   "checkedAt": "2026-10-06T18:49:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Lance Bass Steps": {
+  "checkedAt": "2026-11-20T20:56:59+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8359,6 +8512,15 @@
  },
  "League Report": {
   "checkedAt": "2026-10-20T17:49:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Leandra Ellis-Gaston": {
+  "checkedAt": "2026-11-20T20:57:03+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -9734,6 +9896,24 @@
   "qid": "Q87471822",
   "score": 1
  },
+ "Miles Malleson": {
+  "checkedAt": "2026-11-20T20:57:05+00:00",
+  "description": "English actor (1888–1969)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q440360",
+  "score": 15
+ },
+ "Milford Firm": {
+  "checkedAt": "2026-11-20T20:56:57+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Million Won": {
   "checkedAt": "2026-11-04T20:18:40+00:00",
   "description": null,
@@ -10403,6 +10583,15 @@
   "qid": null,
   "score": 0
  },
+ "Notice Slammed": {
+  "checkedAt": "2026-11-20T20:56:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Now Available": {
   "checkedAt": "2026-10-13T19:46:34+00:00",
   "description": null,
@@ -10754,6 +10943,15 @@
   "qid": null,
   "score": 0
  },
+ "Paige Gilbert": {
+  "checkedAt": "2026-11-20T20:57:04+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Pals Cheer Him": {
   "checkedAt": "2026-09-25T17:54:54+00:00",
   "description": null,
@@ -11004,6 +11202,24 @@
   "qid": null,
   "score": 0
  },
+ "Playbill Saying Sorry": {
+  "checkedAt": "2026-11-20T20:56:54+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Played Roxie": {
+  "checkedAt": "2026-11-20T20:57:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Players Historic State": {
   "checkedAt": "2026-11-19T21:13:15+00:00",
   "description": null,
@@ -11247,6 +11463,15 @@
   "qid": null,
   "score": 0
  },
+ "Promotes Robert Jones": {
+  "checkedAt": "2026-11-20T20:57:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Prospect Musicals": {
   "checkedAt": "2026-11-02T22:11:16+00:00",
   "description": null,
@@ -11432,6 +11657,15 @@
  },
  "Razzle Dazzle": {
   "checkedAt": "2026-11-17T21:32:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Razzle Dazzling Performers": {
+  "checkedAt": "2026-11-20T20:57:09+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13403,6 +13637,15 @@
   "qid": null,
   "score": 0
  },
+ "Surprise Cameo": {
+  "checkedAt": "2026-11-20T20:57:00+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Sweeney Todd": {
   "checkedAt": "2026-10-30T02:25:39+00:00",
   "description": null,
@@ -14609,6 +14852,15 @@
   "qid": "Q229181",
   "score": 81
  },
+ "Viola Davis Responds": {
+  "checkedAt": "2026-11-20T20:56:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Viveca Chow": {
   "checkedAt": "2026-10-07T19:14:02+00:00",
   "description": null,
@@ -14935,6 +15187,15 @@
   "qid": null,
   "score": 0
  },
+ "Winner Ivy Lion": {
+  "checkedAt": "2026-11-20T20:57:20+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Winter Garden": {
   "checkedAt": "2026-10-28T18:41:51+00:00",
   "description": null,
@@ -15152,6 +15413,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q113468261",
+  "score": 0
+ },
+ "Zero Gravity": {
+  "checkedAt": "2026-11-20T20:57:22+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Zohran Mamdani": {
