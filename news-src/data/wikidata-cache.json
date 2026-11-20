@@ -907,6 +907,15 @@
   "qid": "Q210547",
   "score": 54
  },
+ "Audience During Emotional": {
+  "checkedAt": "2026-11-20T03:53:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Audiobooks Narrated": {
   "checkedAt": "2026-11-04T20:18:44+00:00",
   "description": null,
@@ -5318,6 +5327,15 @@
  },
  "Grand Auction": {
   "checkedAt": "2026-09-25T17:56:58+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Grand Theft Auto": {
+  "checkedAt": "2026-11-20T03:53:32+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -11249,6 +11267,15 @@
  },
  "Public Adds What": {
   "checkedAt": "2026-10-01T01:50:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Publication Playbill Apologizes": {
+  "checkedAt": "2026-11-20T03:53:31+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

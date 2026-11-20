@@ -43,23 +43,28 @@
      "name": "TMZ",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12TXlMaDlJbTF3eU90VGNrak10QzV6Yld2cjJfcmthVlY3b29IRUZBV2xEU3JGcjlQN0FrblVSQXk0N3lDekliczNja3NKS1QwdmVYbm5UQW1sUkxOcVpXWTRNdDBWLW52Z016aFMxY290YnlzblV0cA",
      "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Daily Mail",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMy1rSmJEaFZtNWdDMktoeHZqb0xRM3BONEtBZWFNUW9SS0FwUm1FTVloM1FQNGhnX25PTTNjTENVZ0M5YnRUcUpCVzlUWDcwOVlydjI2dURsQWh4dEFkbk1tS1VYZGpNRm1rMlNPOVE4ZHRua2JNeTZJYUtHZTB6SEZndTRBcGREbjRfNWxnRll4cGtNdU9oMFdhdXpvQWt4a3ZfWjYwOVg1Z0ZScUVNb1hiczZuQjhPRFVIV0syc0TSAcYBQVVfeXFMTUNDOFJreHBtMTZnX1loREdoVUJVb1Mzb2Fib3hBdTBxSmhpcE1DVkZuYVlFYW5vd2RHVV92YW5lMGZOakk5aFBJQUx4TEpnRnlheU9STGVwaUw5ZXhPWUZJdWoycUxvRFBKWUhEdXhnejRkbTU2ZGtvUDhvXzRRZnZmeU45dHM4aW5WSmR3aV9CSU5zUG1kOWQ2OGNkZ0IwZ3UzRE9nUXdINWhVaEdGNWVvNGlYWGNiLTIyTEZ5Q19nTjNhaDFB",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
   },
   {
-   "id": "03be3f6377",
+   "id": "486a6ed9a0",
    "priority": 2,
    "watched": [],
-   "firstSeen": "2026-11-19T15:35:13+00:00",
-   "published": "2026-11-19T15:35:13+00:00",
+   "firstSeen": "2026-11-19T15:02:07+00:00",
+   "published": "2026-11-19T15:02:07+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": "casting",
    "show": "Schmigadoon!",
-   "title": "Beth Behrs, Josh Radnor to star in 'Schmigadoon!' on Broadway",
+   "title": "Josh Radnor and Beth Behrs to Star in Broadway’s Schmigadoon!",
    "quote": "How I Met Your Mother‘s Josh Radnor and 2 Broke Girls‘ Beth Behrs are set to join the cast of Broadway’s Schmigadoon!, taking the lead roles of the young couple who find themselves stuck in a magical town where classic stage musicals rule the day. Behrs and Radnor will begin performances in the musical on […]",
    "quoteSource": "Deadline",
    "image": "https://deadline.com/wp-content/uploads/2026/11/schmig.jpg",
@@ -82,13 +87,13 @@
    ],
    "sources": [
     {
-     "name": "New York Theatre Guide",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUw2MUlqcGxhaGJvQUNZZC1xWjBUUUFvYTVyNlhybzRucVdXYl9mdXFNUktoQnNBWDJYcUdDQXU2aFJUalk1ZXJSelg2M0ZtVkw2SFp3VmJRckh6aTJfX0FqYVJCMVJsbXg3R29qVE1lTHVTUU8wWE9aaWZEWXFFVUwtaU5wZ2owdXp4Y3ZHRWtPYVprMU9VeTBkcmJqTFp6ZzhBRDFfXzRUTU5jb0VzNw",
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZHRuQkVfNFJPeWZJMjlLTnphQlFKLUlHSzVSbmJveFFmWi1kWlZQV1lmZHZtbUFGOGx3SF9NeE5uSWNDaENDNk1CdFZEMG1nT2tZY0RkZmd3QldmaGp2dXZPNVF3dGU4SjBQZFE2cUNXVW9Ta0pZTFpIRmNGTVdScGN6RThHOG9KQUJEWWFFQzJMc2JqUWd6enkwa1ZWUQ",
      "feed": "gn-to-star"
     },
     {
-     "name": "Broadway News",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQzduM2hUb0h4UXhXdjFPaVJMLWg4Q0pscjg3ZU55azI4bnpKbkZRYmFJV2lDY1FtLTJtWnlCWDFORjdDM0FRQUlOMWJEeEZ3cHRYVEhvUmRnSlg5NFRQaEFGYzFBWWFyb1lsUEd2T2hFYXJFblZUNVJLcjJaUk4xYXVMNUJselRLTHJmdkt1R09SVDQ",
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUw2MUlqcGxhaGJvQUNZZC1xWjBUUUFvYTVyNlhybzRucVdXYl9mdXFNUktoQnNBWDJYcUdDQXU2aFJUalk1ZXJSelg2M0ZtVkw2SFp3VmJRckh6aTJfX0FqYVJCMVJsbXg3R29qVE1lTHVTUU8wWE9aaWZEWXFFVUwtaU5wZ2owdXp4Y3ZHRWtPYVprMU9VeTBkcmJqTFp6ZzhBRDFfXzRUTU5jb0VzNw",
      "feed": "gn-to-star"
     },
     {
@@ -100,6 +105,11 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/josh-radnor-and-beth-behrs-to-star-in-broadways-schmigadoon/",
      "feed": "broadway-news"
+    },
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmFhd2plSUFHSmVmRkFrYUw0LUdjb25PWDNKaWxwRnp0Y0FYVXBFN3lNZ25RNTNtOVhjaXplUnZucDlweUp4MUNlMlNqeHgxZFc4eVExU1hBaTlCajBSQzhFTGw2SEZQdDFDX2NjaUo1NERrc2x4cmowZzdfWWV5LXVlZFFSZC1YTThhdkVUdGZ4Zw",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "published"
@@ -906,16 +916,6 @@
     {
      "name": "New York Theatre Guide",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDdlVHlyVFo4MzFnX0xOZ2Z2TUpPYl9fSGJMSlg4RW5xdUdZb3RVa0huTVY1R1NhaWJzZUtxNG9rSGlVb2YyZ2NXMl9zZ0x5Nlc2ODhWdTZZTjFCSVFDTENybTVGOTJsLU15TDVveVNURG93LUdXbmJJWGoxRUhPRTA4NmEyTkNXTDhiQUN4WFFWci1aTU1rQmNoVXMzYWNoQUdDVG1wd3Q0WVFmRXEtVVc2NlhwYmV5TXlUU2l0NGxvTFBGNDJqblh5RjBScWQtVnI4eA",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "The Arts Shelf",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWRFcy1Zbk9yQWVtZDZic0RBNTZFazhxZmU0QUFLSW1fWTVTVUxYcjc1WmZWbEFVTmdXeDA2ZjNFUkE0bE1NeEtId19DNkJ4a3ItdDh6Y1R6cFJfeFhQR1lSNHgzc2Jrc0Y0Vnk3V2psUnlmaU4tblF4ZGY5N1AxVGsyWQ",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZ20yTzJmYl9iWTJtc2NZRUVRWWdxYjFjaXBTNExaS0FLUlI5dVljbTAzbVQ5RVdJaGRuRVBaR2RnZzZGNHMwNC1zRmhSRjE0T2t5YUc4R3pOTXhyb1lqQjB6M0FmS1N6Mmc",
      "feed": "gn-to-star"
     },
     {
@@ -2838,6 +2838,209 @@
    "status": "review"
   },
   {
+   "id": "3f9f209d37",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-20T00:46:54+00:00",
+   "published": "2026-11-20T00:46:54+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Hollywood star & ex baseball pro Lance Broadway found dead in stairwell aged 43",
+   "quote": "",
+   "quoteSource": "The Sun",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The Sun",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwRlhlN2UxdVNhZlR1b1dyMjcxWlhELTdVZGRyalg3QVpBWDBaUDd0UHJzMDQ1UnFfWUVsMW1JSW1UNUJOQmttLUJjSGlFeFlqTnNlaWs5MnQ4dmNNN1I4aU1GR0ZwSkluTVVvcnhzeUF1QVIxUlE",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f645c64505",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T23:45:00+00:00",
+   "published": "2026-11-19T23:45:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "George Floyd the Musical",
+   "title": "Playbill Apologizes for Posting Casting Notice for ‘George Floyd the Musical’",
+   "quote": "",
+   "quoteSource": "Variety",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVV0aHUtUXBrbUFjTHVMR2JyMDBHYXgtQ1NLZUx2UkFDUkRDQTFiOENYTkVqbjB0RkJxbGw2WTlpc1V4ZDVKOXBjY3pzaEt3QzREeWNsaTNuRDJUZG5iMjZXOTJBVC1wOFR5SlRDNVBaZ1NIVGwzLW4zTVVzY2VpTHJwRl9ORzl0YTRuV1RNN1o4UV83X0dzWXI5dkVUemxPd0RHemZR",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "8d92573d25",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T20:15:26+00:00",
+   "published": "2026-11-19T23:22:42+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "incorrectly",
+   "title": "Playbill apologizes after 'incorrectly' publishing casting call for satirical 'George Floyd: The Musical'",
+   "quote": "",
+   "quoteSource": "One America News Network",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "One America News Network",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFY1RWhxY25IOVAxd3lIeURKVnlnUzJQTVRqSllMN3YzZEozc2o4QmhwNmZkZHdBS2RzU3Yyb2ZCc3JyVkhtZEs5d3Yta0FmazNhVnZPWVF4aEF3eGI5WnljMHlNemltQWdnTDFOZmJtVlplVE9uTTduWmw4NXJDQlN0Y1o0OXFhcUE3TXZ2dmFranNUbm10ejhCRnJTbXRDN2FmT0tDTlZIM0lTNkw1TVJTQ2dKQnJJRG9lZDd4VENINVRJQm1Qa1VvWQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "9d5abdcd40",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T23:04:00+00:00",
+   "published": "2026-11-19T23:04:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "body found in stairwell",
+   "title": "Marvel and Olympus Has Fallen star Lance Broadway dies aged 43 after 'body found in stairwell'",
+   "quote": "",
+   "quoteSource": "The Mirror",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The Mirror",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlVSTW1kVGFlUVlwT09xdHY5dEVmb0NJdnZ0bzl1bjZLQ3NTUU9pcWljTm5EUzNQbS1qdHhLSlBTMzZQTHd4bURod255SlU1YXk1cVA4VEswZEFCTEY2YTJ1b3RPLWQyellZdjRBUEJnTFp3MGRzVFQtVzhIVkR4TXJ3MjY4V19DalkwcDRtdkVJQdIBlwFBVV95cUxOb1FrdVh5T2UxTGhGcmJ0WVhoY1ZaMkRGTEZudHY1QURzTHFmOXcwLUtUOXB5Z2ZweHZWcnZFVklVQ2ZGOU0wRHdFNThnR1BfRkhPbm05dHBqQ2ZMcWE3ZGp4VVBKUmcwMmRDbFdUdUxCeng5STRlQ2N6blZRQnEyc0lJOXd2eW5BdlBoajBZUnVaOTF5Mm9j",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "84e6f9172e",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T22:43:11+00:00",
+   "published": "2026-11-19T22:43:11+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "2026 Macy’s Thanksgiving Day Parade announces 10-minute medley featuring nine Broadway shows",
+   "quote": "The medley will feature “The Book of Mormon,” “Chicago,” “Disney’s Aladdin,” “Hamilton,” “The Lost Boys,” “Rent,” “Richard O’Brien’s The Rocky Horror Show,” “Schmigadoon!” and “Wicked.”",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/144257-10.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/2026-macys-thanksgiving-day-parade-announces-10-minute-medley-featuring-nine-broadway-shows/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "96a9951dd0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T22:31:10+00:00",
+   "published": "2026-11-19T22:31:10+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Popular Theater Publication Playbill Apologizes After Casting Call For A George Floyd Musical Appeared On Its Website",
+   "quote": "",
+   "quoteSource": "The Shade Room",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The Shade Room",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVB2cnE2V3haY3otMHBxMjU1WjByQXR5SGl0VVhFWWJDQzNicDRuSFQzRmRITmtEaVlaRHdmUGRmY1ppaXpLTFBieXRtU0otSjJpemJpdEY3S0QtLTVqd0w0SzhzcVdSOWtpaU55aHYzZk9qbFFyTFNPaGFsRDVacEhBMy1UcXptaGJEemdkeG5mUEZqdjV3Zg",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "d58e1882fd",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T22:07:28+00:00",
+   "published": "2026-11-19T22:07:28+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "2026 Kennedy Center Honors announces broadcast date and details",
+   "quote": "Broadway’s David Foster and David Mamet are among this year’s honorees.",
+   "quoteSource": "Broadway News",
+   "image": "https://images.unsplash.com/photo-1703644902501-4e1e9b207200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGtlbm5lZHklMjBjZW50ZXIlMjBwZXJmb3JtaW5nJTIwYXJ0c3xlbnwwfHx8fDE3OTUxMjQxNzN8MA&ixlib=rb-4.1.0&q=80&w=2000",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/2026-kennedy-center-honors-announces-broadcast-date-and-details/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "50ffdee06d",
    "priority": 3,
    "watched": [],
@@ -2862,35 +3065,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/new-musical-havana-sets-world-premiere-at-san-diegos-old-globe/",
      "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "8d92573d25",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-19T20:15:26+00:00",
-   "published": "2026-11-19T20:15:26+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "incorrectly",
-   "title": "Playbill apologizes after 'incorrectly' publishing casting call for satirical 'George Floyd: The Musical'",
-   "quote": "",
-   "quoteSource": "One America News Network",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "One America News Network",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFY1RWhxY25IOVAxd3lIeURKVnlnUzJQTVRqSllMN3YzZEozc2o4QmhwNmZkZHdBS2RzU3Yyb2ZCc3JyVkhtZEs5d3Yta0FmazNhVnZPWVF4aEF3eGI5WnljMHlNemltQWdnTDFOZmJtVlplVE9uTTduWmw4NXJDQlN0Y1o0OXFhcUE3TXZ2dmFranNUbm10ejhCRnJTbXRDN2FmT0tDTlZIM0lTNkw1TVJTQ2dKQnJJRG9lZDd4VENINVRJQm1Qa1VvWQ",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -2974,6 +3148,11 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVItbjF1WXd1blJ4Q0JuRDdTbUJ0X0JtRThWTkRWaDlEVy1jUDFxX2VYU2JaemdfUEZXMXNxaGtBUUx0V2VpZUx0UXBCenZuT2FfY0gxYXdrTkZkcW1YU2VZYmgwREFWdTI1d3N1c09peXdzQ1dMNFM0bDY3YnMyY1l2NW9DY01JRDY0b3A1eDBXQ29HZktydi1IeUtVMFJlMVdYMEF5cVQxa3pvcDVPUHJIcFBMVzdYMFl4RU5B",
+     "feed": "gn-bway-casting"
+    },
     {
      "name": "BroadwayWorld",
      "url": "https://www.broadwayworld.com/article/Macys-Thanksgiving-Day-Parade-Will-Feature-9-Broadway-Casts-in-Mega-Medley-20261119",
@@ -3172,6 +3351,35 @@
    "status": "review"
   },
   {
+   "id": "3cf953c1dc",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T16:32:51+00:00",
+   "published": "2026-11-19T16:32:51+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Basically All of Broadway Is in Grand Theft Auto VI",
+   "quote": "Carolee Carmello, Derek Klena, Jelani Alladin are in a voice cast that numbers more than 1,000.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Carolee-Carmello-Derek-Klena-Jelani-Alladin-HR.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/broadway-grand-theft-auto-vi-carolee-carmello-derek-klena-jelani-alladin",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "a49db1cc0f",
    "priority": 3,
    "watched": [],
@@ -3296,6 +3504,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "e8e905178c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T15:02:00+00:00",
+   "published": "2026-11-19T15:02:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "s Higher Ground joins the producers of Neil Simon",
+   "title": "Barack and Michelle Obama’s Higher Ground joins the producers of Neil Simon’s Rumors Off-Broadway",
+   "quote": "",
+   "quoteSource": "News",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHo1cXlCcmhjdDV3RlMtSlJWY0JkcTdINExkS1dlSE1JbWVfZmNXTEhEaWFNNmVkWnp4dlRyYUhfb2hPbUdudUxIdWV4QV9NNUJxODluQ3ByNVNzWURyMlM1bmp3S1hxT0pFR3VDTWJYajRmbHRONHo1czRyb01iREdhZk03dzBpTFVsZlRtX2hyaXNRenhiZGRpdw",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "cce6d1c8cc",
@@ -3717,7 +3954,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Broadhurst Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "opening",
    "show": "It'S A Wonderful Life",
    "title": "Wake Up With BroadwayWorld November 19, 2026- IT'S A WONDERFUL LIFE: A LIVE RADIO PLAY Opens on Broadway and More",
@@ -3736,6 +3973,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "89bc642689",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T04:00:56+00:00",
+   "published": "2026-11-19T04:00:56+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "& Juliet",
+   "title": "Original ‘& Juliet’ Stars Surprise Broadway Audience During Emotional 4th Anniversary Celebration",
+   "quote": "",
+   "quoteSource": "People",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjA1OGp5X0gtYmxsZ2pJY3ZWazdEd0hkLUF4Q2JzSjJxRmxHQWkxeGNDSmQ3ZXVJeFREYXRMWlhNODNmRG05cERHUlNjMGlvR2tJX2gxeldXdnhLQW81LThuSDdmelJtamJZMHNwb1lGbmJ2ZlIwWDd2SGtDM2tLOThSZF9RaGp5SEpLT1ZaeEsxWGFu",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "bf05fea987",
@@ -12922,151 +13188,6 @@
      "name": "Playbill",
      "url": "https://playbill.com/article/reviews-sound-off-on-in-the-heights-at-new-york-city-center",
      "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "94044df5d7",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-30T02:59:05+00:00",
-   "published": "2026-10-30T03:00:25+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "A Few Good Men: Built to Last",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/29/a-few-good-men-built-to-last/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "2a9c95aa2e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-30T00:00:12+00:00",
-   "published": "2026-10-30T00:00:12+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "The Heart: A Bold New Musical Chronicles a Life-or-Death Story",
-   "quote": "",
-   "quoteSource": "New York Stage Review",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "New York Stage Review",
-     "url": "https://nystagereview.com/2026/10/29/the-heart-a-bold-new-musical-chronicles-a-life-or-death-story/",
-     "feed": "ny-stage-review"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "7dc302e92b",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-29T23:19:38+00:00",
-   "published": "2026-10-29T23:19:38+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "Wolf At The Door",
-   "title": "WOLF AT THE DOOR Cast Announced for Perseverance Theatre Production",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVh5blZIRUUzSUV0eHZDbUZGZ29Db0o0WTBSWTJZaGVLOTJSYjBqSmZNaHo1RVdnT0dReHdmeG14VmQxRmYzSjdFa2E4VUhySFNnWmhma1N0VG9Gd1A0bTBnMGZndlU3V0VyQUJiSzJTeGd6ckNOSTN1bUNpdGIwTHlWMGsxbUpuUzRmMjF1ampKYjNvMms0VWJDR0hLc2JMQ1VvZFdRZEg5c2tfa3ZTelluV0FVaVJ6a0R4MVFka1JGdw",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "e4617d7f7a",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-20T12:14:04+00:00",
-   "published": "2026-10-29T22:27:20+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Rent",
-   "title": "‘Rent’ 30th anniversary concert raises more than $4 million for Broadway Cares",
-   "quote": "Find out how proceeds from the concert will benefit Broadway Cares.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/10/01_Rent-30-2026-Anthony-Rapp-Adam-Pascal-photo-by-Rebecca-J-Michelson-13-1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/rent-30th-anniversary-concert-raises-more-than-4-million-for-broadway-cares/",
-     "feed": "broadway-news"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "bfcc07d556",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-29T21:26:08+00:00",
-   "published": "2026-10-29T21:26:08+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "s",
-   "title": "Broadway's 'Paranormal Activity' cast shares spooky backstage stories",
-   "quote": "",
-   "quoteSource": "ABC7 New York",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "ABC7 New York",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN05YVDJpTWJUY3Vjc1VkYzFMbzhWVjFEcU9MU3ZQZjkyTGhRbEtPQ0xCbHB4bHI2WTJBaldmemROb2x5SF9yUk4xQkhYU0R6M0o5Y29ldFMzTGNkSVR2bVJaa2poeUt0SWQ5V3ROYzdhVkxwWmtGMl9oUTdIOTRiQVRsYmRHclFXazRzdGZneHA1VDB1UV9DX3VNaWFLaDZRY3fSAacBQVVfeXFMUExGQXJFZU1HZDc5aUVJYWFSSHBOZjAxZXFTMjh4U1B6QUlCV3gwd1JMclRibHdJX09HTlFjcDBVMEZNMXBDRkpHSjc1QmlfcUdQUmprZ2VRWHlubTFQR2Y4U1RaQ09tTlNxWWFNNzFzLXZFcGVPejZTRkd0Tk9MM1p6bm5DVlc2aWFQQVdwYl93THl6LVg3RXRjWHVUS2M3UVg1b2ZXcU0",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
