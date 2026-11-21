@@ -2963,6 +2963,15 @@
   "qid": "Q1917605",
   "score": 13
  },
+ "Contract Fight Escalates": {
+  "checkedAt": "2026-11-21T03:47:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Controversial Downstate Again": {
   "checkedAt": "2026-10-17T16:09:45+00:00",
   "description": null,
@@ -5943,6 +5952,15 @@
  },
  "History Repeating Itself": {
   "checkedAt": "2026-10-19T19:04:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Hold Strike Authorization": {
+  "checkedAt": "2026-11-21T03:47:08+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -9462,6 +9480,15 @@
   "isPerson": false,
   "knownFor": [],
   "qid": null,
+  "score": 0
+ },
+ "Matt Doyle": {
+  "checkedAt": "2026-11-21T03:47:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q109453658",
   "score": 0
  },
  "Matt Rogers": {
@@ -13430,6 +13457,15 @@
   "qid": "Q137106185",
   "score": 3
  },
+ "Step Down": {
+  "checkedAt": "2026-11-21T03:47:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Stephen Schnetzer Complete": {
   "checkedAt": "2026-11-09T22:54:10+00:00",
   "description": null,
@@ -13949,6 +13985,15 @@
   "qid": null,
   "score": 0
  },
+ "Theatrical Wardrobe Union": {
+  "checkedAt": "2026-11-21T03:47:07+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Their Summers": {
   "checkedAt": "2026-09-25T17:47:53+00:00",
   "description": null,
@@ -14095,6 +14140,15 @@
  },
  "Ticket Details": {
   "checkedAt": "2026-10-22T01:16:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Ticket Lottery": {
+  "checkedAt": "2026-11-21T03:47:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -14672,6 +14726,15 @@
   "qid": null,
   "score": 0
  },
+ "United President": {
+  "checkedAt": "2026-11-21T03:47:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Unknown Caller": {
   "checkedAt": "2026-11-17T21:32:20+00:00",
   "description": null,
@@ -14773,6 +14836,15 @@
  },
  "Using George Balanchine": {
   "checkedAt": "2026-10-14T01:37:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Utah Valley University": {
+  "checkedAt": "2026-11-21T03:47:05+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

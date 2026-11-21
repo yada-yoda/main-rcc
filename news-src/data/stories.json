@@ -351,7 +351,7 @@
    "priority": 2,
    "watched": [],
    "firstSeen": "2026-11-17T22:52:12+00:00",
-   "published": "2026-11-17T22:52:12+00:00",
+   "published": "2026-11-17T22:51:19+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -360,7 +360,7 @@
    "show": "Buena Vista Social Club",
    "title": "Cobra Kai’s Xolo Maridueña Makes Broadway Debut in ‘Buena Vista Social Club’ Musical, First Photos Released",
    "quote": "",
-   "quoteSource": "IMDb",
+   "quoteSource": "Yahoo",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -375,13 +375,8 @@
    ],
    "sources": [
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85ZWhoQVJxR1VxS1JJaU5aQkhxN1FYMGRJajYzNko4QWctMFMxLWdLU3l3cEJtT0RFS0pSOW9nTzEyclh5ZktRWldMcGJnWmRqWV9PMVBHenJzMVpfLWg5RzZUbGZNQQ",
-     "feed": "gn-bway-debut"
-    },
-    {
-     "name": "Just Jared",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVptRlQ1UnBDUldpcHhaNDN5T2Q4RnVsdGNwZXBsNUdTQjc5Q19nWU1yTlF4MGh1Tkx0WjRYeGhLbXZFaDlkMmZwcWFIdFVyRGFsRmFNRVNidEpyUnJvTC02ZWNmX2tDbXlIU010Q3FtS0NmTmVXYVpMS0htb2ExVXFBOW81R1lRTHJJNW11eXFKR1gtSkdZMWcwd1NfYnhqT05XTjZuZ0RpSUxqNHgzeDRxSmJQS1ZweFRJS1ljTy1NUS0zWC13SmpPVUt1c2NUUEtoT3pHRzM",
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUk5GVXBVQ3FXVDFZc1RBVWhQVkZ4T1Bob3E4ZnFwbkdhaGhlZWY0RU1zSUxnSVFMS2dKYkVuN0h2V1ZOa2h6ZDM4Rk1GWDg5d0xQdDZWUGRMdGFpTlo5RTduSlo5TkdFaWJxN0tUdUlTV2dEazZ0UUVnMXJQLTU3ZFc3dzZVWDRwRGUxQUYxQThwZ1oyZGc",
      "feed": "gn-bway-debut"
     }
    ],
@@ -999,6 +994,11 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/bryan-cranston-marianne-jean-baptiste-all-my-sons-broadway-1236756112/",
      "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWVjNjRna2pSNThHNl95RWxhQmpTSTlhNFlOeU1sakxaUVRTMmZ3d0pFcFIzdU5Tb1hDMGgya2UxSm51dmZ1YUtNOFE0TVNJV0lyX2Z6ZWliY1BVdzJvZWc0U3Y5a3pUWVdxekVCcmYzSlpXWVdMWHhUckE5V21VLS1oTUt5aF9RR045NUpwSUFHbFptRWtxTnpEM28tb3c",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -2765,36 +2765,87 @@
    "status": "published"
   },
   {
-   "id": "81f2539ba6",
-   "priority": 2,
+   "id": "0a9cd30eb0",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-30T21:28:19+00:00",
-   "published": "2026-10-30T21:28:19+00:00",
+   "firstSeen": "2026-11-20T22:56:47+00:00",
+   "published": "2026-11-20T22:56:47+00:00",
+   "city": "New York",
+   "tier": "Off-Off-Broadway",
+   "venue": "La MaMa",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "A View From The Bridge",
+   "title": "A VIEW FROM THE BRIDGE at La MaMa to Offer $10 Ticket Lottery",
+   "quote": "A $10 lottery policy has been annoucned ahead of A View from the Bridge's first preview next Friday, November 27. The first lottery is open now, and the first drawing will take place Monday, November 23, for performances November 27 through November 29.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-765b1b71749fa57d46765c986f7a2d10.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/A-VIEW-FROM-THE-BRIDGE-to-Open-Off-Broadway-at-La-MaMa-With-10-Lottery-20261120",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "e18b6ad575",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-20T22:52:27+00:00",
+   "published": "2026-11-20T22:52:27+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "Iatse",
+   "title": "Theatrical Wardrobe Union, IATSE Local 764, To Hold Strike Authorization Vote As Broadway Contract Fight Escalates",
+   "quote": "Theatrical Wardrobe Union, IATSE Local 764, will hold a strike authorization vote on Sunday as members continue working without a contract amid unresolved negotiations with The Broadway League. The League cancelled meetings with Local 764 that were set to be held last Wednesday and Thursday, November 18th and 19th.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-a365abe61b14807f9da1478f54390b04.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Theatrical-Wardrobe-Union-IATSE-Local-764-To-Hold-Strike-Authorization-Vote-As-Broadway-Contract-Fight-Escalates-20261120",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "5b9fe4e144",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-20T21:35:53+00:00",
+   "published": "2026-11-20T21:35:53+00:00",
    "city": null,
    "tier": null,
    "venue": null,
    "placedBy": "none",
-   "type": "new production",
-   "show": "Great Hope",
-   "title": "Dame Judi Dench Has 'Great Hope' For the Future of Theatre After Retirement",
-   "quote": "Judi Dench has \"great hope\" for the future of theatre after she recently announced that she was effectively retired from acting. This week, the acting legend celebrated the opening of 50 Stories for 50 Years, The National Theatre's anniversary exhibition marking 50 years of its iconic building.",
+   "type": "transfer",
+   "show": null,
+   "title": "LaChanze to Step Down as Black Theatre United President After Four Years",
+   "quote": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} .shape {behavior:url(#default#VML);} Black Theatre United President and Co-Founder LaChanze is stepping down from her position, concluding four years of leadership at the organization. Her successor will be announc…",
    "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-57b70f0d282043abb9923efea79e1f52.jpg",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-47403a740542c414cb60f86040fb09aa.jpg",
    "imageCredit": "BroadwayWorld",
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Judi Dench",
-     "knownFor": "English actress",
-     "score": 98,
-     "qid": "Q28054"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
      "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Dame-Judi-Dench-Has-Great-Hope-For-the-Future-of-Theatre-After-Retirement-20261030",
+     "url": "https://www.broadwayworld.com/article/LaChanze-to-Step-Down-as-Black-Theatre-United-President-After-Four-Years-20261120",
      "feed": "broadwayworld"
     }
    ],
@@ -2805,7 +2856,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-11-20T19:03:48+00:00",
-   "published": "2026-11-20T19:03:48+00:00",
+   "published": "2026-11-20T21:19:30+00:00",
    "city": null,
    "tier": null,
    "venue": null,
@@ -2830,6 +2881,35 @@
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/20/theater/george-floyd-musical-playbill-busted-broadway.html",
      "feed": "nyt-theater"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "995541c5aa",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-20T20:42:07+00:00",
+   "published": "2026-11-20T20:42:07+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "Humbug!",
+   "title": "Matt Doyle, Arielle Jacobs and More to Star in HUMBUG! The Musical at Utah Valley University",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWN6bW8zWVZrdjUxMHppT3RiMXVYOG8xYzBxdlNjQkZTbTNBN3dnejI5Z0FLMlRkRDJMTTlBWUlvTzZzMWJlS25XVDY1S3l5UGx1YXR5ZVpkaXBzWHU5b0pzYUE5bW1aVmU2akxCSkNLTnpvNjhXc2hXNFljRGlRMWNyQXF3SlI3emowcC1md0p4TTNrZmhFcW9HZGFiZFlNaTZFQ2NFVWFmR1VJUno5NnltVjVfVGVEUTlTQWFxSHZyRFE5NS1vWmIyRVdIcTROTEtB",
+     "feed": "gn-to-star"
     }
    ],
    "status": "review"
@@ -3328,40 +3408,6 @@
    "status": "review"
   },
   {
-   "id": "f645c64505",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-19T23:45:00+00:00",
-   "published": "2026-11-19T23:45:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "George Floyd the Musical",
-   "title": "Playbill Apologizes for Posting Casting Notice for ‘George Floyd the Musical’",
-   "quote": "",
-   "quoteSource": "Variety",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Variety",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVV0aHUtUXBrbUFjTHVMR2JyMDBHYXgtQ1NLZUx2UkFDUkRDQTFiOENYTkVqbjB0RkJxbGw2WTlpc1V4ZDVKOXBjY3pzaEt3QzREeWNsaTNuRDJUZG5iMjZXOTJBVC1wOFR5SlRDNVBaZ1NIVGwzLW4zTVVzY2VpTHJwRl9ORzl0YTRuV1RNN1o4UV83X0dzWXI5dkVUemxPd0RHemZR",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "EURweb",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yanU1RHBlWDJiZEd4TDUxMzdQalpGVkdzd1dRcVFQTmZWRUhHMDdzRmxlOUpQTGNlclgwRm1hM0VqclJyVDQyM2lVcWhiSXR0Y1QyNHZ5VjZoOWpaMDVSSlJDeFItT3g3ZG5jZUdyd3FUUQ",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "8d92573d25",
    "priority": 3,
    "watched": [],
@@ -3502,6 +3548,45 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/2026-kennedy-center-honors-announces-broadcast-date-and-details/",
      "feed": "broadway-news"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f645c64505",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T23:45:00+00:00",
+   "published": "2026-11-19T22:01:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "George Floyd the Musical",
+   "title": "Playbill Apologizes for Posting Casting Notice for ‘George Floyd the Musical’",
+   "quote": "",
+   "quoteSource": "Variety",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Variety",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVV0aHUtUXBrbUFjTHVMR2JyMDBHYXgtQ1NLZUx2UkFDUkRDQTFiOENYTkVqbjB0RkJxbGw2WTlpc1V4ZDVKOXBjY3pzaEt3QzREeWNsaTNuRDJUZG5iMjZXOTJBVC1wOFR5SlRDNVBaZ1NIVGwzLW4zTVVzY2VpTHJwRl9ORzl0YTRuV1RNN1o4UV83X0dzWXI5dkVUemxPd0RHemZR",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "BIN: Black Information Network",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcENyWFhfbHRBMWdaT2VGNFI3REdwOHRWR3daTVNyRUdxRHowem1yTW9SLWc3LVRpRTE3anhBbzYxZERRUlJtaDNTcGExNVo1M1d3aXVzZWR4WWhfM1dPcDItNmt1emt0LTM1RnVPSGVneTRwUzNfSXFONVMzWGRoOXo5eVlWblBJa003VHhieTJnaTItb0Y3LUNvenltTlByRFVjN3ozaUlnNGZIVGpoNVJkc1Q1YkZ4eHlLM1NTSi0tZjhS",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "EURweb",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yanU1RHBlWDJiZEd4TDUxMzdQalpGVkdzd1dRcVFQTmZWRUhHMDdzRmxlOUpQTGNlclgwRm1hM0VqclJyVDQyM2lVcWhiSXR0Y1QyNHZ5VjZoOWpaMDVSSlJDeFItT3g3ZG5jZUdyd3FUUQ",
+     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
@@ -3652,35 +3737,6 @@
    "status": "review"
   },
   {
-   "id": "66bceffe3c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-19T19:00:00+00:00",
-   "published": "2026-11-19T19:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley",
-   "quote": "",
-   "quoteSource": "Deadline",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkQ5M2lPNzJ4a3dmUlM3VHZ3aEVXeWdvR2ZTUzJqR2RRNkpHR3ExOXpMU2IyWWVGN0gxQ0tob2ptUGFQN0dlZ2RDRzZmRnpRdHJNTnh3MzFuSHJyYnowNnRra3ZBY0tqYWhCMlFCU2NUV0xSYnNPdjloeHI0blJpLVpWdmd3UFRjbGY2ZGtldUE0dXlNOG53c1RXaEo",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "c8887cf90d",
    "priority": 3,
    "watched": [],
@@ -3715,6 +3771,35 @@
    "status": "review"
   },
   {
+   "id": "66bceffe3c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T19:00:00+00:00",
+   "published": "2026-11-19T19:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley",
+   "quote": "",
+   "quoteSource": "Deadline",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkQ5M2lPNzJ4a3dmUlM3VHZ3aEVXeWdvR2ZTUzJqR2RRNkpHR3ExOXpMU2IyWWVGN0gxQ0tob2ptUGFQN0dlZ2RDRzZmRnpRdHJNTnh3MzFuSHJyYnowNnRra3ZBY0tqYWhCMlFCU2NUV0xSYnNPdjloeHI0blJpLVpWdmd3UFRjbGY2ZGtldUE0dXlNOG53c1RXaEo",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "d0cd91ea45",
    "priority": 3,
    "watched": [],
@@ -3742,7 +3827,7 @@
     },
     {
      "name": "The Daily Wire",
-     "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNWTZGWkI0NUEzNm5DdW1tY253ZHpjLWNkOGdFNFNJVVNJWUZIck9OdUx2OXFYQ09WSWtMcklLRzZnajFGM3NOTzlRQVNwV1QtOFNtVGwtWXp4SnBsNExmYk1kRDRzUGlCYWVaMDdlZDFTT0Q1RDFOOWRnUnFQVS1neDlkOXhmT3hWYkxuV0RqeC1VMC03RUNKQy0wQTd0WlczaHVaU2RnSnJSWWJubFQ2ZldWdVlNZ3Rzc1ROV1FDS3dPWWx6SXVpWjAxSXljX2xQOXJRN1ZoWlN1OS1jTkM2MDY0eWszLXVkWW80ZFlYdXJ1UE1odGkxTW1rMVBqbmRZS3ptcmNUVjBMVjlOYWZOWmhOdmdqWEhpUWQydWVEQWc4UGN0bEpCSDdTQTNmS0tLS19CY0k5emdtaWVfNEUtTS1LdDhOMktxMjZQR19vWVhXVXJUR21PSzJlMnEzakdtWkdIOW96X3N5Qk9Id0ZCSGhyRlRaM0dMbmlseg",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXFMX0tUOVV5ZWszdUlya1UwSEd2N1dKdTRZMVMwRU9BT1VtWTdGR3Eyal90R1prdm1WY2dSSkNLUGFvTjFMaWVQUGtZYUkwRi1DVFRPT1p2Rm9WcFRTWWcxVEJ1RS02cDRnNTVqbGxGTE51a3JzdThla3R5N3ozU1lpRHZZaWh2SHRaaUR3N3FrcEk3dkVKQklmQ3hocUpn",
      "feed": "gn-bway-casting"
     },
     {
@@ -4184,7 +4269,7 @@
    "priority": 3,
    "watched": [],
    "firstSeen": "2026-11-19T14:00:09+00:00",
-   "published": "2026-11-19T14:00:09+00:00",
+   "published": "2026-11-19T14:00:10+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
@@ -13247,35 +13332,6 @@
     {
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2xnMFAxbHlXbS1KdUxVZkJud0Q0aXNBSnhtbENzYlVwekNUczZjWExKS0NnOTNOdDY3TWZzVjgxc0FFLS12cVBrMjZncTJIQk90QWRsMFI0bGdfMGFHSDJmWFc4QjE1Uml2NmgwSHQ3VjdyclhUM0Y1Y21LOGh0VWx1ZWU4WVU4OTJpejhTdU9lS25zY3pGc0dWMW1ObDlUTE9RZHRHZnVJUHhRaGpj",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "e4c2a3e67e",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-31T00:10:16+00:00",
-   "published": "2026-10-31T00:10:16+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "A Winnie",
-   "title": "Cast Set for Valley Youth Theatre's A WINNIE-THE-POOH CHRISTMAS TAIL",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSzRUTjdHNThFYlhqcWk4WXF5TFZaMlhLTlo4Yk1Lb3gtNnItcTBDUEtiZlhFNm91M1FIVzJRRTYzX1h2NlNDdXdIekJEdUVDSW1yODVVQ1F1WGF0aEtmQ1VsVWJ2OVFCVXlZZTB2WW1RakE5Q3NsTjJWb3dPdk9BNEdrZEl3NVVpNjNycnpNVTlIU25yM3hQUjFhYVktQmxMcnE2dUppX0g4TzVQVGdrYWlyZlo1aEg2Rk1EOFJDOA",
      "feed": "gn-bway-casting"
     }
    ],
