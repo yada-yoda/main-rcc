@@ -4402,6 +4402,15 @@
   "qid": null,
   "score": 0
  },
+ "Everyone Knows Joe": {
+  "checkedAt": "2026-11-21T19:57:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Evita A Few": {
   "checkedAt": "2026-10-14T01:37:51+00:00",
   "description": null,
@@ -6868,6 +6877,15 @@
   "qid": null,
   "score": 0
  },
+ "Jelani Remy": {
+  "checkedAt": "2026-11-21T19:57:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jellicle Ball": {
   "checkedAt": "2026-11-13T20:21:44+00:00",
   "description": null,
@@ -7203,6 +7221,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "John Douglas Thompson": {
+  "checkedAt": "2026-11-21T19:57:31+00:00",
+  "description": "Canadian-American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q6229925",
+  "score": 9
  },
  "John El-Jor": {
   "checkedAt": "2026-11-02T22:11:32+00:00",
@@ -9105,6 +9132,15 @@
   "qid": "Q541910",
   "score": 16
  },
+ "Mad Ones": {
+  "checkedAt": "2026-11-21T19:57:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Madame Giry": {
   "checkedAt": "2026-10-16T17:12:05+00:00",
   "description": null,
@@ -10039,6 +10075,15 @@
   "knownFor": [],
   "qid": "Q22958073",
   "score": 5
+ },
+ "Morgan Siobhan Green": {
+  "checkedAt": "2026-11-21T19:57:26+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Mormon Becomes": {
   "checkedAt": "2026-09-25T19:53:50+00:00",
@@ -11220,6 +11265,15 @@
   "qid": null,
   "score": 0
  },
+ "Playbill Pulls George": {
+  "checkedAt": "2026-11-21T19:57:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Playbill Removes": {
   "checkedAt": "2026-11-19T21:12:46+00:00",
   "description": null,
@@ -11339,6 +11393,15 @@
  },
  "Populate Readings": {
   "checkedAt": "2026-10-06T18:49:01+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Post-Holiday Blues": {
+  "checkedAt": "2026-11-21T19:57:33+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12407,6 +12470,15 @@
   "qid": null,
   "score": 0
  },
+ "Russell Hornsby": {
+  "checkedAt": "2026-11-21T19:57:30+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q547640",
+  "score": 25
+ },
  "Ryan Eggold": {
   "checkedAt": "2026-10-31T02:03:09+00:00",
   "description": "American actor, musician and singer",
@@ -12895,6 +12967,15 @@
   "knownFor": [],
   "qid": "Q7456590",
   "score": 1
+ },
+ "Seven Guitars": {
+  "checkedAt": "2026-11-21T19:57:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Shakespeare Event": {
   "checkedAt": "2026-10-22T17:52:36+00:00",

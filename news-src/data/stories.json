@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "dd78ff3bff",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-21T05:59:00+00:00",
+   "published": "2026-11-21T05:59:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "opening",
+   "show": null,
+   "title": "August Wilson's Seven Guitars opens at Lincoln Center Theater, with Russell Hornsby and John Douglas Thompson",
+   "quote": "",
+   "quoteSource": "News",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Russell Hornsby",
+     "knownFor": "American actor",
+     "score": 25,
+     "qid": "Q547640"
+    }
+   ],
+   "sources": [
+    {
+     "name": "News",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWN6Z3VCX3RMUmVwQ3gyRXhXcDRvNUNOcWJwWnJhcEVNcldxNWlTajJldkpWMV9sbHFBZGpvNUV0SEpWd3U0ZjRrZHY4bVNRMXVQaGVNMC03OGRQNlhpeEtMNGh3NDl4SFU0WTJBT0VKOXBfV210LVZwa0IweXdFN3NtcF9ZVHBEQWw3MHJoX2JDaGhHdGUwWHNla2dmZTEtRXk2Z0dCZjdDTFo1bkxYcXRwSUNiLTVJ",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "7eeae336d9",
    "priority": 2,
    "watched": [],
@@ -82,12 +118,12 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
-   "placedBy": "words",
+   "placedBy": "none",
    "type": "casting",
    "show": "George Floyd the Musical",
-   "title": "‘George Floyd the Musical’ Casting Notice Slammed as ‘Insanely Awful’ and ‘Disgusting’ by Leading Broadway Stars",
+   "title": "Playbill removes 'George Floyd the Musical’ casting notice after backlash",
    "quote": "",
-   "quoteSource": "People",
+   "quoteSource": "WKRC",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -101,6 +137,11 @@
     }
    ],
    "sources": [
+    {
+     "name": "WKRC",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnZDZG9jOW41N0RBbUN3Yjl0Y0FBaUJWUEVsWVFWTzg5VjBVdk5Ba21HMWlab1M4T2pSV3lTTl9VTkZxalZBdWp5VUdueThZZGtTOXlMa0toME1oc0hzVVliS3dOOG5jcGJoSE9qZUN1M2JlbGFnV1ZjdDh4Yi1RcjMzTURYYnRPblVCMUlad2t2Y2xtaTNsVUQ4aG9CZFVfMkFsc2V1RFcxbVExLVdF",
+     "feed": "gn-bway-casting"
+    },
     {
      "name": "People",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFhOSXRfUmdoMGhCWmZVY0RhYTVSQ0F5aENNenNTZ1JyUFVPZE9sVWx3UDV3VWNDSW1OZ1hMY2hYMGxsMmlTZ2F5WUdQQmt5MUZHdXpqNHZ0ZWtreTVYWmt4OGRBaXE2UmlwdjJKdUNuQjBMRGRFakFfdlhBanczTDl2ZlN3SVpseHBnS1BTamdhY1pyT2k4RW5QblpfVlBQeWpPbG93RVptMm5KemZKRTcwWk1UY1dNNThqS2pkWERDeDdDU25qWlVMY25hYndvdGdMWHhPTHE4ZVhBRWsw",
@@ -125,10 +166,67 @@
      "name": "Daily Mail",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMy1rSmJEaFZtNWdDMktoeHZqb0xRM3BONEtBZWFNUW9SS0FwUm1FTVloM1FQNGhnX25PTTNjTENVZ0M5YnRUcUpCVzlUWDcwOVlydjI2dURsQWh4dEFkbk1tS1VYZGpNRm1rMlNPOVE4ZHRua2JNeTZJYUtHZTB6SEZndTRBcGREbjRfNWxnRll4cGtNdU9oMFdhdXpvQWt4a3ZfWjYwOVg1Z0ZScUVNb1hiczZuQjhPRFVIV0syc0TSAcYBQVVfeXFMTUNDOFJreHBtMTZnX1loREdoVUJVb1Mzb2Fib3hBdTBxSmhpcE1DVkZuYVlFYW5vd2RHVV92YW5lMGZOakk5aFBJQUx4TEpnRnlheU9STGVwaUw5ZXhPWUZJdWoycUxvRFBKWUhEdXhnejRkbTU2ZGtvUDhvXzRRZnZmeU45dHM4aW5WSmR3aV9CSU5zUG1kOWQ2OGNkZ0IwZ3UzRE9nUXdINWhVaEdGNWVvNGlYWGNiLTIyTEZ5Q19nTjNhaDFB",
      "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "03be3f6377",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-19T15:35:13+00:00",
+   "published": "2026-11-19T15:35:13+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Schmigadoon!",
+   "title": "Beth Behrs, Josh Radnor to star in 'Schmigadoon!' on Broadway",
+   "quote": "How I Met Your Mother‘s Josh Radnor and 2 Broke Girls‘ Beth Behrs are set to join the cast of Broadway’s Schmigadoon!, taking the lead roles of the young couple who find themselves stuck in a magical town where classic stage musicals rule the day. Behrs and Radnor will begin performances in the musical on […]",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/schmig.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Josh Radnor",
+     "knownFor": "American actor, director, producer, and screenwriter",
+     "score": 54,
+     "qid": "Q223455"
     },
     {
-     "name": "شبكة تواصل الإخبارية",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Fc1lSZFhHUmhnbURpV244bWd5bk1wRjVNUzA5Uk9saE01ak1HUGUtRWdkZHB0MXdFX082R3pVUGtYbV9vdmhtalhoX1Z1OXUyOG00",
+     "name": "Beth Behrs",
+     "knownFor": "American actress",
+     "score": 39,
+     "qid": "Q264306"
+    }
+   ],
+   "sources": [
+    {
+     "name": "New York Theatre Guide",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUw2MUlqcGxhaGJvQUNZZC1xWjBUUUFvYTVyNlhybzRucVdXYl9mdXFNUktoQnNBWDJYcUdDQXU2aFJUalk1ZXJSelg2M0ZtVkw2SFp3VmJRckh6aTJfX0FqYVJCMVJsbXg3R29qVE1lTHVTUU8wWE9aaWZEWXFFVUwtaU5wZ2owdXp4Y3ZHRWtPYVprMU9VeTBkcmJqTFp6ZzhBRDFfXzRUTU5jb0VzNw",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQzduM2hUb0h4UXhXdjFPaVJMLWg4Q0pscjg3ZU55azI4bnpKbkZRYmFJV2lDY1FtLTJtWnlCWDFORjdDM0FRQUlOMWJEeEZ3cHRYVEhvUmRnSlg5NFRQaEFGYzFBWWFyb1lsUEd2T2hFYXJFblZUNVJLcjJaUk4xYXVMNUJselRLTHJmdkt1R09SVDQ",
+     "feed": "gn-to-star"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/broadway-schmigadoon-josh-radnor-beth-behrs-1237228994/",
+     "feed": "deadline-theater"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/josh-radnor-and-beth-behrs-to-star-in-broadways-schmigadoon/",
+     "feed": "broadway-news"
+    },
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmFhd2plSUFHSmVmRkFrYUw0LUdjb25PWDNKaWxwRnp0Y0FYVXBFN3lNZ25RNTNtOVhjaXplUnZucDlweUp4MUNlMlNqeHgxZFc4eVExU1hBaTlCajBSQzhFTGw2SEZQdDFDX2NjaUo1NERrc2x4cmowZzdfWWV5LXVlZFFSZC1YTThhdkVUdGZ4Zw",
      "feed": "gn-bway-casting"
     }
    ],
@@ -1313,7 +1411,7 @@
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
-   "type": "opening",
+   "type": "new production",
    "show": "Odd Couple",
    "title": "Steve Carell and John C. Reilly Lead Broadway ‘Odd Couple’ Revival",
    "quote": "The Neil Simon comedy will begin performances in March; the cast will also include the Tony winners Laura Benanti and James Monroe Iglehart.",
@@ -1382,6 +1480,42 @@
    "status": "published"
   },
   {
+   "id": "b1d2171435",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-10T08:00:00+00:00",
+   "published": "2026-11-11T22:15:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Booth Theatre",
+   "placedBy": "venue",
+   "type": "casting",
+   "show": "Lost Lear",
+   "title": "Jessica Chastain to Star on Broadway in ‘Lost Lear’",
+   "quote": "Michael Urie and Corey Stoll will also star in the play at the Booth Theatre this spring.",
+   "quoteSource": "The Hollywood Reporter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jessica Chastain",
+     "knownFor": "Molly's Game, The Eyes of Tammy Faye",
+     "score": 80,
+     "qid": "Q229313"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jessica-chastain-broadway-lost-lear-1236753346/",
+     "feed": "thr-arts"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "9d0701e6b3",
    "priority": 2,
    "watched": [],
@@ -1413,47 +1547,6 @@
      "name": "Deadline",
      "url": "https://deadline.com/2026/11/jessica-chastain-broadway-corey-stoll-michael-urie-lost-lear-1237220878/",
      "feed": "deadline-theater"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "b1d2171435",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-10T08:00:00+00:00",
-   "published": "2026-11-11T22:00:06+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": "Booth Theatre",
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Lost Lear",
-   "title": "Jessica Chastain to Star in New Broadway Play ‘Lost Lear’",
-   "quote": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
-   "imageCredit": "Thea Traff for The New York Times",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [
-    {
-     "name": "Jessica Chastain",
-     "knownFor": "Molly's Game, The Eyes of Tammy Faye",
-     "score": 80,
-     "qid": "Q229313"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/11/11/theater/jessica-chastain-broadway-lost-lear.html",
-     "feed": "nyt-theater"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://www.hollywoodreporter.com/lifestyle/arts/jessica-chastain-broadway-lost-lear-1236753346/",
-     "feed": "thr-arts"
     }
    ],
    "status": "published"
@@ -2717,49 +2810,175 @@
    "status": "published"
   },
   {
-   "id": "e20101a15b",
-   "priority": 2,
+   "id": "0d9561cfa5",
+   "priority": 3,
    "watched": [],
-   "firstSeen": "2026-10-31T09:10:29+00:00",
-   "published": "2026-10-31T09:10:29+00:00",
+   "firstSeen": "2026-11-21T19:30:00+00:00",
+   "published": "2026-11-21T19:30:00+00:00",
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
    "placedBy": "words",
    "type": "casting",
-   "show": "Three Days of Rain",
-   "title": "David Corenswet, Yvonne Strahovski and François Arnaud to star in broadway revival of 'Three Days of Rain'",
+   "show": null,
+   "title": "Broadway’s Cure For The Post-Holiday Blues? Stars, Stars & More Stars, Coming This Winter",
+   "quote": "With Thanksgiving almost here, it’s not too early for Broadway to start thinking about…March? In case you’ve noticed a lot of big, starry announcements in recent weeks for shows that will open this spring – and not just spring proper like the Tony-heavy month of April, but the chillier weeks just after the December ho…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000_5ae56b-e1795285335962.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/broadway-winter-2027-shows-julia-roberts-steve-carell-1237230909/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "7f8f8e15a0",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-21T19:00:00+00:00",
+   "published": "2026-11-21T19:00:00+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Sam Bailey to star in Chicago musical in 2027",
    "quote": "",
-   "quoteSource": "Business Upturn",
+   "quoteSource": "Bucks Free Press",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
    "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Yvonne Strahovski",
-     "knownFor": "Australian actress",
-     "score": 50,
-     "qid": "Q231891"
-    },
-    {
-     "name": "David Corenswet",
-     "knownFor": "American actor",
-     "score": 38,
-     "qid": "Q70954450"
-    },
-    {
-     "name": "François Arnaud",
-     "knownFor": "Québécois actor",
-     "score": 27,
-     "qid": "Q970787"
-    }
-   ],
+   "celebs": [],
    "sources": [
     {
-     "name": "Business Upturn",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOc1RndzU2c0RCTnRPbnktbHpDdURicVl2elRIOUZDa29SckVGZE52Y1JTWG5QbWEyV24wbWVBY3FfX3dSMmlWemJoRVJXZUFLMHpFQjRTZ0h5WTVlSnRJNmJmYmJFaTJLZGF2YkZkRlNjX1dkMFlsNXBUekJzOGV2Q0lFRElfbHdScVVhMXhYcUNoUTMzdzAtbkdfMUVORTdVckRHOS13X3ZvcmxqVmkzaThvWGlhSWdPUGRRa0wyZ2JKQzhVOGNRYzRELXJ4YTBfbnlLUlktQkJlVUxNQm8yZ2V0bkw5NEQybnZSUk1mcTczR3lNdU1HVFJwaWpIVkJpSEE",
+     "name": "Bucks Free Press",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVFIR0cxbjk3TGw0ZnZKQU9OTGdtN1lxQ1ZuV3Y2T3I5VGlzbmxpVVNOcEtuX1J2X29BTUk0QUxHOEJCRVk0OEVEbnNXcm9XZDZOZlhZckZVZDlYdVk3c2NSZlRUcU5najRCcUxZRjVtbkh6ZkFxZ0RiVXFYenhXZl95by00eVhOZDdfTWo5S0hRX2huZWxINw",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "71591a29ef",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-21T14:05:06+00:00",
+   "published": "2026-11-21T14:05:06+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Stranger Things",
+   "title": "From ‘Stranger Things’ to Broadway, Everyone Knows Joe Keery",
+   "quote": "“Stranger Things” vaulted him to stardom. With his Broadway debut in “Other Desert Cities,” he wants to get back to “why I started doing this in the first place.”",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cul-joe-keery-broadway-debut-01-jkcg/22cul-joe-keery-broadway-debut-01-jkcg-mediumSquareAt3X.jpg",
+   "imageCredit": "The New York Times",
+   "imageWidth": 1651,
+   "imageHeight": 1652,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/21/theater/joe-keery-other-desert-cities-broadway.html",
+     "feed": "nyt-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "041db66b91",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-21T06:01:00+00:00",
+   "published": "2026-11-21T06:01:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "Signature Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "The Mad Ones bring Miles for Mary back to Signature Theatre, with four of the original company in their old roles",
+   "quote": "",
+   "quoteSource": "News",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXRwSXlXbmVDYXZuc2h4Vm1HR3Q1NEtnUUh1UjRIZlY1bFpVMkhnaWY5RFpxVHFfZzJUbHhQSTl5MkNjMlVtY3JWQkJxbWNDdDdMdDdTaG5wa2hNM0lTNnMwcTlrQXlUSEREc0F1TXZ4TTNnR05kbWtlcm1PS0JJdk9KclFybkV2T0IxMDJB",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "b66beb1f51",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-21T05:55:08+00:00",
+   "published": "2026-11-21T05:55:08+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Playbill Pulls George Floyd Musical Casting Notice",
+   "quote": "",
+   "quoteSource": "Wisevoter",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlFCQUFOVjJCdTNBTzkxNGNVeTdBS0tmWkFEX280eFNWSmdJYm5zOWpBOGUwWkRrMHd0Tks2ODIxbVlGUkV5YmxZVDZ6bDBXYzEyNmtDbHRVSWJIZVFKZjBuOTdsU21KXzdXYm14eV81WUl3Tm53VzdOTHBNc1lZbUFSLXZGRVQxblZNMVpIam5NdEo2Q0Y2WW5R",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f6074c8950",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-21T05:07:06+00:00",
+   "published": "2026-11-21T05:07:06+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "The Apple Boys",
+   "title": "Jelani Remy, Morgan Siobhan Green and More to Star in ‘The Apple Boys’ Off-Broadway",
+   "quote": "",
+   "quoteSource": "Blex Media",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Blex Media",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjlmc0tuOHBjX2tLaWU2eVhaSkFQY2UxNTVLMDJpdW1PT0lBQnNLcmJRVjZEZEpMa3FZVTYwZTh0SXNDTlhiX3JqRnNjZGNjVDhfMHdwdUp5ay1PMmM3eDN6WFZTNEo1cW1peUJhWXFnNHVZTld0NEZ3WkFYaFZZLVY5RXI3dW1jc19mMzFGZ0xEQU1tWkJ4aXZ0R2V3TGVVZzUtek5n",
+     "feed": "gn-offbway-casting"
     }
    ],
    "status": "published"
@@ -2852,40 +3071,6 @@
    "status": "review"
   },
   {
-   "id": "344e72f8c3",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-20T19:03:48+00:00",
-   "published": "2026-11-20T21:19:30+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Playbill Removes Casting Call for George Floyd Musical Album",
-   "quote": "The theater publication has banned future listings by the record label behind the project, Busted Broadway.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-playbill-georgefloyd-flhw/20cul-playbill-georgefloyd-flhw-mediumSquareAt3X.jpg",
-   "imageCredit": "Kerem Yucel/Agence France-Presse — Getty Images",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeW5GcGI3MXItRHQwajVoZ1RheU1JR0JVSHBjTDRrQzU2TXRyTS1GZWFLWkFCY1paVktzVXNDdFlrdmJCMTRIVTJJbmVOQ2VKd0RwWDBTY21QdU1Hdl9BLURXOVhvZVdnZ0JCWFdteml5NHJGUUJOdUJFaDM4LUk4T0Rwb2c0RkEwNWNDZ2tRTVhNZVhwNXdBSw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/11/20/theater/george-floyd-musical-playbill-busted-broadway.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "995541c5aa",
    "priority": 3,
    "watched": [],
@@ -2910,6 +3095,40 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWN6bW8zWVZrdjUxMHppT3RiMXVYOG8xYzBxdlNjQkZTbTNBN3dnejI5Z0FLMlRkRDJMTTlBWUlvTzZzMWJlS25XVDY1S3l5UGx1YXR5ZVpkaXBzWHU5b0pzYUE5bW1aVmU2akxCSkNLTnpvNjhXc2hXNFljRGlRMWNyQXF3SlI3emowcC1md0p4TTNrZmhFcW9HZGFiZFlNaTZFQ2NFVWFmR1VJUno5NnltVjVfVGVEUTlTQWFxSHZyRFE5NS1vWmIyRVdIcTROTEtB",
      "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "344e72f8c3",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-20T19:03:48+00:00",
+   "published": "2026-11-20T19:03:48+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Playbill Removes Casting Call for George Floyd Musical Album",
+   "quote": "The theater publication has banned future listings by the record label behind the project, Busted Broadway.",
+   "quoteSource": "The New York Times",
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-playbill-georgefloyd-flhw/20cul-playbill-georgefloyd-flhw-mediumSquareAt3X.jpg",
+   "imageCredit": "Kerem Yucel/Agence France-Presse — Getty Images",
+   "imageWidth": 1800,
+   "imageHeight": 1800,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeW5GcGI3MXItRHQwajVoZ1RheU1JR0JVSHBjTDRrQzU2TXRyTS1GZWFLWkFCY1paVktzVXNDdFlrdmJCMTRIVTJJbmVOQ2VKd0RwWDBTY21QdU1Hdl9BLURXOVhvZVdnZ0JCWFdteml5NHJGUUJOdUJFaDM4LUk4T0Rwb2c0RkEwNWNDZ2tRTVhNZVhwNXdBSw",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/20/theater/george-floyd-musical-playbill-busted-broadway.html",
+     "feed": "nyt-theater"
     }
    ],
    "status": "review"
@@ -3948,11 +4167,6 @@
    "sources": [
     {
      "name": "The Hollywood Reporter",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTJocnVoX1BpMHBUcWtsVUM2bWFyVGdxdk4xTkp0NzVJSFBZZmtadXUzN2Rjb2NQMkMxYlpHZVMxTTByTVZpZDgzMG1yblFhMlNUTGg4b2Z0dzFkRTBVQnVId1FISkdCVDFnSF94NDlpejhhX01iRGxWcHhYdTZrbHpfTHh2ODZOQk0zdTh3WlNjbl9nbklGTXJKUQ",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/birthright-israel-set-for-broadway-1236759359/",
      "feed": "thr-arts"
     }
@@ -4087,7 +4301,7 @@
    "placedBy": "words",
    "type": "new production",
    "show": "Rumors",
-   "title": "Barack and Michelle Obama's Higher Ground Joins Producing Team for Off-Broadway RUMORS Revival",
+   "title": "Barack & Michelle Obama’s Higher Ground Signs On As Co-Producer Of ‘Rumors’ Off Broadway",
    "quote": "UPDATE: Barack and Michelle Obama’s media company Higher Ground has signed on to serve as co-producers on the upcoming Off Broadway revival of Neil Simon’s farce Rumors. The production, with direction Zhailon Levingston (Cats: The Jellicle Ball), features stars from two casts of Bravo’s Real Housewives franchise.",
    "quoteSource": "Deadline",
    "image": "https://deadline.com/wp-content/uploads/2026/10/RUM0002-V-OnSale_v2-1080x1350-copy-e1793116087713.jpeg",
@@ -4096,11 +4310,6 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gweFBiU1dNUzBkQmNRNnVPX0o2NHZiMHBLekkwZXlfV2x4TGppTzc0b1ZlanpPUFQzUmNYOVVEMGN0TzNSUzI1NGxNekNOLUdUYnZfYlNXVEV0WF9WN0ZHNmpDN0lPdDhOd1FVaDRoNm9pblYzWVFLS1ZQY3haMFF4OG4tVjk2Z2o5SmM1MWRTNW9MSzRCaDlldmhweDR2MjF4a0t4MXpqZzRFaDlJc0t3anNNdw",
-     "feed": "gn-offbway-casting"
-    },
     {
      "name": "Deadline",
      "url": "https://deadline.com/2026/11/real-housewives-rumors-off-broadway-1237206158/",
@@ -6125,11 +6334,6 @@
     {
      "name": "Variety",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUhJV25Kb1hGbkRjbmF5eHJ3aGlCY0Z3SUNueWJBcDFYWDRfb1hqY3BDU0FMSUdSTl9BTFlwUzB5VXoteGRtV0JMbDNhM0FZbGhjTUpQS3hTUFpoSXc4dmhyYS1LRGVFX1hOSXFKV0NROWtkUWdGQ1piY3hvdXFKVEs4QWRGV1hWZnNJS2ZKNkoxaC1YTjFWYk1od3B6aXFkY2Jr",
-     "feed": "gn-to-star"
-    },
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjVnV0luaTZwVVROWC1lbzhTN3RCbXNfcXV6bnFNOENEcTQ3bXk0aEtuMXpmLWJOZW1ieXR3aW1XRTRELU5vYU0yWWU1SXA2dHBTc3JEbDNtampPekZhd1lZVmt5dkoxUXd2QmZQOVBYVUN4cDRvQUExeUFqcFZRQzdmbDFjOS11MHBEMGJDWHJHWmRHNVNZVGtXcC05Tk5zcnJSNXdTWnN0Q1k",
      "feed": "gn-to-star"
     }
    ],
@@ -13217,180 +13421,6 @@
      "name": "TicketNews",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
      "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "387d72aa45",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-31T14:03:25+00:00",
-   "published": "2026-10-31T14:03:25+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Emmy-Winning Comedian Alex Edelman Says Loss Of Kennedy Center Is No Joke",
-   "quote": "Alex Edelman, the comedian and actor who won an Emmy for his 2024 HBO/Max special Just For Us and a special Tony for the original Broadway staging, laments what is effectively the loss to comics of a newly politicized Kennedy Center. “For me and the performers I know, it doesn’t make sense to play the […]",
-   "quoteSource": "Deadline",
-   "image": "https://deadline.com/wp-content/uploads/2024/09/alex-edelman-emmys.jpg",
-   "imageCredit": "Deadline",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://deadline.com/2026/10/alex-edelman-kennedy-center-1237210602/",
-     "feed": "deadline-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "7acf2ec0c7",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-31T13:00:27+00:00",
-   "published": "2026-10-31T13:00:27+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Shenandoah Conservatory Students Take Over BroadwayWorld's Instagram",
-   "quote": "See what a day in the life of a student at Shenandoah Conservatory at Shenandoah University on our Instagram! Current students Ella-Jo Reinhart, Jake Bieniewicz, and Xavi Campos are taking over our Instagram Story, taking us backstage at their current production of American Psycho.",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-0bf1f6ae8366b2e0eab78ffedd608c3c.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Shenandoah-Conservatory-Students-Take-Over-BroadwayWorlds-Instagram-20261031",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "d6b25be52d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-31T09:00:00+00:00",
-   "published": "2026-10-31T09:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Quiz: Can You Match the Frightful Lyrics to the Broadway Show?",
-   "quote": "This special Halloween quiz could feel more like a trick than a treat, depending on your knowledge of these eerie showtunes.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/2_2026-10-28-141118_rwva.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/quiz-can-you-match-the-frightful-lyrics-to-the-broadway-show",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "65fe1e465d",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-31T04:00:24+00:00",
-   "published": "2026-10-31T04:00:24+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Much Ado About Nothing",
-   "title": "Meet the Cast of MUCH ADO ABOUT NOTHING, Now Playing on Broadway",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2xnMFAxbHlXbS1KdUxVZkJud0Q0aXNBSnhtbENzYlVwekNUczZjWExKS0NnOTNOdDY3TWZzVjgxc0FFLS12cVBrMjZncTJIQk90QWRsMFI0bGdfMGFHSDJmWFc4QjE1Uml2NmgwSHQ3VjdyclhUM0Y1Y21LOGh0VWx1ZWU4WVU4OTJpejhTdU9lS25zY3pGc0dWMW1ObDlUTE9RZHRHZnVJUHhRaGpj",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9cf9cbbb76",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-30T19:20:51+00:00",
-   "published": "2026-10-30T19:20:51+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": null,
-   "title": "Trans History Project Announces Second Cohort",
-   "quote": "Ty Defoe, Justice Jamal Jones, Youri Kim, Nico Pang, and K.T. Peterson will continue the Trans History Project’s mission of centering TGNC histories, experiences, and perspectives.",
-   "quoteSource": "American Theatre",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "American Theatre",
-     "url": "https://www.americantheatre.org/2026/10/30/trans-history-project-announces-second-cohort/",
-     "feed": "american-theatre"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "df8cb8d124",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-10-30T14:12:53+00:00",
-   "published": "2026-10-30T14:12:53+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "Meridian Cafe",
-   "title": "Home-Brewed Indianapolis Theatre Served at ‘Meridian Cafe’",
-   "quote": "American Lives Theatre commissioned acclaimed playwright Lucy Thurber to write a new play capturing the everyday weirdness of the nation’s 16th largest city.",
-   "quoteSource": "American Theatre",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "American Theatre",
-     "url": "https://www.americantheatre.org/2026/10/30/home-brewed-indianapolis-theatre-served-at-meridian-cafe/",
-     "feed": "american-theatre"
     }
    ],
    "status": "review"
