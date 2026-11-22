@@ -118,12 +118,12 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": null,
-   "placedBy": "none",
+   "placedBy": "words",
    "type": "casting",
    "show": "George Floyd the Musical",
-   "title": "Playbill removes 'George Floyd the Musical’ casting notice after backlash",
+   "title": "‘George Floyd the Musical’ Casting Notice Slammed as ‘Insanely Awful’ and ‘Disgusting’ by Leading Broadway Stars",
    "quote": "",
-   "quoteSource": "WKRC",
+   "quoteSource": "People",
    "image": null,
    "imageCredit": null,
    "imageWidth": 0,
@@ -138,13 +138,13 @@
    ],
    "sources": [
     {
-     "name": "WKRC",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnZDZG9jOW41N0RBbUN3Yjl0Y0FBaUJWUEVsWVFWTzg5VjBVdk5Ba21HMWlab1M4T2pSV3lTTl9VTkZxalZBdWp5VUdueThZZGtTOXlMa0toME1oc0hzVVliS3dOOG5jcGJoSE9qZUN1M2JlbGFnV1ZjdDh4Yi1RcjMzTURYYnRPblVCMUlad2t2Y2xtaTNsVUQ4aG9CZFVfMkFsc2V1RFcxbVExLVdF",
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFhOSXRfUmdoMGhCWmZVY0RhYTVSQ0F5aENNenNTZ1JyUFVPZE9sVWx3UDV3VWNDSW1OZ1hMY2hYMGxsMmlTZ2F5WUdQQmt5MUZHdXpqNHZ0ZWtreTVYWmt4OGRBaXE2UmlwdjJKdUNuQjBMRGRFakFfdlhBanczTDl2ZlN3SVpseHBnS1BTamdhY1pyT2k4RW5QblpfVlBQeWpPbG93RVptMm5KemZKRTcwWk1UY1dNNThqS2pkWERDeDdDU25qWlVMY25hYndvdGdMWHhPTHE4ZVhBRWsw",
      "feed": "gn-bway-casting"
     },
     {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFhOSXRfUmdoMGhCWmZVY0RhYTVSQ0F5aENNenNTZ1JyUFVPZE9sVWx3UDV3VWNDSW1OZ1hMY2hYMGxsMmlTZ2F5WUdQQmt5MUZHdXpqNHZ0ZWtreTVYWmt4OGRBaXE2UmlwdjJKdUNuQjBMRGRFakFfdlhBanczTDl2ZlN3SVpseHBnS1BTamdhY1pyT2k4RW5QblpfVlBQeWpPbG93RVptMm5KemZKRTcwWk1UY1dNNThqS2pkWERDeDdDU25qWlVMY25hYndvdGdMWHhPTHE4ZVhBRWsw",
+     "name": "WKRC",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnZDZG9jOW41N0RBbUN3Yjl0Y0FBaUJWUEVsWVFWTzg5VjBVdk5Ba21HMWlab1M4T2pSV3lTTl9VTkZxalZBdWp5VUdueThZZGtTOXlMa0toME1oc0hzVVliS3dOOG5jcGJoSE9qZUN1M2JlbGFnV1ZjdDh4Yi1RcjMzTURYYnRPblVCMUlad2t2Y2xtaTNsVUQ4aG9CZFVfMkFsc2V1RFcxbVExLVdF",
      "feed": "gn-bway-casting"
     },
     {
@@ -1092,11 +1092,6 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/bryan-cranston-marianne-jean-baptiste-all-my-sons-broadway-1236756112/",
      "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWVjNjRna2pSNThHNl95RWxhQmpTSTlhNFlOeU1sakxaUVRTMmZ3d0pFcFIzdU5Tb1hDMGgya2UxSm51dmZ1YUtNOFE0TVNJV0lyX2Z6ZWliY1BVdzJvZWc0U3Y5a3pUWVdxekVCcmYzSlpXWVdMWHhUckE5V21VLS1oTUt5aF9RR045NUpwSUFHbFptRWtxTnpEM28tb3c",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -2810,6 +2805,35 @@
    "status": "published"
   },
   {
+   "id": "42a31eceda",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-21T21:10:24+00:00",
+   "published": "2026-11-21T21:10:24+00:00",
+   "city": "Chicago",
+   "tier": "Chicago major",
+   "venue": "Northlight Theatre",
+   "placedBy": "venue",
+   "type": null,
+   "show": null,
+   "title": "Backstage is where the action is in Northlight’s All the World",
+   "quote": "",
+   "quoteSource": "Chicago Onstage",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Chicago Onstage",
+     "url": "https://chicagoonstage.com/backstage-is-where-the-action-is-in-northlights-all-the-world/",
+     "feed": "chicago-onstage"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "0d9561cfa5",
    "priority": 3,
    "watched": [],
@@ -3071,6 +3095,35 @@
    "status": "review"
   },
   {
+   "id": "1833db0f93",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-20T21:00:28+00:00",
+   "published": "2026-11-20T21:00:28+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "s Biggest Musicals Unite for 100th Macy",
+   "title": "Broadway’s Biggest Musicals Unite for 100th Macy’s Thanksgiving Day Parade",
+   "quote": "",
+   "quoteSource": "People",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEdhX2VvRnU4dktVdHVFcTZyUlFOY2FrX0d3T00xN3dMbl9vUEdWNHp0all5bjdCRklNTjNTNVZnT1hRa1hPUHJ3REdwWFI2cWpmZkhwNU5FVzZOdThBdUI2c1RMOS1MdWNuSEFYWG9OR0d6VEJ6ZWpSVFNHVUxoaXVRdExiMGRKTlF0Sk4xcm56MWlVMTEzeXVKdzhEbE93bmU4",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "995541c5aa",
    "priority": 3,
    "watched": [],
@@ -3261,8 +3314,8 @@
    "placedBy": "words",
    "type": "casting",
    "show": null,
-   "title": "How to Get $57 Rush Tickets to Off-Broadway John Legend-Lynn Nottage Musical Imitation of Life",
-   "quote": "Adrienne Warren, Jessica Vosk, and more will star in the world premiere at The Shed beginning November 21.",
+   "title": "Off-Broadway John Legend-Lynn Nottage Musical Imitation of Life Delays Previews",
+   "quote": "Originally set to start performances at The Shed November 21, the production will now begin a few days later.",
    "quoteSource": "Playbill",
    "image": "https://assets.playbill.com/editorial/_verticalListLarge/79_Imitation_of_Life_NBT_The_Shed_Production_Photos_2026_HR_Credit_Marc_J_Franklin.jpg",
    "imageCredit": "Playbill",
@@ -3270,6 +3323,11 @@
    "imageHeight": 0,
    "celebs": [],
    "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/off-broadway-john-legend-lynn-nottage-musical-imitation-of-life-delays-previews",
+     "feed": "playbill"
+    },
     {
      "name": "Playbill",
      "url": "https://playbill.com/article/how-to-get-57-rush-tickets-to-off-broadway-john-legend-lynn-nottage-musical-imitation-of-life",
@@ -4167,6 +4225,11 @@
    "sources": [
     {
      "name": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTJocnVoX1BpMHBUcWtsVUM2bWFyVGdxdk4xTkp0NzVJSFBZZmtadXUzN2Rjb2NQMkMxYlpHZVMxTTByTVZpZDgzMG1yblFhMlNUTGg4b2Z0dzFkRTBVQnVId1FISkdCVDFnSF94NDlpejhhX01iRGxWcHhYdTZrbHpfTHh2ODZOQk0zdTh3WlNjbl9nbklGTXJKUQ",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/birthright-israel-set-for-broadway-1236759359/",
      "feed": "thr-arts"
     }
@@ -4874,6 +4937,35 @@
     {
      "name": "People",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjA1OGp5X0gtYmxsZ2pJY3ZWazdEd0hkLUF4Q2JzSjJxRmxHQWkxeGNDSmQ3ZXVJeFREYXRMWlhNODNmRG05cERHUlNjMGlvR2tJX2gxeldXdnhLQW81LThuSDdmelJtamJZMHNwb1lGbmJ2ZlIwWDd2SGtDM2tLOThSZF9RaGp5SEpLT1ZaeEsxWGFu",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "f7d01b8dfd",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-19T04:00:00+00:00",
+   "published": "2026-11-19T04:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "& Juliet",
+   "title": "Original “& Juliet” Broadway Cast Members Return for Special 4th Anniversary Performance Ahead of Musical’s Closing",
+   "quote": "",
+   "quoteSource": "Yahoo News Canada",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Yahoo News Canada",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmZ3eWpTRW5OZkE3aEotWUtHRUhqVE40UHlLUmhwSHhoZV9nc0Y1c21uOHFMN1BrMWkzb0ViZHlYekJKSWZCTEtESGhLd2V2SUFzU0J0UV9oenlGRzI3UEM5TFFfNVVZRURvU19JXzlaVHBWR0xEMkRjYUNNM2poZFNrVzM",
      "feed": "gn-bway-casting"
     }
    ],
