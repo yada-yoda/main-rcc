@@ -3398,6 +3398,15 @@
   "qid": "Q140560350",
   "score": 0
  },
+ "David Archuleta": {
+  "checkedAt": "2026-11-22T20:10:36+00:00",
+  "description": "American singer-songwriter",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q214831",
+  "score": 42
+ },
  "David Archuleta Recalls": {
   "checkedAt": "2026-11-09T22:54:20+00:00",
   "description": null,
@@ -4494,6 +4503,15 @@
  },
  "Favorite James Lapine": {
   "checkedAt": "2026-09-29T18:29:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Favorite Musicals": {
+  "checkedAt": "2026-11-22T20:10:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -7137,6 +7155,15 @@
   "knownFor": [],
   "qid": "Q6205766",
   "score": 7
+ },
+ "Jobs Board": {
+  "checkedAt": "2026-11-22T20:10:35+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Jocelyn Bioh": {
   "checkedAt": "2026-09-25T17:55:03+00:00",
@@ -10673,6 +10700,15 @@
   "qid": null,
   "score": 0
  },
+ "Notice Appears": {
+  "checkedAt": "2026-11-22T20:10:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Notice Slammed": {
   "checkedAt": "2026-11-20T20:56:47+00:00",
   "description": null,
@@ -11267,6 +11303,15 @@
  },
  "Place Where": {
   "checkedAt": "2026-09-25T17:52:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Playbill Apologises": {
+  "checkedAt": "2026-11-22T20:10:32+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,

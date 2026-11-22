@@ -2,6 +2,42 @@
  "version": "0.1.0",
  "stories": [
   {
+   "id": "1be0fc492f",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-22T12:22:52+00:00",
+   "published": "2026-11-22T12:22:52+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": null,
+   "title": "Exclusive: David Archuleta on His New Christmas Tour and Album + His Favorite Musicals",
+   "quote": "Since capturing America’s hearts as the runner-up of AMERICAN IDOL season 7 at the age of 17, David Archuleta has released nine studio albums, three of which are Christmas-themed. He’ll be opening a 14-city holiday tour celebrating his recently released WARM ME UP album at the Capitol Theatre in Salt Lake City on Satu…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-72b293bdf15413365ba934189afee6e6.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "David Archuleta",
+     "knownFor": "American singer-songwriter",
+     "score": 42,
+     "qid": "Q214831"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Exclusive-David-Archuleta-on-His-New-Christmas-Tour-and-Album-His-Favorite-Musicals-20261122",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "dd78ff3bff",
    "priority": 2,
    "watched": [],
@@ -290,6 +326,11 @@
      "name": "Broadway Direct",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmFhd2plSUFHSmVmRkFrYUw0LUdjb25PWDNKaWxwRnp0Y0FYVXBFN3lNZ25RNTNtOVhjaXplUnZucDlweUp4MUNlMlNqeHgxZFc4eVExU1hBaTlCajBSQzhFTGw2SEZQdDFDX2NjaUo1NERrc2x4cmowZzdfWWV5LXVlZFFSZC1YTThhdkVUdGZ4Zw",
      "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Broadway News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQzduM2hUb0h4UXhXdjFPaVJMLWg4Q0pscjg3ZU55azI4bnpKbkZRYmFJV2lDY1FtLTJtWnlCWDFORjdDM0FRQUlOMWJEeEZ3cHRYVEhvUmRnSlg5NFRQaEFGYzFBWWFyb1lsUEd2T2hFYXJFblZUNVJLcjJaUk4xYXVMNUJselRLTHJmdkt1R09SVDQ",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -1092,6 +1133,11 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/bryan-cranston-marianne-jean-baptiste-all-my-sons-broadway-1236756112/",
      "feed": "thr-arts"
+    },
+    {
+     "name": "Broadway Direct",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWVjNjRna2pSNThHNl95RWxhQmpTSTlhNFlOeU1sakxaUVRTMmZ3d0pFcFIzdU5Tb1hDMGgya2UxSm51dmZ1YUtNOFE0TVNJV0lyX2Z6ZWliY1BVdzJvZWc0U3Y5a3pUWVdxekVCcmYzSlpXWVdMWHhUckE5V21VLS1oTUt5aF9RR045NUpwSUFHbFptRWtxTnpEM28tb3c",
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -2805,6 +2851,64 @@
    "status": "published"
   },
   {
+   "id": "aa0171f740",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-22T12:00:24+00:00",
+   "published": "2026-11-22T12:00:24+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Play BroadwayWorld's Sunday Crossword: November 22, 2026",
+   "quote": "This week's BroadwayWorld Crossword is up, and it rewards anyone who followed the news closely. The grid is 17 by 17, with 17 answers: seven people, six shows, one venue and one theatre term.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/logo-300-preview.png",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Play-BroadwayWorlds-Sunday-Crossword-November-22-2026-20261122",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "de7d0cde99",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-22T07:27:57+00:00",
+   "published": "2026-11-22T07:27:57+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "George Floyd The Musical",
+   "title": "Playbill Apologises After GEORGE FLOYD THE MUSICAL Casting Notice Appears On Its Jobs Board",
+   "quote": "",
+   "quoteSource": "Aussietheatre",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Aussietheatre",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3BtaEJ1VGU0M2pNVS1WaDBmdDZ1NjlqakdVR3VvTmlUdkVsMHctOXJFcGtlcm5xRGx5aXg1ZDJCWWh1RGhHdUFrSVkzcHBjYzJ4cktPTUVXUmVxUkFnUUZOWW10UHEwS1lLLUMwRV9PaFZsWnFEdVpyQ1V0NGNNSFoyb3pOTnMtSnA4OXcyU0hCWEhoVFBWRllmVWc3YVdkbEHSAacBQVVfeXFMUDQzYldaYW1QN3JwY0VWcHpiY0NyMGZhUTZSVWttSXVhYjdsR2NHa19LdXFueVVGX2N4RGg5bmtxTC1qOFNZZV9tcF9hd09OQkFYQWYwQmZHS3I1LTFPeVNGU1lNMk1tMXUyN0NsRk1ROEpLbGN5bHF2cUtkX2p1cHF4VXFPbHVqYVY2cGJzcW5kWW5GSDMwdzE1NjlENmc1OUZuZ3c1bFk",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
    "id": "42a31eceda",
    "priority": 3,
    "watched": [],
@@ -2832,6 +2936,35 @@
     }
    ],
    "status": "review"
+  },
+  {
+   "id": "8bc87e760b",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-21T19:36:00+00:00",
+   "published": "2026-11-21T19:36:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "new production",
+   "show": null,
+   "title": "Barack and Michelle Obama back off-Broadway revival starring Real Housewives cast",
+   "quote": "",
+   "quoteSource": "Primetimer",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Primetimer",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkpnTzVVWjhhajJfWTRYRDgyME5yT3BTZGZUNW1rcGxiNFVmZDRJaDhWX1lPZ01ZRnktLUl0TU1IRl9sSWVkc1FuRjV0dlFBTFZ1Rjh0M2wzRkpuUUJsVlFwV251a0FCdjE3Q2J2VGdib0NvamVJYmxFVWp6TWd4TFJ4QUxWcUI2dkVla1BubWE5RFp2djhuTGQ2YkdVWHI4ZGJFLXZaZEt6ZC1RZXFPdGxNSzVMeHB0",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
   },
   {
    "id": "0d9561cfa5",
@@ -3418,6 +3551,11 @@
     {
      "name": "The Post Millennial",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1pSOEFMSEEyWFNJb1puWnlmb1BKUTZOeklCVWgxV1JUS2l2Mi1SZ2c4WGNfbHExcWpqanRTUnV5VUZvYlZQZkVybHVHR3ZEQ3QwYXN0WFp3UzNDaXJzYnVSckVSaGhkcFV1REcyNE44dEpQTnRLbUJkSlc1NXVWb0Z4SUJUdW52cFJRUW1EbHBwUklfSGVYcEtGRHprZ2VwUVA1aFZBNFRZLWhrOVkxYVdDWklvLTlRS2c",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Just The News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjlfMDNoR2VPa0l3LWN5R3F2SE5MS0k1UFBiYTJuSVJFTE9LRlVMbG9JRW01eWNmVDlSLVprUTd6Mk9vTlYteGd5VXFaOXUyVWs3V29VZHFKOXBfWUdEcU5aVm92QmtZbDk4Tm0wWEFDWDd1UnlFTm1jT2VuOGlwZGxjUUVIOC1SN25zdzZGRE0xOXM5R3RwaW5ZYVVKVmpIaFIyVEd4UW9ZdHhBamYtcg",
      "feed": "gn-bway-casting"
     }
    ],
@@ -13455,64 +13593,6 @@
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/10/30/theater/little-shop-of-horrors-texas-lawsuit-title-ix.html",
      "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "c05eacca21",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-01T17:00:45+00:00",
-   "published": "2026-11-01T17:00:45+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "The Lost Boys",
-   "title": "Michael Arden And THE LOST BOYS Stars Talk Broadway's Vampire Takeover",
-   "quote": "Members of the cast and creative team for The Lost Boys sat down with CBS Sunday Morning's Tracy Smith to discuss the enduring appeal of vampires, the musical's gravity defying staging, and the deeper themes behind the production. In a segment exploring Hollywood and Broadway's fascination with vampires, Tracy Smith s…",
-   "quoteSource": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-01647ef0424afedc4abc245f8763c8a9.jpg",
-   "imageCredit": "BroadwayWorld",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://www.broadwayworld.com/article/Michael-Arden-And-THE-LOST-BOYS-Stars-Talk-Broadways-Vampire-Takeover-20261101",
-     "feed": "broadwayworld"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "4a88080262",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-28T19:46:35+00:00",
-   "published": "2026-11-01T03:25:52+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Oh, Mary!",
-   "title": "Returning Cast Members Set Limited Broadway Run in ‘Oh, Mary!’",
-   "quote": "",
-   "quoteSource": "TicketNews",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3FvTTNtbXh4c2V1RU9rZjNqci1yd0tNbWFBenQ1a1lxT1U4d21nbDI3cU9taENSRGJ6R1lkRS1YRHE2X1NiTHl3XzVfblFPcndmWXItZzFxd3NaYjFENmhOYmF5MzNLQTVUTjFHYVl4UGJ1U21WWG5Ra2VfdTgzNHR1UkVaRDJWekJod185NGRQcG90bmZtb2p3",
-     "feed": "gn-bway-casting"
     }
    ],
    "status": "review"
