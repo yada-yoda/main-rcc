@@ -1133,11 +1133,6 @@
      "name": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/lifestyle/arts/bryan-cranston-marianne-jean-baptiste-all-my-sons-broadway-1236756112/",
      "feed": "thr-arts"
-    },
-    {
-     "name": "Broadway Direct",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWVjNjRna2pSNThHNl95RWxhQmpTSTlhNFlOeU1sakxaUVRTMmZ3d0pFcFIzdU5Tb1hDMGgya2UxSm51dmZ1YUtNOFE0TVNJV0lyX2Z6ZWliY1BVdzJvZWc0U3Y5a3pUWVdxekVCcmYzSlpXWVdMWHhUckE5V21VLS1oTUt5aF9RR045NUpwSUFHbFptRWtxTnpEM28tb3c",
-     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -2846,6 +2841,214 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/jonathan-kent-replaces-daniel-sullivan-as-the-director-of-broadways-montauk-starring-laura-linney/",
      "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "192bdc4aaf",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-23T02:04:00+00:00",
+   "published": "2026-11-23T02:04:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": "Longacre Theatre",
+   "placedBy": "venue",
+   "type": "transfer",
+   "show": "Two Strangers",
+   "title": "‘Two Strangers’ to transfer to Off-Broadway after Broadway closing",
+   "quote": "The Tony Award-nominated musical will end its run at the Longacre Theatre on Nov. 29.",
+   "quoteSource": "Broadway News",
+   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/17---1128---Sam-Tutty-and-Christiani-Pitts-in-TWO-STRANGERS--c--Matthew-Murphy.jpg",
+   "imageCredit": "Broadway News",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway News",
+     "url": "https://www.broadwaynews.com/two-strangers-to-transfer-to-off-broadway-after-broadway-closing/",
+     "feed": "broadway-news"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "2439650b0a",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-22T23:28:33+00:00",
+   "published": "2026-11-22T23:28:33+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New World Stages",
+   "placedBy": "venue",
+   "type": "opening",
+   "show": "Two Strangers",
+   "title": "TWO STRANGERS (CARRY A CAKE ACROSS NEW YORK) To Open Off-Broadway at New World Stages This Spring",
+   "quote": "On the heels of an award-winning, year-long run on Broadway and a week ahead of the show's closing, producers have announced the 2026 Grammy Award and 8-time Tony Award nominated new musical comedy Two Strangers (Carry a Cake Across New York) will be packing its bags and moving one avenue west to New World Stages (340…",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/200200-54c7a0669b333ee57fa6b77840487c8e.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/TWO-STRANGERS-CARRY-A-CAKE-ACROSS-NEW-YORK-To-Open-Off-Broadway-at-New-World-Stages-This-Spring-20261122",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "4ddb792810",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-22T22:40:03+00:00",
+   "published": "2026-11-22T22:40:03+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "transfer",
+   "show": null,
+   "title": "Two Strangers (Carry a Cake Across New York) Sets Off-Broadway Transfer",
+   "quote": "",
+   "quoteSource": "Broadway Shows",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Broadway Shows",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0U1UzByeFVNUXY0TF9zdUVmVEN5cXZVb01kMkczYVFPWVpQNFV6SUJpYm10cVg4Q3dCaDNqOHhWMlI0ODlGWWtXU2h4UzYzMEJFRW9kZ1VBMmx6SUZtc09aTllVdG13eS1odTlfWXpaTi1zQm1vNkZVTlcwU2ZrQ0hvSndUZi1hMmJDTmFUbl9Ybmo4QzhFZGc5VHI0WFJhdXhzR0lvbVp3dWc",
+     "feed": "gn-offbway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "a89cf16f1c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-22T22:30:00+00:00",
+   "published": "2026-11-22T22:30:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New World Stages",
+   "placedBy": "words",
+   "type": "new production",
+   "show": "Two Strangers (Carry A Cake Across New York)",
+   "title": "Broadway’s ‘Two Strangers (Carry A Cake Across New York)’ Announces Off Broadway Move",
+   "quote": "Those two characters carrying that cake on Broadway will continue toting after the production closes: Two Strangers (Carry a Cake Across New York) will move to the Off Broadway venue New World Stages this spring. The current Broadway cast of Sam Tutty and Christiani Pitts is not expected to make the move; new casting…",
+   "quoteSource": "Deadline",
+   "image": "https://deadline.com/wp-content/uploads/2025/08/6200_TwoStrangers_Christiani_Pitts_and_Sam_Tutty_cred_Andreas-P.-Verrios.jpg",
+   "imageCredit": "Deadline",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGtjblZzNGp1OFBCQjVYVC1ONkhPaXRESTRxajAtVTJlWndUWDB0TjUyMDQ5MWhvajJJb1dyN0ZkeU1RdlJlY2RQMGozamdPMjhqalJQWWQ3WWpuM2VVMTNjallVbVdVZmZRYURDQURSUkcyQjI1cC03aUFXQlpyemZMN0FmMmctWDJ2T3l0MS1la1Z1SGZkY0NKMjM",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://deadline.com/2026/11/two-strangers-carry-a-cake-across-new-york-off-broadway-1237230995/",
+     "feed": "deadline-theater"
+    }
+   ],
+   "status": "published"
+  },
+  {
+   "id": "ca7ca9b51c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-22T22:21:04+00:00",
+   "published": "2026-11-22T22:21:04+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "George Floyd the Musical: Broadway hits a new low",
+   "quote": "",
+   "quoteSource": "Mediaweek",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Mediaweek",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2NzVklZblpSU2piVFhwTmJDRVl3NFp1R0ZyY2dEY3FOV3hRSHhfZHdld2tVa1FpX1drVF9xSFVkaVJzRFMwU1MycjRXenNtMjRGZmJrTzVxY2JzZ1pxTURJVUxSUDFpVzNBcnYwTTJGSm9yblFrdk5PeEViaXd1OWVVVQ",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "1729de3767",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-09-27T20:30:00+00:00",
+   "published": "2026-11-22T20:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": null,
+   "title": "Weekly Schedule of Current Broadway Shows",
+   "quote": "A rundown of current Broadway shows and their planned show times.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
+     "feed": "playbill"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "id": "40f51cb7dc",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-22T17:29:00+00:00",
+   "published": "2026-11-22T17:29:00+00:00",
+   "city": "New York",
+   "tier": "Off-Broadway",
+   "venue": "New World Stages",
+   "placedBy": "venue",
+   "type": "new production",
+   "show": null,
+   "title": "Two Strangers (Carry a Cake Across New York) Will Transfer Off-Broadway to New World Stages This Spring",
+   "quote": "The new musical was nominated for eight Tony Awards.",
+   "quoteSource": "Playbill",
+   "image": "https://assets.playbill.com/editorial/_verticalListLarge/Two-Strangers-Carry-a-Cake-Across-New-York-Broadway-Production-Photos-2025-Sam-Tutty-Christiani-Pitts-HR-3.jpg",
+   "imageCredit": "Playbill",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Playbill",
+     "url": "https://playbill.com/article/two-strangers-carry-a-cake-across-new-york-will-transfer-off-broadway-to-new-world-stages-this-spring",
+     "feed": "playbill"
     }
    ],
    "status": "published"
@@ -6941,35 +7144,6 @@
     {
      "name": "Playbill",
      "url": "https://playbill.com/article/broadway-night-off-concert-series-welcomes-miki-abraham-and-kelli-rabke-november-16",
-     "feed": "playbill"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "1729de3767",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-09-27T20:30:00+00:00",
-   "published": "2026-11-15T20:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": null,
-   "title": "Weekly Schedule of Current Broadway Shows",
-   "quote": "A rundown of current Broadway shows and their planned show times.",
-   "quoteSource": "Playbill",
-   "image": "https://assets.playbill.com/editorial/_verticalListLarge/broadway-weekly-schedule_2025-10-07-150806_ajmu.jpg",
-   "imageCredit": "Playbill",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/weekly-schedule-of-current-broadway-shows",
      "feed": "playbill"
     }
    ],
