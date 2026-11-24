@@ -1602,6 +1602,15 @@
   "qid": null,
   "score": 0
  },
+ "Book Fair": {
+  "checkedAt": "2026-11-24T00:37:17+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Book Shop": {
   "checkedAt": "2026-11-12T20:40:29+00:00",
   "description": null,
@@ -1784,6 +1793,15 @@
   "qid": null,
   "score": 0
  },
+ "Brent Comer": {
+  "checkedAt": "2026-11-24T00:37:02+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q136540560",
+  "score": 2
+ },
  "Brian Cox": {
   "checkedAt": "2026-09-25T17:57:09+00:00",
   "description": "English physicist and musician",
@@ -1878,6 +1896,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q59672609",
+  "score": 0
+ },
+ "Broadcast About Bedford": {
+  "checkedAt": "2026-11-24T00:37:18+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Broadway-Bound Beat": {
@@ -4154,6 +4181,15 @@
   "qid": "Q97057356",
   "score": 3
  },
+ "Ella Stiller": {
+  "checkedAt": "2026-11-24T00:37:03+00:00",
+  "description": "American actress and comedian (born 2002)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q28062769",
+  "score": 1
+ },
  "Elliot Goldenthal": {
   "checkedAt": "2026-10-16T01:01:48+00:00",
   "description": "American composer",
@@ -4782,6 +4818,15 @@
  },
  "Flea Market Moves": {
   "checkedAt": "2026-09-25T17:51:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Flipped Cabaret Lets": {
+  "checkedAt": "2026-11-24T00:37:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6958,6 +7003,15 @@
   "qid": null,
   "score": 0
  },
+ "Jennifer Holliday": {
+  "checkedAt": "2026-11-24T00:37:08+00:00",
+  "description": "American actress and singer",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q439626",
+  "score": 18
+ },
  "Jennifer Hudson Helps": {
   "checkedAt": "2026-09-27T17:33:05+00:00",
   "description": null,
@@ -7389,6 +7443,15 @@
  },
  "Joining Chadwick Stokes": {
   "checkedAt": "2026-10-01T18:43:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Joining Forces": {
+  "checkedAt": "2026-11-24T00:37:09+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8668,6 +8731,24 @@
   "qid": "Q6530963",
   "score": 6
  },
+ "Leslie Odom": {
+  "checkedAt": "2026-11-24T00:37:14+00:00",
+  "description": "American actor and singer (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q18089198",
+  "score": 28
+ },
+ "Leslie Odom Jr": {
+  "checkedAt": "2026-11-24T00:37:12+00:00",
+  "description": "American actor and singer (born 1981)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q18089198",
+  "score": 28
+ },
  "Leslie Rodriguez Kritzer": {
   "checkedAt": "2026-11-09T22:54:02+00:00",
   "description": "American actress",
@@ -8724,6 +8805,15 @@
  },
  "Licensing Rights Acquired": {
   "checkedAt": "2026-11-12T20:40:38+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Life Celebration": {
+  "checkedAt": "2026-11-24T00:37:13+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -10853,6 +10943,15 @@
   "qid": "Q231163",
   "score": 48
  },
+ "Once-in-a-Lifetime Performance": {
+  "checkedAt": "2026-11-24T00:37:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "One Tree Hill": {
   "checkedAt": "2026-11-04T20:18:27+00:00",
   "description": null,
@@ -11229,6 +11328,15 @@
   "qid": null,
   "score": 0
  },
+ "Penguin Random House": {
+  "checkedAt": "2026-11-24T00:37:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Perelman Performing Arts": {
   "checkedAt": "2026-11-12T20:40:41+00:00",
   "description": null,
@@ -11258,6 +11366,15 @@
  },
  "Performances Only": {
   "checkedAt": "2026-10-21T01:20:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Performers Defy": {
+  "checkedAt": "2026-11-24T00:37:07+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -14008,6 +14125,15 @@
   "knownFor": [],
   "qid": "Q534006",
   "score": 27
+ },
+ "Taylor Trensch": {
+  "checkedAt": "2026-11-24T00:37:05+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7690167",
+  "score": 6
  },
  "Ted Lasso": {
   "checkedAt": "2026-09-25T17:51:55+00:00",
