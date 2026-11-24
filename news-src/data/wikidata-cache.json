@@ -62,6 +62,15 @@
   "qid": null,
   "score": 0
  },
+ "Actors Fluent": {
+  "checkedAt": "2026-11-24T22:57:30+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Actors Temple": {
   "checkedAt": "2026-10-18T00:41:17+00:00",
   "description": null,
@@ -181,6 +190,15 @@
  },
  "Adrienne Warren-Led": {
   "checkedAt": "2026-10-15T17:38:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Advocacy Coalition": {
+  "checkedAt": "2026-11-24T22:57:42+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -1015,6 +1033,24 @@
   "qid": null,
   "score": 0
  },
+ "Avert Strike": {
+  "checkedAt": "2026-11-24T22:57:11+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Avoiding Holiday Strike": {
+  "checkedAt": "2026-11-24T22:57:34+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Bad Books": {
   "checkedAt": "2026-11-06T19:52:23+00:00",
   "description": null,
@@ -1559,6 +1595,15 @@
  },
  "Blue Violinist": {
   "checkedAt": "2026-09-25T17:53:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Blueberries Cracks": {
+  "checkedAt": "2026-11-24T22:57:40+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2125,6 +2170,15 @@
   "qid": null,
   "score": 0
  },
+ "Call Post": {
+  "checkedAt": "2026-11-24T22:56:48+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Call Sparks Playbill": {
   "checkedAt": "2026-11-20T20:56:58+00:00",
   "description": null,
@@ -2162,6 +2216,24 @@
   ],
   "qid": "Q939351",
   "score": 33
+ },
+ "Campbell Scott": {
+  "checkedAt": "2026-11-24T22:57:15+00:00",
+  "description": "American actor (born 1961)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q528527",
+  "score": 36
+ },
+ "Can Hanukkah Sparkle": {
+  "checkedAt": "2026-11-24T22:57:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Can Pull Together": {
   "checkedAt": "2026-10-24T16:27:38+00:00",
@@ -2438,6 +2510,15 @@
   "qid": null,
   "score": 0
  },
+ "Cats Actor": {
+  "checkedAt": "2026-11-24T22:56:42+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Cedric Neal": {
   "checkedAt": "2026-10-21T17:56:38+00:00",
   "description": "actor",
@@ -2503,6 +2584,15 @@
  },
  "Character Breakdown": {
   "checkedAt": "2026-10-24T16:27:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Character Lincoln": {
+  "checkedAt": "2026-11-24T22:57:26+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2603,6 +2693,15 @@
   "qid": "Q53714",
   "score": 34
  },
+ "Choreograph Broadway-Aimed Carmen": {
+  "checkedAt": "2026-11-24T22:57:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Choreograph La La": {
   "checkedAt": "2026-10-14T17:49:11+00:00",
   "description": null,
@@ -2686,6 +2785,15 @@
  },
  "Christopher Jackson Keeps": {
   "checkedAt": "2026-09-30T01:52:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Christopher Jackson Tops": {
+  "checkedAt": "2026-11-24T22:57:37+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -2884,6 +2992,15 @@
  },
  "Come Out": {
   "checkedAt": "2026-10-20T17:49:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Comedy About Spies": {
+  "checkedAt": "2026-11-24T22:57:38+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -3308,6 +3425,15 @@
   "qid": null,
   "score": 0
  },
+ "Dan Lauria": {
+  "checkedAt": "2026-11-24T22:56:57+00:00",
+  "description": "American actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q1159104",
+  "score": 18
+ },
  "Dance Top": {
   "checkedAt": "2026-10-27T18:35:19+00:00",
   "description": null,
@@ -3424,6 +3550,15 @@
   "knownFor": [],
   "qid": "Q140560350",
   "score": 0
+ },
+ "Daryl Roth": {
+  "checkedAt": "2026-11-24T22:57:23+00:00",
+  "description": "American theatrical and film producer and theater director",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q26466051",
+  "score": 2
  },
  "David Archuleta": {
   "checkedAt": "2026-11-22T20:10:36+00:00",
@@ -4025,6 +4160,15 @@
   "qid": "Q726128",
   "score": 33
  },
+ "Dylan S Wallach": {
+  "checkedAt": "2026-11-24T22:57:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Earlier Than Expected": {
   "checkedAt": "2026-10-23T17:44:57+00:00",
   "description": null,
@@ -4149,6 +4293,15 @@
   "isPerson": true,
   "knownFor": [],
   "qid": "Q112375670",
+  "score": 0
+ },
+ "Eli Leonard": {
+  "checkedAt": "2026-11-24T22:56:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
   "score": 0
  },
  "Elisabeth Moss Visits": {
@@ -4314,6 +4467,15 @@
  },
  "Enduring Legacy": {
   "checkedAt": "2026-10-30T18:27:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Engagement Through": {
+  "checkedAt": "2026-11-24T22:57:14+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5277,6 +5439,15 @@
   "qid": "Q3758985",
   "score": 24
  },
+ "Gay Brother": {
+  "checkedAt": "2026-11-24T22:57:27+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Geffen Playhouse": {
   "checkedAt": "2026-11-11T02:33:53+00:00",
   "description": null,
@@ -5460,6 +5631,15 @@
   "qid": null,
   "score": 0
  },
+ "Goes Wrong Team": {
+  "checkedAt": "2026-11-24T22:57:31+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Going Bacharach Finds": {
   "checkedAt": "2026-09-25T17:54:05+00:00",
   "description": null,
@@ -5471,6 +5651,15 @@
  },
  "Good Man": {
   "checkedAt": "2026-09-25T17:48:16+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Good Showbiz": {
+  "checkedAt": "2026-11-24T22:56:51+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -5712,6 +5901,15 @@
   "qid": null,
   "score": 0
  },
+ "Hamilton Cracks": {
+  "checkedAt": "2026-11-24T22:57:06+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Hamilton Grosses Huge": {
   "checkedAt": "2026-10-14T01:37:30+00:00",
   "description": null,
@@ -5732,6 +5930,15 @@
  },
  "Hamilton Reunion": {
   "checkedAt": "2026-10-21T17:56:24+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Hamilton Rises Back": {
+  "checkedAt": "2026-11-24T22:57:39+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6058,6 +6265,15 @@
   "qid": null,
   "score": 0
  },
+ "Holiday Classic": {
+  "checkedAt": "2026-11-24T22:56:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Holiday Surprise": {
   "checkedAt": "2026-09-25T17:54:51+00:00",
   "description": null,
@@ -6087,6 +6303,15 @@
  },
  "Honor Thomas Kail": {
   "checkedAt": "2026-09-25T17:47:49+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Horror Story": {
+  "checkedAt": "2026-11-24T22:56:41+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -6637,6 +6862,15 @@
   "qid": null,
   "score": 0
  },
+ "I’m Darling": {
+  "checkedAt": "2026-11-24T22:57:45+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Jack Ducat": {
   "checkedAt": "2026-09-30T18:17:53+00:00",
   "description": null,
@@ -6721,6 +6955,15 @@
   "knownFor": [],
   "qid": "Q460908",
   "score": 20
+ },
+ "Jamaica Performing Arts": {
+  "checkedAt": "2026-11-24T22:56:55+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "James Corrigan": {
   "checkedAt": "2026-10-19T19:03:58+00:00",
@@ -7742,6 +7985,15 @@
   "qid": "Q102561023",
   "score": 0
  },
+ "Judging Judy": {
+  "checkedAt": "2026-11-24T22:57:44+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Judi Dench": {
   "checkedAt": "2026-10-31T02:03:18+00:00",
   "description": "English actress (born 1934)",
@@ -7879,6 +8131,15 @@
   "knownFor": [],
   "qid": "Q232646",
   "score": 36
+ },
+ "Julianne Moore": {
+  "checkedAt": "2026-11-24T22:57:17+00:00",
+  "description": "British-American actress and author (born 1960)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q80405",
+  "score": 107
  },
  "Julie Briskman": {
   "checkedAt": "2026-11-11T20:01:10+00:00",
@@ -8053,6 +8314,15 @@
  },
  "Kathryn Boswell": {
   "checkedAt": "2026-11-11T20:01:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kathryn Grody Honored": {
+  "checkedAt": "2026-11-24T22:57:19+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -8248,6 +8518,15 @@
  },
  "Killer Plant Eats": {
   "checkedAt": "2026-11-12T20:40:50+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Kimber Elayne Sprawl": {
+  "checkedAt": "2026-11-24T22:57:00+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -9052,6 +9331,15 @@
   "qid": "Q11833191",
   "score": 17
  },
+ "Local One Strikes": {
+  "checkedAt": "2026-11-24T22:57:10+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Loch Ness": {
   "checkedAt": "2026-10-20T17:49:10+00:00",
   "description": null,
@@ -9087,6 +9375,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Lorin Latarro": {
+  "checkedAt": "2026-11-24T22:57:04+00:00",
+  "description": "choreographer",
+  "isPerformer": false,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q21170717",
+  "score": 2
  },
  "Los Angeles": {
   "checkedAt": "2026-10-15T17:38:54+00:00",
@@ -10112,6 +10409,15 @@
   "qid": null,
   "score": 0
  },
+ "Million Again": {
+  "checkedAt": "2026-11-24T22:57:08+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Million Won": {
   "checkedAt": "2026-11-04T20:18:40+00:00",
   "description": null,
@@ -10916,6 +11222,24 @@
   "qid": "Q7086958",
   "score": 1
  },
+ "Oliver Mair": {
+  "checkedAt": "2026-11-24T22:56:53+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Oliver Samuels": {
+  "checkedAt": "2026-11-24T22:56:52+00:00",
+  "description": "Jamaican comedian, actor",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q7087811",
+  "score": 3
+ },
  "Olivia Edward": {
   "checkedAt": "2026-10-15T17:38:47+00:00",
   "description": "American actress",
@@ -11447,6 +11771,15 @@
  },
  "Playbill Covers": {
   "checkedAt": "2026-10-08T02:34:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Playbill Issues Apology": {
+  "checkedAt": "2026-11-24T22:56:47+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -12285,6 +12618,15 @@
   "qid": null,
   "score": 0
  },
+ "Richard Kind": {
+  "checkedAt": "2026-11-24T22:56:56+00:00",
+  "description": "American actor (born 1956)",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q449959",
+  "score": 50
+ },
  "Richard O'Brien": {
   "checkedAt": "2026-10-30T18:27:12+00:00",
   "description": "actor (1917–1983)",
@@ -12396,6 +12738,15 @@
   "qid": null,
   "score": 0
  },
+ "Riveting Seven Guitars": {
+  "checkedAt": "2026-11-24T22:57:28+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Rob Morrow": {
   "checkedAt": "2026-10-05T21:00:48+00:00",
   "description": "American actor and director (born 1962)",
@@ -12467,6 +12818,15 @@
   "knownFor": [],
   "qid": "Q230004",
   "score": 75
+ },
+ "Rosamund Pike Sells": {
+  "checkedAt": "2026-11-24T22:57:36+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Rosanna Arquette": {
   "checkedAt": "2026-10-05T21:00:50+00:00",
@@ -12895,6 +13255,15 @@
   "knownFor": [],
   "qid": null,
   "score": 0
+ },
+ "Sasha Velour": {
+  "checkedAt": "2026-11-24T22:57:22+00:00",
+  "description": "American drag queen",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q29913296",
+  "score": 14
  },
  "Savy Jackson": {
   "checkedAt": "2026-10-05T21:00:16+00:00",
@@ -13628,6 +13997,15 @@
   "qid": null,
   "score": 0
  },
+ "Spy Spoof": {
+  "checkedAt": "2026-11-24T22:57:32+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Staged Reading": {
   "checkedAt": "2026-09-27T01:07:04+00:00",
   "description": null,
@@ -13648,6 +14026,15 @@
  },
  "Stagehands Union": {
   "checkedAt": "2026-11-19T21:13:21+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Stagehands Union Reach": {
+  "checkedAt": "2026-11-24T22:57:33+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13780,6 +14167,15 @@
   "knownFor": [],
   "qid": "Q216221",
   "score": 71
+ },
+ "Steven Hack Dead": {
+  "checkedAt": "2026-11-24T22:56:39+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Stockard Channing": {
   "checkedAt": "2026-10-01T18:43:38+00:00",
@@ -14327,6 +14723,15 @@
   "qid": null,
   "score": 0
  },
+ "Three Shows": {
+  "checkedAt": "2026-11-24T22:57:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Three-Day Intensive": {
   "checkedAt": "2026-10-08T02:34:47+00:00",
   "description": null,
@@ -14816,6 +15221,15 @@
   "qid": null,
   "score": 0
  },
+ "Tristan Bernays": {
+  "checkedAt": "2026-11-24T22:57:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Tristen Buettel": {
   "checkedAt": "2026-10-15T17:38:39+00:00",
   "description": null,
@@ -14951,6 +15365,15 @@
   "qid": "Q686301",
   "score": 53
  },
+ "Tyne Daly": {
+  "checkedAt": "2026-11-24T22:56:59+00:00",
+  "description": "American actress",
+  "isPerformer": true,
+  "isPerson": true,
+  "knownFor": [],
+  "qid": "Q255651",
+  "score": 39
+ },
  "Tyne Rafaeli": {
   "checkedAt": "2026-11-18T04:02:54+00:00",
   "description": "theater and television director",
@@ -15016,6 +15439,15 @@
  },
  "United President": {
   "checkedAt": "2026-11-21T03:47:12+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "United Solo Festival": {
+  "checkedAt": "2026-11-24T22:57:21+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -15158,6 +15590,15 @@
   "qid": null,
   "score": 0
  },
+ "Veronica Vazquez-Jackson Recalls": {
+  "checkedAt": "2026-11-24T22:57:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Very Happy Hour": {
   "checkedAt": "2026-10-13T19:46:54+00:00",
   "description": null,
@@ -15211,6 +15652,15 @@
   "knownFor": [],
   "qid": "Q229181",
   "score": 81
+ },
+ "Viola Davis Calls": {
+  "checkedAt": "2026-11-24T22:56:46+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Viola Davis Responds": {
   "checkedAt": "2026-11-20T20:56:50+00:00",
@@ -15610,6 +16060,15 @@
   "qid": null,
   "score": 0
  },
+ "Wonderful Life Celebrate": {
+  "checkedAt": "2026-11-24T22:56:43+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Wonderful Life Completes": {
   "checkedAt": "2026-10-28T18:41:20+00:00",
   "description": null,
@@ -15673,6 +16132,15 @@
   "qid": null,
   "score": 0
  },
+ "World Renowned Homosexual": {
+  "checkedAt": "2026-11-24T22:57:18+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "World Stages": {
   "checkedAt": "2026-10-14T01:37:45+00:00",
   "description": null,
@@ -15693,6 +16161,15 @@
   ],
   "qid": "Q53870611",
   "score": 36
+ },
+ "Yankees Legend Bernie": {
+  "checkedAt": "2026-11-24T22:57:09+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Year-Over-Year Growth": {
   "checkedAt": "2026-10-28T02:02:39+00:00",
