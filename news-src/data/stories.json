@@ -745,6 +745,57 @@
    "status": "review"
   },
   {
+   "id": "3198b550f9",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-19T17:20:06+00:00",
+   "published": "2026-11-19T18:40:04+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "George Floyd the Musical",
+   "title": "‘George Floyd the Musical’ Casting Notice Slammed as ‘Insanely Awful’ and ‘Disgusting’ by Leading Broadway Stars",
+   "quote": "",
+   "quoteSource": "People",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Viola Davis",
+     "knownFor": "American actress and producer",
+     "score": 81,
+     "qid": "Q229181"
+    }
+   ],
+   "sources": [
+    {
+     "name": "People",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFhOSXRfUmdoMGhCWmZVY0RhYTVSQ0F5aENNenNTZ1JyUFVPZE9sVWx3UDV3VWNDSW1OZ1hMY2hYMGxsMmlTZ2F5WUdQQmt5MUZHdXpqNHZ0ZWtreTVYWmt4OGRBaXE2UmlwdjJKdUNuQjBMRGRFakFfdlhBanczTDl2ZlN3SVpseHBnS1BTamdhY1pyT2k4RW5QblpfVlBQeWpPbG93RVptMm5KemZKRTcwWk1UY1dNNThqS2pkWERDeDdDU25qWlVMY25hYndvdGdMWHhPTHE4ZVhBRWsw",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "WKRC",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnZDZG9jOW41N0RBbUN3Yjl0Y0FBaUJWUEVsWVFWTzg5VjBVdk5Ba21HMWlab1M4T2pSV3lTTl9VTkZxalZBdWp5VUdueThZZGtTOXlMa0toME1oc0hzVVliS3dOOG5jcGJoSE9qZUN1M2JlbGFnV1ZjdDh4Yi1RcjMzTURYYnRPblVCMUlad2t2Y2xtaTNsVUQ4aG9CZFVfMkFsc2V1RFcxbVExLVdF",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "TheGrio",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUhOQ1pUNGc2QUNBTEE0UDlaeUkwNUFJaXNyVGZIVktFYWgyQlo3clkzbmJmRlUxLTM1cjU2WnVSdkhWODZSVDltUGF0NTdQMlRFbTZfUjg0Q05Pd1ZBR3ZpQ2IteG9pNzdYRmhEUzVGRm9zRVhXeTA4dk0wTjRaSkJIOGtVWGE5VkIxeTNjaVJqbEVHbTVOTHBFbEc2Z0J6akpmVzBCMXcwUWs0Nk5j",
+     "feed": "gn-bway-casting"
+    },
+    {
+     "name": "Revolt TV",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3BFQlRqM1R5NjhrMWlIR3R6YlBkU2Y5cEN5Q3hyRzZCNGhRSEZhRkZTbDBtd2hLS0tiS0FKTWhEWlhBb0QxenR1LWE4OUIyVU1rMGE1bE10dDNOdnBUcGpXNEUySU1KSkQ4a3ozaEtEMS1JZGw3clhRRk9jQXhaVkZzQlhXUFNCS0E",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "03be3f6377",
    "priority": 2,
    "watched": [],
@@ -1953,11 +2004,6 @@
      "feed": "gn-to-star"
     },
     {
-     "name": "IMDb",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5leDhlejNBSlJQRW1EcXJRYmVLM2NWTDhFbHJJQWF3UHVnQ29INllyVHZadjZrN1RZdjhGc21UcVRJb21HeFQ5TFNHNUd6YmlpMGN5TmlwdkJ4ZVd1c2JGMg",
-     "feed": "gn-to-star"
-    },
-    {
      "name": "Broadway Direct",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEFOZjhWeUh1ckRyM0lCdjZjMVdweUdGM1JrSTNsTl9yMy1oeUZIRTZkd005UVJmV282NExTTUxDand0MklON1BHano4SkRQN241S2p5dVJjc0xiUThqekoya3ZCaHZ1Yy1ORW9zMFNSbzBtWWdHQnhaNkFTdG9qTjhhQ2lMOHhpSGlsaGlSTUZnU2xUZ193",
      "feed": "gn-to-star"
@@ -2284,42 +2330,6 @@
    "status": "review"
   },
   {
-   "id": "6b53239b50",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-08T15:13:04+00:00",
-   "published": "2026-11-10T17:39:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "The Boy",
-   "title": "Broadway finds its Prince: Jordan Fisher cast as ‘The Boy’ in ‘Purple Rain’ musical",
-   "quote": "",
-   "quoteSource": "The Miami Times",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Jordan Fisher",
-     "knownFor": "American singer and actor",
-     "score": 28,
-     "qid": "Q19955856"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The Miami Times",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSHh3YnZaMG5lbHRiRGxlOXdLVjAycjFSSUFxbVVLcGVqQU5aQ05NZm5PTVlvOHJKWlVUUWlvYkpDRGhwMW9qc3Npd1VpZlFQWndNN2paVVFNZVRSLW5XUnJLWnVkemVGLWJoLXcxZFk3Tmx6aXlMdzRiSXdpN0xCSVRSVndHaTNZejRtRUJONXBjSGV4T01FaDZYVGpRYUgtd253aEJKM0xYemJvaWNQUm9vTFNmbUlsdWxjbFBqSFpmWmJQWF95NWtTVlkyemVlSHRPdTE3MDd1YVN6Uk5zRGdIdXJseS1JVE9FMFRQWGJIcGtrXzF0UWZleEhkZ0VSb3lqZ3RKSWxabnY0MW9FdEZqdUzSAZoCQVVfeXFMTTlrMFpTdVN5eVpBUEhiRV9lVHh6T3lzZ05oMmpOVkhkc1ZacW9JbWxzS2wyaDQ2WVBabHJBNEVnOTNUS1dNV2ExNWltVlJtZUlsVFdwMXFkb0xWbEtZOElyRUk4NnJwdkMzdU9iNjhueXl6ak5mdFpTUThYQnF5bHVFSVVBZXZRY211bGg2bURNN3haOVVnOEZuWTJCVVhJSUdSeG9HbFpfdEJieFRBcGVXRTdwMUtvZU5rLXZzMk42OXdtSnZ6cTQ4T19KT3cwN2x1WGV1QVNKa0dNMWhhVHU4NFo3RGlYOWZ1eGpTdy1nVU1NRXdIcUlua2RaOGFnY2hWRXdKdFlRV015ME5rYWloaXNNUzNoZFV3",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "9445fdb6f4",
    "priority": 2,
    "watched": [],
@@ -2404,6 +2414,42 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "6b53239b50",
+   "priority": 2,
+   "watched": [],
+   "firstSeen": "2026-11-08T15:13:04+00:00",
+   "published": "2026-11-10T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": null,
+   "show": "The Boy",
+   "title": "Broadway finds its Prince: Jordan Fisher cast as ‘The Boy’ in ‘Purple Rain’ musical",
+   "quote": "",
+   "quoteSource": "The Miami Times",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [
+    {
+     "name": "Jordan Fisher",
+     "knownFor": "American singer and actor",
+     "score": 28,
+     "qid": "Q19955856"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Miami Times",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSHh3YnZaMG5lbHRiRGxlOXdLVjAycjFSSUFxbVVLcGVqQU5aQ05NZm5PTVlvOHJKWlVUUWlvYkpDRGhwMW9qc3Npd1VpZlFQWndNN2paVVFNZVRSLW5XUnJLWnVkemVGLWJoLXcxZFk3Tmx6aXlMdzRiSXdpN0xCSVRSVndHaTNZejRtRUJONXBjSGV4T01FaDZYVGpRYUgtd253aEJKM0xYemJvaWNQUm9vTFNmbUlsdWxjbFBqSFpmWmJQWF95NWtTVlkyemVlSHRPdTE3MDd1YVN6Uk5zRGdIdXJseS1JVE9FMFRQWGJIcGtrXzF0UWZleEhkZ0VSb3lqZ3RKSWxabnY0MW9FdEZqdUzSAZoCQVVfeXFMTTlrMFpTdVN5eVpBUEhiRV9lVHh6T3lzZ05oMmpOVkhkc1ZacW9JbWxzS2wyaDQ2WVBabHJBNEVnOTNUS1dNV2ExNWltVlJtZUlsVFdwMXFkb0xWbEtZOElyRUk4NnJwdkMzdU9iNjhueXl6ak5mdFpTUThYQnF5bHVFSVVBZXZRY211bGg2bURNN3haOVVnOEZuWTJCVVhJSUdSeG9HbFpfdEJieFRBcGVXRTdwMUtvZU5rLXZzMk42OXdtSnZ6cTQ4T19KT3cwN2x1WGV1QVNKa0dNMWhhVHU4NFo3RGlYOWZ1eGpTdy1nVU1NRXdIcUlua2RaOGFnY2hWRXdKdFlRV015ME5rYWloaXNNUzNoZFV3",
+     "feed": "gn-bway-casting"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "7f652ec7fd",
@@ -3022,78 +3068,6 @@
    "status": "published"
   },
   {
-   "id": "479cf0a774",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-10-27T15:52:53+00:00",
-   "published": "2026-11-05T03:12:31+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "new production",
-   "show": "A Few Good Men",
-   "title": "Bradley Whitford, Tom Blyth and Krysta Rodriguez on Sorkin’s ‘A Few Good Men’",
-   "quote": "Bradley Whitford, Tom Blyth and Krysta Rodriguez are starring in a revival of Aaron Sorkin’s breakthrough, “A Few Good Men,” at Lincoln Center Theater.",
-   "quoteSource": "The New York Times",
-   "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01cul-few-good-men-01-jwvc/01cul-few-good-men-01-jwvc-mediumSquareAt3X.jpg",
-   "imageCredit": "Thea Traff for The New York Times",
-   "imageWidth": 1800,
-   "imageHeight": 1800,
-   "celebs": [
-    {
-     "name": "Bradley Whitford",
-     "knownFor": "American actor",
-     "score": 39,
-     "qid": "Q352180"
-    }
-   ],
-   "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://www.nytimes.com/2026/10/27/theater/few-good-men-whitford-blyth-sorkin.html",
-     "feed": "nyt-theater"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "6209f2f87c",
-   "priority": 2,
-   "watched": [],
-   "firstSeen": "2026-11-04T23:14:31+00:00",
-   "published": "2026-11-04T23:14:31+00:00",
-   "city": "New York",
-   "tier": "Off-Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": null,
-   "show": "Rope",
-   "title": "‘Rope’ Off-Broadway: Cameron Monaghan and Corey Fogelmanis Play Lovers Who Kill",
-   "quote": "",
-   "quoteSource": "Gayety",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [
-    {
-     "name": "Cameron Monaghan",
-     "knownFor": "Shameless",
-     "score": 33,
-     "qid": "Q939351"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Gayety",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNZHBhUkc1YklDRFJmd1hqd3ZtVDlrbDVvMjQzcTkwNXZscE5sS0otSUxrU3VUbXpwd3czbVBPeV82cXhKeTM3dnUteFpWdW90UXBsZkIyV19yOVhaQV9tb0Fha0ZCRUxGdnJvcDFlX0Y2dFhmaE04TlJR",
-     "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "e1a939f16e",
    "priority": 2,
    "watched": [],
@@ -3169,6 +3143,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "85923501c7",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-25T21:21:11+00:00",
+   "published": "2026-11-25T21:21:11+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "new production",
+   "show": null,
+   "title": "Macy’s Thanksgiving Day Parade Postponed Until Saturday Due to Severe Weather",
+   "quote": "It was announced today that the 100th edition of the Macy's Thanksgiving Day Parade will be delayed until Saturday, November 28, as severe weather is expected to move through New York City on Thanksgiving Day. Organizers are anticipating an 8:30 a.m.",
+   "quoteSource": "BroadwayWorld",
+   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/300-e309afa8d2a95692de379366d6684ebe.jpg",
+   "imageCredit": "BroadwayWorld",
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://www.broadwayworld.com/article/Macys-Thanksgiving-Day-Parade-Postponed-Until-Saturday-Due-to-Severe-Weather-20261125",
+     "feed": "broadwayworld"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "c1f1327a50",
@@ -3867,11 +3870,6 @@
      "name": "Broadway News",
      "url": "https://www.broadwaynews.com/yankees-legend-bernie-williams-extends-run-in-broadways-buena-vista-social-club/",
      "feed": "broadway-news"
-    },
-    {
-     "name": "Playbill",
-     "url": "https://playbill.com/article/yankees-legend-bernie-williams-extends-run-in-broadways-buena-vista-social-club",
-     "feed": "playbill"
     }
    ],
    "status": "published"
@@ -3972,7 +3970,7 @@
    "city": "New York",
    "tier": "Broadway",
    "venue": "Majestic Theatre",
-   "placedBy": "venue",
+   "placedBy": "words",
    "type": "casting",
    "show": "Purple Rain",
    "title": "Up on the Marquee: PURPLE RAIN Arrives on Broadway",
@@ -4545,11 +4543,6 @@
    "imageHeight": 1800,
    "celebs": [],
    "sources": [
-    {
-     "name": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzZaemVRRFNDdU1xSTBwX28tdkEwTDNXc2ZmTVJnMC1NZkFyZ2FURlNCUWRqMFZzdnRudFoxcDFud2V0ZFhoVFMyX2ZXcWQ4cFR5OF9pRURLWFRqWHlmVGJJWFl6bjNyRG9NSEhRWmxZdlJ4WlUtLTVReV8tNkNESlBVUUkzRGlOYVlwb0pJbnF4RXZGQXhj",
-     "feed": "gn-offbway-casting"
-    },
     {
      "name": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/24/theater/seven-guitars-review-hornsby-santiago-hudson.html",
@@ -6880,45 +6873,6 @@
    "status": "review"
   },
   {
-   "id": "3198b550f9",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-19T17:20:06+00:00",
-   "published": "2026-11-19T18:40:04+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "George Floyd the Musical",
-   "title": "‘George Floyd the Musical’ Casting Notice Slammed as ‘Insanely Awful’ and ‘Disgusting’ by Leading Broadway Stars",
-   "quote": "",
-   "quoteSource": "People",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "People",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFhOSXRfUmdoMGhCWmZVY0RhYTVSQ0F5aENNenNTZ1JyUFVPZE9sVWx3UDV3VWNDSW1OZ1hMY2hYMGxsMmlTZ2F5WUdQQmt5MUZHdXpqNHZ0ZWtreTVYWmt4OGRBaXE2UmlwdjJKdUNuQjBMRGRFakFfdlhBanczTDl2ZlN3SVpseHBnS1BTamdhY1pyT2k4RW5QblpfVlBQeWpPbG93RVptMm5KemZKRTcwWk1UY1dNNThqS2pkWERDeDdDU25qWlVMY25hYndvdGdMWHhPTHE4ZVhBRWsw",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "WKRC",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnZDZG9jOW41N0RBbUN3Yjl0Y0FBaUJWUEVsWVFWTzg5VjBVdk5Ba21HMWlab1M4T2pSV3lTTl9VTkZxalZBdWp5VUdueThZZGtTOXlMa0toME1oc0hzVVliS3dOOG5jcGJoSE9qZUN1M2JlbGFnV1ZjdDh4Yi1RcjMzTURYYnRPblVCMUlad2t2Y2xtaTNsVUQ4aG9CZFVfMkFsc2V1RFcxbVExLVdF",
-     "feed": "gn-bway-casting"
-    },
-    {
-     "name": "TheGrio",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUhOQ1pUNGc2QUNBTEE0UDlaeUkwNUFJaXNyVGZIVktFYWgyQlo3clkzbmJmRlUxLTM1cjU2WnVSdkhWODZSVDltUGF0NTdQMlRFbTZfUjg0Q05Pd1ZBR3ZpQ2IteG9pNzdYRmhEUzVGRm9zRVhXeTA4dk0wTjRaSkJIOGtVWGE5VkIxeTNjaVJqbEVHbTVOTHBFbEc2Z0J6akpmVzBCMXcwUWs0Nk5j",
-     "feed": "gn-bway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
    "id": "203a1fb4b8",
    "priority": 3,
    "watched": [],
@@ -7145,7 +7099,7 @@
     {
      "name": "Deadline",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPby04MHBuUS1wZkNuVnFNLUVEQ2xhaGs5T0pTWVBHSmtlbFJpY3JGaU90di00VHRqNm80amZ5UzBMekRTVVIycHNZNDVfTmFmMTBfV2d5N3lRdGI0WjRfRDBOcEs5cm9tTmhuTEJ4aHI4M1lsV3UzbThDZTdoME4zS2F3",
-     "feed": "gn-offbway-casting"
+     "feed": "gn-to-star"
     }
    ],
    "status": "published"
@@ -8930,35 +8884,6 @@
    "status": "review"
   },
   {
-   "id": "42b934d83c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-16T18:57:00+00:00",
-   "published": "2026-11-16T18:57:00+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": "The Obligation",
-   "title": "Victor Talmadge to Star in THE OBLIGATION at Marin Shakespeare Company",
-   "quote": "",
-   "quoteSource": "BroadwayWorld",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "BroadwayWorld",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0N1MHdTTVg4Wi1hZU1ORVhTZ1VNZW53RUZyUW9SYlRxSXFDVm51Nk5XMVpuQUd3TkdGeWxvRHF1VWphMTNpR24xQUZoWDA1YktjYmd6bFJxamQxckMwcDhTZGNDcGt1MUNza0I0bUdmdFE1UkRnU2VhUEM1UkNtOEhGLUZta0lzYWEtak85aVc3b09aeWNwMjRoSGM4aVVZdHlXVWx0WmVXb0V0azZmZUFIa3hQaTc4T1dwYlBpRkhmcWJrRDhZaDBRNA",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
    "id": "61d1c42e3f",
    "priority": 3,
    "watched": [],
@@ -9489,6 +9414,35 @@
     }
    ],
    "status": "published"
+  },
+  {
+   "id": "42b934d83c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-16T18:57:00+00:00",
+   "published": "2026-11-16T08:00:00+00:00",
+   "city": null,
+   "tier": null,
+   "venue": null,
+   "placedBy": "none",
+   "type": "casting",
+   "show": "The Obligation",
+   "title": "Victor Talmadge to Star in THE OBLIGATION at Marin Shakespeare Company",
+   "quote": "",
+   "quoteSource": "BroadwayWorld",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "BroadwayWorld",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0N1MHdTTVg4Wi1hZU1ORVhTZ1VNZW53RUZyUW9SYlRxSXFDVm51Nk5XMVpuQUd3TkdGeWxvRHF1VWphMTNpR24xQUZoWDA1YktjYmd6bFJxamQxckMwcDhTZGNDcGt1MUNza0I0bUdmdFE1UkRnU2VhUEM1UkNtOEhGLUZta0lzYWEtak85aVc3b09aeWNwMjRoSGM4aVVZdHlXVWx0WmVXb0V0azZmZUFIa3hQaTc4T1dwYlBpRkhmcWJrRDhZaDBRNA",
+     "feed": "gn-to-star"
+    }
+   ],
+   "status": "review"
   },
   {
    "id": "603a20f1e0",
@@ -12362,6 +12316,35 @@
    "status": "review"
   },
   {
+   "id": "6beb765754",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T12:30:00+00:00",
+   "published": "2026-11-10T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": null,
+   "title": "Towson alum makes Broadway debut",
+   "quote": "",
+   "quoteSource": "Baltimore Fishbowl",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "Baltimore Fishbowl",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaDJ6UTF5RFRNMFVWVkcwYjAxVHF0a0VhUVB3QWh6dER3NHJJRkk1Ymx1OW85R3MwbHpXUjU4R2tXMkMxNEh6S1VhYTZ5SDR6V2FPdk1VaFJDQkdkTGhGVmJNZ3dUeWpWZ181UTlvZWtiWnlnUGVKYUVJQ1B2VWVnaTh6TjQydlV3VHRhU3BWVURUUHVOSExOdEpoOVpUWEZOYUhYM0tyTm5KOVdSaUNOVGFRd1NySllSS004NkhjN0d2V085aWxTVXhRSjBma1ZQNG5ZYUZMQldrWkFiQV9oZFBYQUliZ1ZENFRKMlNhTExvQ1N6ZE9WbTRjUmpXejV2czV5NVRWSVlVeXJnRlBYZ1hsdUxROHVC",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "ce54e4bac7",
    "priority": 3,
    "watched": [],
@@ -12420,35 +12403,6 @@
      "name": "BroadwayWorld",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0NnUDZVN1U5VFRUemhRWUpEMENFVFZuWl9BMm1OQ3E2SjJTZ0R1M3N6ZTJFblVjUGdHZ1Y4NlZZMVRhUzBETXYyU0t4Ym15elhDeHpNYXBLNlFBRFk5T1U3YnphNGl3V0llajVMenFvaEMzSFRWZWF4NVpkejViSGRycjFIaUswQTFrT2dwaUJxc1NrOWVQQklvXzAtU1BjcTg5SUdULXRHaGhQcU51WmJJcHZ5aDRVRG9rYTFUYw",
      "feed": "gn-offbway-casting"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "6beb765754",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-10T12:30:00+00:00",
-   "published": "2026-11-10T08:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": null,
-   "title": "Towson alum makes Broadway debut",
-   "quote": "",
-   "quoteSource": "Baltimore Fishbowl",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Baltimore Fishbowl",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaDJ6UTF5RFRNMFVWVkcwYjAxVHF0a0VhUVB3QWh6dER3NHJJRkk1Ymx1OW85R3MwbHpXUjU4R2tXMkMxNEh6S1VhYTZ5SDR6V2FPdk1VaFJDQkdkTGhGVmJNZ3dUeWpWZ181UTlvZWtiWnlnUGVKYUVJQ1B2VWVnaTh6TjQydlV3VHRhU3BWVURUUHVOSExOdEpoOVpUWEZOYUhYM0tyTm5KOVdSaUNOVGFRd1NySllSS004NkhjN0d2V085aWxTVXhRSjBma1ZQNG5ZYUZMQldrWkFiQV9oZFBYQUliZ1ZENFRKMlNhTExvQ1N6ZE9WbTRjUmpXejV2czV5NVRWSVlVeXJnRlBYZ1hsdUxROHVC",
-     "feed": "gn-bway-debut"
     }
    ],
    "status": "published"
@@ -13121,6 +13075,35 @@
    "status": "review"
   },
   {
+   "id": "9a5f1be74c",
+   "priority": 3,
+   "watched": [],
+   "firstSeen": "2026-11-10T04:54:25+00:00",
+   "published": "2026-11-09T08:00:00+00:00",
+   "city": "New York",
+   "tier": "Broadway",
+   "venue": null,
+   "placedBy": "words",
+   "type": "casting",
+   "show": "Hell",
+   "title": "Towson alum makes Broadway debut in ‘Hell’s Kitchen,’ performs in Baltimore this month",
+   "quote": "",
+   "quoteSource": "The Towerlight",
+   "image": null,
+   "imageCredit": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "celebs": [],
+   "sources": [
+    {
+     "name": "The Towerlight",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdF9jd1RNWHhhbFFacEpDdlhLYVhjMHBLSVZNTHI5b3Y4dzRHcGFPTlQ1bXl4RFN5TXdzdndNZ2NEQVJoc1BCeFl4WGJjYU1LdnE0MHQ5ZmtUWWZkSGVKNWVPSTJvZi0temYzd1l4blpTMkM2NWpzVHZtdl93UEV6OE5CelFxWHNTbjR6VDg0eDdyT2ozdHhZaDZBQzdyLVRpUVdQeHNUVExXd2cxM0E",
+     "feed": "gn-bway-debut"
+    }
+   ],
+   "status": "published"
+  },
+  {
    "id": "5f946d78ec",
    "priority": 3,
    "watched": [],
@@ -13155,35 +13138,6 @@
      "name": "Broadway News",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWNqY24tb2FpVkZrWW16R01XcVQ2bXNpanNwQ2FJdTB1Q1VNcVJNZFlsZlVNRnNxR2l6VWY1QmsteE1FS2NmZFhHcjE5RGxXLWkyNnFKX1NKY2RQOWtOT3NIZjBNenBRZDJKN21JWm1jMXhNaGtlLUd4RmNONF9seEVtWDdQWUtGOTQxVzg5YXhySWYwTmhyTVl5MHNjbDFxUmNfRDRhRFlZMWtiSkE",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "published"
-  },
-  {
-   "id": "9a5f1be74c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-10T04:54:25+00:00",
-   "published": "2026-11-09T08:00:00+00:00",
-   "city": "New York",
-   "tier": "Broadway",
-   "venue": null,
-   "placedBy": "words",
-   "type": "casting",
-   "show": "Hell",
-   "title": "Towson alum makes Broadway debut in ‘Hell’s Kitchen,’ performs in Baltimore this month",
-   "quote": "",
-   "quoteSource": "The Towerlight",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "The Towerlight",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdF9jd1RNWHhhbFFacEpDdlhLYVhjMHBLSVZNTHI5b3Y4dzRHcGFPTlQ1bXl4RFN5TXdzdndNZ2NEQVJoc1BCeFl4WGJjYU1LdnE0MHQ5ZmtUWWZkSGVKNWVPSTJvZi0temYzd1l4blpTMkM2NWpzVHZtdl93UEV6OE5CelFxWHNTbjR6VDg0eDdyT2ozdHhZaDZBQzdyLVRpUVdQeHNUVExXd2cxM0E",
-     "feed": "gn-bway-debut"
     }
    ],
    "status": "published"
@@ -14209,64 +14163,6 @@
      "name": "Broadway Direct",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iT2JjVXR0MnVNSzNWdUNNNWVZbFVqYzc5bzNBUEhnRUNObFR2S2VIMHNVdDY2WFpmY1ZyZHhxRV9uVmNFZFYwN0VxNEcyanAtY0VlekRFelVuekVoczd5WTZwdFh3RFFqRTl3MWR4TEs5eVlTaW82dEdTLW8",
      "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "9e322cce77",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-04T20:47:54+00:00",
-   "published": "2026-11-05T00:25:24+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "casting",
-   "show": null,
-   "title": "Whitney Leavitt to star in new Hulu reality show",
-   "quote": "",
-   "quoteSource": "Good Morning America",
-   "image": null,
-   "imageCredit": null,
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Good Morning America",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjdZRDdiSmtoUEtvT3RBaGFocHFlRUF3VndTWE44M1p4RTNsSkRRX0o2emhMMFhhaXl2WXpuYUtlQ1QyTjBxX2tydEMtNWNOSDRqRUlacFlhTHc5TDYwZnFTOFJtSVBYbUl6SFBDckFla3cyWnNuamtrRVQ5d1FMa3RQVzhvWTV5anp0YVJmd2VYclZGQUlhb0RWTFZoZTQwd0VF0gGoAUFVX3lxTE9yRW9DalFmTUtwT1RSVFBGd0kzaTV4NE1HWm15NVYyOGx3VHZ1S0JZRFAxb2stUTM3YTVLOEt4RGF2MDZLQ1hsaEw1UURhZ1JZTi01dGVFNWduRXdqc0J3VnVGU1RoQmZpeEhGb0h0aHZ6OXhEeDR1S0tGemcyTVE2Qk54NGV6ekJRQjNQR05yU3dwYk5GblBfblJlMnl1dzNjcnVxUzVEMg",
-     "feed": "gn-to-star"
-    }
-   ],
-   "status": "review"
-  },
-  {
-   "id": "67acf1247c",
-   "priority": 3,
-   "watched": [],
-   "firstSeen": "2026-11-04T22:14:15+00:00",
-   "published": "2026-11-04T22:14:15+00:00",
-   "city": null,
-   "tier": null,
-   "venue": null,
-   "placedBy": "none",
-   "type": "extension",
-   "show": null,
-   "title": "Tony Awards announces 2027 ceremony date, extends broadcast deal with CBS",
-   "quote": "The prior deal between Tony Awards Productions and CBS is set to expire after the 2027 show.",
-   "quoteSource": "Broadway News",
-   "image": "https://storage.ghost.io/c/79/db/79db42b7-f4e9-42b6-8d81-14cee7d2a3d1/content/images/2026/11/TONYS__SBP3005_Photo_by_Stephanie_Berger-1-.jpg",
-   "imageCredit": "Broadway News",
-   "imageWidth": 0,
-   "imageHeight": 0,
-   "celebs": [],
-   "sources": [
-    {
-     "name": "Broadway News",
-     "url": "https://www.broadwaynews.com/tony-awards-announces-2027-ceremony-date-extends-broadcast-deal-with-cbs/",
-     "feed": "broadway-news"
     }
    ],
    "status": "review"
