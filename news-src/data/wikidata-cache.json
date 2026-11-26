@@ -4627,6 +4627,15 @@
   "qid": null,
   "score": 0
  },
+ "Every Member": {
+  "checkedAt": "2026-11-26T22:09:05+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Every Performer": {
   "checkedAt": "2026-10-05T21:00:28+00:00",
   "description": null,
@@ -5540,6 +5549,15 @@
   "knownFor": [],
   "qid": "Q95677819",
   "score": 61
+ },
+ "George Floyd Comedy": {
+  "checkedAt": "2026-11-26T22:09:02+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
  },
  "Gershwins Let Em": {
   "checkedAt": "2026-09-25T17:52:11+00:00",
@@ -8996,6 +9014,15 @@
   "qid": null,
   "score": 0
  },
+ "Leeds Playhouse Names": {
+  "checkedAt": "2026-11-26T22:08:59+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Legally Blonde": {
   "checkedAt": "2026-09-25T17:56:31+00:00",
   "description": null,
@@ -11159,6 +11186,15 @@
   "qid": null,
   "score": 0
  },
+ "Not Disabled Character": {
+  "checkedAt": "2026-11-26T22:09:03+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
  "Not Having Lin-Manuel": {
   "checkedAt": "2026-11-07T02:34:19+00:00",
   "description": null,
@@ -11861,6 +11897,15 @@
  },
  "Playbill Issues Apology": {
   "checkedAt": "2026-11-24T22:56:47+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Playbill Pulls": {
+  "checkedAt": "2026-11-26T22:09:01+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -13189,6 +13234,15 @@
  },
  "Sails Off On": {
   "checkedAt": "2026-09-25T17:48:25+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Saint Lucian Shartoya": {
+  "checkedAt": "2026-11-26T22:09:04+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
@@ -15061,6 +15115,15 @@
  },
  "Time Back": {
   "checkedAt": "2026-10-21T01:20:23+00:00",
+  "description": null,
+  "isPerformer": false,
+  "isPerson": false,
+  "knownFor": [],
+  "qid": null,
+  "score": 0
+ },
+ "Time Capsule": {
+  "checkedAt": "2026-11-26T22:09:06+00:00",
   "description": null,
   "isPerformer": false,
   "isPerson": false,
